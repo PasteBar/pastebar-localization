@@ -67,7 +67,28 @@ Months: Meses
 
 2. Ensure that the file structure and keys remain the same as in the `en` folder.
 
-### 5. Commit Your Changes
+### 5. Add Localization Support for Native Menus
+
+If you are adding a new translation to the repository, make sure to also add a section for your language in the `services/translations/translations.yaml` file. This will ensure that native menus are localized properly.
+
+Example for adding Spanish (es-ES):
+
+```yaml
+es-ES:
+  add_first_item_here: Añadir menú aquí
+  disable_history_capture: Desactivar captura del portapapeles
+  enable_history_capture: Activar captura del portapapeles
+  clipboard_image_size: Tamaño de imagen del portapapeles
+  history_capture_is_disabled: La captura de historial del portapapeles está desactivada
+  recent_history: Historial reciente
+  open_pastebar: Abrir PasteBar
+  unlock_pastebar: Desbloquear PasteBar
+  quit: Salir
+```
+
+Make sure to follow the structure used for other languages and keep the translation keys consistent.
+
+### 6. Commit Your Changes
 
 Once you've made your changes, commit them to your branch:
 
@@ -76,7 +97,7 @@ git add .
 git commit -m "Description of your changes"
 ```
 
-### 6. Push Your Changes
+### 7. Push Your Changes
 
 Push your changes to your forked repository:
 
@@ -84,15 +105,15 @@ Push your changes to your forked repository:
 git push origin your-branch-name
 ```
 
-### 7. Create a Pull Request
+### 8. Create a Pull Request
 
 After pushing your changes, go to the original repository on GitHub. You should see a prompt to create a pull request (PR). Click on that and follow the instructions to submit your PR for review.
 
-### 8. Wait for Review
+### 9. Wait for Review
 
 Your pull request will be reviewed by the maintainers of the repository. They may request changes or approve your contribution directly.
 
-### 9. Celebrate!
+### 10. Celebrate!
 
 Once your contribution is merged, celebrate your successful contribution to the PasteBar project!
 
