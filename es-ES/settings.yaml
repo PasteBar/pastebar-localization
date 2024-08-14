@@ -1,0 +1,69 @@
+"<strong>{{screenLockPassCodeLength}}</strong> digits passcode is set.": Se ha establecido un código de <strong>{{screenLockPassCodeLength}}</strong> dígitos.
+Activation Success: Activación Exitosa
+? Add a star to the copied text when you copy it twice within 1 second. This allows you to quickly add copied text or links to your favorites and easily find it in the clipboard history.
+: Añade una estrella al texto copiado cuando lo copias dos veces en 1 segundo. Esto te permite añadir rápidamente texto o enlaces copiados a tus favoritos y encontrarlos fácilmente en el historial del portapapeles.
+Add an unlimited number of tabs within each collection for better organization and easy access.: Añade un número ilimitado de pestañas en cada colección para una mejor organización y fácil acceso.
+'Add an unlimited number of tabs within each collection for better organization and easy access.                                ': 'Añade un número ilimitado de pestañas en cada colección para una mejor organización y fácil acceso.                                '
+Advanced settings: Ajustes avanzados
+Already Active: Ya Activo
+Application Auto Start: Inicio Automático de la Aplicación
+Application Color Theme: Tema de Color de la Aplicación
+Application UI Color Theme: Tema de Color de la Interfaz
+Application UI Fonts Scale: Escala de Fuentes de la Interfaz
+Application UI Language: Idioma de la Interfaz
+Applications listed below will not have their copy to clipboard action captured in clipboard history. Case insensitive.: Las aplicaciones listadas abajo no tendrán su acción de copiar al portapapeles capturada en el historial. No distingue mayúsculas y minúsculas.
+Auto Disable History Capture when Screen Unlocked: Desactivar Auto Captura de Historial al Desbloquear
+Auto Lock Application Screen on User Inactivity: Bloqueo Auto de Pantalla por Inactividad
+Auto Lock Screen on User Inactivity: Bloqueo Auto de Pantalla por Inactividad
+Auto Lock the Screen on User Inactivity: Bloqueo Auto de Pantalla por Inactividad
+Auto Masking Words List: Lista de Palabras de Enmascaramiento Auto
+Auto update on capture: Actualización auto al capturar
+Auto-Clear Settings: Ajustes de Borrado Automático
+Auto-Generate Link Card Preview: Generar Auto Vista Previa de Tarjeta de Enlace
+Auto-Preview Link on Hover: Vista Previa Auto de Enlace al Pasar
+Auto-Star on Double Copy: Estrella Auto al Copiar Dos Veces
+Auto-Update on Capture: Actualización Auto al Capturar
+Auto-delete clipboard history after: Borrar auto el historial después de
+? Automatically create link card preview in the clipboard history. This allows to quickly view website details without opening or pasting the link.
+: Crea automáticamente una vista previa de tarjeta de enlace en el historial. Esto permite ver rápidamente detalles del sitio web sin abrir o pegar el enlace.
+Back: Atrás
+Capture History: Capturar Historial
+Change the application UI font size scale: Cambiar la escala de tamaño de fuente de la interfaz
+Change the application UI language: Cambiar el idioma de la interfaz de la aplicación
+Change the application user interface color theme: Cambiar el tema de color de la interfaz de usuario
+Change the application user interface font size scale: Cambiar la escala de tamaño de fuente de la interfaz
+Change the application user interface language: Cambiar el idioma de la interfaz de usuario
+Clip Notes Popup Maximum Dimensions: Dimensiones Máximas de Ventana Emergente de Notas
+Clipboard History Settings: Ajustes del Historial del Portapapeles
+'Complete details:': 'Detalles completos:'
+Configure settings to automatically delete clipboard history items after a specified duration.: Configura ajustes para borrar automáticamente elementos del historial después de un tiempo específico.
+Create a preview card on link hover in the clipboard history. This allows you to preview the link before opening or pasting it.: Crea una tarjeta de vista previa al pasar sobre enlaces en el historial. Esto te permite previsualizar el enlace antes de abrirlo o pegarlo.
+Create an unlimited number of collections to organize your clips and menus.: Crea un número ilimitado de colecciones para organizar tus clips y menús.
+Custom: Personalizado
+Custom themes: Temas personalizados
+Decrease UI Font Size: Disminuir Tamaño de Fuente
+? Display clipboard history capture toggle on the locked application screen. This allows you to control history capture settings directly from the lock screen.
+: Muestra el interruptor de captura del historial en la pantalla bloqueada. Esto te permite controlar la configuración de captura directamente desde la pantalla de bloqueo.
+Display disabled collections name on the navigation bar collections menu: Mostrar nombre de colecciones deshabilitadas en el menú de colecciones de la barra de navegación
+Display disabled collections name on the navigation bar under collections menu: Mostrar nombre de colecciones deshabilitadas en la barra de navegación bajo el menú de colecciones
+Display full name of selected collection on the navigation bar: Mostrar nombre completo de la colección seleccionada en la barra de navegación
+Drag and drop to prioritize languages for detection. The higher a language is in the list, the higher its detection priority.: Arrastra y suelta para priorizar idiomas para detección. Cuanto más arriba esté un idioma en la lista, mayor será su prioridad de detección.
+Email: Correo electrónico
+Email is not valid: El correo electrónico no es válido
+'Email:': 'Correo electrónico:'
+Emails do not match: Los correos electrónicos no coinciden
+Enable Auto Start: Habilitar Inicio Automático
+Enable Clip Title Hover Show with Delay: Habilitar Mostrar Título del Clip al Pasar con Retraso
+Enable application auto start on system boot: Habilitar inicio automático de la aplicación al arrancar el sistema
+Enable auto lock the application screen after a certain period of inactivity, to prevent unauthorized access to your data.: Habilita el bloqueo automático de la pantalla después de un período de inactividad para prevenir acceso no autorizado a tus datos.
+Enable auto lock the application screen when user not active: Habilitar bloqueo automático de la pantalla cuando el usuario no está activo
+Enable auto update on capture: Habilitar actualización automática al capturar
+Enable history capture: Habilitar captura de historial
+Enable programming language detection: Habilitar detección de lenguaje de programación
+Enable screen unlock requirement on app launch for enhanced security, safeguarding data from unauthorized access.: Habilita el requisito de desbloqueo de pantalla al iniciar la app para mayor seguridad, protegiendo los datos de acceso no autorizado.
+Enhance security by automatically locking the application screen after a set period of user inactivity.: Mejora la seguridad bloqueando automáticamente la pantalla de la aplicación después de un período de inactividad del usuario.
+Enter Passcode length: Ingresa la longitud del código de acceso
+Enter recovery password to reset passcode.: Ingresa la contraseña de recuperación para restablecer el código de acceso.
+Enter your <strong>{{screenLockPassCodeLength}} digits</strong> passcode: Ingresa tu código de <strong>{{screenLockPassCodeLength}} dígitos</strong>
+Entered Passcode is invalid: El código de acceso ingresado no es válido
+Excluded Apps List: Lista de Apps Exclu
