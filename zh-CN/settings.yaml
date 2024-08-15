@@ -64,7 +64,7 @@ Enable screen unlock requirement on app launch for enhanced security, safeguardi
 Enhance security by automatically locking the application screen after a set period of user inactivity.: 通过在设定的用户不活动时间后自动锁定应用程序屏幕来增强安全性。
 Enter Passcode length: 输入密码长度
 Enter recovery password to reset passcode.: 输入恢复密码以重置密码。
-"Enter your <strong>{{screenLockPassCodeLength}} digits</strong> passcode": 输入您的 <strong>{{screenLockPassCodeLength}} 位</strong>密码
+"Enter your <strong>{{screenLockPassCodeLength}} digits</strong> passcode": 输入您的 <strong>{{screenLockPassCodeLength}} 位数字</strong> 密码
 Entered Passcode is invalid: 输入的密码无效
 Excluded Apps List: 排除的应用列表
 Execute Web Requests: 执行Web请求
@@ -142,7 +142,7 @@ Set a passcode to unlock the locked screen and protect your data from unauthoriz
 : 设置恢复密码，以便在忘记锁屏密码时轻松重置。您的密码将安全地存储在设备的操作系统存储中。
 Settings: 设置
 Show Clipboard History Capture Control on Lock Screen: 在锁屏上显示剪贴板历史捕获控制
-Show Disable History Capture When Screen Locked: 屏幕锁定时显示禁用历史捕获
+Show Disable History Capture When Screen Locked: 屏幕锁定时显示禁用历史记录捕获
 Show Disabled Collections: 显示已禁用的收藏
 ? Show clipboard history capture toggle when the application screen is locked. This allow you to control capturing history settings from the application locked screen.
 : 当应用程序屏幕锁定时显示剪贴板历史捕获开关。这允许您从应用程序锁定屏幕控制捕获历史设置。
