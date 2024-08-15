@@ -13,7 +13,7 @@ Add Key Press After Paste: 粘贴后添加按键
 Add Link Card: 添加链接卡片
 Add Open URL: 添加打开 URL
 Add Output Template: 添加输出模板
-Add Regex Match Group Filter: 添加正则匹配组筛选
+Add Regex Match Group Filter: 添加正则表达式分组筛选器
 Add Request Header: 添加请求标头
 Add Response Filter: 添加响应筛选
 Add Scraping Rule: 添加抓取规则
@@ -37,7 +37,7 @@ Auto update is Off: 自动更新已关闭
 Basic Auth: 基本认证
 Basic Password: 基本密码
 Basic Username: 基本用户名
-Bearer Token: 承载令牌
+Bearer Token: Bearer Token
 Board Layout Height: 面板布局高度
 Board Layout Split: 面板布局分割
 Board Menu: 面板菜单
@@ -109,7 +109,7 @@ Enter credit card number: 输入信用卡号码
 Enter default value: 输入默认值
 Enter field value: 输入字段值
 Enter full path to file, folder or application: 输入文件、文件夹或应用程序的完整路径
-Enter regex for output filer: 输入输出筛选器的正则表达式
+Enter regex for output filer: 输入输出筛选器的表达式
 Enter request url: 输入请求 URL
 Enter secret value: 输入密钥值
 Enter section label: 输入部分标签

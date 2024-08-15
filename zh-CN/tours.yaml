@@ -7,20 +7,20 @@ HISTORY_PANEL_TOUR:
 - element: '#history-find_tour'
   popover:
     title: 查找和筛选历史
-    description: 使用搜索功能快速找到剪贴板历史中的特定项目。按类型（文本、图像或链接）筛选结果，轻松定位所需内容。再次复制找到的项目或将其保存到面板。
+    description: 使用搜索功能快速找到剪贴板历史中的特定项目。按项目类型（如文本、图像或链接）筛选结果，轻松定位所需内容。再次复制找到的项目或将其保存到面板。
     prefferedSide: bottom
     alignment: center
 - element: '#history-list_tour .history-item'
   popover:
     title: 剪贴板历史项目
-    description: 剪贴板历史中的每个项目代表您之前复制的内容。<b>双击</b>项目或点击图标将其复制回剪贴板。<b>按住并拖动</b>以在面板面板上创建已保存的剪辑。<b>右键点击</b>项目查看更多上下文菜单选项。
+    description: 剪贴板历史中的每个项目代表您之前复制的内容。<b>双击</b>项目或点击图标将其复制回剪贴板。<b>按住并拖动</b>以在面板上创建已保存的剪辑。<b>右键点击</b>项目查看更多上下文菜单选项。
     prefferedSide: right
 - element: '#tabs-history_tour'
   meta:
     closeTourCssPosition: hidden
   popover:
     title: 历史/菜单导航标签
-    description: 在剪贴板历史和粘贴菜单视图之间切换，轻松管理和访问您的内容。
+    description: 在剪贴板历史和粘贴菜单之间切换，轻松管理和访问您的内容。
     alignment: center
     prefferedSide: top
 - element: '#history-menu-button_tour'
@@ -65,14 +65,14 @@ DASHBOARD_CLIPS_TOUR:
     prefferedSide: bottom
 - element: .board-panel_tour
   popover:
-    title: 面板面板
-    description: 此面板面板允许您组织已保存的剪辑以便快速轻松访问。从剪贴板历史<b>拖放</b>项目。使用面板有效地分类和管理您的内容。
+    title: 面板
+    description: 此面板允许您组织已保存的剪辑以便快速轻松访问。从剪贴板历史<b>拖放</b>项目。使用面板有效地分类和管理您的内容。
     alignment: center
     prefferedSide: right
 - element: .board-panel-header_tour
   popover:
-    title: 面板面板标题
-    description: <b>双击</b>标题可快速展开面板面板，或<b>右键点击</b>查看其他选项以自定义和管理面板。
+    title: 面板标题
+    description: <b>双击</b>标题可快速展开面板，或<b>右键点击</b>查看其他选项以自定义和管理面板。
     alignment: start
     prefferedSide: right
 - element: .clip_tour
@@ -109,7 +109,7 @@ MENU_TOUR:
     closeTourCssPosition: hidden
   popover:
     title: 历史/菜单导航标签
-    description: 在剪贴板历史和粘贴菜单视图之间切换，轻松管理和访问您的内容。
+    description: 在剪贴板历史和粘贴菜单之间切换，轻松管理和访问您的内容。
     alignment: center
     prefferedSide: top
 - element: '#menu-icon-menu-button_tour'
@@ -156,7 +156,7 @@ NAVBAR_TOUR:
 - element: '#navbar-panel_tour'
   popover:
     title: 导航栏
-    description: 导航栏提供对 PasteBar 功能和设置的快速访问。使用它在剪贴板历史和粘贴菜单视图之间切换，访问您的收藏，执行全局搜索，切换固定面板可见性，调整设置，以及在需要时获取帮助。
+    description: 导航栏提供对 PasteBar 功能和设置的快速访问。使用它在剪贴板历史和粘贴菜单之间切换，访问您的收藏，执行全局搜索功能，切换固定面板的显示状态可见性，调整设置，以及在需要时获取帮助。
     alignment: center
     prefferedSide: bottom
 - element: '#navbar-pastebar_tour'
@@ -179,19 +179,19 @@ NAVBAR_TOUR:
     prefferedSide: bottom
 - element: '#navbar-toggle-history-split'
   popover:
-    title: 切换分割历史窗口
+    title: 切换剪贴板历史的分割窗口
     description: 点击此图标以在单独的窗口中打开或关闭剪贴板历史。使用此功能可以独立于主窗口管理您的剪贴板历史。
     alignment: center
     preferredSide: bottom
 - element: '#navbar-search_tour'
   popover:
-    title: 全局搜索
-    description: 使用全局搜索快速查找活动收藏中的剪辑、面板和菜单项。输入关键词以筛选结果并高效定位所需内容。从搜索结果中<b>双击</b>剪辑直接复制。
+    title: 全局搜索功能
+    description: 使用全局搜索功能快速查找活动收藏中的剪辑、面板和菜单项。输入关键词以筛选结果并高效定位所需内容。从搜索结果中<b>双击</b>剪辑直接复制。
     alignment: center
     prefferedSide: bottom
 - element: '#navbar-pinned_tour'
   popover:
-    title: 切换固定面板
+    title: 切换固定面板的显示状态
     description: 点击此图标显示或隐藏固定面板。使用此功能保持工作区组织有序，专注于最相关的内容。
     alignment: end
     prefferedSide: bottom
@@ -212,7 +212,7 @@ SETTINGS_TOUR:
 - element: '#app-settings-history_tour'
   popover:
     title: 剪贴板历史设置
-    description: 调整剪贴板历史设置以自定义 PasteBar 如何捕获和管理您复制的内容。启用或禁用自动更新、自动星标、链接预览、停用词列表和编程语言自动检测等功能，以获得个性化体验。
+    description: 调整剪贴板历史设置以自定义 PasteBar 如何捕获和管理您复制的内容。启用或禁用自动更新、自动星标、链接预览、停用词列表、编程语言自动检测等功能，以获得个性化体验。
     alignment: start
     prefferedSide: right
 - element: '#app-settings-collections_tour'
@@ -230,7 +230,7 @@ SETTINGS_TOUR:
 - element: '#app-settings-security_tour'
   popover:
     title: 安全设置
-    description: 配置安全设置以保护您的数据。设置锁屏密码和恢复密码。从锁屏控制剪贴板历史捕获，并在不活动时启用自动锁定。调整这些设置以增强 PasteBar 应用程序的安全性。
+    description: 配置安全设置以保护您的数据。设置锁屏密码和恢复密码。在锁屏时控制剪贴板历史的捕获，并在不活动时启用自动锁定。调整这些设置以增强 PasteBar 应用程序的安全性。
     alignment: start
     prefferedSide: right
 - element: '#app-settings-back_tour'

@@ -12,7 +12,7 @@ Add to: 添加到
 Add to Menu: 添加到菜单
 AddTo:
   Add to Exclude and Delete: 添加到排除并删除
-  Add to Filter by Source: 按来源添加到筛选
+  Add to Filter by Source: 按来源添加到过滤器
   Add to Ignore: 添加到忽略
   Clip on Board: 面板上的剪辑
   Paste Menu: 粘贴菜单
@@ -57,20 +57,20 @@ Make Disabled: 设为禁用
 Make Enabled: 设为启用
 Make Inactive: 设为非活动
 Manage: 管理
-Mask Secret: 遮蔽密码
+Mask Secret: 隐藏密码
 Menu: 菜单
 Menu is Not Active: 菜单未激活
 Move Board To: 移动面板到
 Move To: 移动到
 MoveTo:
   Board: 面板
-  Tab: 标签
+  Tab: 标签页
 Open: 打开
 Open Link in Browser: 在浏览器中打开链接
 Organize: 整理
 Organize Layout: 整理布局
 Paste Delay: 粘贴延迟
-Paste Menu: 粘贴菜单
+Paste Menu: 粘贴选项
 Pin: 固定
 Position: 位置
 RESET: 重置
