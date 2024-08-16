@@ -1,40 +1,40 @@
-Attach History: Attach History
-Audio Player: Audio Player
-Close History: Close History
-Close Main Window: Close Main Window
-Color Theme: Color Theme
+Attach History: Allega Cronologia
+Audio Player: Lettore Audio
+Close History: Chiudi Cronologia
+Close Main Window: Chiudi Finestra Principale
+Color Theme: Tema Colore
 GlobalSearch:
-  Auto Close on Copy & Paste: Auto Close on Copy & Paste
-  Excludes clip or menu values: Excludes clip or menu values
-  Nothing found in boards.: Nothing found in boards.
-  Nothing found in clips, boards or menus.: Nothing found in clips, boards or menus.
-  Nothing found in clips.: Nothing found in clips.
-  Nothing found in menus.: Nothing found in menus.
-  Press / key to search: Press / key to search
-  Search: Search
-  Search Name or Label Only: Search Name or Label Only
-  Search Options: Search Options
-  Type what you looking for: Type what you looking for
-Help: Help
-Language: Language
-Lock: Lock
-Lock App Screen: Lock App Screen
-Lock Screen: Lock Screen
-Open PasteBar: Open PasteBar
-Options: Options
-Player: Player
-Show Collections Name: Show Collections Name
-Swap Panels Layout: Swap Panels Layout
+  Auto Close on Copy & Paste: Chiusura Automatica su Copia & Incolla
+  Excludes clip or menu values: Esclude valori di clip o menu
+  Nothing found in boards.: Nessun risultato trovato nelle bacheche.
+  Nothing found in clips, boards or menus.: Nessun risultato trovato in clip, bacheche o menu.
+  Nothing found in clips.: Nessun risultato trovato nei clip.
+  Nothing found in menus.: Nessun risultato trovato nei menu.
+  Press / key to search: Premi il tasto / per cercare
+  Search: Cerca
+  Search Name or Label Only: Cerca Solo Nome o Etichetta
+  Search Options: Opzioni di Ricerca
+  Type what you looking for: Digita ciò che stai cercando
+Help: Aiuto
+Language: Lingua
+Lock: Blocca
+Lock App Screen: Blocca Schermata App
+Lock Screen: Blocca Schermo
+Open PasteBar: Apri PasteBar
+Options: Opzioni
+Player: Lettore
+Show Collections Name: Mostra Nome Collezioni
+Swap Panels Layout: Scambia Layout Pannelli
 Theme:
-  Dark: Dark
-  Light: Light
-  System: System
-View: View
+  Dark: Scuro
+  Light: Chiaro
+  System: Sistema
+View: Visualizza
 Window:
-  Attach History Window: Attach History Window
-  Attach Window: Attach Window
-  Close Window: Close Window
-  Maximize Window: Maximize Window
-  Minimize Window: Minimize Window
-  Pin Window: Pin Window
-  UnPin Window: UnPin Window
+  Attach History Window: Allega Finestra Cronologia
+  Attach Window: Allega Finestra
+  Close Window: Chiudi Finestra
+  Maximize Window: Massimizza Finestra
+  Minimize Window: Minimizza Finestra
+  Pin Window: Fissa Finestra
+  UnPin Window: Sblocca Finestra

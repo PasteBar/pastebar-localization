@@ -2,7 +2,7 @@
 ' This permission ensures PasteBar can access the clipboard and perform copy and paste operations across applications.': ' This permission ensures PasteBar can access the clipboard and perform copy and paste operations across applications.'
 About PasteBar: About PasteBar
 Action Menu: Action Menu
-"? Add <b>{{Clipboard}}</b> field to template. This allows you to copy text to the clipboard, and it will be inserted into the template": Add <b>{{Clipboard}}</b> field to template. This allows you to copy text to the clipboard, and it will be inserted into the template
+"Add <b>{{Clipboard}}</b> field to template. This allows you to copy text to the clipboard, and it will be inserted into the template": Add <b>{{Clipboard}}</b> field to template. This allows you to copy text to the clipboard, and it will be inserted into the template
 Add Clip: Add Clip
 Add First Option: Add First Option
 Add Link Card: Add Link Card

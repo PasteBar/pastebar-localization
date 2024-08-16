@@ -1,40 +1,40 @@
-All History Settings: All History Settings
-All done! History's been cleared.: All done! History's been cleared.
-Auto Update on Capture: Auto Update on Capture
-Auto-Clear Settings: Auto-Clear Settings
-Capture History: Capture History
-Clear: Clear
-Clear All: Clear All
-Clear All History: Clear All History
-Clear History: Clear History
-Confirm Clear All History: Confirm Clear All History
-Do you really want to remove ALL clipboard history items?: Do you really want to remove ALL clipboard history items?
-"Do you want to remove clipboard history items older than {{olderThen}} {{durationType}}": Do you want to remove clipboard history items older than {{olderThen}} {{durationType}}
-Enable Capture History: Enable Capture History
+All History Settings: Tutte le Impostazioni Cronologia
+All done! History's been cleared.: Tutto fatto! La cronologia è stata cancellata.
+Auto Update on Capture: Aggiornamento Automatico alla Cattura
+Auto-Clear Settings: Impostazioni Pulizia Automatica
+Capture History: Cattura Cronologia
+Clear: Cancella
+Clear All: Cancella Tutto
+Clear All History: Cancella Tutta la Cronologia
+Clear History: Cancella Cronologia
+Confirm Clear All History: Conferma Cancellazione di Tutta la Cronologia
+Do you really want to remove ALL clipboard history items?: Vuoi davvero rimuovere TUTTI gli elementi della cronologia degli appunti?
+Do you want to remove clipboard history items older than {{olderThen}} {{durationType}}: Vuoi rimuovere gli elementi della cronologia degli appunti più vecchi di {{olderThen}} {{durationType}}
+Enable Capture History: Abilita Cattura Cronologia
 Filters:
-  App Filters: App Filters
+  App Filters: Filtri App
   Audio: Audio
-  Clear Filters: Clear Filters
-  Code: Code
+  Clear Filters: Cancella Filtri
+  Code: Codice
   Emoji: Emoji
-  Image: Image
-  Language Filters: Language Filters
-  Languages: Languages
-  Languages Filter: Languages Filter
-  Languages Filters: Languages Filters
+  Image: Immagine
+  Language Filters: Filtri Lingua
+  Languages: Lingue
+  Languages Filter: Filtro Lingue
+  Languages Filters: Filtri Lingue
   Link: Link
-  Pinned: Pinned
-  Secret: Secret
-  Select Filters: Select Filters
-  Source: Source
-  Source Application: Source Application
-  Source Filters: Source Filters
-  Starred: Starred
-  Text: Text
+  Pinned: Fissati
+  Secret: Segreto
+  Select Filters: Seleziona Filtri
+  Source: Fonte
+  Source Application: Applicazione Fonte
+  Source Filters: Filtri Fonte
+  Starred: Preferiti
+  Text: Testo
   Video: Video
-Hide pinned history: Hide pinned history
-History Settings: History Settings
-Paste Menu: Paste Menu
-Select Filters: Select Filters
-View pinned history: View pinned history
-'{{isAll}} Clipboard History': '{{isAll}} Clipboard History'
+Hide pinned history: Nascondi cronologia fissata
+History Settings: Impostazioni Cronologia
+Paste Menu: Menu Incolla
+Select Filters: Seleziona Filtri
+View pinned history: Visualizza cronologia fissata
+'{{isAll}} Clipboard History': '{{isAll}} Cronologia Appunti'
