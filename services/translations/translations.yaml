@@ -20,7 +20,7 @@ de:
   unlock_pastebar: PasteBar entsperren
   quit: Beenden
 
-es-ES:
+esES:
   add_first_item_here: Añadir menú aquí
   disable_history_capture: Desactivar captura del portapapeles
   enable_history_capture: Activar captura del portapapeles
@@ -64,7 +64,7 @@ ru:
   unlock_pastebar: Разблокировать PasteBar
   quit: Выйти
 
-zh-CN:
+zhCN:
   add_first_item_here: 在此添加第一个项目
   disable_history_capture: 禁用历史记录捕获
   enable_history_capture: 启用历史记录捕获
