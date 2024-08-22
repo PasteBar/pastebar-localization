@@ -1,4 +1,4 @@
-"<strong>{{screenLockPassCodeLength}}</strong> digits passcode is set.": <strong>{{screenLockPassCodeLength}}</strong> digits passcode is set.
+<strong>{{screenLockPassCodeLength}}</strong> digits passcode is set.: <strong>{{screenLockPassCodeLength}}</strong> digits passcode is set.
 Activation Success: Activation Success
 ? Add a star to the copied text when you copy it twice within 1 second. This allows you to quickly add copied text or links to your favorites and easily find it in the clipboard history.
 : Add a star to the copied text when you copy it twice within 1 second. This allows you to quickly add copied text or links to your favorites and easily find it in the clipboard history.
@@ -64,7 +64,7 @@ Enable screen unlock requirement on app launch for enhanced security, safeguardi
 Enhance security by automatically locking the application screen after a set period of user inactivity.: Enhance security by automatically locking the application screen after a set period of user inactivity.
 Enter Passcode length: Enter Passcode length
 Enter recovery password to reset passcode.: Enter recovery password to reset passcode.
-"Enter your <strong>{{screenLockPassCodeLength}} digits</strong> passcode": Enter your <strong>{{screenLockPassCodeLength}} digits</strong> passcode
+Enter your <strong>{{screenLockPassCodeLength}} digits</strong> passcode: Enter your <strong>{{screenLockPassCodeLength}} digits</strong> passcode
 Entered Passcode is invalid: Entered Passcode is invalid
 Excluded Apps List: Excluded Apps List
 Execute Web Requests: Execute Web Requests
@@ -105,10 +105,10 @@ Passcode successfully verified: Passcode successfully verified
 Passcode verification error: Passcode verification error
 Passcode verification is locked.: Passcode verification is locked.
 Password is incorrect.: Password is incorrect.
-"Password is incorrect. <br/>{{screenLockRecoveryPasswordMasked}}": Password is incorrect. <br/>{{screenLockRecoveryPasswordMasked}}
+Password is incorrect. <br/>{{screenLockRecoveryPasswordMasked}}: Password is incorrect. <br/>{{screenLockRecoveryPasswordMasked}}
 'Password is incorrect. Hint: {{screenLockRecoveryPasswordMasked}}': 'Password is incorrect. Hint: {{screenLockRecoveryPasswordMasked}}'
 'Password is incorrect. Masked password is: {{screenLockRecoveryPasswordMasked}}': 'Password is incorrect. Masked password is: {{screenLockRecoveryPasswordMasked}}'
-"Password is incorrect. {{screenLockRecoveryPasswordMasked}}": Password is incorrect. {{screenLockRecoveryPasswordMasked}}
+Password is incorrect. {{screenLockRecoveryPasswordMasked}}: Password is incorrect. {{screenLockRecoveryPasswordMasked}}
 Passwords do not match: Passwords do not match
 PasteBar Settings: PasteBar Settings
 Pin Window: Pin Window
@@ -164,8 +164,8 @@ To downgrade your current version, please visit: To downgrade your current versi
 To ensure the best detection accuracy, please select up to 7 languages. Limiting choices improves precision.: To ensure the best detection accuracy, please select up to 7 languages. Limiting choices improves precision.
 Today: Today
 Tomorrow: Tomorrow
-"Try after <strong>{{resetPassCodeNextDelay}}</strong> seconds": Try after <strong>{{resetPassCodeNextDelay}}</strong> seconds
-"Try again after <strong>{{resetPassCodeNextDelay}}</strong> seconds": Try again after <strong>{{resetPassCodeNextDelay}}</strong> seconds
+Try after <strong>{{resetPassCodeNextDelay}}</strong> seconds: Try after <strong>{{resetPassCodeNextDelay}}</strong> seconds
+Try again after <strong>{{resetPassCodeNextDelay}}</strong> seconds: Try again after <strong>{{resetPassCodeNextDelay}}</strong> seconds
 UI Language: UI Language
 UnPin Window: UnPin Window
 Unlimited Collections: Unlimited Collections

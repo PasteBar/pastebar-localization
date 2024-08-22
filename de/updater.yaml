@@ -12,7 +12,7 @@ Installing Update: Installing Update
 No Update Available: No Update Available
 Permission Denied Message: The update process was unable to replace the old application files due to insufficient privileges. You have to manually download and update the application files using a user account with administrator privileges.
 Quit PasteBar: Quit PasteBar
-"Release date {{date}}": Release date {{date}}
+Release date {{date}}: Release date {{date}}
 Remind Me Later: Remind Me Later
 Restart: Restart
 Restart Required: Restart Required
@@ -26,5 +26,5 @@ Update Error: Update Error
 Update Install Error: Update Install Error
 'Update: Permission Denied': 'Update: Permission Denied'
 Upgrade removes Pro features: Upgrade removes Pro features
-"Version {{newVersion}} is available": Version {{newVersion}} is available
+Version {{newVersion}} is available: Version {{newVersion}} is available
 View Changes: View Changes

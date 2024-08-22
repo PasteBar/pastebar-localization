@@ -21,15 +21,15 @@ Add Section: Add Section
 Add Tab: Add Tab
 Add Template Field: Add Template Field
 Add a Tab: Add a Tab
-"Add field <b>&#123;&#123;<b>{{name}}</b>&#125;&#125;</b> into the template": 'Add field <b>&#123;&#123;<b>{{name}}</b>&#125;&#125;</b> into the template'
-"Add field <b>{{<b>{{name}}</b>}}</b> into the template": Add field <b>{{<b>{{name}}</b>}}</b> into the template
+Add field <b>&#123;&#123;<b>{{name}}</b>&#125;&#125;</b> into the template: Add field <b>&#123;&#123;<b>{{name}}</b>&#125;&#125;</b> into the template
+Add field <b>{{<b>{{name}}</b>}}</b> into the template: Add field <b>{{<b>{{name}}</b>}}</b> into the template
 Add image: Add image
 Add note: Add note
 Add to Board: Add to Board
-"Add {{type}}": Add {{type}}
+Add {{type}}: Add {{type}}
 All field labels must be unique to ensure they are correctly used within the template.: All field labels must be unique to ensure they are correctly used within the template.
-"Are you sure you want to delete <strong>{{boardName}}</strong> board?": Are you sure you want to delete <strong>{{boardName}}</strong> board?
-"Are you sure you want to delete <strong>{{tabName}}</strong> tab?": Are you sure you want to delete <strong>{{tabName}}</strong> tab?
+Are you sure you want to delete <strong>{{boardName}}</strong> board?: Are you sure you want to delete <strong>{{boardName}}</strong> board?
+Are you sure you want to delete <strong>{{tabName}}</strong> tab?: Are you sure you want to delete <strong>{{tabName}}</strong> tab?
 Are you sure you want to delete?: Are you sure you want to delete?
 Are you sure you want to remove image from the clip?: Are you sure you want to remove image from the clip?
 Auth: Auth
@@ -83,7 +83,7 @@ Delete field: Delete field
 Delete tab: Delete tab
 Detect Template Fields: Detect Template Fields
 Detect for Template Fields: Detect for Template Fields
-"Disabled field <b>&#123;&#123;<b>{{name}}</b>&#125;&#125;</b> has been found in the template": 'Disabled field <b>&#123;&#123;<b>{{name}}</b>&#125;&#125;</b> has been found in the template'
+Disabled field <b>&#123;&#123;<b>{{name}}</b>&#125;&#125;</b> has been found in the template: Disabled field <b>&#123;&#123;<b>{{name}}</b>&#125;&#125;</b> has been found in the template
 Done Create Clip: Done Create Clip
 Done Edit: Done Edit
 Done Edit Tabs: Done Edit Tabs
@@ -135,7 +135,7 @@ FILTERED_TYPES:
   RegEx Replace: RegEx Replace
   Remove Quotes: Remove Quotes
 Field: Field
-"Field <b>&#123;&#123;<b>{{name}}</b>&#125;&#125;</b> has been found in the template": 'Field <b>&#123;&#123;<b>{{name}}</b>&#125;&#125;</b> has been found in the template'
+Field <b>&#123;&#123;<b>{{name}}</b>&#125;&#125;</b> has been found in the template: Field <b>&#123;&#123;<b>{{name}}</b>&#125;&#125;</b> has been found in the template
 Field Options: Field Options
 Fields Value: Fields Value
 File, folder or app path does not exist: File, folder or app path does not exist
@@ -223,7 +223,7 @@ Tabs Menu: Tabs Menu
 Template: Template
 Template Edit: Template Edit
 Template Fields: Template Fields
-"Template should have⠀<b>{{output}}</b>⠀placeholder.": Template should have⠀<b>{{output}}</b>⠀placeholder.
+Template should have⠀<b>{{output}}</b>⠀placeholder.: Template should have⠀<b>{{output}}</b>⠀placeholder.
 Test Request: Test Request
 Test Run: Test Run
 Text: Text
@@ -243,7 +243,7 @@ Unsaved note: Unsaved note
 Unsaved subtitle: Unsaved subtitle
 Unsaved title: Unsaved title
 Update Link Card: Update Link Card
-"Use double curly brackets for {{field name}}. Use {{clipboard}} to add current clipboard value.": Use double curly brackets for {{field name}}. Use {{clipboard}} to add current clipboard value.
+Use double curly brackets for {{field name}}. Use {{clipboard}} to add current clipboard value.: Use double curly brackets for {{field name}}. Use {{clipboard}} to add current clipboard value.
 Value: Value
 Values: Values
 Vertical Split: Vertical Split
@@ -253,7 +253,7 @@ Web or Email link is valid: Web or Email link is valid
 Website URL: Website URL
 Website URL is valid: Website URL is valid
 Website URL might not be valid: Website URL might not be valid
-"Wrap output using {{output}} placeholder": Wrap output using {{output}} placeholder
+Wrap output using {{output}} placeholder: Wrap output using {{output}} placeholder
 You have no rules added: You have no rules added
 You'll need to clear this board of all clips and subboards before it can be deleted.: You'll need to clear this board of all clips and subboards before it can be deleted.
 You'll need to clear this tab of all boards before it can be deleted.: You'll need to clear this tab of all boards before it can be deleted.

@@ -2,7 +2,8 @@
 ' This permission ensures PasteBar can access the clipboard and perform copy and paste operations across applications.': ' This permission ensures PasteBar can access the clipboard and perform copy and paste operations across applications.'
 About PasteBar: About PasteBar
 Action Menu: Action Menu
-"Add <b>{{Clipboard}}</b> field to template. This allows you to copy text to the clipboard, and it will be inserted into the template": Add <b>{{Clipboard}}</b> field to template. This allows you to copy text to the clipboard, and it will be inserted into the template
+? Add <b>{{Clipboard}}</b> field to template. This allows you to copy text to the clipboard, and it will be inserted into the template
+: Add <b>{{Clipboard}}</b> field to template. This allows you to copy text to the clipboard, and it will be inserted into the template
 Add Clip: Add Clip
 Add First Option: Add First Option
 Add Link Card: Add Link Card
@@ -23,7 +24,7 @@ Are you sure you want to delete?: Are you sure you want to delete?
 Are you sure?: Are you sure?
 Attach History Window: Attach History Window
 Back: Back
-"Build on {{buildDate}}": Build on {{buildDate}}
+Build on {{buildDate}}: Build on {{buildDate}}
 Cancel: Cancel
 Cancel Reset: Cancel Reset
 Check: Check
@@ -58,7 +59,7 @@ Confirm passcode reset: Confirm passcode reset
 Confirm password reset: Confirm password reset
 Confirm password reset action: Confirm password reset action
 Confirm your action: Confirm your action
-"Confirm {{action}}": Confirm {{action}}
+Confirm {{action}}: Confirm {{action}}
 Contact Form: Contact Form
 Copied: Copied
 Copy: Copy
@@ -102,10 +103,11 @@ Enter passcode or password to unlock: Enter passcode or password to unlock
 Errors:
   Error loading link: Error loading link
   Cant save to file: Cant save to file
-  "Something went wrong! {{err}} Please try again.": Something went wrong! {{err}} Please try again.
+  Something went wrong! {{err}} Please try again.: Something went wrong! {{err}} Please try again.
 Expand Edit: Expand Edit
-"Expires on {{proExpiresOn}}": Expires on {{proExpiresOn}}
-"? Field <b>{{Clipboard}}</b> has been found in the template. This allows you to copy text to the clipboard, and it will be inserted into the template": Field <b>{{Clipboard}}</b> has been found in the template. This allows you to copy text to the clipboard, and it will be inserted into the template
+Expires on {{proExpiresOn}}: Expires on {{proExpiresOn}}
+? Field <b>{{Clipboard}}</b> has been found in the template. This allows you to copy text to the clipboard, and it will be inserted into the template
+: Field <b>{{Clipboard}}</b> has been found in the template. This allows you to copy text to the clipboard, and it will be inserted into the template
 Field is not found in the template: Field is not found in the template
 Find Clip: Find Clip
 Find History: Find History
@@ -115,7 +117,7 @@ Hide Muli Select: Hide Muli Select
 Hide Pinned Board: Hide Pinned Board
 History: History
 Image: Image
-"Image Scale {{ImageScale}}x": Image Scale {{ImageScale}}x
+Image Scale {{ImageScale}}x: Image Scale {{ImageScale}}x
 Image size: Image size
 Image size in pixels: Image size in pixels
 In View: In View
@@ -158,7 +160,7 @@ Options: Options
 Password: Password
 Paste Delay: Paste Delay
 Paste Menu: Paste Menu
-"Paste in {{pastingCountDown}}...": Paste in {{pastingCountDown}}...
+Paste in {{pastingCountDown}}...: Paste in {{pastingCountDown}}...
 PasteBar: PasteBar
 PasteBar Application Error: PasteBar Application Error
 PasteBar History: PasteBar History
@@ -168,9 +170,8 @@ Pasted: Pasted
 Path: Path
 Pause: Pause
 Pause Playing: Pause Playing
-? 'Permission Check Failed
-:
-  PasteBar has not been successfully added to Accessibility settings. Please grant the required permissions and click Done again.': 'Permission Check Failed: PasteBar has not been successfully added to Accessibility settings. Please grant the required permissions and click Done again.'
+? 'Permission Check Failed: PasteBar has not been successfully added to Accessibility settings. Please grant the required permissions and click Done again.'
+: 'Permission Check Failed: PasteBar has not been successfully added to Accessibility settings. Please grant the required permissions and click Done again.'
 Pin Selected: Pin Selected
 Pinned: Pinned
 Play: Play
@@ -324,7 +325,7 @@ Updated: Updated
 Upgrade to Pro: Upgrade to Pro
 Use Passcode: Use Passcode
 Use Password: Use Password
-"Using <b>{{Clipboard}}</b> field, allows you to copy text to the clipboard, and it will be inserted into the template": Using <b>{{Clipboard}}</b> field, allows you to copy text to the clipboard, and it will be inserted into the template
+Using <b>{{Clipboard}}</b> field, allows you to copy text to the clipboard, and it will be inserted into the template: Using <b>{{Clipboard}}</b> field, allows you to copy text to the clipboard, and it will be inserted into the template
 Verify: Verify
 Verify Current Password: Verify Current Password
 Verify Recovery Password: Verify Recovery Password
