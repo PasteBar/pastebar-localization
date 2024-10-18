@@ -1,40 +1,40 @@
-All History Settings: All History Settings
-All done! History's been cleared.: All done! History's been cleared.
-Auto Update on Capture: Auto Update on Capture
-Auto-Clear Settings: Auto-Clear Settings
-Capture History: Capture History
-Clear: Clear
-Clear All: Clear All
-Clear All History: Clear All History
-Clear History: Clear History
-Confirm Clear All History: Confirm Clear All History
-Do you really want to remove ALL clipboard history items?: Do you really want to remove ALL clipboard history items?
-"Do you want to remove clipboard history items older than {{olderThen}} {{durationType}}": Do you want to remove clipboard history items older than {{olderThen}} {{durationType}}
-Enable Capture History: Enable Capture History
+All History Settings: Tous les paramètres d'historique
+All done! History's been cleared.: Terminé ! L'historique a été effacé.
+Auto Update on Capture: Mise à jour automatique lors de la capture
+Auto-Clear Settings: Paramètres d'effacement automatique
+Capture History: Capturer l'historique
+Clear: Effacer
+Clear All: Tout effacer
+Clear All History: Effacer tout l'historique
+Clear History: Effacer l'historique
+Confirm Clear All History: Confirmer l'effacement de tout l'historique
+Do you really want to remove ALL clipboard history items?: Voulez-vous vraiment supprimer TOUS les éléments de l'historique du presse-papiers ?
+Do you want to remove clipboard history items older than {{olderThen}} {{durationType}}: Voulez-vous supprimer les éléments de l'historique du presse-papiers antérieurs à {{olderThen}} {{durationType}}
+Enable Capture History: Activer la capture de l'historique
 Filters:
-  App Filters: App Filters
+  App Filters: Filtres d'applications
   Audio: Audio
-  Clear Filters: Clear Filters
+  Clear Filters: Effacer les filtres
   Code: Code
   Emoji: Emoji
   Image: Image
-  Language Filters: Language Filters
-  Languages: Languages
-  Languages Filter: Languages Filter
-  Languages Filters: Languages Filters
-  Link: Link
-  Pinned: Pinned
+  Language Filters: Filtres de langues
+  Languages: Langues
+  Languages Filter: Filtre de langues
+  Languages Filters: Filtres de langues
+  Link: Lien
+  Pinned: Épinglé
   Secret: Secret
-  Select Filters: Select Filters
+  Select Filters: Sélectionner les filtres
   Source: Source
-  Source Application: Source Application
-  Source Filters: Source Filters
-  Starred: Starred
-  Text: Text
-  Video: Video
-Hide pinned history: Hide pinned history
-History Settings: History Settings
-Paste Menu: Paste Menu
-Select Filters: Select Filters
-View pinned history: View pinned history
-'{{isAll}} Clipboard History': '{{isAll}} Clipboard History'
+  Source Application: Application source
+  Source Filters: Filtres de sources
+  Starred: Favoris
+  Text: Texte
+  Video: Vidéo
+Hide pinned history: Masquer l'historique épinglé
+History Settings: Paramètres de l'historique
+Paste Menu: Menu de collage
+Select Filters: Sélectionner les filtres
+View pinned history: Voir l'historique épinglé
+'{{isAll}} Clipboard History': 'Historique du presse-papiers {{isAll}}'

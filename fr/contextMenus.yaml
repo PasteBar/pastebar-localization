@@ -1,99 +1,99 @@
-Activate: Activate
-Add Board: Add Board
-Add Clip: Add Clip
-Add First Tab: Add First Tab
-Add Item: Add Item
-Add Link Card: Add Link Card
-Add New: Add New
-Add New After: Add New After
-Add New Item: Add New Item
-Add Tab: Add Tab
-Add to: Add to
-Add to Menu: Add to Menu
+Activate: Activer
+Add Board: Ajouter un tableau
+Add Clip: Ajouter un clip
+Add First Tab: Ajouter le premier onglet
+Add Item: Ajouter un élément
+Add Link Card: Ajouter une carte de lien
+Add New: Ajouter nouveau
+Add New After: Ajouter nouveau après
+Add New Item: Ajouter un nouvel élément
+Add Tab: Ajouter un onglet
+Add to: Ajouter à
+Add to Menu: Ajouter au menu
 AddTo:
-  Add to Exclude and Delete: Add to Exclude and Delete
-  Add to Filter by Source: Add to Filter by Source
-  Add to Ignore: Add to Ignore
-  Clip on Board: Clip on Board
-  Paste Menu: Paste Menu
-After: After
-After Item: After Item
-Board Icon: Board Icon
-Clip Icon: Clip Icon
-Close: Close
-Close Edit: Close Edit
-Close Rename: Close Rename
-Close View: Close View
-Collapse View: Collapse View
-Copy & Paste: Copy & Paste
-Copy To: Copy To
+  Add to Exclude and Delete: Ajouter à exclure et supprimer
+  Add to Filter by Source: Ajouter au filtre par source
+  Add to Ignore: Ajouter à ignorer
+  Clip on Board: Clip sur le tableau
+  Paste Menu: Menu de collage
+After: Après
+After Item: Après l'élément
+Board Icon: Icône du tableau
+Clip Icon: Icône du clip
+Close: Fermer
+Close Edit: Fermer l'édition
+Close Rename: Fermer le renommage
+Close View: Fermer la vue
+Collapse View: Réduire la vue
+Copy & Paste: Copier & Coller
+Copy To: Copier vers
 CopyTo:
-  Board: Board
-  Tab: Tab
-Custom Icon: Custom Icon
-Dashboard: Dashboard
-Delete Board: Delete Board
-Delete Clip: Delete Clip
-Deselect: Deselect
-Detected Language: Detected Language
-Down: Down
-Duplicate: Duplicate
-Edit Board: Edit Board
-Edit Clip: Edit Clip
-Edit Label: Edit Label
-Edit Tabs: Edit Tabs
-Edit Value: Edit Value
-End: End
-Expand View: Expand View
-Hide: Hide
-Hide Details: Hide Details
-Hide Subtitle: Hide Subtitle
-Icon Visibility: Icon Visibility
-Large View: Large View
-Link To Clip: Link To Clip
-Locate Clip: Locate Clip
-Locate Menu: Locate Menu
-Make Disabled: Make Disabled
-Make Enabled: Make Enabled
-Make Inactive: Make Inactive
-Manage: Manage
-Mask Secret: Mask Secret
+  Board: Tableau
+  Tab: Onglet
+Custom Icon: Icône personnalisée
+Dashboard: Tableau de bord
+Delete Board: Supprimer le tableau
+Delete Clip: Supprimer le clip
+Deselect: Désélectionner
+Detected Language: Langue détectée
+Down: Bas
+Duplicate: Dupliquer
+Edit Board: Modifier le tableau
+Edit Clip: Modifier le clip
+Edit Label: Modifier l'étiquette
+Edit Tabs: Modifier les onglets
+Edit Value: Modifier la valeur
+End: Fin
+Expand View: Développer la vue
+Hide: Masquer
+Hide Details: Masquer les détails
+Hide Subtitle: Masquer le sous-titre
+Icon Visibility: Visibilité de l'icône
+Large View: Vue large
+Link To Clip: Lier au clip
+Locate Clip: Localiser le clip
+Locate Menu: Localiser le menu
+Make Disabled: Désactiver
+Make Enabled: Activer
+Make Inactive: Rendre inactif
+Manage: Gérer
+Mask Secret: Masquer le secret
 Menu: Menu
-Menu is Not Active: Menu is Not Active
-Move Board To: Move Board To
-Move To: Move To
+Menu is Not Active: Le menu n'est pas actif
+Move Board To: Déplacer le tableau vers
+Move To: Déplacer vers
 MoveTo:
-  Board: Board
-  Tab: Tab
-Open: Open
-Open Link in Browser: Open Link in Browser
-Organize: Organize
-Organize Layout: Organize Layout
-Paste Delay: Paste Delay
-Paste Menu: Paste Menu
-Pin: Pin
+  Board: Tableau
+  Tab: Onglet
+Open: Ouvrir
+Open Link in Browser: Ouvrir le lien dans le navigateur
+Organize: Organiser
+Organize Layout: Organiser la disposition
+Paste Delay: Délai de collage
+Paste Menu: Menu de collage
+Pin: Épingler
 Position: Position
-RESET: RESET
-Remove Link Card: Remove Link Card
-Remove Star: Remove Star
-Rename: Rename
-Save as File: Save as File
-Save as Image File: Save as Image File
-Save as Mp3: Save as Mp3
-Save as Mp3 File: Save as Mp3 File
-Save as Text File: Save as Text File
-Select: Select
-Select Icon: Select Icon
-Separator: Separator
-Show: Show
-Show Large View: Show Large View
-Show Subtitle: Show Subtitle
-Star: Star
-Start: Start
-Submenu: Submenu
-UnPin: UnPin
-UnPin Clip: UnPin Clip
-Unmask Secret: Unmask Secret
-Up: Up
-View: View
-not a code: not a code
+RESET: RÉINITIALISER
+Remove Link Card: Supprimer la carte de lien
+Remove Star: Supprimer l'étoile
+Rename: Renommer
+Save as File: Enregistrer comme fichier
+Save as Image File: Enregistrer comme fichier image
+Save as Mp3: Enregistrer comme Mp3
+Save as Mp3 File: Enregistrer comme fichier Mp3
+Save as Text File: Enregistrer comme fichier texte
+Select: Sélectionner
+Select Icon: Sélectionner l'icône
+Separator: Séparateur
+Show: Afficher
+Show Large View: Afficher la vue large
+Show Subtitle: Afficher le sous-titre
+Star: Étoile
+Start: Démarrer
+Submenu: Sous-menu
+UnPin: Désépingler
+UnPin Clip: Désépingler le clip
+Unmask Secret: Démasquer le secret
+Up: Haut
+View: Vue
+not a code: pas un code

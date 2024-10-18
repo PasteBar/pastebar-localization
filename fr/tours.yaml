@@ -1,275 +1,237 @@
 HISTORY_PANEL_TOUR:
-  - 
-    element: '#side-panel_tour'
-    popover:
-      title: Clipboard History Panel
-      description: This panel displays your copied clipboard history for easy access later. Scroll through your history, search for content, or filter by type. You can resize this panel for a customized view.
-      prefferedSide: right
-  - 
-    element: '#history-find_tour'
-    popover:
-      title: Find and Filter History
-      description: Use the search to quickly find specific items in your clipboard history. Filter results by type (text, images, or links) to easily locate what you need. Copy a found item again or save it to the board.
-      prefferedSide: bottom
-      alignment: center
-  - 
-    element: '#history-list_tour .history-item'
-    popover:
-      title: Clipboard History Item
-      description: Each item in your Clipboard History represents content you've previously copied. <b>Double-click</b> an item or click the icon to copy it back to the clipboard. <b>Press and drag</b> to create a saved clip on the board panel. <b>Right-click</b> an item for more options in the context menu.
-      prefferedSide: right
-  - 
-    element: '#tabs-history_tour'
-    meta:
-      closeTourCssPosition: hidden
-    popover:
-      title: History/Menu Navigation Tabs
-      description: Switch between Clipboard History and Paste Menu views for easy management and access of your content.
-      alignment: center
-      prefferedSide: top
-  - 
-    element: '#history-menu-button_tour'
-    meta:
-      closeTourCssPosition: hidden
-    popover:
-      title: History Selected Items Menu
-      description: Use this menu to manage selected items in your Clipboard History. You can <b>multi-select</b> items, deselect all, add to board, delete, or clear history for specific dates.
-      alignment: end
-      prefferedSide: right
-  - 
-    element: .panel-resize_tour
-    popover:
-      title: Resizable Panel View
-      description: Customize your workspace by resizing the panel view to fit your preferences. <b>Hover your mouse</b> over the edge of the panel until the resize cursor appears, then <b>click and drag</b> to adjust the panel size.
-      prefferedSide: right
-DASHBOARD_CLIPS_TOUR:
-  - 
-    element: .clips-dashboard-panel_tour
-    meta:
-      closeTourCssPosition: hidden
-    popover:
-      title: Dashboard Panel
-      description: This panel provides a central hub for organizing and managing your saved clips. Create custom tabs and boards to structure your content. <b>Drag and drop</b> items from your Clipboard History to create new clips. Use tabs to switch between different board categories.
-      prefferedSide: left
-  - 
-    element: '#dashboard-tabs_tour'
-    popover:
-      title: Dashboard Tabs
-      description: Create custom tabs and use them to navigate through different sections of your Dashboard. Switch between categories to manage and access your clips and content quickly.
-      alignment: center
-      prefferedSide: bottom
-  - 
-    element: '#dashboard-tabs-create-button_tour'
-    popover:
-      title: Create Dashboard Items
-      description: Create new items for your Dashboard. Add clips, boards, or custom tabs to organize your content.
-      alignment: end
-      prefferedSide: bottom
-  - 
-    element: '#dashboard-tabs-context-menu_tour'
-    popover:
-      title: Tabs and Layout Menu
-      description: <b>Right-click</b> on the tabs or <b>click the menu icon</b> to organize your layout and manage your tabs. You can edit existing tabs or change the dashboard layout to suit your workflow preferences.
-      alignment: end
-      prefferedSide: bottom
-  - 
-    element: .board-panel_tour
-    popover:
-      title: Board Panel
-      description: This board panel allows you to organize your saved clips for quick and easy access. <b>Drag and drop</b> items from your Clipboard History. Use boards to categorize and manage your content efficiently.
-      alignment: center
-      prefferedSide: right
-  - 
-    element: .board-panel-header_tour
-    popover:
-      title: Board Panel Header
-      description: <b>Double-click</b> the header to quickly expand the board panel or <b>right-click</b> to see other options to customize and manage the board.
-      alignment: start
-      prefferedSide: right
-  - 
-    element: .clip_tour
-    popover:
-      title: Saved Clip Item
-      description: Access saved clip content quickly. <b>Double-click</b> or <b>click the clipboard icon</b> to copy it. <b>Long-press</b> to rearrange items, or <b>right-click</b> for more options to customize and organize your clip.
-      alignment: start
-      prefferedSide: right
-  - 
-    element: .panel-resize_tour
-    popover:
-      title: Resizable Panel View
-      description: Customize your workspace by resizing the panel view to fit your preferences. <b>Hover your mouse</b> over the edge of the panel until the resize cursor appears, then <b>click and drag</b> to adjust the panel size.
-      prefferedSide: right
+- element: '#side-panel_tour'
+  popover:
+    title: Panneau Historique du Presse-papiers
+    description: Ce panneau affiche l'historique de vos copier-coller pour un accès facile. Parcourez, recherchez ou filtrez par type. Redimensionnez ce panneau pour une vue personnalisée.
+    prefferedSide: right
+- element: '#history-find_tour'
+  popover:
+    title: Rechercher et Filtrer l'Historique
+    description: Utilisez la recherche pour trouver rapidement des éléments spécifiques. Filtrez par type (texte, images, liens) pour localiser facilement ce dont vous avez besoin. Copiez à nouveau un élément trouvé ou enregistrez-le dans le tableau.
+    prefferedSide: bottom
+    alignment: center
+- element: '#history-list_tour .history-item'
+  popover:
+    title: Élément de l'Historique
+    description: Chaque élément représente un contenu précédemment copié. <b>Double-cliquez</b> ou cliquez sur l'icône pour le copier à nouveau. <b>Appuyez et faites glisser</b> pour créer un clip sauvegardé sur le tableau. <b>Clic droit</b> pour plus d'options.
+    prefferedSide: right
+- element: '#tabs-history_tour'
+  meta:
+    closeTourCssPosition: hidden
+  popover:
+    title: Onglets Navigation Historique/Menu
+    description: Basculez entre les vues Historique et Menu de Collage pour une gestion facile de votre contenu.
+    alignment: center
+    prefferedSide: top
+- element: '#history-menu-button_tour'
+  meta:
+    closeTourCssPosition: hidden
+  popover:
+    title: Menu des Éléments Sélectionnés
+    description: Gérez les éléments sélectionnés dans votre historique. Vous pouvez <b>sélectionner plusieurs</b> éléments, tout désélectionner, ajouter au tableau, supprimer ou effacer l'historique pour des dates spécifiques.
+    alignment: end
+    prefferedSide: right
+- element: .panel-resize_tour
+  popover:
+    title: Vue de Panneau Redimensionnable
+    description: Personnalisez votre espace de travail en redimensionnant le panneau. <b>Survolez</b> le bord du panneau jusqu'à ce que le curseur de redimensionnement apparaisse, puis <b>cliquez et faites glisser</b> pour ajuster la taille.
+    prefferedSide: right
+DASHBOARD_CLIPS_TOUR:    
+- element: .clips-dashboard-panel_tour
+  meta:
+    closeTourCssPosition: hidden
+  popover:
+    title: Panneau du Tableau de Bord
+    description: Ce panneau est un hub central pour organiser vos clips sauvegardés. Créez des onglets et tableaux personnalisés. <b>Glissez-déposez</b> des éléments de l'Historique pour créer de nouveaux clips. Utilisez les onglets pour naviguer entre catégories.
+    prefferedSide: left
+- element: '#dashboard-tabs_tour'
+  popover:
+    title: Onglets du Tableau de Bord
+    description: Créez des onglets personnalisés pour naviguer entre différentes sections. Basculez entre catégories pour gérer et accéder rapidement à vos clips et contenus.
+    alignment: center
+    prefferedSide: bottom
+- element: '#dashboard-tabs-create-button_tour'
+  popover:
+    title: Créer des Éléments
+    description: Créez de nouveaux éléments pour votre Tableau de Bord. Ajoutez des clips, tableaux ou onglets personnalisés pour organiser votre contenu.
+    alignment: end
+    prefferedSide: bottom
+- element: '#dashboard-tabs-context-menu_tour'
+  popover:
+    title: Menu Onglets et Disposition
+    description: <b>Clic droit</b> sur les onglets ou <b>cliquez sur l'icône menu</b> pour organiser votre disposition et gérer vos onglets. Modifiez les onglets existants ou changez la disposition selon vos préférences.
+    alignment: end
+    prefferedSide: bottom
+- element: .board-panel_tour
+  popover:
+    title: Panneau du Tableau
+    description: Ce panneau vous permet d'organiser vos clips sauvegardés pour un accès rapide. <b>Glissez-déposez</b> des éléments depuis l'Historique. Utilisez les tableaux pour catégoriser et gérer efficacement votre contenu.
+    alignment: center
+    prefferedSide: right
+- element: .board-panel-header_tour
+  popover:
+    title: En-tête du Panneau
+    description: <b>Double-cliquez</b> sur l'en-tête pour agrandir rapidement le panneau ou <b>clic droit</b> pour voir d'autres options de personnalisation et de gestion du tableau.
+    alignment: start
+    prefferedSide: right
+- element: .clip_tour
+  popover:
+    title: Élément Clip Sauvegardé
+    description: Accédez rapidement au contenu sauvegardé. <b>Double-cliquez</b> ou <b>cliquez sur l'icône</b> pour copier. <b>Appui long</b> pour réorganiser, ou <b>clic droit</b> pour plus d'options de personnalisation.
+    alignment: start
+    prefferedSide: right
+- element: .panel-resize_tour
+  popover:
+    title: Vue de Panneau Redimensionnable
+    description: Personnalisez votre espace en redimensionnant le panneau. <b>Survolez</b> le bord jusqu'à voir le curseur de redimensionnement, puis <b>cliquez et faites glisser</b> pour ajuster la taille.
+    prefferedSide: right
 MENU_TOUR:
-  - 
-    element: '#side-panel_tour'
-    popover:
-      title: Paste Menu Panel
-      description: This panel allows you to manage your system's taskbar or menubar native paste menu. <b>Hold and drag</b> items to rearrange them, <b>double-click</b> to rename. <b>Press</b> ALT or Command key and click any item to multi-select.
-      prefferedSide: right
-  - 
-    element: '#menu-find_tour'
-    popover:
-      title: Find Menu Items
-      description: Use the search bar to quickly find specific menu items. Type in keywords to filter and locate the items you need.
-      prefferedSide: bottom
-      alignment: center
-  - 
-    element: div[role=treeitem]
-    popover:
-      title: Menu Item Tree
-      description: Each item in menu tree can be rearranged individually or in group. <b>Double-click</b> to rename, <b>hold and drag</b> to rearrange it. <b>Press</b> ALT or Command key and click to multi-select.
-      prefferedSide: right
-  - 
-    element: '#tabs-menu_tour'
-    meta:
-      closeTourCssPosition: hidden
-    popover:
-      title: History/Menu Navigation Tabs
-      description: Switch between Clipboard History and Paste Menu views for easy management and access of your content.
-      alignment: center
-      prefferedSide: top
-  - 
-    element: '#menu-icon-menu-button_tour'
-    meta:
-      closeTourCssPosition: hidden
-    popover:
-      title: Selected Items Paste Menu
-      description: Use this menu to manage multiple selected menu items. Multi-select, deselect all, rebuild the native menu, or delete items to quickly organize your paste menu.
-      alignment: end
-      prefferedSide: right
-  - 
-    element: '#menu-main-list_tour'
-    meta:
-      closeTourCssPosition: hidden
-    popover:
-      title: Manage Paste Menu Panel
-      description: This panel allows you to manage all active menu items. Add, edit, or remove items to customize your paste menu. Create new items or link existing clips. <b>Double-click</b> to copy content to the clipboard and <b>right-click</b> for more options.
-      alignment: start
-      prefferedSide: left
-  - 
-    element: .menu-item_tour
-    popover:
-      title: Menu Item
-      description: Here you can manage each menu item individually. <b>Click</b> the expand icon to see menu content. <b>Double-click</b> to copy content to the clipboard and <b>right-click</b> to see more options.
-      alignment: center
-      prefferedSide: bottom
-  - 
-    element: '#add-menu-item__tour'
-    popover:
-      title: Add Menu Item
-      description: Click the plus icon and choose the location where you want to add the new item, before or after the existing menu item. You can create a new menu, submenus, separators, disabled menu items, menu items from recent history, or a link to a saved clip.
-      alignment: end
-      prefferedSide: bottom
-  - 
-    element: '#toggle-inactive-menu-items_tour'
-    popover:
-      title: Toggle Inactive Menu Items
-      description: Click this icon to show or hide inactive menu items. This helps to manage and organize your menu by focusing on active items when needed. Streamline your menu and declutter your workspace for improved efficiency.
-      alignment: start
-      prefferedSide: bottom
-  - 
-    element: .panel-resize_tour
-    popover:
-      title: Resizable Panel View
-      description: Customize your workspace by resizing the panel view to fit your preferences. <b>Hover your mouse</b> over the edge of the panel until the resize cursor appears, then <b>click and drag</b> to adjust the panel size.
-      prefferedSide: right
+- element: '#side-panel_tour'
+  popover:
+    title: Panneau Menu de Collage
+    description: Gérez le menu de collage natif de votre système. <b>Maintenez et faites glisser</b> pour réorganiser, <b>double-cliquez</b> pour renommer. <b>Appuyez</b> sur ALT ou Commande et cliquez pour sélectionner plusieurs éléments.
+    prefferedSide: right
+- element: '#menu-find_tour'
+  popover:
+    title: Rechercher des Éléments de Menu
+    description: Utilisez la barre de recherche pour trouver rapidement des éléments spécifiques. Tapez des mots-clés pour filtrer et localiser les éléments nécessaires.
+    prefferedSide: bottom
+    alignment: center
+- element: div[role=treeitem]
+  popover:
+    title: Arborescence des Éléments
+    description: Chaque élément peut être réorganisé individuellement ou en groupe. <b>Double-cliquez</b> pour renommer, <b>maintenez et faites glisser</b> pour réorganiser. <b>Appuyez</b> sur ALT ou Commande et cliquez pour sélection multiple.
+    prefferedSide: right
+- element: '#tabs-menu_tour'
+  meta:
+    closeTourCssPosition: hidden
+  popover:
+    title: Onglets Navigation Historique/Menu
+    description: Basculez entre les vues Historique et Menu de Collage pour une gestion facile de votre contenu.
+    alignment: center
+    prefferedSide: top
+- element: '#menu-icon-menu-button_tour'
+  meta:
+    closeTourCssPosition: hidden
+  popover:
+    title: Menu de Collage Éléments Sélectionnés
+    description: Gérez plusieurs éléments sélectionnés. Sélection multiple, désélection, reconstruction du menu natif ou suppression pour organiser rapidement votre menu.
+    alignment: end
+    prefferedSide: right
+- element: '#menu-main-list_tour'
+  meta:
+    closeTourCssPosition: hidden
+  popover:
+    title: Gérer le Panneau Menu de Collage
+    description: Gérez tous les éléments actifs. Ajoutez, modifiez ou supprimez pour personnaliser. Créez de nouveaux éléments ou liez des clips existants. <b>Double-cliquez</b> pour copier et <b>clic droit</b> pour plus d'options.
+    alignment: start
+    prefferedSide: left
+- element: .menu-item_tour
+  popover:
+    title: Élément de Menu
+    description: Gérez chaque élément individuellement. <b>Cliquez</b> sur l'icône pour voir le contenu. <b>Double-cliquez</b> pour copier et <b>clic droit</b> pour plus d'options.
+    alignment: center
+    prefferedSide: bottom
+- element: '#add-menu-item__tour'
+  popover:
+    title: Ajouter un Élément de Menu
+    description: Cliquez sur l'icône + et choisissez l'emplacement du nouvel élément. Créez un menu, sous-menus, séparateurs, éléments désactivés, éléments de l'historique récent ou un lien vers un clip sauvegardé.
+    alignment: end
+    prefferedSide: bottom
+- element: '#toggle-inactive-menu-items_tour'
+  popover:
+    title: Basculer Éléments Inactifs
+    description: Cliquez pour afficher/masquer les éléments inactifs. Gérez votre menu en vous concentrant sur les éléments actifs si nécessaire. Optimisez votre menu pour plus d'efficacité.
+    alignment: start
+    prefferedSide: bottom
+- element: .panel-resize_tour
+  popover:
+    title: Vue de Panneau Redimensionnable
+    description: Personnalisez votre espace en redimensionnant. <b>Survolez</b> le bord jusqu'à voir le curseur de redimensionnement, puis <b>cliquez et faites glisser</b> pour ajuster la taille.
+    prefferedSide: right
 NAVBAR_TOUR:
-  - 
-    element: '#navbar-panel_tour'
-    popover:
-      title: Navigation Bar
-      description: The navigation bar provides quick access to PasteBar's features and settings. Use it to switch between the Clipboard History and Paste Menus views, access your collections, perform a global search, toggle pinned board visibility, adjust settings, and get help when needed.
-      alignment: center
-      prefferedSide: bottom
-  - 
-    element: '#navbar-pastebar_tour'
-    popover:
-      title: PasteBar Menu
-      description: The PasteBar menu provides quick access to essential functions and information. Here you can check for updates, access settings, lock the app screen, close the main window, or quit the application.
-      alignment: start
-      prefferedSide: bottom
-  - 
-    element: '#navbar-view_tour'
-    popover:
-      title: View Menu
-      description: Use the View menu to navigate your clipboard history and paste menu, adjust options, change the color theme, modify the UI font size, and change the language. Access additional settings for a personalized experience.
-      alignment: start
-      prefferedSide: bottom
-  - 
-    element: '#navbar-collections_tour'
-    popover:
-      title: Collections Menu
-      description: The Collections Menu allows you to switch between different collections of clips, boards, and tabs. Create and customize each collection to suit your specific needs, such as organizing content by project or category.
-      alignment: center
-      prefferedSide: bottom
-  - 
-    element: '#navbar-toggle-history-split'
-    popover:
-      title: Toggle Split History Window
-      description: Click this icon to open or close the clipboard history in a separate window. Use this feature to manage your clipboard history independently from the main window.
-      alignment: center
-      preferredSide: bottom
-  - 
-    element: '#navbar-search_tour'
-    popover:
-      title: Global Search
-      description: Use the global search to quickly find clips, boards, and menu items across the active collection. Type keywords to filter results and locate the content you need efficiently. <b>Double-click</b> a clip to copy it directly from the search results.
-      alignment: center
-      prefferedSide: bottom
-  - 
-    element: '#navbar-pinned_tour'
-    popover:
-      title: Toggle Pinned Board
-      description: Click this icon to show or hide the pinned board. Use this feature to keep your workspace organized and focus on the most relevant content.
-      alignment: end
-      prefferedSide: bottom
-  - 
-    element: '#navbar-help_tour'
-    popover:
-      title: Help Menu
-      description: Quickly access guided tours and UI feature showcases from the Help menu. It provides step-by-step guidance and demonstrations to help you navigate and understand PasteBar's features and user interface effectively.
-      alignment: end
-      prefferedSide: bottom
-  - 
-    element: '#navbar-close-window_tour'
-    popover:
-      title: Close Main Window
-      description: Click the close icon to close the main PasteBar window while keeping its functionality available from the taskbar or menubar icon. You can always reopen the main application window from the main menu.
-      alignment: end
-      prefferedSide: bottom
+- element: '#navbar-panel_tour'
+  popover:
+    title: Barre de Navigation
+    description: Accédez rapidement aux fonctionnalités de PasteBar. Basculez entre Historique et Menu de Collage, accédez aux collections, effectuez une recherche globale, gérez le tableau épinglé, ajustez les paramètres et obtenez de l'aide.
+    alignment: center
+    prefferedSide: bottom
+- element: '#navbar-pastebar_tour'
+  popover:
+    title: Menu PasteBar
+    description: Accédez rapidement aux fonctions essentielles. Vérifiez les mises à jour, accédez aux paramètres, verrouillez l'écran, fermez la fenêtre principale ou quittez l'application.
+    alignment: start
+    prefferedSide: bottom
+- element: '#navbar-view_tour'
+  popover:
+    title: Menu Affichage
+    description: Naviguez dans l'historique et le menu de collage, ajustez les options, changez le thème de couleur, modifiez la taille de police UI et changez la langue. Accédez à des paramètres supplémentaires pour une expérience personnalisée.
+    alignment: start
+    prefferedSide: bottom
+- element: '#navbar-collections_tour'
+  popover:
+    title: Menu Collections
+    description: Basculez entre différentes collections de clips, tableaux et onglets. Créez et personnalisez chaque collection selon vos besoins spécifiques, comme organiser le contenu par projet ou catégorie.
+    alignment: center
+    prefferedSide: bottom
+- element: '#navbar-toggle-history-split'
+  popover:
+    title: Basculer Fenêtre Historique Séparée
+    description: Cliquez pour ouvrir/fermer l'historique dans une fenêtre séparée. Gérez votre historique indépendamment de la fenêtre principale.
+    alignment: center
+    preferredSide: bottom
+- element: '#navbar-search_tour'
+  popover:
+    title: Recherche Globale
+    description: Trouvez rapidement clips, tableaux et éléments de menu dans la collection active. Tapez des mots-clés pour filtrer et localiser efficacement. <b>Double-cliquez</b> pour copier directement depuis les résultats.
+    alignment: center
+    prefferedSide: bottom
+- element: '#navbar-pinned_tour'
+  popover:
+    title: Basculer Tableau Épinglé
+    description: Cliquez pour afficher/masquer le tableau épinglé. Gardez votre espace organisé et concentrez-vous sur le contenu le plus pertinent.
+    alignment: end
+    prefferedSide: bottom
+- element: '#navbar-help_tour'
+  popover:
+    title: Menu Aide
+    description: Accédez rapidement aux visites guidées et aux démonstrations des fonctionnalités UI. Obtenez des conseils étape par étape pour comprendre les fonctionnalités de PasteBar.
+    alignment: end
+    prefferedSide: bottom
+- element: '#navbar-close-window_tour'
+  popover:
+    title: Fermer la Fenêtre Principale
+    description: Fermez la fenêtre principale tout en gardant les fonctionnalités accessibles via l'icône de la barre des tâches/menu. Vous pouvez toujours rouvrir la fenêtre depuis le menu principal.
+    alignment: end
+    prefferedSide: bottom
 SETTINGS_TOUR:
-  - 
-    element: '#app-settings-history_tour'
-    popover:
-      title: Clipboard History Settings
-      description: Adjust your clipboard history settings to customize how PasteBar captures and manages your copied content. Enable or disable features like auto-update, auto-star, link preview, stop words list, and programming language auto-detection for a personalized experience.
-      alignment: start
-      prefferedSide: right
-  - 
-    element: '#app-settings-collections_tour'
-    popover:
-      title: Manage Collections Settings
-      description: Use the Manage Collections to organize and customize your collections. Add new collections, edit existing ones, and switch between them to suit your workflow. Manage your content efficiently by grouping related clips, boards, and tabs.
-      alignment: start
-      prefferedSide: right
-  - 
-    element: '#app-settings-preferences_tour'
-    popover:
-      title: User Preferences
-      description: Adjust font size, switch color themes, change the interface language, and configure auto-start options. Swap panel layouts, show collection names on the navbar, and manage clip note popups.
-      alignment: start
-      prefferedSide: right
-  - 
-    element: '#app-settings-security_tour'
-    popover:
-      title: Security Settings
-      description: Configure your security settings to protect your data. Set a lock screen passcode and recovery password. Control clipboard history capture from the lock screen and enable auto-lock on inactivity. Adjust these settings to enhance the security of your PasteBar application.
-      alignment: start
-      prefferedSide: right
-  - 
-    element: '#app-settings-back_tour'
-    popover:
-      title: Return to the Main Screen
-      description: Click to return from settings to the main application view.
-      alignment: start
-      prefferedSide: right
+- element: '#app-settings-history_tour'
+  popover:
+    title: Paramètres Historique Presse-papiers
+    description: Ajustez les paramètres de l'historique pour personnaliser la capture et la gestion du contenu copié. Activez/désactivez les fonctions comme la mise à jour auto, l'étoile auto, l'aperçu de liens, la liste de mots exclus et la détection auto de langage de programmation.
+    alignment: start
+    prefferedSide: right
+- element: '#app-settings-collections_tour'
+  popover:
+    title: Gestion des Collections
+    description: Organisez et personnalisez vos collections. Ajoutez de nouvelles collections, modifiez les existantes et basculez entre elles selon votre flux de travail. Gérez efficacement votre contenu en groupant clips, tableaux et onglets connexes.
+    alignment: start
+    prefferedSide: right
+- element: '#app-settings-preferences_tour'
+  popover:
+    title: Préférences Utilisateur
+    description: Ajustez la taille de police, changez les thèmes de couleur, modifiez la langue de l'interface et configurez les options de démarrage auto. Inversez la disposition des panneaux, affichez les noms de collections dans la barre de navigation et gérez les popups de notes de clips.
+    alignment: start
+    prefferedSide: right
+- element: '#app-settings-security_tour'
+  popover:
+    title: Paramètres de Sécurité
+    description: Configurez vos paramètres de sécurité pour protéger vos données. Définissez un code d'accès et un mot de passe de récupération. Contrôlez la capture de l'historique depuis l'écran de verrouillage et activez le verrouillage auto en cas d'inactivité. Ajustez ces paramètres pour renforcer la sécurité de PasteBar.
+    alignment: start
+    prefferedSide: right
+- element: '#app-settings-back_tour'
+  popover:
+    title: Retour à l'Écran Principal
+    description: Cliquez pour revenir des paramètres à la vue principale de l'application.
+    alignment: start
+    prefferedSide: right
