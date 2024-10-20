@@ -4,11 +4,11 @@ Board Panel: Panneau du tableau
 Board Panel Header: En-tête du panneau du tableau
 Boards and Clips: Tableaux et clips
 Boards and Clips Tour: Visite des tableaux et clips
-Clipboard History: Historique du presse-papiers
-Clipboard History Item: Élément de l'historique du presse-papiers
-Clipboard History Panel: Panneau de l'historique du presse-papiers
-Clipboard History Settings: Paramètres de l'historique du presse-papiers
-Clipboard History Tour: Visite de l'historique du presse-papiers
+Clipboard History: Historique du presse-papier
+Clipboard History Item: Élément de l'historique du presse-papier
+Clipboard History Panel: Panneau de l'historique du presse-papier
+Clipboard History Settings: Paramètres de l'historique du presse-papier
+Clipboard History Tour: Visite de l'historique du presse-papier
 Close Main Window: Fermer la fenêtre principale
 Collections Menu: Menu des collections
 ? Congratulations! You have finished <strong>all the tours</strong> and now ready to make the most of PasteBar's features. Remember, all tours always available from the <strong>Help > App Guided Tours</strong> menu in the navbar.
@@ -27,7 +27,7 @@ Global Search: Recherche globale
 Got It: Compris
 ? Great job! You have completed this tour. Ready to see more? Click <i>Skip</i> if you want to explore on your own. All tours always available from the <strong>Help > App Guided Tours</strong> menu in the navbar.
 : Excellent travail ! Vous avez terminé cette visite. Prêt à en voir plus ? Cliquez sur <i>Passer</i> si vous voulez explorer par vous-même. Toutes les visites sont toujours disponibles dans le menu <strong>Aide > Visites guidées de l'application</strong> dans la barre de navigation.
-Guided Tours Options: Options des visites guidées
+Guided Tours Options: Options pour les visites guidées
 Help: Aide
 Help Menu: Menu d'aide
 History Selected Items Menu: Menu des éléments sélectionnés dans l'historique
@@ -44,10 +44,10 @@ Navigation Bar Menu: Menu de la barre de navigation
 Navigation Bar Tour: Visite de la barre de navigation
 Next: Suivant
 Next Tour: Visite suivante
-Paste Menu: Menu de collage
-Paste Menu Panel: Panneau du menu de collage
-Paste Menu Tour: Visite du menu de collage
-Paste Menu View: Vue du menu de collage
+Paste Menu: Menu Coller
+Paste Menu Panel: Gestion du menu Coller
+Paste Menu Tour: Visite du menu Coller
+Paste Menu View: Vue du menu Coller
 PasteBar Menu: Menu PasteBar
 PasteBar Settings: Paramètres de PasteBar
 PasteBar Settings Tour: Visite des paramètres de PasteBar
@@ -55,11 +55,11 @@ PasteBar Tour: Visite de PasteBar
 Previous: Précédent
 Priority Support: Support prioritaire
 Reset All Tours: Réinitialiser toutes les visites
-Resizable Panel View: Vue de panneau redimensionnable
+Resizable Panel View: Panneau d'affichage redimensionnable
 Return to the Main Screen: Retourner à l'écran principal
 Saved Clip Item: Élément de clip enregistré
 Security Settings: Paramètres de sécurité
-Selected Items Paste Menu: Menu de collage des éléments sélectionnés
+Selected Items Paste Menu: Éléments sélectionnés Menu Coller
 Skip: Passer
 Skip All Tours: Passer toutes les visites
 Skip Tour: Passer la visite
@@ -72,7 +72,7 @@ Tabs and Layout Menu: Menu des onglets et de la disposition
 Title on Popover: Titre sur la fenêtre contextuelle
 Toggle Inactive Menu Items: Basculer les éléments de menu inactifs
 Toggle Pinned Board: Basculer le tableau épinglé
-Toggle Split History Window: Basculer la fenêtre d'historique divisée
+Toggle Split History Window: Fenêtre d'historique fractionnée
 Tour Completed: Visite terminée
 Tour Skipped: Visite passée
 Tour completed: Visite terminée
@@ -80,11 +80,11 @@ Tour skipped: Visite passée
 TourCanSkip: VisitePeutÊtrePassée
 User Preferences: Préférences utilisateur
 View Menu: Menu Affichage
-Welcome to Paste Menu: Bienvenue dans le menu de collage
+Welcome to Paste Menu: Bienvenue dans le menu Coller
 Welcome to PasteBar: Bienvenue dans PasteBar
 Welcome to PasteBar Settings: Bienvenue dans les paramètres de PasteBar
 WelcomeBody: Préparez-vous à simplifier votre flux de travail de copier-coller avec PasteBar ! Cette visite guidée vous présentera les fonctionnalités clés et vous montrera comment tirer le meilleur parti de l'application. Commençons par explorer le panneau de l'historique du presse-papiers.
-WelcomeDescription: Merci d'avoir choisi notre application pour simplifier votre flux de travail de copier-coller et améliorer la fonctionnalité du presse-papiers. Pour vous aider à démarrer et à tirer le meilleur parti des fonctionnalités de PasteBar, nous vous invitons à faire une visite rapide de l'application.
+WelcomeDescription: Merci d'avoir choisi notre application pour simplifier votre flux de travail de copier-coller et améliorer la fonctionnalité du presse-papier. Pour vous aider à démarrer et à tirer le meilleur parti des fonctionnalités de PasteBar, nous vous invitons à faire une visite rapide de l'application.
 WelcomeTour: Commençons par explorer le panneau de l'historique du presse-papiers.
 WelcomeTourCanSkip: Ou vous pouvez <i>Passer la visite</i> si vous préférez l'explorer par vous-même. Vous pouvez toujours accéder à toutes les visites depuis le menu <strong>Aide > Visites guidées de l'application</strong> dans la barre de navigation.
 WelcomeTourDescription: Faites une visite de cette section de l'application pour découvrir ses fonctionnalités et son fonctionnement.

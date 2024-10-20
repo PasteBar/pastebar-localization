@@ -223,12 +223,12 @@ Tabs Menu: Menu des onglets
 Template: Modèle
 Template Edit: Modifier le modèle
 Template Fields: Champs du modèle
-Template should have⠀<b>{{output}}</b>⠀placeholder.: Le modèle doit avoir le placeholder⠀<b>{{output}}</b>.
+Template should have⠀<b>{{output}}</b>⠀placeholder.: Le modèle doit avoir un espace réservé <b>{{output}}</b>.
 Test Request: Tester la requête
 Test Run: Exécution de test
 Text: Texte
 This action cannot be undone.: Cette action ne peut pas être annulée.
-This field allows to insert text from clipboard: Ce champ permet d'insérer du texte depuis le presse-papiers
+This field allows to insert text from clipboard: Ce champ permet d'insérer du texte depuis le presse-papier
 Too long: Trop long
 Too short: Trop court
 Turn On auto update: Activer la mise à jour automatique
@@ -243,4 +243,4 @@ Unsaved note: Note non enregistrée
 Unsaved subtitle: Sous-titre non enregistré
 Unsaved title: Titre non enregistré
 Update Link Card: Mettre à jour la carte de lien
-Use double curly brackets for {{field name}}. Use {{clipboard}} to add current clipboard value.: Utilisez des doubles accolades pour {{nom du champ}}. Utilisez {{clipboard}} pour ajouter la valeur
+Use double curly brackets for {{field name}}. Use {{clipboard}} to add current clipboard value.: Utilisez des doubles accolades pour {{nom du champ}}. Utilisez {{clipboard}} pour ajouter la valeur actuelle du presse-papier

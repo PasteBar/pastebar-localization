@@ -19,7 +19,7 @@ HISTORY_PANEL_TOUR:
   meta:
     closeTourCssPosition: hidden
   popover:
-    title: Onglets Navigation Historique/Menu
+    title: Onglets de Navigation dans l'Historique/Menu
     description: Basculez entre les vues Historique et Menu de Collage pour une gestion facile de votre contenu.
     alignment: center
     prefferedSide: top
@@ -195,7 +195,7 @@ NAVBAR_TOUR:
 - element: '#navbar-help_tour'
   popover:
     title: Menu Aide
-    description: Accédez rapidement aux visites guidées et aux démonstrations des fonctionnalités UI. Obtenez des conseils étape par étape pour comprendre les fonctionnalités de PasteBar.
+    description: Accédez rapidement aux visites guidées et aux démonstrations des fonctionnalités de l'interface. Obtenez des conseils étape par étape pour comprendre les fonctionnalités de PasteBar.
     alignment: end
     prefferedSide: bottom
 - element: '#navbar-close-window_tour'

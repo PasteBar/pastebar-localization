@@ -15,14 +15,14 @@ AddTo:
   Add to Filter by Source: Ajouter au filtre par source
   Add to Ignore: Ajouter à ignorer
   Clip on Board: Clip sur le tableau
-  Paste Menu: Menu de collage
+  Paste Menu: Menu coller
 After: Après
 After Item: Après l'élément
 Board Icon: Icône du tableau
 Clip Icon: Icône du clip
 Close: Fermer
 Close Edit: Fermer l'édition
-Close Rename: Fermer le renommage
+Close Rename: Fermer Renommer
 Close View: Fermer la vue
 Collapse View: Réduire la vue
 Copy & Paste: Copier & Coller
@@ -70,7 +70,7 @@ Open Link in Browser: Ouvrir le lien dans le navigateur
 Organize: Organiser
 Organize Layout: Organiser la disposition
 Paste Delay: Délai de collage
-Paste Menu: Menu de collage
+Paste Menu: Menu Coller
 Pin: Épingler
 Position: Position
 RESET: RÉINITIALISER
@@ -93,7 +93,7 @@ Start: Démarrer
 Submenu: Sous-menu
 UnPin: Désépingler
 UnPin Clip: Désépingler le clip
-Unmask Secret: Démasquer le secret
+Unmask Secret: Montrer code secret
 Up: Haut
 View: Vue
 not a code: pas un code

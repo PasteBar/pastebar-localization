@@ -1,5 +1,5 @@
 ' No': ' Non'
-' This permission ensures PasteBar can access the clipboard and perform copy and paste operations across applications.': ' Cette autorisation permet à PasteBar d''accéder au presse-papiers et d''effectuer des opérations de copier-coller entre les applications.'
+' This permission ensures PasteBar can access the clipboard and perform copy and paste operations across applications.': ' Cette autorisation permet à PasteBar d'accéder au presse-papiers et d'effectuer des opérations de copier-coller entre les applications.'
 About PasteBar: À propos de PasteBar
 Action Menu: Menu d'action
 ? Add <b>{{Clipboard}}</b> field to template. This allows you to copy text to the clipboard, and it will be inserted into the template
@@ -171,8 +171,8 @@ Path: Chemin
 Pause: Pause
 Pause Playing: Mettre en pause la lecture
 ? 'Permission Check Failed: PasteBar has not been successfully added to Accessibility settings. Please grant the required permissions and click Done again.'
-: 'Vérification des autorisations échouée : PasteBar n''a pas été ajouté avec succès aux paramètres d''accessibilité. Veuillez accorder les autorisations requises et cliquer à nouveau sur Terminé.'
-Pin Selected: Épingler la sélection
+: 'Vérification des autorisations échouée : PasteBar n'a pas été ajouté avec succès aux paramètres d'accessibilité. Veuillez accorder les autorisations requises et cliquer à nouveau sur Terminé.'
+Pin Selected: Épingle sélectionné
 Pinned: Épinglé
 Play: Lire
 Please add PasteBar to the list of apps in: Veuillez ajouter PasteBar à la liste des applications dans
@@ -237,7 +237,7 @@ Show all: Afficher tout
 Source: Source
 Split History Window: Diviser la fenêtre d'historique
 Star: Étoile
-Star Selected: Étoiler la sélection
+Star Selected: Étoile sélectionnée
 Stay here: Rester ici
 Stay in touch: Rester en contact
 Success!: Succès !
@@ -313,7 +313,7 @@ TypeMenu:
   Web Request (HTTP): Requête Web (HTTP)
   Web Scraper / Parser: Extracteur / Analyseur Web
 UnPin All: Tout désépingler
-UnPin Selected: Désépingler la sélection
+UnPin Selected: Désépingler sélectionné
 Unlock Application Screen: Déverrouiller l'écran de l'application
 Unlock Pro features: Déverrouiller les fonctionnalités Pro
 Unlock Screen: Déverrouiller l'écran
@@ -333,7 +333,7 @@ Version: Version
 View: Vue
 View Edit: Édition de la vue
 Views:
-  Paste Menu: Menu de collage
+  Paste Menu: Menu Coller
 We apologize but you found a bug. Please report this issue to us and try again: Nous nous excusons, mais vous avez trouvé un bogue. Veuillez nous signaler ce problème et réessayer
 ? We couldn't confirm this file's safety. Failed ID3 tag verification and integrity check. MP3 files can potentially contain malware. Please be cautious.
 : Nous n'avons pas pu confirmer la sécurité de ce fichier. Échec de la vérification des balises ID3 et du contrôle d'intégrité. Les fichiers MP3 peuvent potentiellement contenir des logiciels malveillants. Soyez prudent.
