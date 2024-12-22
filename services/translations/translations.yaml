@@ -74,3 +74,13 @@ zhCN:
   open_pastebar: 打开 PasteBar
   unlock_pastebar: 解锁 PasteBar
   quit: 退出
+tr:
+  add_first_item_here: Ilk Öğeyi Buraya Ekle
+  disable_history_capture: Geçmiş Yakalamayı Devre Dışı Bırak
+  enable_history_capture: Geçmiş Yakalamayı Etkinleştir
+  clipboard_image_size: Pano Resim boyutu
+  history_capture_is_disabled: Panoya Geçmiş Yakalama Devre Dışı
+  recent_history: Yakın Geçmiş
+  open_pastebar: PasteBar'ı aç
+  unlock_pastebar: PasteBar'ı kilitle
+  quit: Çık
