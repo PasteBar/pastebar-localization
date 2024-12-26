@@ -42,6 +42,17 @@ fr:
   unlock_pastebar: Déverrouiller PasteBar
   quit: Quitter
 
+it:
+  add_first_item_here: Aggiungi primo elemento
+  disable_history_capture: Disattiva cronologia
+  enable_history_capture: Attiva cronologia
+  clipboard_image_size: Dimensione Immagine negli Appunti
+  history_capture_is_disabled: Cattura cronologia disattivata
+  recent_history: Cronologia Recente
+  open_pastebar: Apri PasteBar
+  unlock_pastebar: Sblocca PasteBar
+  quit: Esci  
+
 uk:
   add_first_item_here: Додати сюди меню
   disable_history_capture: Вимкнути захоплення буфера
@@ -74,13 +85,14 @@ zhCN:
   open_pastebar: 打开 PasteBar
   unlock_pastebar: 解锁 PasteBar
   quit: 退出
+
 tr:
-  add_first_item_here: Ilk Öğeyi Buraya Ekle
+  add_first_item_here: İlk Öğeyi Buraya Ekle
   disable_history_capture: Geçmiş Yakalamayı Devre Dışı Bırak
   enable_history_capture: Geçmiş Yakalamayı Etkinleştir
-  clipboard_image_size: Pano Resim boyutu
-  history_capture_is_disabled: Panoya Geçmiş Yakalama Devre Dışı
-  recent_history: Yakın Geçmiş
-  open_pastebar: PasteBar'ı aç
-  unlock_pastebar: PasteBar'ı kilitle
-  quit: Çık
+  clipboard_image_size: Pano Resim Boyutu
+  history_capture_is_disabled: Geçmiş Yakalama Devre Dışı
+  recent_history: Son Geçmiş
+  open_pastebar: PasteBar'ı Aç
+  unlock_pastebar: PasteBar'ı Kilit Aç
+  quit: Çıkış
