@@ -1,24 +1,73 @@
 App restart required: 需要重启应用
 Application Starts with Main Window Hidden: 应用启动时隐藏主窗口
 Change: 更改
-Display navbar items only when the mouse hovers over the navigation bar to minimize visible UI elements: 仅在鼠标悬停在导航栏上时显示导航栏项目，减少可见的UI元素
-Global System OS Hotkeys: 全局系统操作系统热键
-Hide Collections Navbar: 隐藏收藏导航栏
-Hide collections menu dropdown on the navigation bar: 隐藏导航栏上的收藏菜单下拉列表
-Hide collections menu on the navbar: 在导航栏上隐藏收藏菜单
-Hide the App Dock Icon: 隐藏应用程序Dock图标
-? Keep the main application window hidden when the app restarts. You can reopen it using the menu bar or taskbar menu, or using global hotkeys.
-: 应用重启时保持主窗口隐藏。您可以使用菜单栏或任务栏菜单，或使用全局热键重新打开它。
+Copy only from menu items: 仅从菜单项复制
+Display navbar items only when the mouse hovers over the navigation bar to minimize visible UI elements: 仅在鼠标悬停在导航栏上时显示导航栏项，减少可见的UI元素
+Global System OS Hotkeys: 全局系统热键
+Hide Collections Navbar: 隐藏收藏集导航栏
+Hide collections menu dropdown on the navigation bar: 隐藏导航栏上的收藏集菜单下拉列表
+Hide collections menu on the navbar: 在导航栏上隐藏收藏集菜单
+Hide the App Dock Icon: 隐藏应用Dock图标
+Keep the main application window hidden when the app restarts. You can reopen it using the menu bar or taskbar menu, or using global hotkeys.: 应用重启时保持主窗口隐藏。您可以使用菜单栏或任务栏菜单，或使用全局热键重新打开它。
 No keys set: 未设置按键
 Press keys: 按下按键
-? Remove PasteBar app icon from the macOS Dock while keeping the app running in the background. The app remains accessible via the menu bar icon. Requires an app restart to take effect.
-: 从macOS Dock中移除PasteBar应用图标，同时保持应用在后台运行。应用仍可通过菜单栏图标访问。需要重启应用才能生效。
+Remove PasteBar app icon from the macOS Dock while keeping the app running in the background. The app remains accessible via the menu bar icon. Requires an app restart to take effect.: 从macOS Dock中移除PasteBar应用图标，同时保持应用在后台运行。应用仍可通过菜单栏图标访问。需要重启应用才能生效。
 Set: 设置
-Set system OS hotkeys to show/hide the main app window and quick paste window: 设置系统操作系统热键以显示/隐藏主应用窗口和快速粘贴窗口
+Set system OS hotkeys to show/hide the main app window and quick paste window: 设置系统操作系统热键以显示/隐藏主应用窗口和快速粘贴窗口。支持最多3键组合。
+'How to set hotkeys:': '如何设置热键：'
+Click Set/Change button to start recording: 点击设置/更改按钮开始录制
+Press your desired key combination (e.g., Ctrl+Shift+V): 按下您想要的按键组合（例如，Ctrl+Shift+V）
+Press Enter to confirm or Escape to cancel: 按回车键确认或按Escape键取消
+Press Backspace/Delete to clear the hotkey: 按退格键/删除键清除热键
+Press your key combination...: 按下您的按键组合...
+Recording...: 录制中...
 Show Navbar Items Hover: 导航栏项悬停显示
-Show collections menu on the navbar: 在导航栏上显示收藏菜单
+Show collections menu on the navbar: 在导航栏上显示收藏集菜单
 Show navbar elements on hover only: 仅在悬停时显示导航栏元素
 Show/Hide Main App Window: 显示/隐藏主应用窗口
 Show/Hide Quick Paste Window: 显示/隐藏快速粘贴窗口
 Quick Paste Window: 快速粘贴窗口
 PasteBar Quick Paste: PasteBar 快速粘贴
+Show Note Icons on Clips: 在剪辑上显示笔记图标
+Display persistent icons on clips that have notes to improve visual organization and make notes easier to discover.: 在有笔记的剪辑上显示持久图标，以改善视觉组织并使笔记更容易发现。
+Default Note Icon Type: 默认笔记图标类型
+Boards, saved clips and menu items panel visible: 面板、已保存剪辑和菜单项面板可见
+Both clipboard history and saved clips panels visible: 剪贴板历史记录和已保存剪辑面板都可见
+Clipboard history panel visible: 剪贴板历史记录面板可见
+Control which panels are visible in the main window: 控制在主窗口中可见的面板
+Enable simplified, less boxy layout for a cleaner and more streamlined interface design: 启用简化、更少方框式的布局，获得更干净和流线型的界面设计
+'Note: At least one panel must remain visible in main window.': '注意：主窗口中至少要保持一个面板可见。'
+Panel Visibility: 面板可见性
+Show Boards and Clips Panel Only: 仅显示面板和剪辑面板
+Show Both Panels: 显示两个面板
+Show History Panel Only: 仅显示历史记录面板
+Show Simplified Layout: 显示简化布局
+Simplified Panel Layout: 简化面板布局
+Enable single-click to copy/paste clipboard history items and saved clips instead of requiring double-click.: 启用单击复制/粘贴剪贴板历史记录和保存的剪辑，而不需要双击。
+Single Click Copy/Paste action: 单击复制/粘贴操作
+Single Click Copy/Paste: 单击复制/粘贴
+Set keyboard focus with a single click. Disables single-click copy/paste if set.: 单击设置键盘焦点。如果设置，则禁用单击复制/粘贴。
+Single-Click Keyboard Focus: 单击键盘焦点
+Quick Paste Window Options: 快速粘贴窗口选项
+Configure the behavior of the Quick Paste window when selecting items: 配置选择项目时快速粘贴窗口的行为
+Configure how the system tray icon responds to mouse clicks: 配置系统托盘图标如何响应鼠标点击
+Disable left-click context menu: 禁用左键点击时的上下文菜单
+Double-click toggles app visibility: 双击切换应用可见性
+Double-clicking the tray icon shows or hides the main application window: 双击托盘图标显示或隐藏主应用窗口
+Enabling either left-click option will disable the context menu to ensure proper functionality.: 启用任一左键选项将禁用上下文菜单以确保功能正常。
+Left-click toggles app visibility: 左键点击切换应用可见性
+Left-clicking the tray icon shows or hides the main application window: 左键点击托盘图标显示或隐藏主应用窗口
+Prevents the context menu from appearing when left-clicking the tray icon: 防止左键点击时弹出上下文菜单
+Tray Icon Behavior on Windows: Windows 系统托盘图标行为
+Clipboard History: 剪贴板历史记录
+Saved Clips: 已保存的剪辑
+Clear Clipboard History: 清除剪贴板历史记录
+Are you sure you want to clear the clipboard history? This action cannot be undone.: 您确定要清除剪贴板历史记录吗？此操作无法撤消。
+Keep Items on Clear: 清除时保留项目
+Keep Pinned Items: 保留已固定项目
+Keep Starred Items: 保留已星标项目
+Preserve pinned items when clearing history: 清除历史记录时保留已固定项目
+Preserve starred items when clearing history: 清除历史记录时保留已星标项目
+History Item Preview Max Lines: 历史项目预览最大行数
+Set the maximum number of lines to display in the preview of a history item: 设置历史项目预览中显示的最大行数
+Preview Max Lines: 预览最大行数

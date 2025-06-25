@@ -21,15 +21,14 @@ Add Section: Bölüm Ekle
 Add Tab: Sekme Ekle
 Add Template Field: Şablon Alanı Ekle
 Add a Tab: Bir Sekme Ekle
-Add field <b>&#123;&#123;<b>{{name}}</b>&#125;&#125;</b> into the template: Şablona <b>&#123;&#123;<b>{{name}}</b>&#125;&#125;</b> alan ekle
-Add field <b>{{<b>{{name}}</b>}}</b> into the template: Şablona <b>{{<b>{{name}}</b>}}</b> alan ekle
+Add field {{name}} into the template: Şablona {{name}} alan ekle
 Add image: Resim Ekle
 Add note: Not Ekle
 Add to Board: Panoya Ekle
 Add {{type}}: Ekle {{type}}
 All field labels must be unique to ensure they are correctly used within the template.: Şablonda doğru şekilde kullanılabilmesi için tüm alan etiketlerinin benzersiz olması gerekir.
 Are you sure you want to delete <strong>{{boardName}}</strong> board?: Bu panoyu silmek istediğinizden eminmisiniz? <strong>{{boardName}}</strong>
-Are you sure you want to delete <strong>{{tabName}}</strong> tab?:  Bu sekmeyi silmek istediğinizden eminmisiniz? <strong>{{tabName}}</strong>
+Are you sure you want to delete <strong>{{tabName}}</strong> tab?: Bu sekmeyi silmek istediğinizden eminmisiniz? <strong>{{tabName}}</strong>
 Are you sure you want to delete?: Silmek istediğinizden eminmisiniz?
 Are you sure you want to remove image from the clip?: Klipten resmi kaldırmak istediğinizden eminmisiniz?
 Auth: Yetkilendirme
@@ -38,7 +37,7 @@ Basic Auth: Temel Kimlik Doğrulama
 Basic Password: Temel Şifre
 Basic Username: Temel Kullanıcı Adı
 Bearer Token: Taşıyıcı Jeton
-Board Layout Height: Pano Düzeni Yüksekliği    
+Board Layout Height: Pano Düzeni Yüksekliği
 Board Layout Split: Pano Düzeni Bölünmesi
 Board Menu: Pano Menü
 Board is Not Empty: Pano Boş Değil
@@ -83,7 +82,7 @@ Delete field: Alanı sil
 Delete tab: Sekmeyi sil
 Detect Template Fields: Şablon Alanlarını Algıla
 Detect for Template Fields: Şablon Alanları için Algılama
-Disabled field <b>&#123;&#123;<b>{{name}}</b>&#125;&#125;</b> has been found in the template: Etkisiz Alanlar <b>&#123;&#123;<b>{{name}}</b>&#125;&#125;</b> şablonda bulundu
+Disabled field {{name}} has been found in the template: Etkisiz Alan {{name}} şablonda bulundu
 Done Create Clip: Klip Oluşturma Tamamlandı
 Done Edit: Düzenleme Tamamlandı
 Done Edit Tabs: Düzenleme Sekmeleri Tamamlandı
@@ -135,7 +134,7 @@ FILTERED_TYPES:
   RegEx Replace: RegEx Değiştir
   Remove Quotes: Remove Alıntılar
 Field: Alan
-Field <b>&#123;&#123;<b>{{name}}</b>&#125;&#125;</b> has been found in the template: Alan <b>&#123;&#123;<b>{{name}}</b>&#125;&#125;</b> şablonda bulundu
+Field {{name}} has been found in the template: Alan {{name}} şablonda bulundu
 Field Options: Alan Seçenekleri
 Fields Value: Alan Değeri
 File, folder or app path does not exist: Dosya, klasör veya uygulama yolu mevcut değil
@@ -265,3 +264,4 @@ template: şablon
 '{{count}} fields not found in the template._other': '{{count}} şablonda alanlar bulunamadı.'
 '{{type}} Field': '{{type}} Alan'
 '{{type}} field': '{{type}} alan'
+HTML: HTML

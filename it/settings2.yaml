@@ -1,24 +1,76 @@
-App restart required: Riavvio richiesto
+App restart required: Riavvio necessario
 Application Starts with Main Window Hidden: L'applicazione si avvia con la finestra principale nascosta
-Change: Cambia
-Display navbar items only when the mouse hovers over the navigation bar to minimize visible UI elements: Mostra gli elementi della barra di navigazione solo quando il mouse passa sopra per minimizzare gli elementi visibili dell'interfaccia
-Global System OS Hotkeys: Tasti di scelta rapida globali del sistema operativo
-Hide Collections Navbar: Nascondi la barra di navigazione delle collezioni
+Change: Modifica
+Configure how the system tray icon responds to mouse clicks: Configura come l'icona della barra di sistema risponde ai clic del mouse
+Copy only from menu items: Copia solo dagli elementi del menu
+Disable left-click context menu: Disabilita menu contestuale clic sinistro
+Display navbar items only when the mouse hovers over the navigation bar to minimize visible UI elements: Mostra gli elementi della barra di navigazione solo al passaggio del mouse per minimizzare gli elementi visibili dell'interfaccia
+Double-click toggles app visibility: Il doppio clic commuta la visibilità dell'app
+Double-clicking the tray icon shows or hides the main application window: Fare doppio clic sull'icona della barra di sistema mostra o nasconde la finestra principale dell'applicazione
+Enabling either left-click option will disable the context menu to ensure proper functionality.: L'abilitazione di una delle opzioni di clic sinistro disabiliterà il menu contestuale per garantire il corretto funzionamento.
+Global System OS Hotkeys: Tasti di scelta rapida globali del sistema
+Hide Collections Navbar: Nascondi barra delle collezioni
 Hide collections menu dropdown on the navigation bar: Nascondi il menu a discesa delle collezioni nella barra di navigazione
 Hide collections menu on the navbar: Nascondi il menu delle collezioni nella barra di navigazione
-Hide the App Dock Icon: Nascondi l'icona dell'applicazione nel Dock
-? Keep the main application window hidden when the app restarts. You can reopen it using the menu bar or taskbar menu, or using global hotkeys.
-: Mantieni la finestra principale dell'applicazione nascosta quando l'app si riavvia. Puoi riaprirla usando la barra dei menu o il menu della barra delle applicazioni, o usando i tasti di scelta rapida globali.
+Hide the App Dock Icon: Nascondi l'icona dell'app nel Dock
+Keep the main application window hidden when the app restarts. You can reopen it using the menu bar or taskbar menu, or using global hotkeys.: Mantieni nascosta la finestra principale dell'applicazione al riavvio. Puoi riaprirla usando la barra dei menu o il menu della barra delle applicazioni, o usando i tasti di scelta rapida globali.
 No keys set: Nessun tasto impostato
+PasteBar Quick Paste: Incolla rapido PasteBar
 Press keys: Premi i tasti
-? Remove PasteBar app icon from the macOS Dock while keeping the app running in the background. The app remains accessible via the menu bar icon. Requires an app restart to take effect.
-: Rimuovi l'icona dell'app PasteBar dal Dock di macOS mantenendo l'app in esecuzione in background. L'app rimane accessibile tramite l'icona nella barra dei menu. Richiede un riavvio dell'app per avere effetto.
+Quick Paste Window: Finestra incolla rapido
+Remove PasteBar app icon from the macOS Dock while keeping the app running in the background. The app remains accessible via the menu bar icon. Requires an app restart to take effect.: Rimuovi l'icona di PasteBar dal Dock di macOS mantenendo l'app in esecuzione in background. L'app rimane accessibile tramite l'icona della barra dei menu. Richiede un riavvio dell'app per avere effetto.
 Set: Imposta
-Set system OS hotkeys to show/hide the main app window and quick paste window: Imposta i tasti di scelta rapida del sistema operativo per mostrare/nascondere la finestra principale dell'app e la finestra di incollaggio rapido
-Show Navbar Items Hover: Mostra gli elementi della barra di navigazione al passaggio del mouse
+Set system OS hotkeys to show/hide the main app window and quick paste window: Imposta i tasti di scelta rapida del sistema per mostrare/nascondere la finestra principale e la finestra incolla rapido. Supporta combinazioni fino a 3 tasti.
+'How to set hotkeys:': 'Come impostare i tasti di scelta rapida:'
+Click Set/Change button to start recording: Fai clic sul pulsante Imposta/Modifica per iniziare la registrazione
+Press your desired key combination (e.g., Ctrl+Shift+V): Premi la combinazione di tasti desiderata (ad esempio, Ctrl+Shift+V)
+Press Enter to confirm or Escape to cancel: Premi Invio per confermare o Esc per annullare
+Press Backspace/Delete to clear the hotkey: Premi Backspace/Canc per cancellare il tasto di scelta rapida
+Press your key combination...: Premi la tua combinazione di tasti...
+Recording...: Registrazione...
+Show Navbar Items Hover: Mostra elementi barra al passaggio del mouse
 Show collections menu on the navbar: Mostra il menu delle collezioni nella barra di navigazione
-Show navbar elements on hover only: Mostra gli elementi della barra di navigazione solo al passaggio del mouse
+Show navbar elements on hover only: Mostra elementi della barra solo al passaggio del mouse
+Show/Hide Quick Paste Window: Mostra/Nascondi finestra incolla rapido
 Show/Hide Main App Window: Mostra/Nascondi la finestra principale dell'applicazione
-Show/Hide Quick Paste Window: Mostra/Nascondi la finestra di incollaggio rapido
-Quick Paste Window: Finestra di incollaggio rapido
-PasteBar Quick Paste: PasteBar Incolla Rapido
+Show Note Icons on Clips: Mostra icone delle note sui clip
+Display persistent icons on clips that have notes to improve visual organization and make notes easier to discover.: Visualizza icone persistenti sui clip che hanno note per migliorare l'organizzazione visiva e rendere le note più facili da scoprire.
+Default Note Icon Type: Tipo di icona nota predefinito
+Boards, saved clips and menu items panel visible: Pannello di bacheche, clip salvati e elementi menu visibile
+Both clipboard history and saved clips panels visible: Entrambi i pannelli cronologia appunti e clip salvati visibili
+Clipboard history panel visible: Pannello cronologia appunti visibile
+Control which panels are visible in the main window: Controlla quali pannelli sono visibili nella finestra principale
+Enable simplified, less boxy layout for a cleaner and more streamlined interface design: Abilita layout semplificato, meno squadrato per un design dell'interfaccia più pulito e ottimizzato
+'Note: At least one panel must remain visible in main window.': 'Nota: Almeno un pannello deve rimanere visibile nella finestra principale.'
+Panel Visibility: Visibilità pannelli
+Show Boards and Clips Panel Only: Mostra solo pannello bacheche e clip
+Show Both Panels: Mostra entrambi i pannelli
+Show History Panel Only: Mostra solo pannello cronologia
+Show Simplified Layout: Mostra layout semplificato
+Simplified Panel Layout: Layout pannello semplificato
+Enable single-click to copy/paste clipboard history items and saved clips instead of requiring double-click.: Abilita clic singolo per copiare/incollare elementi della cronologia appunti e clip salvati invece di richiedere doppio clic.
+Single Click Copy/Paste action: Azione clic singolo Copia/Incolla
+Single Click Copy/Paste: Clic singolo Copia/Incolla
+Set keyboard focus with a single click. Disables single-click copy/paste if set.: Imposta il focus della tastiera con un singolo clic. Disabilita copia/incolla con un clic se impostato.
+Single-Click Keyboard Focus: Focus tastiera a clic singolo
+Quick Paste Window Options: Opzioni finestra incolla rapido
+Configure the behavior of the Quick Paste window when selecting items: Configura il comportamento della finestra incolla rapido quando si selezionano elementi
+Copy items only (no auto-paste): Copia solo elementi (nessun incolla automatico)
+Auto-close window after action: Chiudi automaticamente finestra dopo l'azione
+When enabled, the Quick Paste window will automatically close after copying or pasting an item.: Quando abilitato, la finestra incolla rapido si chiuderà automaticamente dopo aver copiato o incollato un elemento.
+This sets the default icon type for new clips with notes. You can customize individual clips via the context menu.: Questo imposta il tipo di icona predefinito per i nuovi clip con note. Puoi personalizzare i singoli clip tramite il menu contestuale.
+? When enabled, clicking menu items will only copy content to clipboard instead of auto-pasting. This gives you more control over when and where content is pasted.
+: Quando abilitato, cliccando sugli elementi del menu si copierà solo il contenuto negli appunti invece di incollarlo automaticamente. Questo ti dà maggior controllo su quando e dove incollare il contenuto.
+? When enabled, clicking or pressing Enter on items in Quick Paste window will only copy them to clipboard without automatically pasting.
+: Quando abilitato, cliccando o premendo Invio sugli elementi nella finestra incolla rapido li copierà solo negli appunti senza incollarli automaticamente.
+? When enabled, single click will copy/paste items in Quick Paste window. If global single click is also enabled, both settings work together.
+: Quando abilitato, il clic singolo copierà/incollerà elementi nella finestra incolla rapido. Se anche il clic singolo globale è abilitato, entrambe le impostazioni funzionano insieme.
+Configure which items to preserve when clearing clipboard history (both manual and auto-clear operations).: Configura quali elementi conservare durante la cancellazione della cronologia degli appunti (sia manuale che automatica).
+Keep Items on Clear: Conserva elementi durante la cancellazione
+Keep Pinned Items: Conserva elementi fissati
+Keep Starred Items: Conserva elementi preferiti
+Preserve pinned items when clearing history: Conserva elementi fissati durante la cancellazione della cronologia
+Preserve starred items when clearing history: Conserva elementi preferiti durante la cancellazione della cronologia
+History Item Preview Max Lines: Limite massimo di righe di anteprima degli elementi della cronologia
+Set the maximum number of lines to display in the preview of a history item: Imposta il numero massimo di righe da visualizzare nell'anteprima di un elemento della cronologia
+Preview Max Lines: Righe di anteprima

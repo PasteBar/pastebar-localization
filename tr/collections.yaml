@@ -8,8 +8,7 @@ Collections: Koleksiyonlar
 Current Collection: Şimdiki Koleksiyon
 Delete Collection: Koleksiyonu Sil
 Delete all menu items within this collection: Bu koleksiyondaki tüm menü öğelerini sil
-? Deleting the collection will remove it permanently. You can also choose to delete all menu and clips items within the collection by checking the box below.
-: Koleksiyonu silmek onu kalıcı olarak kaldıracaktır. Ayrıca aşağıdaki kutuyu işaretleyerek koleksiyondaki tüm menü ve klip öğelerini silmeyi seçebilirsiniz.
+Deleting the collection will remove it permanently. You can also choose to delete all menu and clips items within the collection by checking the box below.: Koleksiyonu silmek onu kalıcı olarak kaldıracaktır. Ayrıca aşağıdaki kutuyu işaretleyerek koleksiyondaki tüm menü ve klip öğelerini silmeyi seçebilirsiniz.
 Description: Açıklama
 Display full name of selected collection on the navigation bar: Gezinme çubuğunda seçili koleksiyonun tam adını görüntüle
 Enter collection title: Koleksiyona başlık ekle
@@ -18,3 +17,9 @@ Show collection name on the navbar: Koleksiyon adını gezinme çubuğunda göst
 Switch collections: Koleksiyonları değiştir
 You can add the selected text to your clips or menu. Please select the option below.: Seçili metni kliplerinize veya menünüze ekleyebilirsiniz. Lütfen aşağıdakı seçeneği işaretleyin.
 You need to select a different collection before deleting the current one.: Mevcut koleksiyonu silmeden önce farklı bir koleksiyon seçmeniz gerekiyor.
+Choose which collections require PIN entry for access.: Hangi koleksiyonların erişim için PIN girişi gerektirdiğini seçin.
+Pin Protected Collections: PIN korumalı koleksiyonlar
+Protect Collections with PIN: Koleksiyonları PIN ile koruyun
+Protected Collection: Korumalı koleksiyon
+Select Collections: Koleksiyonları seçin
+Select protected collections: Korumalı koleksiyonları seçin

@@ -1,7 +1,6 @@
 <strong>{{screenLockPassCodeLength}}</strong> digits passcode is set.: <strong>{{screenLockPassCodeLength}}</strong> rakamlı şifre ayarlandı.
 Activation Success: Aktivasyon Başarılı
-? Add a star to the copied text when you copy it twice within 1 second. This allows you to quickly add copied text or links to your favorites and easily find it in the clipboard history.
-: Kopyalanan metni 1 saniye içinde iki kez kopyaladığınızda, kopyalanan metne bir yıldız ekleyin. Bu, kopyalanan metni veya bağlantıları favorilerinize hızlı bir şekilde eklemenizi ve pano geçmişinde kolayca bulmanızı sağlar.
+Add a star to the copied text when you copy it twice within 1 second. This allows you to quickly add copied text or links to your favorites and easily find it in the clipboard history.: Kopyalanan metni 1 saniye içinde iki kez kopyaladığınızda, kopyalanan metne bir yıldız ekleyin. Bu, kopyalanan metni veya bağlantıları favorilerinize hızlı bir şekilde eklemenizi ve pano geçmişinde kolayca bulmanızı sağlar.
 Add an unlimited number of tabs within each collection for better organization and easy access.: Daha iyi organizasyon ve kolay erişim için her koleksiyona sınırsız sayıda sekme ekleyin.
 'Add an unlimited number of tabs within each collection for better organization and easy access.                                ': 'Daha iyi organizasyon ve kolay erişim için her koleksiyona sınırsız sayıda sekme ekleyin.                                '
 Advanced settings: Gelişmiş ayarlar
@@ -23,11 +22,12 @@ Auto-Generate Link Card Preview: Otomatik Bağlantı Kartı Önizlemesi Oluştur
 Auto-Preview Link on Hover: Üzerine gelindiğinde Bağlantıyı Otomatik Önizleme
 Auto-Star on Double Copy: Çift Kopyalamada Otomatik Favorile
 Auto-Update on Capture: Yakalamada Otomatik Güncelleme
+Auto-Trim Spaces on Capture: Yakalamada Otomatik Boşluk Kaldırma
 Auto-delete clipboard history after: Panonun geçmişini otomatik olarak sil
-? Automatically create link card preview in the clipboard history. This allows to quickly view website details without opening or pasting the link.
-: Bağlantı kartı önizlemesini pano geçmişinde otomatik olarak oluşturun. Bu, bağlantıyı açmadan veya yapıştırmadan web sitesi ayrıntılarını hızlı bir şekilde görüntülemenizi sağlar.
+Automatically create link card preview in the clipboard history. This allows to quickly view website details without opening or pasting the link.: Bağlantı kartı önizlemesini pano geçmişinde otomatik olarak oluşturun. Bu, bağlantıyı açmadan veya yapıştırmadan web sitesi ayrıntılarını hızlı bir şekilde görüntülemenizi sağlar.
 Back: Geri
 Capture History: Yakalama Geçmişi
+Capture History Text Length Limits: Yakalama Geçmişi Metin Uzunluğu Sınırları
 Change the application UI font size scale: Uygulama arayüzü yazı tipi boyutunu değiştirme
 Change the application UI language: Uygulama arayüzü dilini değiştirin
 Change the application user interface color theme: Uygulama arayüzü renk temasını değiştirin
@@ -42,8 +42,7 @@ Create an unlimited number of collections to organize your clips and menus.: Kli
 Custom: Özel
 Custom themes: Özel temalar
 Decrease UI Font Size: Arayüz Yazı Tipi Boyutunu Azalt
-? Display clipboard history capture toggle on the locked application screen. This allows you to control history capture settings directly from the lock screen.
-: Kilitli uygulama ekranında panoya geçmiş yakalama geçişini görüntüleyin. Bu, geçmiş yakalama ayarlarını doğrudan kilit ekranından kontrol etmenizi sağlar.
+Display clipboard history capture toggle on the locked application screen. This allows you to control history capture settings directly from the lock screen.: Kilitli uygulama ekranında panoya geçmiş yakalama geçişini görüntüleyin. Bu, geçmiş yakalama ayarlarını doğrudan kilit ekranından kontrol etmenizi sağlar.
 Display disabled collections name on the navigation bar collections menu: Gezinme çubuğu koleksiyonlar menüsünde devre dışı bırakılan koleksiyonların adını göster
 Display disabled collections name on the navigation bar under collections menu: Koleksiyonlar menüsü altındaki gezinme çubuğunda devre dışı bırakılan koleksiyonların adını göster
 Display full name of selected collection on the navigation bar: Gezinme çubuğunda seçili koleksiyonun tam adını görüntüle
@@ -58,13 +57,14 @@ Enable application auto start on system boot: Sistem açıldığında uygulaman�
 Enable auto lock the application screen after a certain period of inactivity, to prevent unauthorized access to your data.: Verilerinize yetkisiz erişimi önlemek için, belirli bir süre hareketsizlikten sonra uygulama ekranının otomatik olarak kilitlenmesini etkinleştirin.
 Enable auto lock the application screen when user not active: Kullanıcı aktif olmadığında uygulama ekranının otomatik olarak kilitlenmesini etkinleştirin
 Enable auto update on capture: Yakalama sırasında otomatik güncellemeyi etkinleştir
+Enable auto trim spaces on history capture: Geçmiş yakalamada otomatik boşluk kırpmayı etkinleştir
 Enable history capture: Geçmiş yakalamayı etkinleştir
 Enable programming language detection: Programlama dili algılamayı etkinleştir
 Enable screen unlock requirement on app launch for enhanced security, safeguarding data from unauthorized access.: Gelişmiş güvenlik için uygulama başlatıldığında ekran kilidi açma gereksinimini etkinleştirin ve verileri yetkisiz erişime karşı koruyun.
 Enhance security by automatically locking the application screen after a set period of user inactivity.: Kullanıcının belirli bir süre hareketsiz kalması durumunda uygulama ekranını otomatik olarak kilitleyerek güvenliği artırın.
 Enter Passcode length: Şifre uzunluğunu girin
 Enter recovery password to reset passcode.: Şifreyi sıfırlamak için kurtarma parolasını girin.
-Enter your <strong>{{screenLockPassCodeLength}} digits</strong> passcode: <strong>{{screenLockPassCodeLength}} haneli</strong> şifrenizi girin
+Enter your <strong>{{screenLockPassCodeLength}} digits</strong> passcode: <strong>{{screenLockPassCodeLength}} haneli</strong> şifrenizi girin
 Entered Passcode is invalid: Girilen Parola geçersiz
 Excluded Apps List: Hariç Tutulan Uygulamalar Listesi
 Execute Web Requests: Web Isteklerini Yürüt
@@ -126,26 +126,22 @@ Recovery password is set.: Kurtarma şifresi ayarlandı.
 Refresh Application UI: Uygulama Arayüzünü Yenile
 Refresh UI: Arayüzü Yenile
 Require Screen Unlock at Application Start: Uygulama Başlangıcında Ekran Kilidini Açmayı Gerektir
-? Require screen unlock at application launch to enhance security. This setting ensures that only authorized users can access the application, protecting your data from unauthorized access right from the start.
-: Güvenliği artırmak için uygulama başlatıldığında ekran kilidini açmayı zorunlu kılın. Bu ayar, yalnızca yetkili kullanıcıların uygulamaya erişebilmesini sağlayarak verilerinizi en baştan yetkisiz erişime karşı korur.
+Require screen unlock at application launch to enhance security. This setting ensures that only authorized users can access the application, protecting your data from unauthorized access right from the start.: Güvenliği artırmak için uygulama başlatıldığında ekran kilidini açmayı zorunlu kılın. Bu ayar, yalnızca yetkili kullanıcıların uygulamaya erişebilmesini sağlayarak verilerinizi en baştan yetkisiz erişime karşı korur.
 Reset Font Size: Yazı Tipi Boyutunu Sıfırla
 Run Terminal or Shell Commands: Terminal veya Kabuk Komutlarını Çalıştırın
 Scrape and parse websites or API responses using built-in web scraping tools and copy the extracted data to the clipboard.: Dahili web kazıma araçlarını kullanarak web sitelerini veya API yanıtlarını kazıyın, ayrıştırın ve çıkarılan verileri panoya kopyalayın.
-? 'Scrape and parse websites or API responses using built-in web scraping tools and copy the extracted data to the clipboard.                                '
-: 'Dahili web kazıma araçlarını kullanarak web sitelerini veya API yanıtlarını kazıyın, ayrıştırın ve çıkarılan verileri panoya kopyalayın.                                '
+'Scrape and parse websites or API responses using built-in web scraping tools and copy the extracted data to the clipboard.                                ': 'Dahili web kazıma araçlarını kullanarak web sitelerini veya API yanıtlarını kazıyın, ayrıştırın ve çıkarılan verileri panoya kopyalayın.                                '
 Security: Güvenlik
 Security Settings: Güvenlik Ayarları
 Send HTTP requests to web APIs or services and copy the response data to the clipboard.: Web API'lerine veya servislerine HTTP istekleri gönderin ve yanıt verilerini panoya kopyalayın.
 Sensitive words or sentences listed below will automatically be masked if found in the copied text. Case insensitive.: Aşağıda listelenen hassas kelimeler veya cümleler kopyalanan metinde bulunursa otomatik olarak maskelenecektir. Büyük/küçük harfe duyarlı değildir.
 Set a passcode to unlock the locked screen and protect your data from unauthorized access.: Kilitli ekranınızı açmak ve verilerinizi yetkisiz erişime karşı korumak için bir parola belirleyin.
-? Set a recovery password to easily reset your lock screen passcode if forgotten. Your password will be securely stored in your device's OS storage.
-: Kilit ekranı parolanızı unuttuğunuzda kolayca sıfırlamak için bir kurtarma parolası ayarlayın. Parolanız cihazınızın işletim sistemi depolamasında güvenli bir şekilde saklanacaktır.
+Set a recovery password to easily reset your lock screen passcode if forgotten. Your password will be securely stored in your device's OS storage.: Kilit ekranı parolanızı unuttuğunuzda kolayca sıfırlamak için bir kurtarma parolası ayarlayın. Parolanız cihazınızın işletim sistemi depolamasında güvenli bir şekilde saklanacaktır.
 Settings: Ayarlar
 Show Clipboard History Capture Control on Lock Screen: Kilit Ekranında Panoya Geçmiş Yakalama Denetimini Göster
 Show Disable History Capture When Screen Locked: Ekran Kilitliyken Geçmiş Yakalamayı Devre Dışı Bırak'ı göster
 Show Disabled Collections: Etkisiz Koleksiyonlarını Göster
-? Show clipboard history capture toggle when the application screen is locked. This allow you to control capturing history settings from the application locked screen.
-: Uygulama ekranı kilitliyken panoya geçmiş yakalama geçişini göster. Bu, uygulama kilitli ekranından yakalama geçmişi ayarlarını kontrol etmenizi sağlar.
+Show clipboard history capture toggle when the application screen is locked. This allow you to control capturing history settings from the application locked screen.: Uygulama ekranı kilitliyken panoya geçmiş yakalama geçişini göster. Bu, uygulama kilitli ekranından yakalama geçmişi ayarlarını kontrol etmenizi sağlar.
 Show collection name on the navbar: Koleksiyon adını gezinme çubuğunda göster
 Show disabled collections on the navbar list: Etkisiz koleksiyonları gezinme çubuğu listesinde göster
 Skip auto start prompt on app launch: Uygulama başlatıldığında otomatik başlatma istemini atla
@@ -155,10 +151,9 @@ Swap Panels Layout: Panel Düzenini Değiştir
 Switch the layout position of panels in Clipboard History and Paste Menu views: Panoya Geçmiş ve Yapıştır Menüsü görünümlerinde panellerin düzen konumunu değiştirin
 Thank you again for using PasteBar.: PasteBar'ı kullandığınız için tekrar teşekkür ederiz.
 Thank you for testing! 🙌: Test ettiğiniz için teşekkür ederiz! 🙌
-? This option lets you control the display and timing of hover notes on clips. You can choose to show notes instantly or with a delay to prevent unintended popups.
-: Bu seçenek, kliplerdeki gezinme notlarının görüntülenmesini ve zamanlamasını kontrol etmenizi sağlar. Notları anında veya istenmeyen açılır pencereleri önlemek için gecikmeli olarak göstermeyi seçebilirsiniz.
-? This option lets you customize the maximum width and height of the popup that displays clip notes, ensuring it fits comfortably within your desired size.
-: Bu seçenek, klip notlarını görüntüleyen açılır pencerenin maksimum genişliğini ve yüksekliğini özelleştirmenize olanak tanır ve böylece pencerenin istediğiniz boyuta rahatça sığmasını sağlar.
+This option lets you control the display and timing of hover notes on clips. You can choose to show notes instantly or with a delay to prevent unintended popups.: Bu seçenek, kliplerdeki gezinme notlarının görüntülenmesini ve zamanlamasını kontrol etmenizi sağlar. Notları anında veya istenmeyen açılır pencereleri önlemek için gecikmeli olarak göstermeyi seçebilirsiniz.
+This option lets you customize the maximum width and height of the popup that displays clip notes, ensuring it fits comfortably within your desired size.: Bu seçenek, klip notlarını görüntüleyen açılır pencerenin maksimum genişliğini ve yüksekliğini özelleştirmenize olanak tanır ve böylece pencerenin istediğiniz boyuta rahatça sığmasını sağlar.
+This option lets you customize the minimum and maximum length of text that can be captured in the clipboard history. Setting either value to 0 makes that limit unlimited.: Bu seçenek, panoya kaydedilen metnin minimum ve maksimum uzunluğunu özelleştirmenize olanak tanır. Her iki değeri de 0 olarak ayarlamak, bu sınırı sınırsız yapar.
 To downgrade your current version, please visit: Mevcut sürümünüzü düşürmek için lütfen şu adresi ziyaret edin
 'To downgrade, please visit: ': 'Sürümü düşürmek için lütfen şu adresi ziyaret edin:'
 To ensure the best detection accuracy, please select up to 7 languages. Limiting choices improves precision.: En iyi algılama doğruluğunu sağlamak için lütfen 7 dile kadar seçin. Seçenekleri sınırlamak hassasiyeti artırır.
@@ -177,3 +172,41 @@ Web Scraping and Parsing: Web Kazıma ve Ayrıştırma
 Words or sentences listed below will not be captured in clipboard history if found in the copied text. Case insensitive.: Aşağıda listelenen kelimeler veya cümleler kopyalanan metinde bulunursa pano geçmişine kaydedilmeyecektir. Büyük/küçük harf duyarlı değildir.
 passcode reset: parolayı sıfırla
 password reset: şifreyi sıfırla
+Apply and Restart: Uygula ve Yeniden Başlat
+Are you sure you want to set "{{path}}" as the new data folder? The application will restart.: '"{{path}}" yeni veri klasörü olarak ayarlamak istediğinizden emin misiniz? Uygulama yeniden başlayacak.'
+Are you sure you want to {{operation}} the database to "{{path}}"? The application will restart.: 'Veritabanını "{{path}}" konumuna {{operation}} yapmak istediğinizden emin misiniz? Uygulama yeniden başlayacak.'
+Change Custom Data Folder...: Özel Veri Klasörünü Değiştir...
+Change Selected Folder...: Seçili Klasörü Değiştir...
+Changing the database location requires an application restart to take effect.: Veritabanı konumunu değiştirmek, etkili olması için uygulamanın yeniden başlatılmasını gerektirir.
+ConfirmRevertToDefaultDbPathMessage: Varsayılan veri konumuna geri dönmek istediğinizden emin misiniz? Uygulama verileriniz varsayılan yola taşınacak.
+Copy data: Veriyi kopyala
+Current data folder: Mevcut veri klasörü
+Custom Application Data Location: Özel Uygulama Veri Konumu
+Custom data location is active. You can change it or revert to the default location. Changes require an application restart.: Özel veri konumu aktif. Değiştirebilir veya varsayılan konuma geri dönebilirsiniz. Değişiklikler uygulama yeniden başlatma gerektirir.
+Default: Varsayılan
+Enable custom data location to store application data in a directory of your choice instead of the default location.: Uygulama verilerini varsayılan konum yerine seçtiğiniz bir dizinde depolamak için özel veri konumunu etkinleştirin.
+Failed to apply custom database location.: Özel veritabanı konumu uygulanamadı.
+Failed to create directory. Please check permissions and try again.: Dizin oluşturulamadı. Lütfen izinleri kontrol edin ve tekrar deneyin.
+Failed to revert to default database location.: Varsayılan veritabanı konumuna geri dönülemedi.
+Found existing "pastebar-data" folder. The application will use this folder to store data.: Mevcut "pastebar-data" klasörü bulundu. Uygulama verileri depolamak için bu klasörü kullanacak.
+Invalid directory selected.: Geçersiz dizin seçildi.
+Operation when applying new path: Yeni yol uygulanırken işlem
+Please select a directory first.: Lütfen önce bir dizin seçin.
+Please select a new directory different from the current one.: Lütfen mevcut olandan farklı yeni bir dizin seçin.
+Revert to Default: Varsayılana Dön
+Select Data Folder: Veri Klasörü Seç
+Select Data Folder...: Veri Klasörü Seç...
+Select a custom location to store your application data instead of the default location.: Uygulama verilerinizi varsayılan konum yerine depolamak için özel bir konum seçin.
+Selected data folder: Seçili veri klasörü
+Selected new data folder for change: Değişiklik için seçili yeni veri klasörü
+Setting a custom database location requires an application restart to take effect.: Özel veritabanı konumu ayarlamak, etkili olması için uygulama yeniden başlatması gerektirir.
+The selected folder is not empty and does not contain PasteBar data files. Do you want to create a "pastebar-data" subfolder to store the data?: Seçili klasör boş değil ve PasteBar veri dosyalarını içermiyor. Verileri depolamak için "pastebar-data" alt klasörü oluşturmak istiyor musunuz?
+This folder already contains PasteBar data. The application will use this existing data after restart.: Bu klasör zaten PasteBar verileri içeriyor. Uygulama yeniden başlatıldıktan sonra mevcut verileri kullanacak.
+Use new location: Yeni konumu kullan
+An error occurred during directory processing.: Dizin işleme sırasında bir hata oluştu.
+An error occurred during directory selection or setup.: Dizin seçimi veya kurulumu sırasında bir hata oluştu.
+Disable Image Capture: Görüntü Yakalamayı Devre Dışı Bırak
+Disable capturing and storing images from clipboard: Panodan görüntü yakalama ve depolamayı devre dışı bırak
+Custom Database Location: Özel Veritabanı Konumu
+Selected new data folder: Değişiklik için seçili yeni veri klasörü
+none: hiçbiri

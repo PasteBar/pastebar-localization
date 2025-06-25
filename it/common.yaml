@@ -15,8 +15,7 @@ Add to Clips or Menu: Aggiungi ai Clip o al Menu
 Add to Menu: Aggiungi al Menu
 Add to clip or menu: Aggiungi al clip o al menu
 Add to template fields: Aggiungi ai campi del modello
-? Add {{Clipboard}} field to template. This allows you to copy text to the clipboard, and it will be inserted into the template
-: Aggiungi il campo <b>{{Clipboard}}</b> al modello. Questo ti permette di copiare il testo negli appunti e sarà inserito nel modello
+Add {{Clipboard}} field to template. This allows you to copy text to the clipboard, and it will be inserted into the template: Aggiungi il campo <b>{{Clipboard}}</b> al modello. Questo ti permette di copiare il testo negli appunti e sarà inserito nel modello
 Added: Aggiunto
 Adding this file to the player is not recommended unless you trust the source.: Non è consigliabile aggiungere questo file al lettore a meno che non ti fidi della fonte.
 Allow PasteBar to Copy and Paste from Clipboard: Consenti a PasteBar di Copiare e Incollare dagli Appunti
@@ -52,10 +51,13 @@ Confirm Password: Conferma Password
 Confirm Remove: Conferma Rimozione
 Confirm Your Passcode: Conferma il Tuo Codice di Accesso
 Confirm action: Conferma azione
-Confirm password reset: Conferma reset password
-Confirm password reset action: Conferma azione di reset password
+Confirm Password Reset: Conferma reset password
 Confirm your action: Conferma la tua azione
 Confirm {{action}}: Conferma {{action}}
+Confirm Add To Protected Collections: Conferma aggiunta alle collezioni protette
+Confirm Disable PIN Protection: Conferma disabilitazione protezione con PIN
+Confirm Remove From Protected Collections: Conferma rimozione dalle collezioni protette
+Confirm Enable PIN Protection: Conferma abilitazione protezione con PIN
 Contact Form: Modulo di Contatto
 Copied: Copiato
 Copy: Copia
@@ -96,14 +98,14 @@ Enter Passcode: Inserisci Codice di Accesso
 Enter Password: Inserisci Password
 Enter Recovery Password: Inserisci Password di Recupero
 Enter passcode or password to unlock: Inserisci codice di accesso o password per sbloccare
+Enter PIN to Access Protected Collection: Inserisci il PIN per accedere alla collezione protetta
 Errors:
   Error loading link: Errore nel caricamento del link
   Cant save file: Impossibile salvare il file
   Something went wrong! {{err}} Please try again.: Qualcosa è andato storto! {{err}} Per favore riprova.
 Expand Edit: Espandi Modifica
 Field is not found in the template: Il campo non è stato trovato nel modello
-? Field {{Clipboard}} has been found in the template. This allows you to copy text to the clipboard, and it will be inserted into the template
-: Il campo <b>{{Clipboard}}</b> è stato trovato nel modello. Questo ti permette di copiare il testo negli appunti e sarà inserito nel modello
+Field {{Clipboard}} has been found in the template. This allows you to copy text to the clipboard, and it will be inserted into the template: Il campo <b>{{Clipboard}}</b> è stato trovato nel modello. Questo ti permette di copiare il testo negli appunti e sarà inserito nel modello
 Find Clip: Trova Clip
 Find History: Trova nella Cronologia
 Found in template but missing from fields definition: Trovato nel modello ma mancante nella definizione dei campi
@@ -127,8 +129,10 @@ Make Enabled: Rendi Abilitato
 Make Inactive: Rendi Inattivo
 Manage: Gestisci
 Maximum height: Altezza massima
+Maximum length: Lunghezza massima
 Maximum width: Larghezza massima
 Menu: Menu
+Minimum length: Lunghezza minima
 Move Down: Sposta Giù
 Move Up: Sposta Su
 Multi Select: Selezione Multipla
@@ -161,8 +165,7 @@ Pasted: Incollato
 Path: Percorso
 Pause: Pausa
 Pause Playing: Metti in Pausa
-? 'Permission Check Failed: PasteBar has not been successfully added to Accessibility settings. Please grant the required permissions and click Done again.'
-: 'Controllo Permessi Fallito: PasteBar non è stato aggiunto con successo alle impostazioni di Accessibilità. Per favore concedi i permessi richiesti e clicca di nuovo su Fatto.'
+'Permission Check Failed: PasteBar has not been successfully added to Accessibility settings. Please grant the required permissions and click Done again.': 'Controllo Permessi Fallito: PasteBar non è stato aggiunto con successo alle impostazioni di Accessibilità. Per favore concedi i permessi richiesti e clicca di nuovo su Fatto.'
 Pin Selected: Appunta Selezionati
 Pinned: Appuntato
 Pinned_few: Appuntati
@@ -232,7 +235,7 @@ Show Large View: Mostra Vista Grande
 Show all: Mostra tutto
 Something goes wrong! Please try again.: Qualcosa è andato storto! Per favore riprova.
 Source: Fonte
-Split History Window: Dividi Finestra Cronologia
+Open History Window: Apri Finestra Cronologia
 Star: Stella
 Star Selected: Aggiungi Stella ai Selezionati
 Stay here: Rimani qui
@@ -288,6 +291,7 @@ Type:
   Run Auto Fill: Esegui Compilazione Automatica
   Scraper: Scraper
   Secret: Segreto
+  Trim: Rimuovi Spazi
   Shell Command: Comando Shell
   Template: Modello
   Template Fill: Compilazione Modello
@@ -334,8 +338,7 @@ View Edit: Modifica Vista
 Views:
   Paste Menu: Menu Incolla
 We apologize but you found a bug. Please report this issue to us and try again: Ci scusiamo, ma hai trovato un bug. Per favore, segnalaci questo problema e riprova
-? We couldn't confirm this file's safety. Failed ID3 tag verification and integrity check. MP3 files can potentially contain malware. Please be cautious.
-: Non abbiamo potuto confermare la sicurezza di questo file. Verifica del tag ID3 e controllo di integrità falliti. I file MP3 possono potenzialmente contenere malware. Si prega di essere cauti.
+We couldn't confirm this file's safety. Failed ID3 tag verification and integrity check. MP3 files can potentially contain malware. Please be cautious.: Non abbiamo potuto confermare la sicurezza di questo file. Verifica del tag ID3 e controllo di integrità falliti. I file MP3 possono potenzialmente contenere malware. Si prega di essere cauti.
 Yes: Sì
 Yes, activate: Sì, attiva
 chars: caratteri
@@ -350,3 +353,9 @@ second: secondo
 seconds: secondi
 show less: mostra meno
 www.site: www.pastebar.app
+Add <b>{{Clipboard}}</b> field to template. This allows you to copy text to the clipboard, and it will be inserted into the template: Aggiungi il campo <b>{{Clipboard}}</b> al modello. Questo ti permette di copiare il testo negli appunti e sarà inserito nel modello
+Clear History: Cancella Cronologia
+'Copy of ': 'Copia di '
+Field <b>{{Clipboard}}</b> has been found in the template. This allows you to copy text to the clipboard, and it will be inserted into the template: Il campo <b>{{Clipboard}}</b> è stato trovato nel modello. Questo ti permette di copiare il testo negli appunti e sarà inserito nel modello
+Size: Dimensione
+Update Error: Errore di Aggiornamento

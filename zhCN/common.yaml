@@ -2,7 +2,7 @@
 ' This permission ensures PasteBar can access the clipboard and perform copy and paste operations across applications.': ' 此权限确保 PasteBar 可以访问剪贴板并在应用程序间执行复制和粘贴操作。'
 About PasteBar: 关于 PasteBar
 Action Menu: 操作菜单
-"Add <b>{{Clipboard}}</b> field to template. This allows you to copy text to the clipboard, and it will be inserted into the template": 添加 <b>{{Clipboard}}</b> 字段到模板。这允许您复制文本到剪贴板，并将其插入到模板中。
+'Add <b>{{Clipboard}}</b> field to template. This allows you to copy text to the clipboard, and it will be inserted into the template': 添加 <b>{{Clipboard}}</b> 字段到模板。这允许您复制文本到剪贴板，并将其插入到模板中。
 Add Clip: 添加剪辑
 Add First Option: 添加首个选项
 Add Link Card: 添加链接卡片
@@ -23,7 +23,7 @@ Are you sure you want to delete?: 确定要删除吗？
 Are you sure?: 确定吗？
 Attach History Window: 附加历史窗口
 Back: 返回
-"Build on {{buildDate}}": 构建于 {{buildDate}}
+'Build on {{buildDate}}': 构建于 {{buildDate}}
 Cancel: 取消
 Cancel Reset: 取消重置
 Check: 检查
@@ -54,11 +54,8 @@ Confirm Passcode: 确认密码
 Confirm Password: 确认密码
 Confirm Remove: 确认移除
 Confirm Your Passcode: 确认您的密码
-Confirm passcode reset: 确认密码重置
-Confirm password reset: 确认密码重置
-Confirm password reset action: 确认密码重置操作
-Confirm your action: 确认您的操作
-"Confirm {{action}}": 确认 {{action}}
+Confirm Passcode Reset: 确认密码重置
+Confirm Password Reset: 确认密码重置
 Contact Form: 联系表单
 Copied: 已复制
 Copy: 复制
@@ -68,7 +65,7 @@ Copy and Paste: 复制和粘贴
 Copy to Clipboard: 复制到剪贴板
 Create: 创建
 Created: 已创建
-Delay Next: 延迟下一个
+Delay Next: 延迟下一个操作
 Delete: 删除
 Deselect All: 取消全选
 Deselect pinned: 取消固定
@@ -99,13 +96,14 @@ Enter Passcode: 输入密码
 Enter Password: 输入密码
 Enter Recovery Password: 输入恢复密码
 Enter passcode or password to unlock: 输入密码或密码以解锁
+Enter PIN to Access Protected Collection: 输入PIN以访问受保护的集合
 Errors:
   Error loading link: 加载链接错误
   Cant save to file: 无法保存到文件
-  "Something went wrong! {{err}} Please try again.": 出错了！{{err}} 请重试。
+  'Something went wrong! {{err}} Please try again.': 出错了！{{err}} 请重试。
 Expand Edit: 展开编辑
-"Expires on {{proExpiresOn}}": 于 {{proExpiresOn}} 过期
-"? Field <b>{{Clipboard}}</b> has been found in the template. This allows you to copy text to the clipboard, and it will be inserted into the template": 在模板中找到字段 <b>{{Clipboard}}</b>。这允许您将文本复制到剪贴板，然后将其插入模板中。
+'Expires on {{proExpiresOn}}': 于 {{proExpiresOn}} 过期
+'? Field <b>{{Clipboard}}</b> has been found in the template. This allows you to copy text to the clipboard, and it will be inserted into the template': 在模板中找到字段 <b>{{Clipboard}}</b>。这允许您将文本复制到剪贴板，然后将其插入模板中。
 Field is not found in the template: 在模板中未找到字段
 Find Clip: 查找剪辑
 Find History: 查找历史
@@ -115,7 +113,7 @@ Hide Muli Select: 隐藏多选
 Hide Pinned Board: 隐藏固定面板
 History: 历史
 Image: 图片
-"Image Scale {{ImageScale}}x": 图片缩放 {{ImageScale}}x
+'Image Scale {{ImageScale}}x': 图片缩放 {{ImageScale}}x
 Image size: 图片大小
 Image size in pixels: 图片大小（像素）
 In View: 查看中
@@ -132,13 +130,15 @@ Make Enabled: 设为启用
 Make Inactive: 设为非活动
 Manage: 管理
 Maximum height: 最大高度
+Maximum length: 最大长度
 Maximum width: 最大宽度
 Menu: 菜单
+Minimum length: 最小长度
 Move Down: 向下移动
 Move Up: 向上移动
 Multi Select: 多选
 'Name: {{name}}': '名称：{{name}}'
-Next Delay: 下一个延迟
+Next Delay: 下一个操作的延迟
 Next Track: 下一曲目
 No: 否
 No Key Press: 无按键
@@ -156,9 +156,9 @@ Open contact form in browser: 在浏览器中打开联系表单
 Open payment in browser: 在浏览器中打开支付
 Options: 选项
 Password: 密码
-Paste Delay: 粘贴延迟
+Paste Delay: 粘贴间隔时间
 Paste Menu: 粘贴菜单
-"Paste in {{pastingCountDown}}...": 将在 {{pastingCountDown}} 后粘贴...
+'Paste in {{pastingCountDown}}...': 将在 {{pastingCountDown}} 后粘贴...
 PasteBar: PasteBar
 PasteBar Application Error: PasteBar 应用程序错误
 PasteBar History: PasteBar 历史
@@ -168,8 +168,7 @@ Pasted: 已粘贴
 Path: 路径
 Pause: 暂停
 Pause Playing: 暂停播放
-? 'Permission Check Failed: PasteBar has not been successfully added to Accessibility settings. Please grant the required permissions and click Done again.'
-: '权限检查失败：PasteBar 未成功添加到辅助功能设置。请授予所需权限，然后再次点击完成。'
+'Permission Check Failed: PasteBar has not been successfully added to Accessibility settings. Please grant the required permissions and click Done again.': '权限检查失败：PasteBar 未成功添加到辅助功能设置。请授予所需权限，然后再次点击完成。'
 Pin Selected: 固定所选
 Pinned: 已固定
 Play: 播放
@@ -223,7 +222,7 @@ Select option: 选择选项
 Select pinned: 选择固定项
 Separate History Window: 分离历史窗口
 Sequence Copy: 序列复制
-Sequence Copy Paste: 序列复制粘贴
+Sequence Copy Paste: 顺序复制粘贴
 Sequence Delay Next: 序列延迟下一个
 Sequence Next Delay: 序列下一个延迟
 Sequence Paste: 序列粘贴
@@ -233,12 +232,11 @@ Set Password: 设置密码
 Show Large View: 显示大视图
 Show all: 显示全部
 Source: 来源
-Split History Window: 分割历史窗口
 Star: 星标
 Star Selected: 星标所选
 Stay here: 留在这里
 Stay in touch: 保持联系
-Success!: 成功！
+Success!: 操作成功！
 Swap Panels Layout: 交换面板布局
 System Settings -> Privacy & Security -> Accessibility: 系统设置 -> 隐私与安全 -> 辅助功能
 Thank you for reporting the error.: 感谢您报告错误。
@@ -285,6 +283,7 @@ Type:
   Run Auto Fill: 运行自动填充
   Scraper: 抓取器
   Secret: 密钥
+  Trim: 修剪空格
   Shell Command: Shell 命令
   Submenu: 子菜单
   Template: 模板
@@ -323,7 +322,7 @@ Updated: 已更新
 Upgrade to Pro: 升级到专业版
 Use Passcode: 使用密码
 Use Password: 使用密码
-"Using <b>{{Clipboard}}</b> field, allows you to copy text to the clipboard, and it will be inserted into the template": 使用 <b>{{Clipboard}}</b> 字段，允许您将文本复制到剪贴板，然后将其插入模板中
+'Using <b>{{Clipboard}}</b> field, allows you to copy text to the clipboard, and it will be inserted into the template': 使用 <b>{{Clipboard}}</b> 字段，允许您将文本复制到剪贴板，然后将其插入模板中
 Verify: 验证
 Verify Current Password: 验证当前密码
 Verify Recovery Password: 验证恢复密码
@@ -333,8 +332,7 @@ View Edit: 编辑视图
 Views:
   Paste Menu: 粘贴菜单
 We apologize but you found a bug. Please report this issue to us and try again: 我们很抱歉，但您发现了一个错误。请向我们报告此问题，然后重试
-? We couldn't confirm this file's safety. Failed ID3 tag verification and integrity check. MP3 files can potentially contain malware. Please be cautious.
-: 我们无法确认此文件的安全性。ID3 标签验证和完整性检查失败。MP3 文件可能包含恶意软件。请谨慎。
+We couldn't confirm this file's safety. Failed ID3 tag verification and integrity check. MP3 files can potentially contain malware. Please be cautious.: 我们无法确认此文件的安全性。ID3 标签验证和完整性检查失败。MP3 文件可能包含恶意软件。请谨慎。
 Yes: 是
 Yes, activate: 是，激活
 chars: 字符
@@ -349,3 +347,9 @@ second: 秒
 seconds: 秒
 show less: 显示更少
 www.site: www.pastebar.app
+Field <b>{{Clipboard}}</b> has been found in the template. This allows you to copy text to the clipboard, and it will be inserted into the template: 在模板中找到字段 <b>{{Clipboard}}</b>。这允许您将文本复制到剪贴板，然后将其插入模板中。
+Size: 大小
+Confirm Add To Protected Collections: 确认添加到受保护的集合
+Confirm Disable PIN Protection: 确认禁用PIN保护
+Confirm Remove From Protected Collections: 确认从受保护的集合中移除
+Confirm Enable PIN Protection: 确认启用PIN保护

@@ -8,8 +8,7 @@ Collections: Коллекции
 Current Collection: Текущая коллекция
 Delete Collection: Удалить коллекцию
 Delete all menu items within this collection: Удалить все элементы меню в этой коллекции
-? Deleting the collection will remove it permanently. You can also choose to delete all menu and clips items within the collection by checking the box below.
-: Удаление коллекции приведет к ее полному удалению. Вы также можете удалить все элементы меню и клипов в коллекции, отметив флажок ниже.
+Deleting the collection will remove it permanently. You can also choose to delete all menu and clips items within the collection by checking the box below.: Удаление коллекции приведет к ее полному удалению. Вы также можете удалить все элементы меню и клипов в коллекции, отметив флажок ниже.
 Description: Описание
 Display full name of selected collection on the navigation bar: Отображать полное название выбранной коллекции на панели навигации
 Enter collection title: Введите название коллекции
@@ -18,3 +17,9 @@ Show collection name on the navbar: Показывать название кол
 Switch collections: Переключить коллекции
 You can add the selected text to your clips or menu. Please select the option below.: Вы можете добавить выделенный текст в свои клипы или меню. Пожалуйста, выберите ниже.
 You need to select a different collection before deleting the current one.: Вам нужно выбрать другую коллекцию перед удалением текущей.
+Choose which collections require PIN entry for access.: Выберите, для каких коллекций требуется ввод PIN для доступа.
+Pin Protected Collections: Коллекции, защищенные PIN
+Protect Collections with PIN: Защитить коллекции с помощью PIN
+Protected Collection: Защищенная коллекция
+Select Collections: Выбрать коллекции
+Select protected collections: Выбрать защищенные коллекции

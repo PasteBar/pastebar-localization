@@ -1,24 +1,77 @@
-App restart required: Se requiere reiniciar
-Application Starts with Main Window Hidden: La aplicación inicia con la ventana principal oculta
+App restart required: Reinicio requerido
+Application Starts with Main Window Hidden: La aplicación se inicia con la ventana principal oculta
 Change: Cambiar
-Display navbar items only when the mouse hovers over the navigation bar to minimize visible UI elements: Mostrar elementos de la barra de navegación solo cuando el mouse pase por encima para minimizar los elementos visibles de la interfaz
-Global System OS Hotkeys: Teclas de acceso rápido globales del sistema operativo
-Hide Collections Navbar: Ocultar barra de navegación de colecciones
+Copy only from menu items: Copiar solo desde elementos del menú
+Display navbar items only when the mouse hovers over the navigation bar to minimize visible UI elements: Mostrar elementos de la barra de navegación solo cuando el ratón se posiciona sobre ella para minimizar elementos visibles de la interfaz
+Global System OS Hotkeys: Atajos de teclado globales del sistema
+Hide Collections Navbar: Ocultar barra de colecciones
 Hide collections menu dropdown on the navigation bar: Ocultar menú desplegable de colecciones en la barra de navegación
 Hide collections menu on the navbar: Ocultar menú de colecciones en la barra de navegación
 Hide the App Dock Icon: Ocultar el icono de la aplicación en el Dock
-? Keep the main application window hidden when the app restarts. You can reopen it using the menu bar or taskbar menu, or using global hotkeys.
-: Mantener la ventana principal de la aplicación oculta cuando la aplicación se reinicia. Puede reabrirla usando la barra de menú o el menú de la barra de tareas, o usando teclas de acceso rápido globales.
-No keys set: No hay teclas configuradas
-Press keys: Presione las teclas
-? Remove PasteBar app icon from the macOS Dock while keeping the app running in the background. The app remains accessible via the menu bar icon. Requires an app restart to take effect.
-: Eliminar el icono de la aplicación PasteBar del Dock de macOS mientras la aplicación sigue ejecutándose en segundo plano. La aplicación sigue siendo accesible a través del icono en la barra de menú. Requiere reiniciar la aplicación para que surta efecto.
+Keep the main application window hidden when the app restarts. You can reopen it using the menu bar or taskbar menu, or using global hotkeys.: Mantener la ventana principal de la aplicación oculta al reiniciar. Puedes reabrirla usando la barra de menú o el menú de la barra de tareas, o usando atajos de teclado globales.
+No keys set: Sin teclas asignadas
+PasteBar Quick Paste: Pegado rápido PasteBar
+Press keys: Presiona las teclas
+Remove PasteBar app icon from the macOS Dock while keeping the app running in the background. The app remains accessible via the menu bar icon. Requires an app restart to take effect.: Eliminar el icono de PasteBar del Dock de macOS mientras mantiene la aplicación ejecutándose en segundo plano. La aplicación permanece accesible a través del icono de la barra de menú. Requiere reiniciar la aplicación para que tenga efecto.
 Set: Establecer
-Set system OS hotkeys to show/hide the main app window and quick paste window: Configurar teclas de acceso rápido del sistema operativo para mostrar/ocultar la ventana principal de la aplicación y la ventana de pegado rápido
-Show Navbar Items Hover: Mostrar elementos de la barra de navegación al pasar el mouse
+Set system OS hotkeys to show/hide the main app window and quick paste window. Supports up to 3-key combinations.: Establecer atajos de teclado del sistema para mostrar/ocultar la ventana principal y la ventana de pegado rápido. Admite hasta combinaciones de 3 teclas.
+'How to set hotkeys:': 'Cómo establecer atajos de teclado:'
+Click Set/Change button to start recording: Haz clic en el botón Establecer/Cambiar para comenzar a grabar
+Press your desired key combination (e.g., Ctrl+Shift+V): Presiona tu combinación de teclas deseada (ej. Ctrl+Shift+V)
+Press Enter to confirm or Escape to cancel: Presiona Enter para confirmar o Escape para cancelar
+Press Backspace/Delete to clear the hotkey: Presiona Backspace/Delete para borrar el atajo de teclado
+Press your key combination...: Presiona tu combinación de teclas...
+Recording...: Grabando...
+Show Navbar Items Hover: Mostrar elementos de barra al pasar el ratón
 Show collections menu on the navbar: Mostrar menú de colecciones en la barra de navegación
-Show navbar elements on hover only: Mostrar elementos de la barra de navegación solo al pasar el mouse
-Show/Hide Main App Window: Mostrar/Ocultar ventana principal de la aplicación
+Show navbar elements on hover only: Mostrar elementos de la barra solo al pasar el ratón
+Show/Hide Main App Window: Mostrar/Ocultar ventana principal
 Show/Hide Quick Paste Window: Mostrar/Ocultar ventana de pegado rápido
 Quick Paste Window: Ventana de pegado rápido
-PasteBar Quick Paste: PasteBar Pegado Rápido
+Show Note Icons on Clips: Mostrar iconos de notas en clips
+Display persistent icons on clips that have notes to improve visual organization and make notes easier to discover.: Mostrar iconos persistentes en clips que tienen notas para mejorar la organización visual y hacer que las notas sean más fáciles de descubrir.
+Default Note Icon Type: Tipo de icono de nota predeterminado
+Boards, saved clips and menu items panel visible: Panel de tableros, clips guardados y elementos de menú visible
+Both clipboard history and saved clips panels visible: Ambos paneles de historial del portapapeles y clips guardados visibles
+Clipboard history panel visible: Panel de historial del portapapeles visible
+Control which panels are visible in the main window: Controla qué paneles son visibles en la ventana principal
+Enable simplified, less boxy layout for a cleaner and more streamlined interface design: Habilitar diseño simplificado, menos cuadrado para una interfaz más limpia y optimizada
+'Note: At least one panel must remain visible in main window.': 'Nota: Al menos un panel debe permanecer visible en la ventana principal.'
+Panel Visibility: Visibilidad de paneles
+Show Boards and Clips Panel Only: Mostrar solo panel de tableros y clips
+Show Both Panels: Mostrar ambos paneles
+Show History Panel Only: Mostrar solo panel de historial
+Show Simplified Layout: Mostrar diseño simplificado
+Simplified Panel Layout: Diseño de panel simplificado
+Enable single-click to copy/paste clipboard history items and saved clips instead of requiring double-click.: Habilitar clic simple para copiar/pegar elementos del historial del portapapeles y clips guardados en lugar de requerir doble clic.
+Single Click Copy/Paste action: Acción de clic simple Copiar/Pegar
+Single Click Copy/Paste: Clic simple Copiar/Pegar
+Set keyboard focus with a single click. Disables single-click copy/paste if set.: Establecer foco del teclado con un clic simple. Desactiva copiar/pegar de un clic si está activado.
+Single-Click Keyboard Focus: Foco de teclado de un clic
+Quick Paste Window Options: Opciones de la ventana de pegado rápido
+Configure the behavior of the Quick Paste window when selecting items: Configurar el comportamiento de la ventana de pegado rápido al seleccionar elementos
+Configure how the system tray icon responds to mouse clicks: Configurar cómo responde el icono de la bandeja del sistema a los clics del ratón
+Disable left-click context menu: Deshabilitar menú contextual del clic izquierdo
+Double-click toggles app visibility: El doble clic alterna la visibilidad de la aplicación
+Double-clicking the tray icon shows or hides the main application window: Hacer doble clic en el icono de la bandeja muestra u oculta la ventana principal de la aplicación
+Enabling either left-click option will disable the context menu to ensure proper functionality.: Habilitar cualquiera de las opciones de clic izquierdo deshabilitará el menú contextual para asegurar el funcionamiento adecuado.
+Left-click toggles app visibility: El clic izquierdo alterna la visibilidad de la aplicación
+Left-clicking the tray icon shows or hides the main application window: Hacer clic izquierdo en el icono de la bandeja muestra u oculta la ventana principal de la aplicación
+Prevents the context menu from appearing when left-clicking the tray icon: Previene que aparezca el menú contextual al hacer clic izquierdo en el icono de la bandeja
+Tray Icon Behavior on Windows: Comportamiento del icono de la bandeja en Windows
+This sets the default icon type for new clips with notes. You can customize individual clips via the context menu.: Esto establece el tipo de icono predeterminado para nuevos clips con notas. Puedes personalizar clips individuales a través del menú contextual.
+? When enabled, clicking menu items will only copy content to clipboard instead of auto-pasting. This gives you more control over when and where content is pasted.
+: Cuando está habilitado, hacer clic en elementos del menú solo copiará el contenido al portapapeles en lugar de pegarlo automáticamente. Esto te da más control sobre cuándo y dónde se pega el contenido.
+? When enabled, clicking or pressing Enter on items in Quick Paste window will only copy them to clipboard without automatically pasting.
+: Cuando está habilitado, hacer clic o presionar Enter en elementos de la ventana de pegado rápido solo los copiará al portapapeles sin pegarlos automáticamente.
+? When enabled, single click will copy/paste items in Quick Paste window. If global single click is also enabled, both settings work together.
+: Cuando está habilitado, el clic simple copiará/pegará elementos en la ventana de pegado rápido. Si el clic simple global también está habilitado, ambas configuraciones funcionan juntas.
+Configure which items to preserve when clearing clipboard history (both manual and auto-clear operations).: Configure qué elementos conservar al borrar el historial del portapapeles (tanto manual como automáticamente).
+Keep Items on Clear: Conservar elementos al borrar
+Keep Pinned Items: Conservar elementos fijados
+Keep Starred Items: Conservar elementos destacados
+Preserve pinned items when clearing history: Conservar elementos fijados al borrar el historial
+Preserve starred items when clearing history: Conservar elementos destacados al borrar el historial
+History Item Preview Max Lines: Límite máximo de líneas de vista previa de elementos del historial
+Set the maximum number of lines to display in the preview of a history item: Establecer el número máximo de líneas para mostrar en la vista previa de un elemento del historial
+Preview Max Lines: Líneas de vista previa

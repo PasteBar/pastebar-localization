@@ -1,24 +1,71 @@
-App restart required: App restart required
-Application Starts with Main Window Hidden: Application Starts with Main Window Hidden
-Change: Change
-Display navbar items only when the mouse hovers over the navigation bar to minimize visible UI elements: Display navbar items only when the mouse hovers over the navigation bar to minimize visible UI elements
-Global System OS Hotkeys: Global System OS Hotkeys
-Hide Collections Navbar: Hide Collections Navbar
-Hide collections menu dropdown on the navigation bar: Hide collections menu dropdown on the navigation bar
-Hide collections menu on the navbar: Hide collections menu on the navbar
-Hide the App Dock Icon: Hide the App Dock Icon
-? Keep the main application window hidden when the app restarts. You can reopen it using the menu bar or taskbar menu, or using global hotkeys.
-: Keep the main application window hidden when the app restarts. You can reopen it using the menu bar or taskbar menu, or using global hotkeys.
-No keys set: No keys set
-PasteBar Quick Paste: PasteBar Quick Paste
-Press keys: Press keys
-Quick Paste Window: Quick Paste Window
-? Remove PasteBar app icon from the macOS Dock while keeping the app running in the background. The app remains accessible via the menu bar icon. Requires an app restart to take effect.
-: Remove PasteBar app icon from the macOS Dock while keeping the app running in the background. The app remains accessible via the menu bar icon. Requires an app restart to take effect.
-Set: Set
-Set system OS hotkeys to show/hide the main app window and quick paste window: Set system OS hotkeys to show/hide the main app window and quick paste window
-Show Navbar Items Hover: Show Navbar Items Hover
-Show collections menu on the navbar: Show collections menu on the navbar
-Show navbar elements on hover only: Show navbar elements on hover only
-Show/Hide Main App Window: Show/Hide Main App Window
-Show/Hide Quick Paste Window: Show/Hide Quick Paste Window
+App restart required: Neustart nötig
+Application Starts with Main Window Hidden: Anwendung startet mit verborgenem Hauptfenster
+Change: Ändern
+Copy only from menu items: Nur aus Menüelementen kopieren
+Display navbar items only when the mouse hovers over the navigation bar to minimize visible UI elements: Navigationsleistenelemente nur bei Mauszeiger anzeigen, um sichtbare UI-Elemente zu minimieren
+Global System OS Hotkeys: Globale System-Tastenkombinationen
+Hide Collections Navbar: Sammlungs-Navigationsleiste ausblenden
+Hide collections menu dropdown on the navigation bar: Sammlungs-Dropdown-Menü in der Navigationsleiste ausblenden
+Hide collections menu on the navbar: Sammlungsmenü in der Navigationsleiste ausblenden
+Hide the App Dock Icon: App-Dock-Symbol ausblenden
+Keep the main application window hidden when the app restarts. You can reopen it using the menu bar or taskbar menu, or using global hotkeys.: Hauptanwendungsfenster beim Neustart verborgen halten. Sie können es über die Menüleiste oder das Taskleistenmenü oder mit globalen Tastenkombinationen wieder öffnen.
+No keys set: Keine Tasten festgelegt
+PasteBar Quick Paste: PasteBar Schnelleinfügen
+Press keys: Tasten drücken
+Quick Paste Window: Schnelleinfügen-Fenster
+Remove PasteBar app icon from the macOS Dock while keeping the app running in the background. The app remains accessible via the menu bar icon. Requires an app restart to take effect.: PasteBar-App-Symbol aus dem macOS Dock entfernen, während die App im Hintergrund läuft. Die App bleibt über das Menüleistensymbol zugänglich. Erfordert einen App-Neustart, um wirksam zu werden.
+Set: Festlegen
+Set system OS hotkeys to show/hide the main app window and quick paste window. Supports up to 3-key combinations.: System-Tastenkombinationen zum Anzeigen/Verbergen des Hauptfensters und des Schnelleinfügen-Fensters festlegen. Unterstützt bis zu 3-Tasten-Kombinationen.
+'How to set hotkeys:': 'So stellen Sie Hotkeys ein:'
+Click Set/Change button to start recording: Klicken Sie auf die Schaltfläche Festlegen/Ändern, um die Aufzeichnung zu starten
+Press your desired key combination (e.g., Ctrl+Shift+V): Drücken Sie Ihre gewünschte Tastenkombination (z.B. Ctrl+Shift+V)
+Press Enter to confirm or Escape to cancel: Drücken Sie Enter zum Bestätigen oder Escape zum Abbrechen
+Press Backspace/Delete to clear the hotkey: Drücken Sie Backspace/Delete, um den Hotkey zu löschen
+Press your key combination...: Drücken Sie Ihre Tastenkombination...
+Recording...: Aufzeichnen...
+Show Navbar Items Hover: Navigationsleistenelemente bei Hover anzeigen
+Show collections menu on the navbar: Sammlungsmenü in der Navigationsleiste anzeigen
+Show navbar elements on hover only: Navigationsleistenelemente nur bei Hover anzeigen
+Show/Hide Main App Window: Hauptfenster anzeigen/verbergen
+Show/Hide Quick Paste Window: Schnelleinfügen-Fenster anzeigen/verbergen
+Show Note Icons on Clips: Notiz-Symbole auf Clips anzeigen
+Display persistent icons on clips that have notes to improve visual organization and make notes easier to discover.: Dauerhafte Symbole auf Clips mit Notizen anzeigen, um die visuelle Organisation zu verbessern und Notizen leichter auffindbar zu machen.
+Default Note Icon Type: Standard-Notiz-Symbol-Typ
+This sets the default icon type for new clips with notes. You can customize individual clips via the context menu.: Dies legt den Standard-Symbol-Typ für neue Clips mit Notizen fest. Sie können einzelne Clips über das Kontextmenü anpassen.
+Boards, saved clips and menu items panel visible: Boards-, gespeicherte Clips- und Menüelemente-Panel sichtbar
+Both clipboard history and saved clips panels visible: Sowohl Zwischenablage-Verlauf als auch gespeicherte Clips-Panels sichtbar
+Clipboard history panel visible: Zwischenablage-Verlauf-Panel sichtbar
+Control which panels are visible in the main window: Steuern Sie, welche Panels im Hauptfenster sichtbar sind
+Enable simplified, less boxy layout for a cleaner and more streamlined interface design: Vereinfachtes, weniger kastenförmiges Layout für ein saubereres und optimiertes Interface-Design aktivieren
+'Note: At least one panel must remain visible in main window.': 'Hinweis: Mindestens ein Panel muss im Hauptfenster sichtbar bleiben.'
+Panel Visibility: Panel-Sichtbarkeit
+Show Boards and Clips Panel Only: Nur Boards- und Clips-Panel anzeigen
+Show Both Panels: Beide Panels anzeigen
+Show History Panel Only: Nur Verlauf-Panel anzeigen
+Show Simplified Layout: Vereinfachtes Layout anzeigen
+Simplified Panel Layout: Vereinfachtes Panel-Layout
+Enable single-click to copy/paste clipboard history items and saved clips instead of requiring double-click.: Einfachklick zum Kopieren/Einfügen von Zwischenablage-Verlauf und gespeicherten Clips aktivieren, anstatt Doppelklick zu erfordern.
+Single Click Copy/Paste action: Einfachklick Kopieren/Einfügen-Aktion
+Single Click Copy/Paste: Einfachklick Kopieren/Einfügen
+Set keyboard focus with a single click. Disables single-click copy/paste if set.: Tastatur-Fokus mit einem Klick setzen. Deaktiviert Einfachklick Kopieren/Einfügen, wenn aktiviert.
+Single-Click Keyboard Focus: Einfachklick Tastatur-Fokus
+Quick Paste Window Options: Schnelleinfügen-Fenster-Optionen
+Configure how the system tray icon responds to mouse clicks: Konfigurieren Sie, wie das Systemtray-Symbol auf Mausklicks reagiert
+Configure the behavior of the Quick Paste window when selecting items: Konfigurieren Sie das Verhalten des Schnelleinfügen-Fensters beim Auswählen von Elementen
+Disable left-click context menu: Linksklick-Kontextmenü deaktivieren
+Double-click toggles app visibility: Doppelklick schaltet App-Sichtbarkeit um
+Double-clicking the tray icon shows or hides the main application window: Doppelklick auf das Tray-Symbol zeigt oder verbirgt das Hauptanwendungsfenster
+Enabling either left-click option will disable the context menu to ensure proper functionality.: Das Aktivieren einer der beiden Linksklick-Optionen deaktiviert das Kontextmenü, um ordnungsgemäße Funktionalität sicherzustellen.
+Left-click toggles app visibility: Linksklick schaltet App-Sichtbarkeit um
+Left-clicking the tray icon shows or hides the main application window: Linksklick auf das Tray-Symbol zeigt oder verbirgt das Hauptanwendungsfenster
+Prevents the context menu from appearing when left-clicking the tray icon: Verhindert, dass das Kontextmenü beim Linksklick auf das Tray-Symbol erscheint
+Tray Icon Behavior on Windows: Tray-Symbol-Verhalten unter Windows
+Configure which items to preserve when clearing clipboard history (both manual and auto-clear operations).: Konfigurieren Sie, welche Elemente beim Löschen des Zwischenablageverlaufs beibehalten werden sollen (sowohl manuell als auch automatisch).
+Keep Items on Clear: Elemente beim Löschen beibehalten
+Keep Pinned Items: Angehängte Elemente beibehalten
+Keep Starred Items: Mit Stern markierte Elemente beibehalten
+Preserve pinned items when clearing history: Angehängte Elemente beim Löschen des Verlaufs beibehalten
+Preserve starred items when clearing history: Mit Stern markierte Elemente beim Löschen des Verlaufs beibehalten
+History Item Preview Max Lines: Maximale Vorschauzeilenanzahl für Verlaufselemente
+Set the maximum number of lines to display in the preview of a history item: Maximale Anzahl der Zeilen für die Vorschau eines Verlaufselements festlegen
+Preview Max Lines: Vorschauzeilen

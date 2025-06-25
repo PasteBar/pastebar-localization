@@ -10,7 +10,7 @@ GlobalSearch:
   Nothing found in clips, boards or menus.: Kliplerde, panolarda veya menülerde hiçbir şey bulunamadı.
   Nothing found in clips.: Kliplerde hiçbir şey bulunamadı.
   Nothing found in menus.: Menülerde hiçbir şey bulunamadı.
-  Press / key to search: aramak için / tuşuna bas 
+  Press / key to search: aramak için / tuşuna bas
   Search: Ara
   Search Name or Label Only: Sadece Adı veya Etiketi Ara
   Search Options: Arama Seçenekleri
@@ -23,7 +23,11 @@ Lock Screen: Kilit Ekranı
 Open PasteBar: PasteBar'ı aç
 Options: Ayarlar
 Player: Oynatıcı
+Show Always on Top: Her zaman üstte göster
+Show Both Panels: Her İki Paneli Göster
+Show Clips Panel Only: Sadece Klip Panelini Göster
 Show Collections Name: Koleksiyon Adını Göster
+Show History Panel Only: Sadece Geçmiş Panelini Göster
 Swap Panels Layout: Panel Düzenini Değiştir
 Theme:
   Dark: Koyu

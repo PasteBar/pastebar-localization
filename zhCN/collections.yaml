@@ -8,8 +8,7 @@ Collections: 收藏
 Current Collection: 当前收藏
 Delete Collection: 删除收藏
 Delete all menu items within this collection: 删除此收藏中的所有菜单项
-? Deleting the collection will remove it permanently. You can also choose to delete all menu and clips items within the collection by checking the box below.
-: 删除此收藏将永久移除。您也可以勾选下面的复选框来删除收藏中的所有菜单和剪辑。
+Deleting the collection will remove it permanently. You can also choose to delete all menu and clips items within the collection by checking the box below.: 删除此收藏将永久移除。您也可以勾选下面的复选框来删除收藏中的所有菜单和剪辑。
 Description: 描述
 Display full name of selected collection on the navigation bar: 在导航栏显示所选收藏的完整名称
 Enter collection title: 输入收藏标题
@@ -18,3 +17,9 @@ Show collection name on the navbar: 在导航栏显示收藏名称
 Switch collections: 切换收藏
 You can add the selected text to your clips or menu. Please select the option below.: 您可以将所选文本添加到剪辑或菜单。请在下方选择选项。
 You need to select a different collection before deleting the current one.: 删除当前收藏前，您需要先选择一个不同的收藏。
+Choose which collections require PIN entry for access.: 选择哪些集合需要输入PIN才能访问。
+Pin Protected Collections: PIN保护的集合
+Protect Collections with PIN: 使用PIN保护集合
+Protected Collection: 受保护的集合
+Select Collections: 选择集合
+Select protected collections: 选择受保护的集合

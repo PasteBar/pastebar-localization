@@ -1,24 +1,80 @@
-App restart required: Uygulamanın yeniden başlatılması gerekiyor
-Application Starts with Main Window Hidden: Uygulama Ana Pencere Gizli Olarak Başlıyor
+App restart required: Yeniden başlatma lazım
+Application Starts with Main Window Hidden: Uygulama ana pencere gizli olarak başlar
 Change: Değiştir
-Display navbar items only when the mouse hovers over the navigation bar to minimize visible UI elements: Görünür kullanıcı arayüzü öğelerini en aza indirmek için gezinme çubuğu öğelerini yalnızca fare gezinme çubuğunun üzerindeyken görüntüleyin
-Global System OS Hotkeys: Genel Işletim Sistemi Kısayolları
-Hide Collections Navbar: Koleksiyonlar Navigasyon Çubuğunu Gizle
-Hide collections menu dropdown on the navigation bar: Gezinme çubuğundaki koleksiyonlar menüsü açılır menüsünü gizle
+Copy only from menu items: Sadece menü öğelerinden kopyala
+Display navbar items only when the mouse hovers over the navigation bar to minimize visible UI elements: Görünür arayüz öğelerini en aza indirmek için gezinme çubuğu öğelerini yalnızca fare üzerine geldiğinde göster
+Global System OS Hotkeys: Global Sistem Kısayol Tuşları
+Hide Collections Navbar: Koleksiyonlar Gezinme Çubuğunu Gizle
+Hide collections menu dropdown on the navigation bar: Gezinme çubuğundaki koleksiyonlar açılır menüsünü gizle
 Hide collections menu on the navbar: Gezinme çubuğundaki koleksiyonlar menüsünü gizle
 Hide the App Dock Icon: Uygulama Dock Simgesini Gizle
-? Keep the main application window hidden when the app restarts. You can reopen it using the menu bar or taskbar menu, or using global hotkeys.
-: Uygulama yeniden başlatıldığında ana uygulama penceresini gizli tutun. Menü çubuğunu veya görev çubuğu menüsünü kullanarak veya genel kısayol tuşlarını kullanarak yeniden açabilirsiniz.
-No keys set: Anahtar ayarlanmadı
-PasteBar Quick Paste: PasteBar Çabuk Yapıştır
+Keep the main application window hidden when the app restarts. You can reopen it using the menu bar or taskbar menu, or using global hotkeys.: Uygulama yeniden başladığında ana uygulama penceresini gizli tut. Menü çubuğu veya görev çubuğu menüsünü kullanarak veya global kısayol tuşlarını kullanarak yeniden açabilirsiniz.
+No keys set: Tuş atanmadı
+PasteBar Quick Paste: PasteBar Hızlı Yapıştır
 Press keys: Tuşlara basın
 Quick Paste Window: Hızlı Yapıştır Penceresi
-? Remove PasteBar app icon from the macOS Dock while keeping the app running in the background. The app remains accessible via the menu bar icon. Requires an app restart to take effect.
-: Uygulamayı arka planda çalıştırmaya devam ederken macOS Dock'tan PasteBar uygulama simgesini kaldırın. Uygulama menü çubuğu simgesi aracılığıyla erişilebilir olmaya devam eder. Etkili olması için uygulamanın yeniden başlatılması gerekir.
-Set: Set
-Set system OS hotkeys to show/hide the main app window and quick paste window: Ana uygulama penceresini ve hızlı yapıştırma penceresini gösterm/gizle için sistem işletim sistemi kısayol tuşlarını ayarlayın
-Show Navbar Items Hover: Navbar Öğelerini Göster
-Show collections menu on the navbar: Gezinme çubuğunda koleksiyonlar menüsünü göster.
-Show navbar elements on hover only: Navigasyon çubuğu öğelerini yalnızca üzerine gelindiğinde göster.
+Remove PasteBar app icon from the macOS Dock while keeping the app running in the background. The app remains accessible via the menu bar icon. Requires an app restart to take effect.: PasteBar uygulama simgesini macOS Dock'tan kaldırır ancak uygulama arka planda çalışmaya devam eder. Uygulamaya menü çubuğu simgesi üzerinden erişilebilir. Etkili olması için uygulama yeniden başlatma gerekir.
+Set: Ayarla
+Set system OS hotkeys to show/hide the main app window and quick paste window: Ana uygulama penceresini ve hızlı yapıştır penceresini göstermek/gizlemek için sistem kısayol tuşlarını ayarla. 3 tuşa kadar kombinasyonları destekler.
+'How to set hotkeys:': 'Kısayol tuşları nasıl ayarlanır:'
+Click Set/Change button to start recording: Kayıt başlatmak için Ayarla/Değiştir düğmesine tıklayın
+Press your desired key combination (e.g., Ctrl+Shift+V): İstediğiniz tuş kombinasyonunu basın (örn., Ctrl+Shift+V)
+Press Enter to confirm or Escape to cancel: Onaylamak için Enter'a veya iptal etmek için Escape'e basın
+Press Backspace/Delete to clear the hotkey: Kısayol tuşunu temizlemek için Backspace/Delete'e basın
+Press your key combination...: Tuş kombinasyonunuzu basın...
+Recording...: Kaydediliyor...
+Show Navbar Items Hover: Gezinme Çubuğu Öğelerini Üzerine Gelince Göster
+Show collections menu on the navbar: Gezinme çubuğunda koleksiyonlar menüsünü göster
+Show navbar elements on hover only: Gezinme çubuğu öğelerini yalnızca üzerine gelince göster
 Show/Hide Main App Window: Ana Uygulama Penceresini Göster/Gizle
 Show/Hide Quick Paste Window: Hızlı Yapıştır Penceresini Göster/Gizle
+Show Note Icons on Clips: Kliplerde not simgelerini göster
+Display persistent icons on clips that have notes to improve visual organization and make notes easier to discover.: Görsel organizasyonu iyileştirmek ve notları keşfetmeyi kolaylaştırmak için notları olan kliplerde kalıcı simgeler görüntüle.
+Default Note Icon Type: Varsayılan not simgesi türü
+Boards, saved clips and menu items panel visible: Panolar, kaydedilmiş klipler ve menü öğeleri paneli görünür
+Both clipboard history and saved clips panels visible: Hem pano geçmişi hem de kaydedilmiş klipler panelleri görünür
+Clipboard history panel visible: Pano geçmişi paneli görünür
+Control which panels are visible in the main window: Ana pencerede hangi panellerin görünür olduğunu kontrol et
+Enable simplified, less boxy layout for a cleaner and more streamlined interface design: Daha temiz ve akıcı arayüz tasarımı için sadeleştirilmiş, daha az kutu şeklinde düzen etkinleştir
+'Note: At least one panel must remain visible in main window.': 'Not: Ana pencerede en az bir panel görünür kalmalıdır.'
+Panel Visibility: Panel Görünürlüğü
+Show Boards and Clips Panel Only: Sadece panolar ve klipler panelini göster
+Show Both Panels: Her iki paneli de göster
+Show History Panel Only: Sadece geçmiş panelini göster
+Show Simplified Layout: Basitleştirilmiş düzeni göster
+Simplified Panel Layout: Sadeleştirilmiş panel düzeni
+Enable single-click to copy/paste clipboard history items and saved clips instead of requiring double-click.: Çift tıklama gerektirmek yerine pano geçmişi öğelerini ve kaydedilmiş klipleri kopyalamak/yapıştırmak için tek tıklama özelliğini etkinleştir.
+Single Click Copy/Paste action: Tek tıklama Kopyala/Yapıştır eylemi
+Single Click Copy/Paste: Tek tıklama Kopyala/Yapıştır
+Set keyboard focus with a single click. Disables single-click copy/paste if set.: Tek tıklama ile klavye odağını ayarla. Ayarlanırsa tek tıklama kopyala/yapıştırı devre dışı bırakır.
+Single-Click Keyboard Focus: Tek Tıklama Klavye Odağı
+Quick Paste Window Options: Hızlı Yapıştır Penceresi Seçenekleri
+Configure the behavior of the Quick Paste window when selecting items: Öğeler seçilirken Hızlı Yapıştır penceresinin davranışını yapılandır
+Copy items only (no auto-paste): Yalnızca öğeleri kopyala (otomatik yapıştır yok)
+Auto-close window after action: Eylem sonrasında pencereyi otomatik kapat
+When enabled, the Quick Paste window will automatically close after copying or pasting an item.: Etkinleştirildiğinde, Hızlı Yapıştır penceresi bir öğeyi kopyaladıktan veya yapıştırdıktan sonra otomatik olarak kapanır.
+This sets the default icon type for new clips with notes. You can customize individual clips via the context menu.: Bu, notları olan yeni klipler için varsayılan simge türünü ayarlar. Bağlam menüsü aracılığıyla bireysel klipleri özelleştirebilirsiniz.
+? When enabled, clicking menu items will only copy content to clipboard instead of auto-pasting. This gives you more control over when and where content is pasted.
+: Etkinleştirildiğinde, menü öğelerine tıklamak içeriği otomatik yapıştırmak yerine yalnızca panoya kopyalar. Bu, içeriğin ne zaman ve nereye yapıştırılacağı konusunda size daha fazla kontrol sağlar.
+? When enabled, clicking or pressing Enter on items in Quick Paste window will only copy them to clipboard without automatically pasting.
+: Etkinleştirildiğinde, Hızlı Yapıştır penceresindeki öğelere tıklamak veya Enter tuşuna basmak bunları otomatik olarak yapıştırmadan yalnızca panoya kopyalar.
+? When enabled, single click will copy/paste items in Quick Paste window. If global single click is also enabled, both settings work together.
+: Etkinleştirildiğinde, tek tıklama Hızlı Yapıştır penceresindeki öğeleri kopyalar/yapıştırır. Global tek tıklama da etkinleştirilmişse, her iki ayar birlikte çalışır.
+Configure which items to preserve when clearing clipboard history (both manual and auto-clear operations).: Pano geçmişini temizlerken hangi öğelerin korunacağını yapılandırın (hem manuel hem de otomatik temizleme işlemleri).
+Keep Items on Clear: Temizlerken öğeleri koru
+Keep Pinned Items: Sabitlenmiş öğeleri koru
+Keep Starred Items: Favorilenmiş öğeleri koru
+Preserve pinned items when clearing history: Geçmişi temizlerken sabitlenmiş öğeleri koru
+Preserve starred items when clearing history: Geçmişi temizlerken favorilenmiş öğeleri koru
+History Item Preview Max Lines: Geçmiş öğesi önizleme maksimum satır sayısı
+Set the maximum number of lines to display in the preview of a history item: Bir geçmiş öğesinin önizlemesinde gösterilecek maksimum satır sayısını ayarla
+Preview Max Lines: Önizleme Satırları
+Configure how the system tray icon responds to mouse clicks: Sistem tepsisi simgesinin fare tıklamalarına nasıl yanıt verdiğini yapılandır
+Disable left-click context menu: Sol tık bağlam menüsünü devre dışı bırak
+Double-click toggles app visibility: Çift tık uygulama görünürlüğünü değiştirir
+Double-clicking the tray icon shows or hides the main application window: Tepsi simgesine çift tıklamak ana uygulama penceresini gösterir veya gizler
+Enabling either left-click option will disable the context menu to ensure proper functionality.: Sol tık seçeneklerinden birini etkinleştirmek, düzgün işlevselliği sağlamak için bağlam menüsünü devre dışı bırakır.
+Left-click toggles app visibility: Sol tık uygulama görünürlüğünü değiştirir
+Left-clicking the tray icon shows or hides the main application window: Tepsi simgesine sol tıklamak ana uygulama penceresini gösterir veya gizler
+Prevents the context menu from appearing when left-clicking the tray icon: Tepsi simgesine sol tıklarken bağlam menüsünün görünmesini engeller
+Tray Icon Behavior on Windows: Windows'ta Tepsi Simgesi Davranışı

@@ -1,30 +1,30 @@
-Check for Update: Check for App Update
-Checking for Update...: Checking for Update...
-Confirm Restart: Confirm Restart
-Confirm Update: Confirm Update
-Download Completed: Download Completed
-Download Completed Quit and Manually Install: The downloaded update file should automatically open. To complete the update, first quit the PasteBar application then manually complete the installation of the latest version. Once the installation is complete, start PasteBar using the updated version.
-Download Update: Download Update
-Downloading...: Downloading...
-General Update Error: An error occurred during the update process. Please try updating again later. If the issue persists, you should manually download and install the update.
-Install Update: Install Update
-Installing Update: Installing Update
-No Update Available: No Update Available
-Permission Denied Message: The update process was unable to replace the old application files due to insufficient privileges. You have to manually download and update the application files using a user account with administrator privileges.
-Quit PasteBar: Quit PasteBar
-Release date {{date}}: Release date {{date}}
-Remind Me Later: Remind Me Later
-Restart: Restart
-Restart Required: Restart Required
-Restart to Finish: Restart to Finish
-Restart to Update: Restart PasteBar
-Skip Download: Skip Download
-Skip This Version: Skip This Version
-Try Install Again: Try Install Again
-Update Available: Update Available
-Update Error: Update Error
-Update Install Error: Update Install Error
-'Update: Permission Denied': 'Update: Permission Denied'
-Upgrade removes Pro features: Upgrade removes Pro features
-Version {{newVersion}} is available: Version {{newVersion}} is available
-View Changes: View Changes
+Check for Update: Nach Update suchen
+Checking for Update...: Suche nach Update...
+Confirm Restart: Neustart bestätigen
+Confirm Update: Update bestätigen
+Download Completed: Download abgeschlossen
+Download Completed Quit and Manually Install: Die heruntergeladene Update-Datei sollte automatisch geöffnet werden. Um das Update abzuschließen, beenden Sie zuerst PasteBar und führen Sie die Installation der neuesten Version manuell durch. Nach Abschluss der Installation starten Sie PasteBar mit der aktualisierten Version.
+Download Update: Update herunterladen
+Downloading...: Wird heruntergeladen...
+General Update Error: Beim Update-Vorgang ist ein Fehler aufgetreten. Bitte versuchen Sie es später erneut. Falls das Problem weiterhin besteht, sollten Sie das Update manuell herunterladen und installieren.
+Install Update: Update installieren
+Installing Update: Update wird installiert
+No Update Available: Kein Update verfügbar
+Permission Denied Message: Der Update-Vorgang konnte die alten Anwendungsdateien aufgrund unzureichender Berechtigungen nicht ersetzen. Sie müssen die Anwendung manuell mit einem Benutzerkonto mit Administratorrechten herunterladen und aktualisieren.
+Quit PasteBar: PasteBar beenden
+Release date {{date}}: Veröffentlichung {{date}}
+Remind Me Later: Später erinnern
+Restart: Neustart
+Restart Required: Neustart erforderlich
+Restart to Finish: Neustart zum Abschluss
+Restart to Update: PasteBar neu starten
+Skip Download: Download überspringen
+Skip This Version: Diese Version überspringen
+Try Install Again: Installation erneut versuchen
+Update Available: Update verfügbar
+Update Error: Update-Fehler
+Update Install Error: Update-Installationsfehler
+'Update: Permission Denied': 'Update: Zugriff verweigert'
+Upgrade removes Pro features: Upgrade entfernt Pro-Funktionen
+Version {{newVersion}} is available: Version {{newVersion}} ist verfügbar
+View Changes: Änderungen anzeigen

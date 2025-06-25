@@ -3,6 +3,8 @@
 About PasteBar: Про PasteBar
 Action Menu: Контекстне меню
 Activation Error: Помилка активації
+? Add <b>{{Clipboard}}</b> field to template. This allows you to copy text to the clipboard, and it will be inserted into the template
+: Додайте поле <b>{{Clipboard}}</b> до шаблону. Це дозволить копіювати текст до буфера обміну, і він буде вставлений у шаблон
 Add Clip: Додати Кліп
 Add First Option: Додати перший варіант
 Add Link Card: Додати картку посилання
@@ -30,6 +32,7 @@ Check: Перевірити
 Check / Done: Перевірити / Готово
 Check and Close: Перевірити та закрити
 Check and Done: Перевірити та готово
+Clear History: Очистити історію
 Clear Tracks: Очистити треки
 Clear found results and filters: Очистити знайдені результати та фільтри
 Click to Confirm: Натисніть для підтвердження
@@ -45,23 +48,25 @@ Close Find: Закрити пошук
 Close History Window: Закрити Вікно Історії
 Close modal and continue in browser: Закрити вікно і продовжити в браузері
 Confirm: Підтвердити
+Confirm Add To Protected Collections: Підтвердити додавання до захищених колекцій
 Confirm Delete: Підтвердити видалення
+Confirm Disable PIN Protection: Підтвердити вимкнення захисту PIN
 Confirm Email: Підтвердити видалення
+Confirm Enable PIN Protection: Підтвердити увімкнення захисту PIN
 Confirm Passcode: Підтвердіть код
 Confirm Password: Підтвердіть пароль
+Confirm Password Reset: Підтвердити скидання пароля
 Confirm Remove: Підтвердити видалення
+Confirm Remove From Protected Collections: Підтвердити видалення із захищених колекцій
 Confirm Your Passcode: Підтвердіть ваш код доступу
-Confirm action: Підтвердити дію
-Confirm password reset: Підтвердити скидання пароля
-Confirm password reset action: Підтвердити дію скидання пароля
 Confirm your action: Підтвердіть вашу дію
-Confirm {{action}}: Підтвердити {{action}}
 Contact Form: Форма зв'язку
 Copied: Скопійовано
 Copy: Копіювати
 Copy & Paste: Копіювати та вставити
 Copy and Paste: Копіювати та вставити
 Copy of: Копія
+'Copy of ': 'Копія '
 Copy to Clipboard: Копіювати до буфера обміну
 Create: Створити
 Created: Створено
@@ -92,6 +97,7 @@ Enabled: Увімкнено
 Enter Current Passcode: Введіть поточний код доступу
 Enter Digits Only Passcode: Введіть код доступу, що складається лише з цифр
 Enter Email: Введіть email
+Enter PIN to Access Protected Collection: Введіть PIN для доступу до захищеної колекції
 Enter Passcode: Введіть код доступу
 Enter Password: Введіть пароль
 Enter Recovery Password: Введіть пароль відновлення
@@ -101,6 +107,8 @@ Errors:
   Cant save file: Неможливо зберегти файл
   Something went wrong! {{err}} Please try again.: Щось пішло не так! {{err}} Будь ласка, спробуйте ще раз.
 Expand Edit: Розгорнути редагування
+? Field <b>{{Clipboard}}</b> has been found in the template. This allows you to copy text to the clipboard, and it will be inserted into the template
+: Поле <b>{{Clipboard}}</b> знайдено в шаблоні. Це дозволяє копіювати текст до буфера обміну, і він буде вставлений у шаблон
 Field is not found in the template: Поле не знайдено в шаблоні
 ? Field {{Clipboard}} has been found in the template. This allows you to copy text to the clipboard, and it will be inserted into the template
 : Поле <b>{{Clipboard}}</b> знайдено в шаблоні. Це дозволяє копіювати текст до буфера обміну, і він буде вставлений у шаблон
@@ -127,8 +135,10 @@ Make Enabled: Зробити увімкненим
 Make Inactive: Зробити неактивним
 Manage: Керування
 Maximum height: Висота максимум
+Maximum length: Максимум
 Maximum width: Ширина максимум
 Menu: Меню
+Minimum length: Мінімум
 Move Down: Перемістити вниз
 Move Up: Перемістити вгору
 Multi Select: Множинний вибір
@@ -144,6 +154,7 @@ Number of lines: Кількість рядків
 Ok, but later: Добре, але пізніше
 Open: Відкрити
 Open Accessibility: Відкрити Спеціальні можливості
+Open History Window: Відкрити вікно з історією буфера
 Open Window: Відкрити вікно
 Open contact form in browser: Відкрити форму зв'язку в браузері
 Open payment in browser: Відкрити платіж у браузері
@@ -230,9 +241,9 @@ Set: Встановити
 Set Password: Встановити пароль
 Show Large View: Збільшений вигляд
 Show all: Показати все
+Size: Розмір
 Something goes wrong! Please try again.: Щось пішло не так! Будь ласка, спробуйте ще раз.
 Source: Джерело
-Split History Window: Розділити вікно з історією буфера
 Star: Обране
 Star Selected: Додати до обраного
 Stay here: Залишитися
@@ -288,6 +299,7 @@ Type:
   Run Auto Fill: Запустити автозаповнення
   Scraper: Скрапер
   Secret: Секрет
+  Trim: Обрізати пробіли
   Shell Command: Команда оболонки
   Template: Шаблон
   Template Fill: Заповнення шаблону
@@ -319,6 +331,7 @@ Unlock Pro features: Розблокувати функції Pro
 Unlock Screen: Розблокувати екран
 Unlock all features: Розблокувати всі функції
 Unsaved label: Незбережена назва
+Update Error: Помилка оновлення
 Update history list: Оновити список історії
 Updated: Оновлено
 Upgrade to Pro: Перейти на Pro
@@ -350,3 +363,4 @@ second: секунда
 seconds: секунди
 show less: показати менше
 www.site: www.pastebar.app
+Введіть PIN для доступу до захищеної колекції: Введіть PIN для доступу до захищеної колекції

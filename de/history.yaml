@@ -1,40 +1,42 @@
-All History Settings: All History Settings
-All done! History's been cleared.: All done! History's been cleared.
-Auto Update on Capture: Auto Update on Capture
-Auto-Clear Settings: Auto-Clear Settings
-Capture History: Capture History
-Clear: Clear
-Clear All: Clear All
-Clear All History: Clear All History
-Clear History: Clear History
-Confirm Clear All History: Confirm Clear All History
-Do you really want to remove ALL clipboard history items?: Do you really want to remove ALL clipboard history items?
-Do you want to remove clipboard history items older than {{olderThen}} {{durationType}}: Do you want to remove clipboard history items older than {{olderThen}} {{durationType}}
-Enable Capture History: Enable Capture History
+All History Settings: Alle Verlaufseinstellungen
+All done! History's been cleared.: Fertig! Verlauf wurde gelöscht.
+Auto Update on Capture: Bei Erfassung automatisch aktualisieren
+Auto-Clear Settings: Auto-Lösch-Einstellungen
+Capture History: Verlauf erfassen
+Clear: Löschen
+Clear All: Alles löschen
+Clear All History: Gesamten Verlauf löschen
+Clear History: Verlauf löschen
+Confirm Clear All History: Gesamten Verlauf löschen bestätigen
+Do you really want to remove ALL clipboard history items?: Möchten Sie wirklich ALLE Zwischenablage-Verlaufselemente entfernen?
+Do you want to remove clipboard history items older than {{olderThen}} {{durationType}}: Möchten Sie Zwischenablage-Verlaufselemente älter als {{olderThen}} {{durationType}} entfernen?
+Do you want to remove all recent clipboard history older than {{olderThen}} {{durationType}}: Möchten Sie alle kürzlichen Zwischenablage-Verlaufselemente entfernen, die älter als {{olderThen}} {{durationType}} sind?
+Enable Capture History: Verlaufserfassung aktivieren
+Enable Image Capture: Bilderfassung aktivieren
 Filters:
-  App Filters: App Filters
+  App Filters: App-Filter
   Audio: Audio
-  Clear Filters: Clear Filters
+  Clear Filters: Filter löschen
   Code: Code
   Emoji: Emoji
-  Image: Image
-  Language Filters: Language Filters
-  Languages: Languages
-  Languages Filter: Languages Filter
-  Languages Filters: Languages Filters
+  Image: Bild
+  Language Filters: Sprachfilter
+  Languages: Sprachen
+  Languages Filter: Sprachenfilter
+  Languages Filters: Sprachfilter
   Link: Link
-  Pinned: Pinned
-  Secret: Secret
-  Select Filters: Select Filters
-  Source: Source
-  Source Application: Source Application
-  Source Filters: Source Filters
-  Starred: Starred
+  Pinned: Angeheftet
+  Secret: Geheim
+  Select Filters: Filter auswählen
+  Source: Quelle
+  Source Application: Quellanwendung
+  Source Filters: Quellenfilter
+  Starred: Mit Stern
   Text: Text
   Video: Video
-Hide pinned history: Hide pinned history
-History Settings: History Settings
-Paste Menu: Paste Menu
-Select Filters: Select Filters
-View pinned history: View pinned history
-'{{isAll}} Clipboard History': '{{isAll}} Clipboard History'
+Hide pinned history: Angehefteten Verlauf ausblenden
+History Settings: Verlaufseinstellungen
+Paste Menu: Einfügemenü
+Select Filters: Filter auswählen
+View pinned history: Angehefteten Verlauf anzeigen
+'{{isAll}} Clipboard History': '{{isAll}} Zwischenablage-Verlauf'

@@ -1,24 +1,80 @@
-App restart required: Redémarrage de l'application requis
-Application Starts with Main Window Hidden: Démarrage avec la fenêtre principale cachée
+App restart required: Redémarrage nécessaire
+Application Starts with Main Window Hidden: L'application démarre avec la fenêtre principale masquée
 Change: Modifier
-Display navbar items only when the mouse hovers over the navigation bar to minimize visible UI elements: Afficher les éléments de la barre de navigation uniquement lorsque la souris survole la barre de navigation afin de minimiser les éléments visibles de l'interface utilisateur.
-Global System OS Hotkeys: Touches de raccourci du système global
-Hide Collections Navbar: Masquer la barre de navigation des collections
+Copy only from menu items: Copier uniquement depuis les éléments du menu
+Display navbar items only when the mouse hovers over the navigation bar to minimize visible UI elements: Afficher les éléments de la barre de navigation uniquement au survol de la souris pour minimiser les éléments visibles de l'interface
+Global System OS Hotkeys: Raccourcis clavier globaux du système
+Hide Collections Navbar: Masquer la barre des collections
 Hide collections menu dropdown on the navigation bar: Masquer le menu déroulant des collections dans la barre de navigation
 Hide collections menu on the navbar: Masquer le menu des collections dans la barre de navigation
-Hide the App Dock Icon: Masquer l'icône du dock de l'application
-? Keep the main application window hidden when the app restarts. You can reopen it using the menu bar or taskbar menu, or using global hotkeys.
-: La fenêtre principale de l'application reste cachée lorsque l'application redémarre. Vous pouvez la réouvrir en utilisant la barre de menu ou le menu de la barre des tâches, ou en utilisant les touches de raccourci globales.
+Hide the App Dock Icon: Masquer l'icône de l'app dans le Dock
+Keep the main application window hidden when the app restarts. You can reopen it using the menu bar or taskbar menu, or using global hotkeys.: Garder la fenêtre principale de l'application masquée au redémarrage. Vous pouvez la rouvrir en utilisant la barre de menu ou le menu de la barre des tâches, ou en utilisant les raccourcis clavier globaux.
 No keys set: Aucune touche définie
-PasteBar Quick Paste: PasteBar Collage rapide 
-Press keys: Appuyez touches
-Quick Paste Window: Fenêtre collage rapide
-? Remove PasteBar app icon from the macOS Dock while keeping the app running in the background. The app remains accessible via the menu bar icon. Requires an app restart to take effect.
-:Retirer l'icône de l'application PasteBar du Dock de macOS tout en laissant l'application fonctionner en arrière-plan. L'application reste accessible via l'icône de la barre de menu. Nécessite un redémarrage de l'application pour prendre effet.
+PasteBar Quick Paste: Collage rapide PasteBar
+Press keys: Appuyez sur les touches
+Quick Paste Window: Fenêtre de collage rapide
+Remove PasteBar app icon from the macOS Dock while keeping the app running in the background. The app remains accessible via the menu bar icon. Requires an app restart to take effect.: Supprimer l'icône PasteBar du Dock macOS tout en gardant l'app en cours d'exécution en arrière-plan. L'app reste accessible via l'icône de la barre de menu. Nécessite un redémarrage de l'app pour prendre effet.
 Set: Définir
-Set system OS hotkeys to show/hide the main app window and quick paste window: Définir les touches de raccourci du système d'exploitation pour afficher/masquer la fenêtre de l'application principale et la fenêtre de collage rapide
-Show Navbar Items Hover: Afficher les éléments de la barre de navigation au survol
+Set system OS hotkeys to show/hide the main app window and quick paste window. Supports up to 3-key combinations.: Définir les raccourcis clavier du système pour afficher/masquer la fenêtre principale et la fenêtre de collage rapide. Prend en charge jusqu'à 3 combinaisons de touches.
+'How to set hotkeys:': 'Comment définir les raccourcis clavier :'
+Click Set/Change button to start recording: Cliquez sur le bouton Définir/Modifier pour commencer l'enregistrement
+Press your desired key combination (e.g., Ctrl+Shift+V): Appuyez sur votre combinaison de touches souhaitée (ex. Ctrl+Shift+V)
+Press Enter to confirm or Escape to cancel: Appuyez sur Entrée pour confirmer ou Échap pour annuler
+Press Backspace/Delete to clear the hotkey: Appuyez sur Retour arrière/Supprimer pour effacer le raccourci clavier
+Press your key combination...: Appuyez sur votre combinaison de touches...
+Recording...: Enregistrement...
+Show Navbar Items Hover: Afficher éléments barre au survol
 Show collections menu on the navbar: Afficher le menu des collections dans la barre de navigation
-Show navbar elements on hover only: Afficher les éléments de la barre de navigation uniquement au survol
+Show navbar elements on hover only: Afficher les éléments de la barre uniquement au survol
+Show/Hide Quick Paste Window: Afficher/Masquer fenêtre de collage rapide
 Show/Hide Main App Window: Afficher/Masquer la fenêtre principale de l'application
-Show/Hide Quick Paste Window: Afficher/masquer la fenêtre de collage rapide
+Show Note Icons on Clips: Afficher les icônes de notes sur les clips
+Display persistent icons on clips that have notes to improve visual organization and make notes easier to discover.: Afficher des icônes persistantes sur les clips qui ont des notes pour améliorer l'organisation visuelle et faciliter la découverte des notes.
+Default Note Icon Type: Type d'icône de note par défaut
+Boards, saved clips and menu items panel visible: Panneau des tableaux, clips sauvegardés et éléments de menu visible
+Both clipboard history and saved clips panels visible: Les deux panneaux d'historique du presse-papiers et de clips sauvegardés visibles
+Clipboard history panel visible: Panneau d'historique du presse-papiers visible
+Control which panels are visible in the main window: Contrôler quels panneaux sont visibles dans la fenêtre principale
+Enable simplified, less boxy layout for a cleaner and more streamlined interface design: Activer une mise en page simplifiée, moins carrée pour une interface plus propre et rationalisée
+'Note: At least one panel must remain visible in main window.': 'Note : Au moins un panneau doit rester visible dans la fenêtre principale.'
+Panel Visibility: Visibilité des panneaux
+Show Boards and Clips Panel Only: Afficher uniquement le panneau tableaux et clips
+Show Both Panels: Afficher les deux panneaux
+Show History Panel Only: Afficher uniquement le panneau historique
+Show Simplified Layout: Afficher la mise en page simplifiée
+Simplified Panel Layout: Mise en page de panneau simplifiée
+Enable single-click to copy/paste clipboard history items and saved clips instead of requiring double-click.: Activer le clic simple pour copier/coller les éléments de l'historique du presse-papiers et les clips sauvegardés au lieu d'exiger un double-clic.
+Single Click Copy/Paste action: Action clic simple Copier/Coller
+Single Click Copy/Paste: Clic simple Copier/Coller
+Set keyboard focus with a single click. Disables single-click copy/paste if set.: Définir le focus clavier avec un clic simple. Désactive le copier/coller en un clic si activé.
+Single-Click Keyboard Focus: Focus clavier en un clic
+Quick Paste Window Options: Options de la fenêtre de collage rapide
+Configure the behavior of the Quick Paste window when selecting items: Configurer le comportement de la fenêtre de collage rapide lors de la sélection d'éléments
+Copy items only (no auto-paste): Copier uniquement les éléments (pas de collage automatique)
+Auto-close window after action: Fermer automatiquement la fenêtre après l'action
+When enabled, the Quick Paste window will automatically close after copying or pasting an item.: Lorsqu'activé, la fenêtre de collage rapide se fermera automatiquement après avoir copié ou collé un élément.
+This sets the default icon type for new clips with notes. You can customize individual clips via the context menu.: Cela définit le type d'icône par défaut pour les nouveaux clips avec des notes. Vous pouvez personnaliser les clips individuels via le menu contextuel.
+? When enabled, clicking menu items will only copy content to clipboard instead of auto-pasting. This gives you more control over when and where content is pasted.
+: Lorsqu'activé, cliquer sur les éléments du menu copiera uniquement le contenu dans le presse-papiers au lieu de le coller automatiquement. Cela vous donne plus de contrôle sur le moment et l'endroit où le contenu est collé.
+? When enabled, clicking or pressing Enter on items in Quick Paste window will only copy them to clipboard without automatically pasting.
+: Lorsqu'activé, cliquer ou appuyer sur Entrée sur les éléments dans la fenêtre de collage rapide les copiera uniquement dans le presse-papiers sans les coller automatiquement.
+? When enabled, single click will copy/paste items in Quick Paste window. If global single click is also enabled, both settings work together.
+: Lorsqu'activé, un clic simple copiera/collera les éléments dans la fenêtre de collage rapide. Si le clic simple global est également activé, les deux paramètres fonctionnent ensemble.
+Configure which items to preserve when clearing clipboard history (both manual and auto-clear operations).: Configurez les éléments à conserver lors de l'effacement de l'historique du presse-papiers (manuellement ou automatiquement).
+Keep Items on Clear: Conserver les éléments lors de l'effacement
+Keep Pinned Items: Conserver les éléments épinglés
+Keep Starred Items: Conserver les éléments favoris
+Preserve pinned items when clearing history: Conserver les éléments épinglés lors de l'effacement de l'historique
+Preserve starred items when clearing history: Conserver les éléments favoris lors de l'effacement de l'historique
+History Item Preview Max Lines: Limite maximale de lignes d'aperçu des éléments de l'historique
+Set the maximum number of lines to display in the preview of a history item: Définir le nombre maximal de lignes à afficher dans l'aperçu d'un élément de l'historique
+Preview Max Lines: Lignes d'aperçu
+Configure how the system tray icon responds to mouse clicks: Configurer comment l'icône de la barre système répond aux clics de souris
+Disable left-click context menu: Désactiver le menu contextuel du clic gauche
+Double-click toggles app visibility: Le double-clic bascule la visibilité de l'application
+Double-clicking the tray icon shows or hides the main application window: Double-cliquer sur l'icône de la barre système affiche ou masque la fenêtre principale de l'application
+Enabling either left-click option will disable the context menu to ensure proper functionality.: L'activation de l'une ou l'autre des options de clic gauche désactivera le menu contextuel pour assurer un bon fonctionnement.
+Left-click toggles app visibility: Le clic gauche bascule la visibilité de l'application
+Left-clicking the tray icon shows or hides the main application window: Cliquer gauche sur l'icône de la barre système affiche ou masque la fenêtre principale de l'application
+Prevents the context menu from appearing when left-clicking the tray icon: Empêche le menu contextuel d'apparaître lors du clic gauche sur l'icône de la barre système
+Tray Icon Behavior on Windows: Comportement de l'icône de la barre système sur Windows

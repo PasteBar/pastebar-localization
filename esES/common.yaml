@@ -2,8 +2,7 @@
 ' This permission ensures PasteBar can access the clipboard and perform copy and paste operations across applications.': ' Este permiso asegura que PasteBar pueda acceder al portapapeles y realizar operaciones de copiar y pegar entre aplicaciones.'
 About PasteBar: Acerca de PasteBar
 Action Menu: Menú de Acciones
-? Add <b>{{Clipboard}}</b> field to template. This allows you to copy text to the clipboard, and it will be inserted into the template
-: Añadir campo <b>{{Clipboard}}</b> a la plantilla. Esto te permite copiar texto al portapapeles, y se insertará en la plantilla
+Add <b>{{Clipboard}}</b> field to template. This allows you to copy text to the clipboard, and it will be inserted into the template: Añadir campo <b>{{Clipboard}}</b> a la plantilla. Esto te permite copiar texto al portapapeles, y se insertará en la plantilla
 Add Clip: Añadir Clip
 Add First Option: Añadir Primera Opción
 Add Link Card: Añadir Tarjeta de Enlace
@@ -55,9 +54,8 @@ Confirm Passcode: Confirmar Código de Acceso
 Confirm Password: Confirmar Contraseña
 Confirm Remove: Confirmar Eliminación
 Confirm Your Passcode: Confirma tu Código de Acceso
-Confirm passcode reset: Confirmar reinicio del código de acceso
-Confirm password reset: Confirmar reinicio de contraseña
-Confirm password reset action: Confirmar acción de reinicio de contraseña
+Confirm Passcode Reset: Confirmar reinicio del código de acceso
+Confirm Password Reset: Confirmar reinicio de contraseña
 Confirm your action: Confirma tu acción
 Confirm {{action}}: Confirmar {{action}}
 Contact Form: Formulario de Contacto
@@ -100,14 +98,14 @@ Enter Passcode: Introduce el Código de Acceso
 Enter Password: Introduce la Contraseña
 Enter Recovery Password: Introduce la Contraseña de Recuperación
 Enter passcode or password to unlock: Introduce el código de acceso o la contraseña para desbloquear
+Enter PIN to Access Protected Collection: Introduce el PIN para acceder a la colección protegida
 Errors:
   Error loading link: Error al cargar el enlace
   Cant save to file: No se puede guardar en el archivo
   Something went wrong! {{err}} Please try again.: ¡Algo salió mal! {{err}} Por favor, inténtalo de nuevo.
 Expand Edit: Expandir Edición
 Expires on {{proExpiresOn}}: Expira el {{proExpiresOn}}
-? Field <b>{{Clipboard}}</b> has been found in the template. This allows you to copy text to the clipboard, and it will be inserted into the template
-: Se ha encontrado el campo <b>{{Clipboard}}</b> en la plantilla. Esto te permite copiar texto al portapapeles, y se insertará en la plantilla
+Field <b>{{Clipboard}}</b> has been found in the template. This allows you to copy text to the clipboard, and it will be inserted into the template: Se ha encontrado el campo <b>{{Clipboard}}</b> en la plantilla. Esto te permite copiar texto al portapapeles, y se insertará en la plantilla
 Field is not found in the template: El campo no se encuentra en la plantilla
 Find Clip: Buscar Clip
 Find History: Buscar en el Historial
@@ -134,8 +132,10 @@ Make Enabled: Hacer Habilitado
 Make Inactive: Hacer Inactivo
 Manage: Gestionar
 Maximum height: Altura máxima
+Maximum length: Longitud máxima
 Maximum width: Ancho máximo
 Menu: Menú
+Minimum length: Longitud mínima
 Move Down: Mover Abajo
 Move Up: Mover Arriba
 Multi Select: Selección Múltiple
@@ -152,7 +152,6 @@ Number of lines: Número de líneas
 Ok, but later: De acuerdo, pero más tarde
 Open: Abrir
 Open Accessibility: Abrir Accesibilidad
-Open History Window: Abrir Ventana de Historial
 Open Window: Abrir Ventana
 Open contact form in browser: Abrir formulario de contacto en el navegador
 Open payment in browser: Abrir pago en el navegador
@@ -170,8 +169,7 @@ Pasted: Pegado
 Path: Ruta
 Pause: Pausar
 Pause Playing: Pausar Reproducción
-? 'Permission Check Failed: PasteBar has not been successfully added to Accessibility settings. Please grant the required permissions and click Done again.'
-: 'Verificación de Permisos Fallida: PasteBar no se ha añadido correctamente a la configuración de Accesibilidad. Por favor, concede los permisos necesarios y haz clic en Hecho de nuevo.'
+'Permission Check Failed: PasteBar has not been successfully added to Accessibility settings. Please grant the required permissions and click Done again.': 'Verificación de Permisos Fallida: PasteBar no se ha añadido correctamente a la configuración de Accesibilidad. Por favor, concede los permisos necesarios y haz clic en Hecho de nuevo.'
 Pin Selected: Fijar Seleccionados
 Pinned: Fijado
 Play: Reproducir
@@ -235,7 +233,7 @@ Set Password: Establecer Contraseña
 Show Large View: Mostrar Vista Grande
 Show all: Mostrar todo
 Source: Fuente
-Split History Window: Dividir Ventana de Historial
+Open History Window: Abrir Ventana de Historial
 Star: Destacar
 Star Selected: Destacar Seleccionados
 Stay here: Quedarse aquí
@@ -287,6 +285,7 @@ Type:
   Run Auto Fill: Ejecutar Autocompletar
   Scraper: Extractor
   Secret: Secreto
+  Trim: Recortar Espacios
   Shell Command: Comando Shell
   Submenu: Submenú
   Template: Plantilla
@@ -335,8 +334,7 @@ View Edit: Editar Vista
 Views:
   Paste Menu: Menú de Pegado
 We apologize but you found a bug. Please report this issue to us and try again: Disculpa, has encontrado un error. Por favor, infórmanos y vuelve a intentarlo
-? We couldn't confirm this file's safety. Failed ID3 tag verification and integrity check. MP3 files can potentially contain malware. Please be cautious.
-: No pudimos confirmar la seguridad del archivo. Falló la verificación de etiquetas ID3 y la integridad. Los archivos MP3 pueden contener malware. Ten precaución.
+We couldn't confirm this file's safety. Failed ID3 tag verification and integrity check. MP3 files can potentially contain malware. Please be cautious.: No pudimos confirmar la seguridad del archivo. Falló la verificación de etiquetas ID3 y la integridad. Los archivos MP3 pueden contener malware. Ten precaución.
 Yes: Sí
 Yes, activate: Sí, activar
 chars: caracteres
@@ -351,3 +349,8 @@ second: segundo
 seconds: segundos
 show less: mostrar menos
 www.site: www.pastebar.app
+Size: Tamaño
+Confirm Add To Protected Collections: Confirmar agregar a colecciones protegidas
+Confirm Disable PIN Protection: Confirmar deshabilitar protección con PIN
+Confirm Remove From Protected Collections: Confirmar eliminar de colecciones protegidas
+Confirm Enable PIN Protection: Confirmar habilitar protección con PIN

@@ -1,7 +1,6 @@
-<strong>{{screenLockPassCodeLength}}</strong> digits passcode is set.: Установлен <strong>{{screenLockPassCodeLength}}</strong>-значный код доступа.
+'<strong>{{screenLockPassCodeLength}}</strong> digits passcode is set.': Установлен <strong>{{screenLockPassCodeLength}}</strong>-значный код доступа.
 Activation Success: Успешная активация
-? Add a star to the copied text when you copy it twice within 1 second. This allows you to quickly add copied text or links to your favorites and easily find it in the clipboard history.
-: Добавляйте в избранное, когда копируете его дважды в течение 1 секунды. Это позволяет быстро добавлять скопированный текст или ссылки в избранное и легко находить их в истории буфера обмена.
+Add a star to the copied text when you copy it twice within 1 second. This allows you to quickly add copied text or links to your favorites and easily find it in the clipboard history.: Добавляйте в избранное, когда копируете его дважды в течение 1 секунды. Это позволяет быстро добавлять скопированный текст или ссылки в избранное и легко находить их в истории буфера обмена.
 Add an unlimited number of tabs within each collection for better organization and easy access.: Добавляйте неограниченное количество вкладок в каждую коллекцию для лучшей организации и легкого доступа.
 Advanced settings: Дополнительные настройки
 Already Active: Уже активен
@@ -22,12 +21,12 @@ Auto-Preview Link on Hover: Автоматический предварител�
 Auto-Star on Double Copy: Автоматическое добавление в избранное при двойном копировании
 Auto-Update on Capture: Автоматическое обновление при захвате
 Auto-delete clipboard history after: Автоматическое удаление истории буфера обмена после
-? Automatically create link card preview in the clipboard history. This allows to quickly view website details without opening or pasting the link.
-: Автоматически создавать предварительный просмотр ссылок в истории буфера обмена. Это позволяет быстро просматривать детали веб-сайтов без открытия или вставки ссылки.
-? Automatically create link preview in the clipboard history. This allows to quickly view website details without opening or pasting the link.
-: Automatically create link preview in the clipboard history. This allows to quickly view website details without opening or pasting the link.
+Auto-Trim Spaces on Capture: Автоматическое удаление пробелов при захвате
+Automatically create link card preview in the clipboard history. This allows to quickly view website details without opening or pasting the link.: Автоматически создавать предварительный просмотр ссылок в истории буфера обмена. Это позволяет быстро просматривать детали веб-сайтов без открытия или вставки ссылки.
+Automatically create link preview in the clipboard history. This allows to quickly view website details without opening or pasting the link.: Automatically create link preview in the clipboard history. This allows to quickly view website details without opening or pasting the link.
 Back: Назад
 Capture History: Захват истории буфера
+Capture History Text Length Limits: Ограничения длины текста истории захвата
 Change the application UI font size scale: Изменить масштаб размера шрифта интерфейса приложения
 Change the application UI language: Изменить язык интерфейса приложения
 Change the application user interface color theme: Изменить цветовую тему интерфейса приложения
@@ -42,8 +41,7 @@ Create an unlimited number of collections to organize your clips and menus.: С�
 Custom: Другой
 Custom themes: Пользовательские темы
 Decrease UI Font Size: Уменьшить шрифт интерфейса
-? Display clipboard history capture toggle on the locked application screen. This allows you to control history capture settings directly from the lock screen.
-: Отображать переключатель захвата истории буфера обмена на заблокированном экране приложения. Это позволяет управлять настройками захвата истории непосредственно с экрана блокировки.
+Display clipboard history capture toggle on the locked application screen. This allows you to control history capture settings directly from the lock screen.: Отображать переключатель захвата истории буфера обмена на заблокированном экране приложения. Это позволяет управлять настройками захвата истории непосредственно с экрана блокировки.
 Display disabled collections name on the navigation bar collections menu: Отображать названия отключенных коллекций в меню коллекций на панели навигации
 Display disabled collections name on the navigation bar under collections menu: Отображать названия отключенных коллекций в меню коллекций на панели навигации
 Display full name of selected collection on the navigation bar: Отображать полное название выбранной коллекции на панели навигации
@@ -57,6 +55,7 @@ Enable Clip Title Hover Show with Delay: Включить задержку по�
 Enable application auto start on system boot: Включить автозапуск приложения при загрузке системы
 Enable auto lock the application screen after a certain period of inactivity, to prevent unauthorized access to your data.: Включить автоматическую блокировку экрана приложения после определенного периода бездействия, чтобы предотвратить несанкционированный доступ к вашим данным.
 Enable auto update on capture: Включить автоматическое обновление при захвате
+Enable auto trim spaces on history capture: Включить автоматическое удаление пробелов при захвате истории буфера
 Enable history capture: Включить захват истории буфера
 Enable programming language detection: Включить определение языка программирования
 Enable screen unlock requirement on app launch for enhanced security, safeguarding data from unauthorized access.: Включить требование разблокировки экрана при запуске приложения для повышения безопасности, защиты данных от несанкционированного доступа.
@@ -116,8 +115,7 @@ Recovery password is set.: Пароль восстановления устан�
 Refresh Application UI: Обновить интерфейс
 Refresh UI: Обновить интерфейс
 Require Screen Unlock at Application Start: Требовать разблокировку экрана при запуске приложения
-? Require screen unlock at application launch to enhance security. This setting ensures that only authorized users can access the application, protecting your data from unauthorized access right from the start.
-: Требовать разблокировку экрана при запуске приложения для повышения безопасности. Эта настройка гарантирует, что только авторизованные пользователи могут получить доступ к приложению, защищая ваши данные от несанкционированного доступа с самого начала.
+Require screen unlock at application launch to enhance security. This setting ensures that only authorized users can access the application, protecting your data from unauthorized access right from the start.: Требовать разблокировку экрана при запуске приложения для повышения безопасности. Эта настройка гарантирует, что только авторизованные пользователи могут получить доступ к приложению, защищая ваши данные от несанкционированного доступа с самого начала.
 Reset Font Size: Сбросить размер шрифта
 Run Terminal or Shell Commands: Выполнять терминальные или shell-команды
 Scrape and parse websites or API responses using built-in web scraping tools and copy the extracted data to the clipboard.: Извлекайте и анализируйте веб-сайты или ответы API с помощью встроенных инструментов веб-скрейпинга и копируйте извлеченные данные в буфер обмена.
@@ -126,8 +124,7 @@ Security Settings: Настройки безопасности
 Send HTTP requests to web APIs or services and copy the response data to the clipboard.: Отправляйте HTTP-запросы к веб-API или сервисам и копируйте данные ответа в буфер обмена.
 Sensitive words or sentences listed below will automatically be masked if found in the copied text. Case insensitive.: Конфиденциальные слова или предложения, перечисленные ниже, будут автоматически маскироваться, если они будут найдены в скопированном тексте. Без учета регистра.
 Set a passcode to unlock the locked screen and protect your data from unauthorized access.: Установите код доступа для разблокировки заблокированного экрана и защиты ваших данных от несанкционированного доступа.
-? Set a recovery password to easily reset your lock screen passcode if forgotten. Your password will be securely stored in your device's OS storage.
-: Установите пароль восстановления, чтобы легко сбросить код доступа экрана блокировки, если вы его забыли. Ваш пароль будет надежно храниться в хранилище ОС вашего устройства.
+Set a recovery password to easily reset your lock screen passcode if forgotten. Your password will be securely stored in your device's OS storage.: Установите пароль восстановления, чтобы легко сбросить код доступа экрана блокировки, если вы его забыли. Ваш пароль будет надежно храниться в хранилище ОС вашего устройства.
 Settings: Настройки
 Show Clipboard History Capture Control on Lock Screen: Показывать управление захватом истории буфера обмена на экране блокировки
 Show Disabled Collections: Показывать отключенные коллекции
@@ -140,10 +137,9 @@ Swap Panels Layout: Поменять панели местами
 Switch the layout position of panels in Clipboard History and Paste Menu views: Переключить положение панелей в представлениях истории буфера обмена и меню вставки
 Thank you again for using PasteBar.: Спасибо Вам еще раз за использование PasteBar.
 Thank you for testing! 🙌: Спасибо за тестирование! 🙌
-? This option lets you control the display and timing of hover notes on clips. You can choose to show notes instantly or with a delay to prevent unintended popups.
-: Эта настройка позволяет управлять отображением и временем задержки всплывающих заметок при наведении на имя клипа. Выберите быстрый показ заметок или с задержкой.
-? This option lets you customize the maximum width and height of the popup that displays clip notes, ensuring it fits comfortably within your desired size.
-: Эта настройка дает возможность задать максимальные размеры всплывающего окна с заметками к клипам, чтобы оно лучше соответствовало вашим требованиям.
+This option lets you control the display and timing of hover notes on clips. You can choose to show notes instantly or with a delay to prevent unintended popups.: Эта настройка позволяет управлять отображением и временем задержки всплывающих заметок при наведении на имя клипа. Выберите быстрый показ заметок или с задержкой.
+This option lets you customize the maximum width and height of the popup that displays clip notes, ensuring it fits comfortably within your desired size.: Эта настройка дает возможность задать максимальные размеры всплывающего окна с заметками к клипам, чтобы оно лучше соответствовало вашим требованиям.
+This option lets you customize the minimum and maximum length of text that can be captured in the clipboard history. Setting either value to 0 makes that limit unlimited.: Эта опция позволяет настроить минимальную и максимальную длину текста, который может быть захвачен в истории буфера обмена. Установка любого из значений в 0 делает это ограничение неограниченным.
 'To downgrade, please visit: ': 'Чтобы найти предыдущие версии, посетите следующую страницу: '
 To ensure the best detection accuracy, please select up to 7 languages. Limiting choices improves precision.: Для обеспечения наилучшей точности определения, пожалуйста, выберите до 7 языков. Ограничение выбора повышает точность.
 Today: Сегодня
@@ -160,3 +156,45 @@ Web Scraping and Parsing: Веб-скрейпинг и анализ
 Words or sentences listed below will not be captured in clipboard history if found in the copied text. Case insensitive.: Слова или предложения, перечисленные ниже, не будут захватываться в историю буфера обмена, если они будут найдены в скопированном тексте. Без учета регистра.
 passcode reset: сброс кода доступа
 password reset: сброс пароля
+Apply and Restart: Применить и перезапустить
+Are you sure you want to set "{{path}}" as the new data folder? The application will restart.: Вы уверены, что хотите установить "{{path}}" как новую папку данных? Приложение будет перезапущено.
+Are you sure you want to {{operation}} the database to "{{path}}"? The application will restart.: Вы уверены, что хотите {{operation}} базу данных в "{{path}}"? Приложение будет перезапущено.
+Change Custom Data Folder...: Изменить пользовательскую папку данных...
+Change Selected Folder...: Изменить выбранную папку...
+Changing the database location requires an application restart to take effect.: Изменение расположения базы данных требует перезапуска приложения для вступления в силу.
+ConfirmRevertToDefaultDbPathMessage: Вы уверены, что хотите вернуться к расположению данных по умолчанию? Данные вашего приложения будут перемещены в путь по умолчанию.
+Copy data: Копировать данные
+Current data folder: Текущая папка данных
+Custom Application Data Location: Пользовательское расположение данных приложения
+Custom data location is active. You can change it or revert to the default location. Changes require an application restart.: Пользовательское расположение данных активно. Вы можете изменить его или вернуться к расположению по умолчанию. Изменения требуют перезапуска приложения.
+Default: По умолчанию
+Enable custom data location to store application data in a directory of your choice instead of the default location.: Включить пользовательское расположение данных для хранения данных приложения в выбранной вами директории вместо расположения по умолчанию.
+Failed to apply custom database location.: Не удалось применить пользовательское расположение базы данных.
+Failed to create directory. Please check permissions and try again.: Не удалось создать директорию. Проверьте разрешения и попробуйте снова.
+Failed to revert to default database location.: Не удалось вернуться к расположению базы данных по умолчанию.
+Found existing "pastebar-data" folder. The application will use this folder to store data.: Найдена существующая папка "pastebar-data". Приложение будет использовать эту папку для хранения данных.
+Invalid directory selected.: Выбрана недопустимая директория.
+Operation when applying new path: Операция при применении нового пути
+Please select a directory first.: Пожалуйста, сначала выберите директорию.
+Please select a new directory different from the current one.: Пожалуйста, выберите новую директорию, отличную от текущей.
+Revert to Default: Вернуться к умолчанию
+Select Data Folder: Выбрать папку данных
+Select Data Folder...: Выбрать папку данных...
+Select a custom location to store your application data instead of the default location.: Выберите пользовательское расположение для хранения данных приложения вместо расположения по умолчанию.
+Selected data folder: Выбранная папка данных
+Selected new data folder for change: Выбранная новая папка данных для изменения
+Setting a custom database location requires an application restart to take effect.: Установка пользовательского расположения базы данных требует перезапуска приложения для вступления в силу.
+The selected folder is not empty and does not contain PasteBar data files. Do you want to create a "pastebar-data" subfolder to store the data?: Выбранная папка не пуста и не содержит файлов данных PasteBar. Хотите создать подпапку "pastebar-data" для хранения данных?
+This folder already contains PasteBar data. The application will use this existing data after restart.: Эта папка уже содержит данные PasteBar. Приложение будет использовать эти существующие данные после перезапуска.
+Use new location: Использовать новое расположение
+An error occurred during directory processing.: Произошла ошибка при обработке директории.
+An error occurred during directory selection or setup.: Произошла ошибка при выборе или настройке директории.
+Disable Image Capture: Отключить Захват Изображений
+Disable capturing and storing images from clipboard: Отключить захват и сохранение изображений из буфера обмена
+Custom Database Location: Пользовательское расположение базы данных
+Minimize Window: Свернуть окно
+Passcode verification is locked.: Проверка кода доступа заблокирована.
+Pin Window: Закрепить окно
+Selected new data folder: Выбранная новая папка данных для изменения
+UnPin Window: Открепить окно
+none: нет
