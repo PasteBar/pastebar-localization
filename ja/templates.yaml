@@ -1,0 +1,24 @@
+Create New Template: 新しいテンプレートを作成
+Create Template: テンプレートを作成
+Enter template content...: テンプレート内容を入力...
+Enter template name (e.g., "signature", "email"): テンプレート名を入力（例: "signature", "email"）
+Global: グローバル
+Global Template: グローバルテンプレート
+Global Templates: グローバルテンプレート一覧
+Preview usage: 使用例をプレビュー
+Template Usage: テンプレートの使い方
+Template name already exists: テンプレート名は既に存在します。別の名前を選んでください。
+Template name cannot be changed after creation. Delete and recreate to change name.: テンプレート名は作成後に変更できません。変更するには削除して再作成してください。
+Use Global Template: グローバルテンプレートを使用
+addTemplateButton: テンプレートを追加
+confirmDeleteTemplateMessage: グローバルテンプレート「{{name}}」を削除してもよろしいですか？
+confirmDeleteTemplateTitle: 削除の確認
+deleteTemplateButtonTooltip: テンプレートを削除
+enableGlobalTemplatesLabel: グローバルテンプレートを有効化
+globalTemplatesDescription: どのクリップにも{{template_name}}で挿入できる再利用可能なテキストスニペットを管理します。
+globalTemplatesTitle: グローバルテンプレート
+templateEnabledLabel: 有効
+templateNameLabel: 名前
+templateValueLabel: 値
+localTemplateConflictWarning: グローバルテンプレート「{{label}}」も存在します。このクリップ内ではローカルテンプレートが優先されます。
+noGlobalTemplatesYet: まだグローバルテンプレートが定義されていません。「テンプレートを追加」をクリックして作成してください。

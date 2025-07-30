@@ -1,0 +1,220 @@
+<strong>{{screenLockPassCodeLength}}</strong>桁のパスコードが設定されています。: <strong>{{screenLockPassCodeLength}}</strong>桁のパスコードが設定されています。
+Activation Success: 有効化に成功しました
+Add a star to the copied text when you copy it twice within 1 second. This allows you to quickly add copied text or links to your favorites and easily find it in the clipboard history.: 1秒以内に2回コピーするとコピーしたテキストにスターを付けます。これによりお気に入りに素早く追加し、クリップボード履歴から簡単に見つけられます。
+Add an unlimited number of tabs within each collection for better organization and easy access.: 各コレクション内に無制限のタブを追加でき、整理やアクセスが容易になります。
+'Add an unlimited number of tabs within each collection for better organization and easy access.                                ': '各コレクション内に無制限のタブを追加でき、整理やアクセスが容易になります。'
+Advanced settings: 詳細設定
+Already Active: すでに有効です
+Application Auto Start: アプリ自動起動
+Application Color Theme: アプリカラーテーマ
+Application UI Color Theme: アプリUIカラーテーマ
+Application UI Fonts Scale: アプリUIフォントサイズ
+Application UI Language: アプリUI言語
+Applications listed below will not have their copy to clipboard action captured in clipboard history. Case insensitive.: 下記アプリはクリップボード履歴にコピー操作が記録されません（大文字小文字区別なし）。
+Apply and Restart: 適用して再起動
+Are you sure you want to go back to the default data folder? This will remove the custom location setting.: デフォルトのデータフォルダーに戻しますか？カスタム設定が削除されます。
+Are you sure you want to revert to the default database location? The application will restart.: デフォルトのデータベース場所に戻しますか？アプリが再起動します。
+Are you sure you want to set "{{path}}" as the new data folder? The application will restart.: "{{path}}"を新しいデータフォルダーに設定しますか？アプリが再起動します。
+Are you sure you want to {{operation}} the database to "{{path}}"? The application will restart.: データベースを"{{path}}"に{{operation}}しますか？アプリが再起動します。
+Auto Disable History Capture when Screen Unlocked: 画面ロック解除時に履歴キャプチャを自動無効化
+Auto Lock Application Screen on User Inactivity: ユーザー非操作時にアプリ画面を自動ロック
+Auto Lock Screen on User Inactivity: ユーザー非操作時に画面を自動ロック
+Auto Lock the Screen on User Inactivity: ユーザー非操作時に画面を自動ロック
+Auto Masking Words List: 自動マスキングワードリスト
+Auto update on capture: キャプチャ時に自動更新
+Auto-Clear Settings: 自動クリア設定
+Auto-Generate Link Card Preview: リンクカードプレビューを自動生成
+Auto-Preview Link on Hover: ホバー時にリンクを自動プレビュー
+Auto-Star on Double Copy: ダブルコピーで自動スター
+Auto-Trim Spaces on Capture: キャプチャ時に空白を自動トリム
+Auto-Update on Capture: キャプチャ時に自動更新
+Auto-delete clipboard history after: クリップボード履歴を自動削除
+Automatically create link card preview in the clipboard history. This allows to quickly view website details without opening or pasting the link.: クリップボード履歴にリンクカードプレビューを自動作成。リンクを開かずにウェブサイト詳細を素早く確認できます。
+Back: 戻る
+Capture History: 履歴をキャプチャ
+Capture History Text Length Limits: 履歴テキスト長制限
+Change Custom Data Folder...: カスタムデータフォルダーを変更...
+Change Directory...: ディレクトリを変更...
+Change Selected Folder...: 選択フォルダーを変更...
+Change the application UI font size scale: アプリUIフォントサイズを変更
+Change the application UI language: アプリUI言語を変更
+Change the application user interface color theme: アプリUIカラーテーマを変更
+Change the application user interface font size scale: アプリUIフォントサイズを変更
+Change the application user interface language: アプリUI言語を変更
+Changing the database location requires an application restart to take effect.: データベース場所の変更にはアプリ再起動が必要です。
+Clip Notes Popup Maximum Dimensions: クリップノートポップアップ最大サイズ
+Clipboard History Settings: クリップボード履歴設定
+'Complete details:': '詳細:'
+Configure settings to automatically delete clipboard history items after a specified duration.: 指定期間後にクリップボード履歴を自動削除する設定
+ConfirmRevertToDefaultDbPathMessage: デフォルトのデータ場所に戻しますか？アプリデータがデフォルトパスに移動されます。
+Copy data: データをコピー
+Copy database file: データベースファイルをコピー
+Create a preview card on link hover in the clipboard history. This allows you to preview the link before opening or pasting it.: クリップボード履歴でリンクにホバーするとプレビューカードを作成。開かずに内容を確認できます。
+Create an unlimited number of collections to organize your clips and menus.: クリップやメニューを整理するため無制限のコレクションを作成可能
+Current data folder: 現在のデータフォルダー
+Current data location: 現在のデータ場所
+Current database location: 現在のデータベース場所
+Custom: カスタム
+Custom Application Data Location: カスタムアプリデータ場所
+Custom Database Location: カスタムデータベース場所
+Custom data location is active. You can change it or revert to the default location. Changes require an application restart.: カスタムデータ場所が有効です。変更やデフォルトへの復元にはアプリ再起動が必要です。
+Custom themes: カスタムテーマ
+Decrease UI Font Size: UIフォントサイズを縮小
+Default: デフォルト
+Disable Image Capture: 画像キャプチャを無効化
+Disable capturing and storing images from clipboard: クリップボードからの画像取得・保存を無効化
+Display clipboard history capture toggle on the locked application screen. This allows you to control history capture settings directly from the lock screen.: ロック画面で履歴キャプチャ切り替えを表示。ロック画面から直接設定可能。
+Display disabled collections name on the navigation bar collections menu: ナビバーのコレクションメニューに無効コレクション名を表示
+Display disabled collections name on the navigation bar under collections menu: ナビバーのコレクションメニュー下に無効コレクション名を表示
+Display full name of selected collection on the navigation bar: 選択コレクションのフルネームをナビバーに表示
+Do you want to attempt to move the database file from "{{customPath}}" back to the default location?: "{{customPath}}"からデータベースファイルをデフォルト場所に戻しますか？
+Drag and drop to prioritize languages for detection. The higher a language is in the list, the higher its detection priority.: ドラッグ＆ドロップで検出優先言語を並べ替え。上位ほど優先度が高くなります。
+Email: メール
+Email is not valid: メールが無効です
+'Email:': 'メール:'
+Emails do not match: メールが一致しません
+Enable Auto Start: 自動起動を有効化
+Enable Clip Title Hover Show with Delay: クリップタイトルのホバー表示を遅延有効化
+Enable application auto start on system boot: システム起動時にアプリ自動起動を有効化
+Enable auto lock the application screen after a certain period of inactivity, to prevent unauthorized access to your data.: 一定時間操作がない場合にアプリ画面を自動ロックし、不正アクセスを防止
+Enable auto lock the application screen when user not active: ユーザー非操作時にアプリ画面を自動ロック
+Enable auto trim spaces on history capture: 履歴キャプチャ時に空白を自動トリム
+Enable auto update on capture: キャプチャ時に自動更新を有効化
+Enable custom data location to store application data in a directory of your choice instead of the default location.: デフォルト以外の任意ディレクトリにアプリデータを保存するカスタムデータ場所を有効化
+Enable history capture: 履歴キャプチャを有効化
+Enable programming language detection: プログラミング言語検出を有効化
+Enable screen unlock requirement on app launch for enhanced security, safeguarding data from unauthorized access.: アプリ起動時に画面ロック解除を必須にし、セキュリティを強化
+Enter Passcode length: パスコード桁数を入力
+Enter new directory path or leave empty for default on next revert: 新しいディレクトリパスを入力、または空欄で次回復元時にデフォルト
+Enter recovery password to reset passcode.: パスコードリセットには復旧用パスワードを入力
+Enter your <strong>{{screenLockPassCodeLength}} digits</strong> passcode: <strong>{{screenLockPassCodeLength}}桁</strong>のパスコードを入力
+Entered Passcode is invalid: 入力したパスコードが無効です
+Excluded Apps List: 除外アプリリスト
+Execute Web Requests: Webリクエストを実行
+Execute terminal or shell commands directly from PasteBar clip and copy the results to the clipboard.: PasteBarクリップから直接ターミナルやシェルコマンドを実行し、結果をクリップボードにコピー
+'Expires:': '有効期限:'
+Failed to revert to default database location.: デフォルトのデータベース場所への復元に失敗しました
+Failed to select directory: ディレクトリの選択に失敗しました
+Forgot Passcode ? Enter your recovery password to reset the passcode.: パスコードを忘れた場合は復旧用パスワードを入力してリセット
+Forgot passcode ?: パスコードを忘れましたか？
+Forgot?: 忘れた？
+Forgot? Reset using Password: 忘れた？パスワードでリセット
+Get priority email support from us to resolve any issues or questions you may have about PasteBar.: PasteBarに関するご質問や問題は優先メールサポートをご利用ください
+'Hint: {{screenLockRecoveryPasswordMasked}}': 'ヒント: {{screenLockRecoveryPasswordMasked}}'
+If a database file already exists at the default location, do you want to overwrite it? Choosing "Cancel" will skip moving the file if an existing file is found.: デフォルト場所に既存のデータベースファイルがある場合、上書きしますか？「キャンセル」で既存ファイルがある場合は移動をスキップします。
+Incorrect passcode.: パスコードが間違っています
+Increase UI Font Size: UIフォントサイズを拡大
+Issued: 発行日
+Large: 大
+List each application name or window identifier on a new line.: 各アプリ名またはウィンドウ識別子を1行ずつ記載
+List each word or sentence on a new line.: 各単語または文を1行ずつ記載
+Lock Screen Clipboard History Capture Control: ロック画面で履歴キャプチャ制御
+Lock Screen PassCode: ロック画面パスコード
+Lock Screen Passcode: ロック画面パスコード
+Manage Collections: コレクションを管理
+Maximum 10 digits: 最大10桁
+Maximum devices: 最大デバイス数
+Medium: 中
+Minimal 4 digits: 最小4桁
+Minimize Window: ウィンドウを最小化
+Minimum number of lines to trigger detection: 検出を開始する最小行数
+Move data: データを移動
+Move database file: データベースファイルを移動
+Name: 名前
+New Data Directory Path: 新しいデータディレクトリパス
+New Database Directory Path: 新しいデータベースディレクトリパス
+Open Security Settings: セキュリティ設定を開く
+Operation when applying new path: 新しいパス適用時の操作
+Passcode digits remaining: 残りパスコード桁数
+Passcode is locked.: パスコードがロックされています
+Passcode is not set: パスコードが未設定
+Passcode is not valid: パスコードが無効です
+Passcode length: パスコード桁数
+Passcode mismatch: パスコード不一致
+Passcode reset is locked.: パスコードリセットがロックされています
+Passcode successfully verified: パスコードが正常に認証されました
+Passcode verification error: パスコード認証エラー
+Passcode verification is locked.: パスコード認証がロックされています
+Password is incorrect.: パスワードが間違っています
+Password is incorrect. <br/>{{screenLockRecoveryPasswordMasked}}: パスワードが間違っています。<br/>{{screenLockRecoveryPasswordMasked}}
+'Password is incorrect. Hint: {{screenLockRecoveryPasswordMasked}}': 'パスワードが間違っています。ヒント: {{screenLockRecoveryPasswordMasked}}'
+'Password is incorrect. Masked password is: {{screenLockRecoveryPasswordMasked}}': 'パスワードが間違っています。マスクされたパスワード: {{screenLockRecoveryPasswordMasked}}'
+Password is incorrect. {{screenLockRecoveryPasswordMasked}}: パスワードが間違っています。{{screenLockRecoveryPasswordMasked}}
+Passwords do not match: パスワードが一致しません
+PasteBar Settings: PasteBar設定
+Pin Window: ウィンドウをピン留め
+Pin on Top Window: 最前面にピン留め
+Please set up a Passcode and recovery password in Security Settings to enable Screen Lock and ensure better security.: セキュリティ設定でパスコードと復旧用パスワードを設定し、画面ロックとセキュリティ強化を有効にしてください。
+Please try again: もう一度お試しください
+Preview current popup size on hover.: ホバー時に現在のポップアップサイズをプレビュー
+Prioritize Language Detection: 言語検出の優先順位付け
+Priority support: 優先サポート
+Programming Language Detection: プログラミング言語検出
+Programming Language Selection: プログラミング言語選択
+Protect your data by requiring screen unlock authentication whenever the application starts.: アプリ起動時に画面ロック解除認証を必須にし、データを保護
+Recovery Password for Lock Screen Passcode: ロック画面パスコードの復旧用パスワード
+Recovery password is set.: 復旧用パスワードが設定されています
+Refresh Application UI: アプリUIをリフレッシュ
+Refresh UI: UIをリフレッシュ
+Require Screen Unlock at Application Start: アプリ起動時に画面ロック解除を必須にする
+Require screen unlock at application launch to enhance security. This setting ensures that only authorized users can access the application, protecting your data from unauthorized access right from the start.: アプリ起動時に画面ロック解除を必須にし、セキュリティを強化します。この設定により認証済みユーザーのみがアプリにアクセスでき、データを保護します。
+Reset Font Size: フォントサイズをリセット
+Revert to Default: デフォルトに戻す
+Revert to Default and Restart: デフォルトに戻して再起動
+Run Terminal or Shell Commands: ターミナルやシェルコマンドを実行
+Scrape and parse websites or API responses using built-in web scraping tools and copy the extracted data to the clipboard.: 内蔵のWebスクレイピングツールでWebサイトやAPIレスポンスを抽出し、クリップボードにコピー
+'Scrape and parse websites or API responses using built-in web scraping tools and copy the extracted data to the clipboard.                                ': 内蔵のWebスクレイピングツールでWebサイトやAPIレスポンスを抽出し、クリップボードにコピー
+Security: セキュリティ
+Security Settings: セキュリティ設定
+Select Custom Data Folder...: カスタムデータフォルダーを選択...
+Select Data Folder: データフォルダーを選択
+Select Data Folder...: データフォルダーを選択...
+Select a custom location to store your application data instead of the default location.: デフォルト以外の場所にアプリデータを保存するカスタム場所を選択
+Selected data folder: 選択したデータフォルダー
+Selected new data folder: 新しいデータフォルダーを選択
+Selected new data folder for change: 変更用の新しいデータフォルダーを選択
+Send HTTP requests to web APIs or services and copy the response data to the clipboard.: Web APIやサービスにHTTPリクエストを送り、レスポンスデータをクリップボードにコピー
+Sensitive words or sentences listed below will automatically be masked if found in the copied text. Case insensitive.: 下記の単語や文がコピーしたテキストに含まれる場合、自動的にマスクされます（大文字小文字区別なし）。
+Set a passcode to unlock the locked screen and protect your data from unauthorized access.: ロック画面解除用のパスコードを設定し、不正アクセスからデータを保護
+Set a recovery password to easily reset your lock screen passcode if forgotten. Your password will be securely stored in your device's OS storage.: パスコードを忘れた場合に簡単にリセットできる復旧用パスワードを設定。パスワードは端末のOSストレージに安全に保存されます。
+Setting a custom database location requires an application restart to take effect.: カスタムデータベース場所の設定にはアプリ再起動が必要です。
+Settings: 設定
+Show Clipboard History Capture Control on Lock Screen: ロック画面で履歴キャプチャ制御を表示
+Show Disable History Capture When Screen Locked: 画面ロック時に履歴キャプチャ無効を表示
+Show Disabled Collections: 無効コレクションを表示
+Show clipboard history capture toggle when the application screen is locked. This allow you to control capturing history settings from the application locked screen.: アプリ画面ロック時に履歴キャプチャ切り替えを表示。ロック画面から直接制御可能。
+Show collection name on the navbar: ナビバーにコレクション名を表示
+Show disabled collections on the navbar list: ナビバーリストに無効コレクションを表示
+Skip auto start prompt on app launch: アプリ起動時の自動起動プロンプトをスキップ
+Small: 小
+Stop Words List: ストップワードリスト
+Swap Panels Layout: パネルレイアウトを入れ替え
+Switch the layout position of panels in Clipboard History and Paste Menu views: クリップボード履歴とペーストメニューのパネル位置を切り替え
+Thank you again for using PasteBar.: PasteBarをご利用いただきありがとうございます。
+Thank you for testing! 🙌: テストありがとうございます！
+The selected folder is not empty and does not contain PasteBar data files. Do you want to create a "pastebar-data" subfolder to store the data?: 選択したフォルダーが空でなくPasteBarデータファイルが含まれていません。「pastebar-data」サブフォルダーを作成してデータを保存しますか？
+The selected folder is not empty. Do you want to create a "pastebar-data" subfolder to store the data?: 選択したフォルダーが空でありません。「pastebar-data」サブフォルダーを作成してデータを保存しますか？
+This folder already contains PasteBar data. The application will use this existing data after restart.: このフォルダーには既にPasteBarデータが含まれています。アプリ再起動後に既存データが使用されます。
+This option lets you control the display and timing of hover notes on clips. You can choose to show notes instantly or with a delay to prevent unintended popups.: このオプションでクリップのホバーノート表示とタイミングを制御できます。即時表示や遅延表示を選択可能です。
+This option lets you customize the maximum width and height of the popup that displays clip notes, ensuring it fits comfortably within your desired size.: このオプションでクリップノート表示ポップアップの最大幅・高さをカスタマイズできます。
+This option lets you customize the minimum and maximum length of text that can be captured in the clipboard history. Setting either value to 0 makes that limit unlimited.: このオプションでクリップボード履歴に記録できるテキストの最小・最大長をカスタマイズできます。0に設定すると無制限になります。
+To downgrade your current version, please visit: 現在のバージョンをダウングレードするにはこちらをご覧ください
+'To downgrade, please visit: ': ダウングレードはこちら: 
+To ensure the best detection accuracy, please select up to 7 languages. Limiting choices improves precision.: 最適な検出精度のため最大7言語まで選択してください。選択数を絞ると精度が向上します。
+Today: 今日
+Tomorrow: 明日
+Try after <strong>{{resetPassCodeNextDelay}}</strong> seconds: <strong>{{resetPassCodeNextDelay}}</strong>秒後に再試行
+Try again after <strong>{{resetPassCodeNextDelay}}</strong> seconds: <strong>{{resetPassCodeNextDelay}}</strong>秒後に再試行
+UI Language: UI言語
+UnPin Window: ウィンドウのピンを外す
+Unlimited Collections: 無制限のコレクション
+Unlimited Tabs per Collection: コレクションごとに無制限のタブ
+Unlimited paste history: 無制限のペースト履歴
+Use Password: パスワードを使用
+Use new location: 新しい場所を使用
+User Preferences: ユーザー設定
+Web Scraping and Parsing: Webスクレイピングとパース
+Words or sentences listed below will not be captured in clipboard history if found in the copied text. Case insensitive.: 下記の単語や文がコピーしたテキストに含まれる場合、履歴に記録されません（大文字小文字区別なし）。
+none: なし
+passcode reset: パスコードリセット
+password reset: パスワードリセット

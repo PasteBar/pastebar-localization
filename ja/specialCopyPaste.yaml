@@ -1,0 +1,74 @@
+Add Current Date/Time: 現在の日付/時刻を追加
+Add Line Numbers: 行番号を追加
+Add One Line Feed: 1行改行を追加
+Add Two Line Feeds: 2行改行を追加
+Base64 Decode: Base64デコード
+Base64 Encode: Base64エンコード
+CSV: CSV
+CSV to JSON: CSVをJSONに変換
+CSV to Markdown Table: CSVをMarkdownテーブルに変換
+Capitalize Case: 先頭大文字化
+Code Formatting: コード整形
+Count Characters: 文字数をカウント
+Count Lines: 行数をカウント
+Count Sentences: 文数をカウント
+Count Words: 単語数をカウント
+Data Conversion: データ変換
+Drag and drop category to prioritize its order in the special copy/paste menu.: 特別コピー/ペーストメニューでカテゴリの順序をドラッグ＆ドロップで優先付け
+Enable All: すべて有効化
+Enable special text transformation options for clipboard history items: クリップボード履歴アイテムの特別なテキスト変換オプションを有効化
+Enabled Operations: 有効な操作
+Encode/Decode: エンコード/デコード
+Format Converter: フォーマット変換
+HTML: HTML
+HTML Decode: HTMLデコード
+HTML Encode: HTMLエンコード
+HTML to Markdown: HTMLをMarkdownに変換
+HTML to Plain Text: HTMLをプレーンテキストに変換
+HTML to React Component: HTMLをReactコンポーネントに変換
+HTML to React JSX: HTMLをReact JSXに変換
+HTML to Text: HTMLをテキストに変換
+JSON: JSON
+JSON Stringify: JSON文字列化
+JSON to CSV: JSONをCSVに変換
+JSON to Markdown Table: JSONをMarkdownテーブルに変換
+JSON to TOML: JSONをTOMLに変換
+JSON to XML: JSONをXMLに変換
+JSON to YAML: JSONをYAMLに変換
+Markdown: Markdown
+Markdown to HTML: MarkdownをHTMLに変換
+Markdown to Text: Markdownをテキストに変換
+Operations: 操作
+PascalCase: パスカルケース
+Prioritize Category Order: カテゴリ順序を優先
+PrioritizeCategoryOrderNote: カテゴリ順序優先の注意
+Remove Duplicate Lines: 重複行を削除
+Remove Extra Spaces: 余分な空白を削除
+Remove Line Feeds: 改行を削除
+Reverse Text: テキストを逆順に
+Select Operations: 操作を選択
+Sentence case: 文頭大文字化
+Sort Lines Alphabetically: 行をアルファベット順に並べ替え
+Special Copy: 特別コピー
+Special Copy/Paste Operations: 特別コピー/ペースト操作
+Special Paste: 特別ペースト
+Special Settings: 特別設定
+TOML: TOML
+TOML to JSON: TOMLをJSONに変換
+Text Case: テキストの大文字小文字変換
+Text Tools: テキストツール
+Title Case: タイトルケース
+Trim White Space: 余分な空白をトリム
+UPPER CASE: 大文字
+URL Decode: URLデコード
+URL Encode: URLエンコード
+Whitespace & Lines: 空白と行
+XML: XML
+XML to JSON: XMLをJSONに変換
+YAML: YAML
+YAML to JSON: YAMLをJSONに変換
+camelCase: キャメルケース
+iNVERT cASE: 大小文字反転
+kebab-case: ケバブケース
+lower case: 小文字
+snake_case: スネークケース
