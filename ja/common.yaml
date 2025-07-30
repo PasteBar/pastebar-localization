@@ -1,0 +1,359 @@
+' No': いいえ
+' This permission ensures PasteBar can access the clipboard and perform copy and paste operations across applications.': この権限によりPasteBarはクリップボードへアクセスし、アプリ間でコピー＆ペースト操作が可能になります。
+About PasteBar: PasteBarについて
+Action Menu: アクションメニュー
+? Add <b>{{Clipboard}}</b> field to template. This allows you to copy text to the clipboard, and it will be inserted into the template
+: テンプレートに<b>{{Clipboard}}</b>フィールドを追加します。これによりテキストをクリップボードにコピーし、テンプレートに挿入できます。
+Add Clip: クリップを追加
+Add First Option: 最初のオプションを追加
+Add Link Card: リンクカードを追加
+Add Menu: メニューを追加
+Add Option: オプションを追加
+Add PasteBar to Accessibility: PasteBarをアクセシビリティに追加
+Add To Player: プレイヤーに追加
+Add to: 追加先
+Add to Clips: クリップに追加
+Add to Clips or Menu: クリップまたはメニューに追加
+Add to Menu: メニューに追加
+Add to clip or menu: クリップまたはメニューに追加
+Add to template fields: テンプレートフィールドに追加
+Added: 追加済み
+Adding this file to the player is not recommended unless you trust the source.: このファイルをプレイヤーに追加するのは信頼できるソースの場合のみ推奨されます。
+Allow PasteBar to Copy and Paste from Clipboard: PasteBarにクリップボードからのコピー＆ペーストを許可
+Are you sure you want to delete?: 本当に削除しますか？
+Are you sure?: よろしいですか？
+Attach History Window: 履歴ウィンドウを添付
+Back: 戻る
+Build on {{buildDate}}: ビルド日: {{buildDate}}
+Cancel: キャンセル
+Cancel Reset: リセットをキャンセル
+Check: チェック
+Check / Done: チェック / 完了
+Check and Close: チェックして閉じる
+Check and Done: チェックして完了
+Clear History: 履歴をクリア
+Clear Tracks: トラックをクリア
+Clear found results and filters: 検索結果とフィルターをクリア
+Click to Confirm: クリックして確認
+Clip: クリップ
+Clip Boards: クリップボード
+Clipboard: クリップボード
+Clipboard History: クリップボード履歴
+Clipboard History Only: クリップボード履歴のみ
+Clipboard History Settings: クリップボード履歴設定
+Close: 閉じる
+Close Edit: 編集を閉じる
+Close Expand Edit: 拡張編集を閉じる
+Close Find: 検索を閉じる
+Close History Window: 履歴ウィンドウを閉じる
+Close modal and continue in browser: モーダルを閉じてブラウザで続行
+Confirm: 確認
+Confirm  action: 操作を確認
+Confirm Delete: 削除を確認
+Confirm Email: メールアドレスを確認
+Confirm Passcode: パスコードを確認
+Confirm Password: パスワードを確認
+Confirm Remove: 削除を確認
+Confirm Your Passcode: パスコードを確認
+Confirm Passcode Reset: パスコードリセットを確認
+Confirm Password Reset: パスワードリセットを確認
+Confirm Add To Protected Collections: 保護コレクションへの追加を確認
+Confirm Disable PIN Protection: PIN保護の無効化を確認
+Confirm Remove From Protected Collections: 保護コレクションからの削除を確認
+Confirm Enable PIN Protection: PIN保護の有効化を確認
+Contact Form: お問い合わせフォーム
+Copied: コピーしました
+Copy: コピー
+Copy & Paste: コピー＆ペースト
+Copy and Paste: コピーとペースト
+'Copy of ': 'のコピー '
+Copy to Clipboard: クリップボードにコピー
+Create: 作成
+Created: 作成済み
+Delay Next: 次を遅延
+Delete: 削除
+Deselect All: すべて選択解除
+Deselect pinned: ピン留め解除
+Digits Only Passcode: 数字のみのパスコード
+Disabled: 無効
+Done: 完了
+Done Adding: 追加完了
+Done Edit: 編集完了
+Done Reorder: 並べ替え完了
+Download mp3: mp3をダウンロード
+Drag: ドラッグ
+Drag to Move: 移動のためにドラッグ
+Drop To Add: ドロップして追加
+Drop Zone: ドロップゾーン
+Edit: 編集
+Edit Label: ラベルを編集
+'Email: {{email}}': 'メール: {{email}}'
+Emoji: 絵文字
+Empty: 空
+Empty Select: 空の選択
+Enable / Disable: 有効/無効
+Enable PasteBar in Accessibility Settings: アクセシビリティ設定でPasteBarを有効化
+Enabled: 有効
+Enter Current Passcode: 現在のパスコードを入力
+Enter Digits Only Passcode: 数字のみのパスコードを入力
+Enter Email: メールアドレスを入力
+Enter PIN to Access Protected Collection: 保護コレクションにアクセスするためPINを入力
+Enter Passcode: パスコードを入力
+Enter Password: パスワードを入力
+Enter Recovery Password: 復旧用パスワードを入力
+Enter passcode or password to unlock: パスコードまたはパスワードでロック解除
+Error: エラー
+Errors:
+  Error loading link: リンクの読み込みエラー
+  Cant save to file: ファイルへの保存に失敗
+  Something went wrong! {{err}} Please try again.: 問題が発生しました！{{err}} もう一度お試しください。
+Expand Edit: 編集を拡張
+Expires on {{proExpiresOn}}: 有効期限: {{proExpiresOn}}
+? Field <b>{{Clipboard}}</b> has been found in the template. This allows you to copy text to the clipboard, and it will be inserted into the template
+: テンプレートに<b>{{Clipboard}}</b>フィールドが見つかりました。これによりテキストをクリップボードにコピーし、テンプレートに挿入できます。
+Field is not found in the template: テンプレートにフィールドが見つかりません
+Find Clip: クリップを検索
+Find History: 履歴を検索
+Found in template but missing from fields definition: テンプレートに存在しますがフィールド定義にありません
+Got it: わかりました
+Hide Muli Select: 複数選択を隠す
+Hide Pinned Board: ピン留めボードを隠す
+History: 履歴
+Image: 画像
+Image Scale {{ImageScale}}x: 画像スケール{{ImageScale}}倍
+Image size: 画像サイズ
+Image size in pixels: ピクセル単位の画像サイズ
+In View: 表示中
+In View Edit: 編集表示中
+Inactive: 非アクティブ
+Large View: 大きく表示
+Large View Edit: 大きく編集
+Later: 後で
+Light: ライト
+Lines Wrap: 行の折り返し
+Make Active: アクティブにする
+Make Disabled: 無効にする
+Make Enabled: 有効にする
+Make Inactive: 非アクティブにする
+Manage: 管理
+Maximum height: 最大高さ
+Maximum length: 最大長
+Maximum width: 最大幅
+Menu: メニュー
+Minimum length: 最小長
+Move Down: 下へ移動
+Move Up: 上へ移動
+Multi Select: 複数選択
+'Name: {{name}}': '名前: {{name}}'
+Next Delay: 次の遅延
+Next Track: 次のトラック
+No: いいえ
+No Key Press: キー入力なし
+No Wrap: 折り返しなし
+Not Now: 今はしない
+Not found in the template: テンプレートに見つかりません
+Nothing found: 何も見つかりません
+Number of lines: 行数
+Ok, but later: OK、でも後で
+Open: 開く
+Open Accessibility: アクセシビリティを開く
+Open History Window: 履歴ウィンドウを開く
+Open Window: ウィンドウを開く
+Open contact form in browser: ブラウザでお問い合わせフォームを開く
+Open payment in browser: ブラウザで支払いを開く
+Options: オプション
+Password: パスワード
+Paste Delay: ペースト遅延
+Paste Menu: ペーストメニュー
+Paste in {{pastingCountDown}}...: {{pastingCountDown}}秒後にペースト...
+PasteBar: PasteBar
+PasteBar Application Error: PasteBarアプリケーションエラー
+PasteBar History: PasteBar履歴
+PasteBar application now can access the clipboard and perform copy and paste operations across applications.: PasteBarアプリケーションはクリップボードにアクセスし、アプリ間でコピー＆ペースト操作が可能になりました。
+PasteBar was successfuly added to Accessibility settings: PasteBarがアクセシビリティ設定に正常に追加されました
+Pasted: ペーストされました
+Path: パス
+Pause: 一時停止
+Pause Playing: 再生を一時停止
+? 'Permission Check Failed: PasteBar has not been successfully added to Accessibility settings. Please grant the required permissions and click Done again.'
+: 権限チェックに失敗しました: PasteBarがアクセシビリティ設定に正常に追加されていません。必要な権限を付与し、再度「完了」をクリックしてください。
+Pin Selected: 選択したものをピン留め
+Pinned: ピン留め
+Play: 再生
+Please add PasteBar to the list of apps in: PasteBarをアプリ一覧に追加してください
+Please confirm your action!: 操作を確認してください！
+Press: 押す
+Press ESC key to close: ESCキーで閉じる
+Previous Track: 前のトラック
+Pro: Pro
+Quit: 終了
+Rebuild Menu: メニューを再構築
+Recent History: 最近の履歴
+Recovery Password: 復旧用パスワード
+Remove: 削除
+Remove Link Card: リンクカードを削除
+Remove Selected Star: 選択したスターを削除
+Remove all fields from template: テンプレートからすべてのフィールドを削除
+Remove all tracks: すべてのトラックを削除
+Remove current track: 現在のトラックを削除
+Remove from Player: プレイヤーから削除
+Remove from template: テンプレートから削除
+Rename: 名前を変更
+Renew: 更新
+Reorder pinned: ピン留めを並べ替え
+Repeat 1: 1回リピート
+Repeat all: 全てリピート
+Repeat off: リピートオフ
+Report and Try Again: 報告して再試行
+Reset: リセット
+Reset Passcode: パスコードをリセット
+Reset Password: パスワードをリセット
+Reset with Passcode: パスコードでリセット
+Restart: 再起動
+Reverse Order: 逆順
+Run and Copy Response: 実行してレスポンスをコピー
+Run and Paste Response: 実行してレスポンスをペースト
+Running: 実行中
+Save: 保存
+Save It!: 保存する！
+Saved: 保存済み
+Scroll to Top: 一番上へスクロール
+Second: 秒
+Seconds: 秒
+'Security Alert: MP3 Verification Failed': 'セキュリティ警告: MP3検証失敗'
+Select: 選択
+Select Default Option: デフォルトオプションを選択
+Select Language: 言語を選択
+Select default: デフォルトを選択
+Select is empty: 選択が空です
+Select option: オプションを選択
+Select pinned: ピン留めを選択
+Separate History Window: 履歴ウィンドウを分離
+Sequence Copy: シーケンスコピー
+Sequence Copy Paste: シーケンスコピー＆ペースト
+Sequence Delay Next: シーケンス次遅延
+Sequence Next Delay: シーケンス次遅延
+Sequence Paste: シーケンスペースト
+Sequence Reverse Order: シーケンス逆順
+Set: 設定
+Set Password: パスワードを設定
+Show Large View: 大きく表示
+Show all: すべて表示
+Size: サイズ
+Source: ソース
+Star: スター
+Star Selected: スター選択
+Stay here: ここにとどまる
+Stay in touch: 連絡を取り続ける
+Success!: 成功！
+Swap Panels Layout: パネルレイアウトを入れ替え
+System Settings -> Privacy & Security -> Accessibility: システム設定→プライバシーとセキュリティ→アクセシビリティ
+Thank you for reporting the error.: エラーのご報告ありがとうございます。
+Thank you for using Pro: Proをご利用いただきありがとうございます
+Thank you!: ありがとうございます！
+This permission ensures PasteBar can access the clipboard and perform copy and paste operations across applications.: この権限によりPasteBarはクリップボードへアクセスし、アプリ間でコピー＆ペースト操作が可能になります。
+Too long: 長すぎます
+Too short: 短すぎます
+Toolbar:
+  Blank Text Formatting: 空白テキストの書式設定
+  Bold Formatting: 太字書式
+  Bold Text Formatting: 太字テキスト書式
+  Copy and Paste Formatting: コピー＆ペースト書式
+  Header Formatting: ヘッダー書式
+  Hightlight Text Formatting: ハイライトテキスト書式
+  Italic Formatting: 斜体書式
+  Masked Text Formatting: マスクテキスト書式
+  Remove Text Formatting: 書式を削除
+Trust and Play: 信頼して再生
+Type:
+  App: アプリ
+  Auto Fill: 自動入力
+  AutoFill: 自動入力
+  Clip: クリップ
+  Code: コード
+  Code Snippet: コードスニペット
+  Command: コマンド
+  Email: メール
+  Emoji: 絵文字
+  Empty: 空
+  Error: エラー
+  File: ファイル
+  File, Path or App: ファイル・パス・アプリ
+  Form Auto Fill: フォーム自動入力
+  Image: 画像
+  Label: ラベル
+  Link: リンク
+  Link or Email: リンクまたはメール
+  Menu: メニュー
+  Mp3: mp3
+  Path: パス
+  Plain Text: プレーンテキスト
+  Request: リクエスト
+  Run Auto Fill: 自動入力を実行
+  Scraper: スクレイパー
+  Secret: シークレット
+  Trim: 空白をトリム
+  Shell Command: シェルコマンド
+  Submenu: サブメニュー
+  Template: テンプレート
+  Template Fill: テンプレート入力
+  Text: テキスト
+  Video: ビデオ
+  Web Request (HTTP): Webリクエスト(HTTP)
+  Web Scraper / Parser: Webスクレイパー/パーサー
+TypeMenu:
+  Clip Type: クリップタイプ
+  Code Snippet: コードスニペット
+  File, Path or App: ファイル・パス・アプリ
+  Form Auto Fill: フォーム自動入力
+  Image: 画像
+  Link or Email: リンクまたはメール
+  Link or File, Path or App: リンクまたはファイル・パス・アプリ
+  Plain Text: プレーンテキスト
+  Run, Execute: 実行
+  Select Language: 言語を選択
+  Shell Command: シェルコマンド
+  Template: テンプレート
+  Template Fill: テンプレート入力
+  Text Template: テキストテンプレート
+  Web Request (HTTP): Webリクエスト(HTTP)
+  Web Scraper / Parser: Webスクレイパー/パーサー
+UnPin All: すべてのピンを解除
+UnPin Selected: 選択したピンを解除
+Unlock Application Screen: アプリ画面のロック解除
+Unlock Pro features: Pro機能をアンロック
+Unlock Screen: 画面ロック解除
+Unlock all features: すべての機能をアンロック
+Unsaved label: 未保存ラベル
+Update Error: 更新エラー
+Update history list: 履歴リストを更新
+Updated: 更新済み
+Upgrade to Pro: Proにアップグレード
+Use Passcode: パスコードを使用
+Use Password: パスワードを使用
+Using <b>{{Clipboard}}</b> field, allows you to copy text to the clipboard, and it will be inserted into the template: <b>{{Clipboard}}</b>フィールドを使うと、テキストをクリップボードにコピーしテンプレートに挿入できます
+Verify: 検証
+Verify Current Password: 現在のパスワードを検証
+Verify Recovery Password: 復旧用パスワードを検証
+Version: バージョン
+View: 表示
+View Edit: 編集表示
+Views:
+  Paste Menu: ペーストメニュー
+We apologize but you found a bug. Please report this issue to us and try again: バグを発見いただき申し訳ありません。この問題を報告し再度お試しください
+? We couldn't confirm this file's safety. Failed ID3 tag verification and integrity check. MP3 files can potentially contain malware. Please be cautious.
+: このファイルの安全性を確認できませんでした。ID3タグ検証と整合性チェックに失敗しました。MP3ファイルにはマルウェアが含まれる可能性があります。ご注意ください。
+Yes: はい
+Yes, activate: はい、有効化
+chars: 文字
+contact us.: お問い合わせください。
+found: 見つかりました
+if this error persists, try to restart the application or: このエラーが続く場合はアプリを再起動するか
+lines: 行
+menu items in: メニュー項目
+minutes: 分
+only: のみ
+second: 秒
+seconds: 秒
+show less: 表示を減らす
+www.site: www.pastebar.app

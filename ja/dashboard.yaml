@@ -1,0 +1,269 @@
+API Key: APIキー
+Add: 追加
+Add Auth: 認証を追加
+Add Clipboard Value: クリップボード値を追加
+Add Custom: カスタム追加
+Add Custom Field: カスタムフィールドを追加
+Add Delay Time: 遅延時間を追加
+Add First Board: 最初のボードを追加
+Add Form Field: フォームフィールドを追加
+Add Header: ヘッダーを追加
+Add Key Press: キー入力を追加
+Add Key Press After Paste: ペースト後のキー入力を追加
+Add Link Card: リンクカードを追加
+Add Open URL: URLを開くを追加
+Add Output Template: 出力テンプレートを追加
+Add Regex Match Group Filter: 正規表現グループフィルターを追加
+Add Request Header: リクエストヘッダーを追加
+Add Response Filter: レスポンスフィルターを追加
+Add Scraping Rule: スクレイピングルールを追加
+Add Section: セクションを追加
+Add Tab: タブを追加
+Add Template Field: テンプレートフィールドを追加
+Add a Tab: タブを追加
+Add field {{name}} into the template: テンプレートに{{name}}フィールドを追加
+Add image: 画像を追加
+Add note: ノートを追加
+Add to Board: ボードに追加
+Add {{type}}: {{type}}を追加
+All field labels must be unique to ensure they are correctly used within the template.: すべてのフィールドラベルは一意である必要があります。テンプレート内で正しく使用されるためです。
+Are you sure you want to delete <strong>{{boardName}}</strong> board?: <strong>{{boardName}}</strong>ボードを削除してもよろしいですか？
+Are you sure you want to delete <strong>{{tabName}}</strong> tab?: <strong>{{tabName}}</strong>タブを削除してもよろしいですか？
+Are you sure you want to delete?: 削除してもよろしいですか？
+Are you sure you want to remove image from the clip?: クリップから画像を削除してもよろしいですか？
+Auth: 認証
+Auto update is Off: 自動更新はオフ
+Basic Auth: ベーシック認証
+Basic Password: ベーシックパスワード
+Basic Username: ベーシックユーザー名
+Bearer Token: ベアラートークン
+Board Layout Height: ボードレイアウトの高さ
+Board Layout Split: ボードレイアウト分割
+Board Menu: ボードメニュー
+Board is Not Empty: ボードは空ではありません
+Boards: ボード
+Border Width: 枠線の幅
+CSS Selector: CSSセレクター
+Cancel: キャンセル
+Change Layout: レイアウトを変更
+Change color: 色を変更
+Clear: クリア
+Clear All Fields: すべてのフィールドをクリア
+Click To Add: クリックして追加
+Clip Menu: クリップメニュー
+Clip Options: クリップオプション
+Clipboard: クリップボード
+Clips:
+  App: アプリ
+  Clip Menu: クリップメニュー
+  Clips: クリップ
+  Link: リンク
+Close Edit: 編集を閉じる
+Command:
+  error: エラー
+  output: 出力
+Command error: コマンドエラー
+Common Fields: 共通フィールド
+Confirm Clear All Fields: すべてのフィールドをクリアしてもよろしいですか？
+Confirm to remove Auth: 認証を削除してもよろしいですか？
+Confirm to remove filters: フィルターを削除してもよろしいですか？
+Confirm to remove headers: ヘッダーを削除してもよろしいですか？
+Copy Clip: クリップをコピー
+Create Board: ボードを作成
+Create Tab: タブを作成
+Create tab: タブを作成
+Dashboard: ダッシュボード
+Delay: 遅延
+Delete Board: ボードを削除
+Delete Clip: クリップを削除
+Delete Tab: タブを削除
+Delete board: ボードを削除
+Delete field: フィールドを削除
+Delete tab: タブを削除
+Detect Template Fields: テンプレートフィールドを検出
+Detect for Template Fields: テンプレートフィールドを検出
+Disabled field {{name}} has been found in the template: 無効なフィールド{{name}}がテンプレートに見つかりました
+Done Create Clip: クリップ作成完了
+Done Edit: 編集完了
+Done Edit Tabs: タブ編集完了
+Done Organize: 整理完了
+Drag & Drop Path: ドラッグ＆ドロップパス
+Drop To Add: ドロップして追加
+Drop image file here, or use a separate window for drag and drop.: ここに画像ファイルをドロップ、または別ウィンドウでドラッグ＆ドロップしてください。
+Drop to Pin: ドロップしてピン留め
+Edit Note: ノートを編集
+Edit Template: テンプレートを編集
+Edit subtitle: サブタイトルを編集
+Edit tab name: タブ名を編集
+Enable / Disable: 有効/無効
+Enable / Disable URL Open: URLオープンの有効/無効
+Enter Label: ラベルを入力
+Enter URL: URLを入力
+Enter board subtitle or description: ボードのサブタイトルまたは説明を入力
+Enter board title: ボードタイトルを入力
+Enter clip name: クリップ名を入力
+Enter clip note: クリップノートを入力
+Enter code: コードを入力
+Enter credit card number: クレジットカード番号を入力
+Enter default value: デフォルト値を入力
+Enter field value: フィールド値を入力
+Enter full path to file, folder or application: ファイル・フォルダー・アプリのフルパスを入力
+Enter regex for output filer: 出力フィルター用正規表現を入力
+Enter request url: リクエストURLを入力
+Enter secret value: シークレット値を入力
+Enter section label: セクションラベルを入力
+Enter select option: オプションを入力
+Enter tab name: タブ名を入力
+Enter template or drag from history: テンプレートを入力または履歴からドラッグ
+Enter template value: テンプレート値を入力
+Enter value or drag from history: 値を入力または履歴からドラッグ
+Enter web link or email: ウェブリンクまたはメールを入力
+Errors:
+  No fields found in the template.: テンプレートにフィールドが見つかりません。
+  Please fix output template or confirm to save as is.: 出力テンプレートを修正するか、そのまま保存を確認してください。
+  Please fix template fields or confirm to save as is.: テンプレートフィールドを修正するか、そのまま保存を確認してください。
+  Please fix the problem or confirm to save as is.: 問題を修正するか、そのまま保存を確認してください。
+  Please verify your link for any errors, or confirm to save as is.: リンクにエラーがないか確認するか、そのまま保存を確認してください。
+  Please verify your path for any errors, or confirm to save as is.: パスにエラーがないか確認するか、そのまま保存を確認してください。
+  Your command runs with errors, confirm you want to save as is.: コマンドにエラーがありますが、そのまま保存しますか？
+  Your request runs with errors, confirm you want to save as is.: リクエストにエラーがありますが、そのまま保存しますか？
+FILTERED_TYPES:
+  Dot Path: ドットパス
+  JSON Path: JSONパス
+  RegEx: 正規表現
+  RegEx Replace: 正規表現置換
+  Remove Quotes: クォート削除
+Field: フィールド
+Field Options: フィールドオプション
+Field {{name}} has been found in the template: フィールド{{name}}がテンプレートに見つかりました
+Fields Value: フィールド値
+File, folder or app path does not exist: ファイル・フォルダー・アプリのパスが存在しません
+File, folder or app path is valid: ファイル・フォルダー・アプリのパスは有効です
+File, folder or app path might not be valid: ファイル・フォルダー・アプリのパスが無効の可能性があります
+Fill Template: テンプレートを埋める
+Filter Type: フィルタータイプ
+Filter's Value: フィルター値
+Find in Clip: クリップ内検索
+Find in clip: クリップ内検索
+Find in history: 履歴内検索
+Flex Layout: フレックスレイアウト
+Form Fields: フォームフィールド
+General Fields: 一般フィールド
+Grid Layout: グリッドレイアウト
+HTML: HTML
+Headers: ヘッダー
+Hide Label: ラベルを非表示
+History capture is off: 履歴キャプチャはオフ
+Key Press: キー入力
+Key Press After: 後のキー入力
+Key Press After Paste: ペースト後のキー入力
+'Key Press After Paste: {{keyPress}}': 'ペースト後のキー入力: {{keyPress}}'
+Label Left: 左ラベル
+Label Top: 上ラベル
+Label on Left: 左側のラベル
+Labels: ラベル
+Last run: 最終実行
+Last update: 最終更新
+Layout Max Width: レイアウト最大幅
+Mask to hide clipboard value in preview: プレビューでクリップボード値を隠すマスク
+Move Clip: クリップを移動
+Moved Clips Panel: 移動したクリップパネル
+Name: 名前
+New Board: 新しいボード
+New Clip: 新しいクリップ
+No Boards: ボードなし
+No Clipboard History: クリップボード履歴なし
+No Tabs or Boards: タブまたはボードなし
+Number of columns: 列数
+Open: 開く
+Open URL Disable / Enable: URLオープン無効/有効
+Output Template: 出力テンプレート
+Panel for moved or copied items from other tabs: 他のタブから移動またはコピーしたアイテム用パネル
+Please confirm to save as is.: このまま保存してよろしいですか？
+Press: 押す
+RETURN_POSITION_TYPES:
+  First Only: 最初のみ
+  Last Only: 最後のみ
+RULES_TYPES:
+  CSS Selector: CSSセレクター
+  RegEx Find: 正規表現検索
+  RegEx Group Match: 正規表現グループ一致
+  RegEx Match: 正規表現一致
+  RegEx Replace: 正規表現置換
+RegEx Find: 正規表現検索
+RegEx Match: 正規表現一致
+RegEx Match Group: 正規表現グループ
+RegEx Replace: 正規表現置換
+Regex Match Group Filter: 正規表現グループフィルター
+Remove Open URL: URLオープンを削除
+Remove headers: ヘッダーを削除
+Remove image: 画像を削除
+Rename: 名前を変更
+Reset to Defaults: デフォルトにリセット
+Response Filters: レスポンスフィルター
+Result: 結果
+SEPARATOR_TYPES:
+  Comma (,): カンマ (,)
+  New Line (\n): 改行 (\n)
+  Pipe (|): パイプ (|)
+  Semicolon (;): セミコロン (;)
+  Space (' '): スペース (' ')
+  Tab (\t): タブ (\t)
+Save as Defaults: デフォルトとして保存
+Scan for Template Fields: テンプレートフィールドをスキャン
+Select Color: 色を選択
+Select Default Option: デフォルトオプションを選択
+Select Option: オプションを選択
+Select Options: オプションを選択
+Show Label: ラベルを表示
+Special Field: 特殊フィールド
+Subtitle: サブタイトル
+Tab: タブ
+Tab is Not Empty: タブは空ではありません
+Tabs Menu: タブメニュー
+Template: テンプレート
+Template Edit: テンプレート編集
+Template Fields: テンプレートフィールド
+Template should have⠀<b>{{output}}</b>⠀placeholder.: テンプレートには<b>{{output}}</b>プレースホルダーが必要です。
+Test Request: テストリクエスト
+Test Run: テスト実行
+Text: テキスト
+This action cannot be undone.: この操作は元に戻せません。
+This field allows to insert text from clipboard: このフィールドでクリップボードのテキストを挿入できます
+Too long: 長すぎます
+Too short: 短すぎます
+Turn On auto update: 自動更新をオン
+Turn on history capture: 履歴キャプチャをオン
+Type:
+  Command: コマンド
+  Request: リクエスト
+  Scraper: スクレイパー
+URL: URL
+Unsaved name: 未保存名
+Unsaved note: 未保存ノート
+Unsaved subtitle: 未保存サブタイトル
+Unsaved title: 未保存タイトル
+Update Link Card: リンクカードを更新
+Use double curly brackets for {{field name}}. Use {{clipboard}} to add current clipboard value.: {{field name}}は二重中括弧で。{{clipboard}}で現在のクリップボード値を追加。
+Value: 値
+Values: 値
+Vertical Split: 垂直分割
+We need to open a new window where you can drag & drop file, path or application.: 新しいウィンドウを開き、ファイル・パス・アプリをドラッグ＆ドロップできます。
+Web Link or Email might not be valid: ウェブリンクまたはメールが無効の可能性があります
+Web or Email link is valid: ウェブまたはメールリンクは有効です
+Website URL: ウェブサイトURL
+Website URL is valid: ウェブサイトURLは有効です
+Website URL might not be valid: ウェブサイトURLが無効の可能性があります
+Wrap output using {{output}} placeholder: {{output}}プレースホルダーで出力をラップ
+You have no rules added: ルールが追加されていません
+You'll need to clear this board of all clips and subboards before it can be deleted.: このボードを削除するには、すべてのクリップとサブボードをクリアする必要があります。
+You'll need to clear this tab of all boards before it can be deleted.: このタブを削除するには、すべてのボードをクリアする必要があります。
+filled template: 入力済みテンプレート
+new clips: 新しいクリップ
+template: テンプレート
+'{{count}} fields found in template but missing from fields definition._one': 'テンプレートに{{count}}個のフィールドが定義にありません。'
+'{{count}} fields found in template but missing from fields definition._other': 'テンプレートに{{count}}個のフィールドが定義にありません。'
+'{{count}} fields not found in the template._one': 'テンプレートに{{count}}個のフィールドが見つかりません。'
+'{{count}} fields not found in the template._other': 'テンプレートに{{count}}個のフィールドが見つかりません。'
+'{{type}} Field': '{{type}}フィールド'
+'{{type}} field': '{{type}}フィールド'

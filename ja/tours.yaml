@@ -1,0 +1,241 @@
+HISTORY_PANEL_TOUR:
+  - element: '#side-panel_tour'
+    popover:
+      title: クリップボード履歴パネル
+      description: このパネルにはコピーしたクリップボード履歴が表示され、後で簡単にアクセスできます。履歴をスクロールしたり、検索やタイプ別フィルタが可能です。パネルサイズも調整できます。
+      prefferedSide: 右
+  - element: '#history-find_tour'
+    popover:
+      title: 履歴検索・フィルタ
+      description: 検索機能でクリップボード履歴から特定の項目を素早く見つけられます。タイプ（テキスト・画像・リンク）でフィルタし、再コピーやボード保存も可能です。
+      prefferedSide: 下
+      alignment: 中央
+  - element: '#history-list_tour .history-item'
+    popover:
+      title: クリップボード履歴アイテム
+      description: 履歴内の各アイテムは過去にコピーした内容です。<b>ダブルクリック</b>やアイコンクリックで再コピー、<b>ドラッグ</b>でボードに保存、<b>右クリック</b>で詳細メニューが利用できます。
+      prefferedSide: 右
+  - element: '#tabs-history_tour'
+    meta:
+      closeTourCssPosition: 非表示
+    popover:
+      title: 履歴/メニューナビゲーションタブ
+      description: クリップボード履歴とペーストメニューを切り替えて管理・アクセスできます。
+      alignment: 中央
+      prefferedSide: 上
+  - element: '#history-menu-button_tour'
+    meta:
+      closeTourCssPosition: 非表示
+    popover:
+      title: 履歴選択アイテムメニュー
+      description: 履歴内の複数選択アイテムを管理できます。<b>複数選択</b>、全解除、ボード追加、削除、日付別クリアなどが可能です。
+      alignment: 終端
+      prefferedSide: 右
+  - element: .panel-resize_tour
+    popover:
+      title: リサイズ可能なパネル表示
+      description: パネルの端にマウスを合わせてリサイズカーソルが出たら<b>クリック＆ドラッグ</b>でサイズ調整できます。
+      prefferedSide: 右
+
+DASHBOARD_CLIPS_TOUR:
+  - element: .clips-dashboard-panel_tour
+    meta:
+      closeTourCssPosition: 非表示
+    popover:
+      title: ダッシュボードパネル
+      description: 保存クリップを整理・管理するハブです。カスタムタブやボードで構成し、履歴からドラッグで新規クリップ作成も可能。タブでカテゴリ切替もできます。
+      prefferedSide: 左
+  - element: '#dashboard-tabs_tour'
+    popover:
+      title: ダッシュボードタブ
+      description: カスタムタブを作成し、ダッシュボード内の各セクションを切り替えて管理できます。
+      alignment: 中央
+      prefferedSide: 下
+  - element: '#dashboard-tabs-create-button_tour'
+    popover:
+      title: ダッシュボードアイテム作成
+      description: 新しいクリップ・ボード・タブを追加してダッシュボードをカスタマイズできます。
+      alignment: 終端
+      prefferedSide: 下
+  - element: '#dashboard-tabs-context-menu_tour'
+    popover:
+      title: タブとレイアウトメニュー
+      description: タブを右クリックまたはメニューアイコンでレイアウト管理やタブ編集が可能。ワークフローに合わせてカスタマイズできます。
+      alignment: 終端
+      prefferedSide: 下
+  - element: .board-panel_tour
+    popover:
+      title: ボードパネル
+      description: 保存クリップを素早く整理・アクセスできるパネルです。履歴からドラッグで追加、ボードでカテゴリ分けも可能。
+      alignment: 中央
+      prefferedSide: 右
+  - element: .board-panel-header_tour
+    popover:
+      title: ボードパネルヘッダー
+      description: <b>ダブルクリック</b>でパネル拡大、<b>右クリック</b>でカスタマイズや管理オプションが表示されます。
+      alignment: 開始
+      prefferedSide: 右
+  - element: .clip_tour
+    popover:
+      title: 保存済みクリップアイテム
+      description: 保存クリップに素早くアクセス。<b>ダブルクリック</b>やクリップボードアイコンでコピー、<b>長押し</b>で並べ替え、<b>右クリック</b>で詳細オプション。
+      alignment: 開始
+      prefferedSide: 右
+  - element: .panel-resize_tour
+    popover:
+      title: リサイズ可能なパネル表示
+      description: パネルの端にマウスを合わせてリサイズカーソルが出たら<b>クリック＆ドラッグ</b>でサイズ調整できます。
+      prefferedSide: 右
+
+MENU_TOUR:
+  - element: '#side-panel_tour'
+    popover:
+      title: ペーストメニューパネル
+      description: システムのタスクバーやメニューバーのネイティブペーストメニューを管理できます。<b>ドラッグ</b>で並べ替え、<b>ダブルクリック</b>で名前変更、ALTやCommandキー＋クリックで複数選択。
+      prefferedSide: 右
+  - element: '#menu-find_tour'
+    popover:
+      title: メニュー項目検索
+      description: 検索バーで特定のメニュー項目を素早く検索。キーワード入力で絞り込み。
+      prefferedSide: 下
+      alignment: 中央
+  - element: div[role=treeitem]
+    popover:
+      title: メニュー項目ツリー
+      description: 各メニュー項目は個別またはグループで並べ替え可能。<b>ダブルクリック</b>で名前変更、<b>ドラッグ</b>で並べ替え、ALTやCommand＋クリックで複数選択。
+      prefferedSide: 右
+  - element: '#tabs-menu_tour'
+    meta:
+      closeTourCssPosition: 非表示
+    popover:
+      title: 履歴/メニューナビゲーションタブ
+      description: クリップボード履歴とペーストメニューを切り替えて管理・アクセスできます。
+      alignment: 中央
+      prefferedSide: 上
+  - element: '#menu-icon-menu-button_tour'
+    meta:
+      closeTourCssPosition: 非表示
+    popover:
+      title: 選択アイテムペーストメニュー
+      description: 複数選択したメニュー項目を管理。全解除、ネイティブメニュー再構築、削除などで素早く整理。
+      alignment: 終端
+      prefferedSide: 右
+  - element: '#menu-main-list_tour'
+    meta:
+      closeTourCssPosition: 非表示
+    popover:
+      title: ペーストメニューパネル管理
+      description: すべてのアクティブなメニュー項目を管理。追加・編集・削除や既存クリップのリンクも可能。<b>ダブルクリック</b>でコピー、<b>右クリック</b>で詳細オプション。
+      alignment: 開始
+      prefferedSide: 左
+  - element: .menu-item_tour
+    popover:
+      title: メニュー項目
+      description: 各メニュー項目を個別に管理。<b>展開アイコン</b>で内容表示、<b>ダブルクリック</b>でコピー、<b>右クリック</b>で詳細オプション。
+      alignment: 中央
+      prefferedSide: 下
+  - element: '#add-menu-item__tour'
+    popover:
+      title: メニュー項目追加
+      description: プラスアイコンをクリックし、追加位置を選択。新規メニュー・サブメニュー・セパレーター・無効項目・履歴から・クリップリンクなど作成可能。
+      alignment: 終端
+      prefferedSide: 下
+  - element: '#toggle-inactive-menu-items_tour'
+    popover:
+      title: 非アクティブメニュー項目の切り替え
+      description: このアイコンで非アクティブ項目の表示/非表示を切り替え。必要な項目に集中し、作業効率を向上。
+      alignment: 開始
+      prefferedSide: 下
+  - element: .panel-resize_tour
+    popover:
+      title: リサイズ可能なパネル表示
+      description: パネルの端にマウスを合わせてリサイズカーソルが出たら<b>クリック＆ドラッグ</b>でサイズ調整できます。
+      prefferedSide: 右
+
+NAVBAR_TOUR:
+  - element: '#navbar-panel_tour'
+    popover:
+      title: ナビゲーションバー
+      description: ナビゲーションバーはPasteBarの機能や設定へのクイックアクセスを提供します。履歴・ペーストメニュー切替、コレクション・検索・ピンボード・設定・ヘルプなどに素早くアクセス。
+      alignment: 中央
+      prefferedSide: 下
+  - element: '#navbar-pastebar_tour'
+    popover:
+      title: PasteBarメニュー
+      description: PasteBarメニューから主要機能や情報に素早くアクセス。アップデート確認・設定・画面ロック・ウィンドウ閉じる・アプリ終了など。
+      alignment: 開始
+      prefferedSide: 下
+  - element: '#navbar-view_tour'
+    popover:
+      title: ビューメニュー
+      description: ビューメニューで履歴・ペーストメニューの切替、オプション・カラーテーマ・UIフォントサイズ・言語変更など追加設定にアクセス。
+      alignment: 開始
+      prefferedSide: 下
+  - element: '#navbar-collections_tour'
+    popover:
+      title: コレクションメニュー
+      description: コレクションメニューでクリップ・ボード・タブのコレクションを切り替え。プロジェクトやカテゴリごとに整理・カスタマイズ可能。
+      alignment: 中央
+      prefferedSide: 下
+  - element: '#navbar-toggle-history-split'
+    popover:
+      title: 履歴ウィンドウ切り替え
+      description: このアイコンでクリップボード履歴を別ウィンドウで開閉。履歴を独立して管理可能。
+      alignment: 中央
+      preferredSide: 下
+  - element: '#navbar-search_tour'
+    popover:
+      title: グローバル検索
+      description: グローバル検索でアクティブコレクション内のクリップ・ボード・メニュー項目を素早く検索。キーワード入力で絞り込み、<b>ダブルクリック</b>で直接コピー。
+      alignment: 中央
+      prefferedSide: 下
+  - element: '#navbar-pinned_tour'
+    popover:
+      title: ピン留めボード切り替え
+      description: このアイコンでピン留めボードの表示/非表示を切り替え。重要な内容に集中できます。
+      alignment: 終端
+      prefferedSide: 下
+  - element: '#navbar-help_tour'
+    popover:
+      title: ヘルプメニュー
+      description: ヘルプメニューからガイドツアーやUI機能紹介に素早くアクセス。段階的な案内やデモでPasteBarの機能やUIを理解できます。
+      alignment: 終端
+      prefferedSide: 下
+  - element: '#navbar-close-window_tour'
+    popover:
+      title: メインウィンドウを閉じる
+      description: このアイコンでPasteBarのメインウィンドウを閉じ、タスクバーやメニューバーから機能を継続利用可能。メインウィンドウはメニューから再表示できます。
+      alignment: 終端
+      prefferedSide: 下
+
+SETTINGS_TOUR:
+  - element: '#app-settings-history_tour'
+    popover:
+      title: クリップボード履歴設定
+      description: 履歴の自動更新・自動スター・リンクプレビュー・ストップワード・プログラミング言語自動検出などを有効/無効にして履歴管理をカスタマイズできます。
+      alignment: 開始
+      prefferedSide: 右
+  - element: '#app-settings-collections_tour'
+    popover:
+      title: コレクション設定管理
+      description: コレクションの追加・編集・切替でワークフローに合わせてクリップ・ボード・タブを整理。関連コンテンツを効率的に管理。
+      alignment: 開始
+      prefferedSide: 右
+  - element: '#app-settings-preferences_tour'
+    popover:
+      title: ユーザー設定
+      description: フォントサイズ・カラーテーマ・言語切替・自動起動・パネルレイアウト・ナビバーコレクション名・クリップノートポップアップなどを調整。
+      alignment: 開始
+      prefferedSide: 右
+  - element: '#app-settings-security_tour'
+    popover:
+      title: セキュリティ設定
+      description: データ保護のためロック画面パスコードや復旧用パスワードを設定。ロック画面で履歴キャプチャ制御や自動ロックも調整可能。
+      alignment: 開始
+      prefferedSide: 右
+  - element: '#app-settings-back_tour'
+    popover:
+      title: メイン画面に戻る
+      description: 設定画面からメインアプリ画面に戻ります。
+      alignment: 開始
+      prefferedSide: 右

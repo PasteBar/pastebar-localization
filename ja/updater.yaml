@@ -1,0 +1,30 @@
+Check for Update: アップデートを確認
+Checking for Update...: アップデートを確認中...
+Confirm Restart: 再起動の確認
+Confirm Update: アップデートの確認
+Download Completed: ダウンロード完了
+Download Completed Quit and Manually Install: ダウンロードしたアップデートファイルは自動的に開きます。アップデートを完了するには、まずPasteBarを終了し、手動で最新版をインストールしてください。インストール完了後、更新されたPasteBarを起動してください。
+Download Update: アップデートをダウンロード
+Downloading...: ダウンロード中...
+General Update Error: アップデート処理中にエラーが発生しました。後でもう一度お試しください。問題が解決しない場合は手動でアップデートをダウンロード・インストールしてください。
+Install Update: アップデートをインストール
+Installing Update: アップデートをインストール中
+No Update Available: 利用可能なアップデートはありません
+Permission Denied Message: 権限不足のため古いアプリケーションファイルを置き換えられませんでした。管理者権限のあるユーザーで手動アップデートを行ってください。
+Quit PasteBar: PasteBarを終了
+Release date {{date}}: リリース日 {{date}}
+Remind Me Later: 後で通知
+Restart: 再起動
+Restart Required: 再起動が必要です
+Restart to Finish: 完了するには再起動
+Restart to Update: アップデートのためPasteBarを再起動
+Skip Download: ダウンロードをスキップ
+Skip This Version: このバージョンをスキップ
+Try Install Again: もう一度インストールを試す
+Update Available: アップデートがあります
+Update Error: アップデートエラー
+Update Install Error: アップデートインストールエラー
+'Update: Permission Denied': 'アップデート: 権限拒否'
+Upgrade removes Pro features: アップグレードでPro機能が削除されます
+Version {{newVersion}} is available: バージョン{{newVersion}}が利用可能です
+View Changes: 変更内容を見る

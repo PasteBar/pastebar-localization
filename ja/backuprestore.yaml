@@ -1,0 +1,46 @@
+Auto Backup on Restore: 復元時に自動バックアップ
+Available Backups: 利用可能なバックアップ
+Backup Files: バックアップファイル
+Backup Now: 今すぐバックアップ
+Backup and Restore: バックアップと復元
+Backup created successfully: バックアップが正常に作成されました
+Backup deleted successfully: バックアップが正常に削除されました
+Backup on Restore: 復元時のバックアップ
+Browse: 参照
+Create Backup: バックアップを作成
+Create a backup of your data?: データのバックアップを作成しますか？
+Created: 作成日
+Creating backup...: バックアップを作成中...
+Delete: 削除
+Delete this backup? This action cannot be undone.: このバックアップを削除しますか？この操作は元に戻せません。
+Failed to create backup: バックアップの作成に失敗しました
+Failed to delete backup: バックアップの削除に失敗しました
+Failed to load backup list: バックアップリストの読み込みに失敗しました
+Failed to open backup folder: バックアップフォルダーのオープンに失敗しました
+Failed to restore backup: バックアップの復元に失敗しました
+Failed to select backup file: バックアップファイルの選択に失敗しました
+Include images in backup: バックアップに画像を含める
+Invalid backup file: 無効なバックアップファイル
+Loading backups...: バックアップを読み込み中...
+Move to another location?: 別の場所に移動しますか？
+No backups found: バックアップが見つかりません
+Restore: 復元
+Restore Data: データを復元
+Restore completed. The application will restart.: 復元が完了しました。アプリケーションが再起動します。
+Restore from "{{filename}}"? This will replace all current data.: "{{filename}}"から復元しますか？現在のすべてのデータが置き換えられます。
+Restore from File...: ファイルから復元...
+Restore from {{filename}}? This will replace all current data.: {{filename}}から復元しますか？現在のすべてのデータが置き換えられます。
+Restored from {{filename}}: {{filename}}から復元されました
+Restoring a backup will automatically restart the application.: バックアップの復元後、アプリケーションは自動的に再起動します。
+Restoring backup...: バックアップを復元中...
+Restoring...: 復元中...
+Select backup file: バックアップファイルを選択
+Size: サイズ
+The selected file is not a valid PasteBar backup: 選択したファイルは有効なPasteBarバックアップではありません
+This action cannot be undone. All current data will be replaced with the backup data.: この操作は元に戻せません。現在のすべてのデータがバックアップデータで置き換えられます。
+This will create a backup file containing your database: これによりデータベースを含むバックアップファイルが作成されます
+This will replace all current data. Are you sure?: すべての現在のデータが置き換えられます。本当によろしいですか？
+Total backup space {{size}}: バックアップ合計容量: {{size}}
+and images: および画像
+selected file: 選択したファイル
+will be permanently deleted.: 完全に削除されます。

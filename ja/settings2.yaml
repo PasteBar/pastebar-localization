@@ -1,0 +1,82 @@
+App restart required: アプリの再起動が必要です
+Application Starts with Main Window Hidden: アプリはメインウィンドウ非表示で起動
+Auto-close window after action: 操作後にウィンドウを自動で閉じる
+Boards, saved clips and menu items panel visible: ボード・保存クリップ・メニュー項目パネルが表示
+Both clipboard history and saved clips panels visible: クリップボード履歴と保存クリップの両パネルが表示
+Change: 変更
+Click Set/Change button to start recording: 設定/変更ボタンをクリックして記録開始
+Clipboard history panel visible: クリップボード履歴パネルが表示
+Configure how the system tray icon responds to mouse clicks: システムトレイアイコンのマウスクリック動作を設定
+Configure the behavior of the Quick Paste window when selecting items: クイックペーストウィンドウの項目選択時の動作を設定
+Configure which items to preserve when clearing clipboard history (both manual and auto-clear operations).: 履歴クリア時（手動・自動）に保持する項目を設定
+Control which panels are visible in the main window: メインウィンドウで表示するパネルを制御
+Copy items only (no auto-paste): 項目をコピーのみ（自動ペーストなし）
+Copy only from menu items: メニュー項目からのみコピー
+Default Note Icon Type: デフォルトノートアイコンタイプ
+Disable left-click context menu: 左クリックのコンテキストメニューを無効化
+Display navbar items only when the mouse hovers over the navigation bar to minimize visible UI elements: ナビバーにマウスを乗せたときのみナビバー項目を表示し、UI要素を最小化
+Display persistent icons on clips that have notes to improve visual organization and make notes easier to discover.: ノート付きクリップに常時アイコンを表示し、視覚的整理とノート発見を容易に
+Double-click toggles app visibility: ダブルクリックでアプリの表示切替
+Double-clicking the tray icon shows or hides the main application window: トレイアイコンをダブルクリックでメインウィンドウを表示/非表示
+Enable simplified, less boxy layout for a cleaner and more streamlined interface design: シンプルで洗練されたレイアウトを有効化
+Enable single-click to copy/paste clipboard history items and saved clips instead of requiring double-click.: クリップボード履歴や保存クリップをダブルクリック不要でシングルクリックでコピー/ペースト
+Enabling either left-click option will disable the context menu to ensure proper functionality.: いずれかの左クリックオプションを有効にすると、正しく動作するためコンテキストメニューが無効になります
+Global System OS Hotkeys: グローバルシステムOSホットキー
+Hide Collections Navbar: コレクションナビバーを非表示
+Hide collections menu dropdown on the navigation bar: ナビバーのコレクションメニューをドロップダウン非表示
+Hide collections menu on the navbar: ナビバーのコレクションメニューを非表示
+Hide the App Dock Icon: アプリDockアイコンを非表示
+History Item Preview Max Lines: 履歴アイテムプレビュー最大行数
+'How to set hotkeys:': 'ホットキーの設定方法:'
+Keep Items on Clear: クリア時に項目を保持
+Keep Pinned Items: ピン留め項目を保持
+Keep Starred Items: スター付き項目を保持
+? Keep the main application window hidden when the app restarts. You can reopen it using the menu bar or taskbar menu, or using global hotkeys.
+: アプリ再起動時にメインウィンドウを非表示のままにします。メニューバーやタスクバー、グローバルホットキーで再表示できます。
+Left-click toggles app visibility: 左クリックでアプリの表示切替
+Left-clicking the tray icon shows or hides the main application window: トレイアイコンを左クリックでメインウィンドウを表示/非表示
+No keys set: キーが設定されていません
+'Note: At least one panel must remain visible in main window.': '注意: メインウィンドウには最低1つのパネルが表示されている必要があります。'
+Panel Visibility: パネル表示
+PasteBar Quick Paste: PasteBarクイックペースト
+Preserve pinned items when clearing history: 履歴クリア時にピン留め項目を保持
+Preserve starred items when clearing history: 履歴クリア時にスター付き項目を保持
+Press Backspace/Delete to clear the hotkey: バックスペース/デリートでホットキーをクリア
+Press Enter to confirm or Escape to cancel: Enterで確定、Escでキャンセル
+Press keys: キーを押してください
+Press your desired key combination (e.g., Ctrl+Shift+V): 希望のキー組み合わせを押してください（例: Ctrl+Shift+V）
+Press your key combination...: キー組み合わせを押してください...
+Prevents the context menu from appearing when left-clicking the tray icon: トレイアイコン左クリック時のコンテキストメニュー表示を防止
+Preview Max Lines: プレビュー最大行数
+Quick Paste Window: クイックペーストウィンドウ
+Quick Paste Window Options: クイックペーストウィンドウオプション
+Recording...: 記録中...
+? Remove PasteBar app icon from the macOS Dock while keeping the app running in the background. The app remains accessible via the menu bar icon. Requires an app restart to take effect.
+: macOS DockからPasteBarアイコンを非表示にし、アプリはバックグラウンドで動作します。メニューバーアイコンからアクセス可能。アプリ再起動が必要です。
+Set: 設定
+Set system OS hotkeys to show/hide the main app window and quick paste window. Supports up to 3-key combinations.: システムOSホットキーでメインウィンドウやクイックペーストウィンドウの表示/非表示を切り替え。最大3キー組み合わせ対応。
+Set the maximum number of lines to display in the preview of a history item: 履歴アイテムプレビューの最大表示行数を設定
+Show Boards and Clips Panel Only: ボード・クリップパネルのみ表示
+Show Both Panels: 両方のパネルを表示
+Show History Panel Only: 履歴パネルのみ表示
+Show Navbar Items Hover: ナビバー項目をホバー時のみ表示
+Show Note Icons on Clips: クリップにノートアイコンを表示
+Show Simplified Layout: シンプルレイアウトを表示
+Show collections menu on the navbar: ナビバーにコレクションメニューを表示
+Show navbar elements on hover only: ナビバー要素をホバー時のみ表示
+Show/Hide Main App Window: メインアプリウィンドウの表示/非表示
+Show/Hide Quick Paste Window: クイックペーストウィンドウの表示/非表示
+Simplified Panel Layout: シンプルパネルレイアウト
+Single Click Copy/Paste: シングルクリックでコピー/ペースト
+Single Click Copy/Paste action: シングルクリックでコピー/ペースト動作
+Set keyboard focus with a single click. Disables single-click copy/paste if set.: シングルクリックでキーボードフォーカスを設定（設定時はシングルクリックコピー/ペースト無効）
+Single-Click Keyboard Focus: シングルクリックでキーボードフォーカス
+This sets the default icon type for new clips with notes. You can customize individual clips via the context menu.: ノート付き新規クリップのデフォルトアイコンタイプを設定。個別クリップはコンテキストメニューでカスタマイズ可能。
+Tray Icon Behavior on Windows: Windowsでのトレイアイコン動作
+? When enabled, clicking menu items will only copy content to clipboard instead of auto-pasting. This gives you more control over when and where content is pasted.
+: 有効時はメニュー項目クリックで内容をクリップボードにコピーのみ（自動ペーストなし）。ペーストタイミングと場所を制御できます。
+? When enabled, clicking or pressing Enter on items in Quick Paste window will only copy them to clipboard without automatically pasting.
+: 有効時はクイックペーストウィンドウの項目クリックやEnter押下でクリップボードにコピーのみ（自動ペーストなし）。
+? When enabled, single click will copy/paste items in Quick Paste window. If global single click is also enabled, both settings work together.
+: 有効時はクイックペーストウィンドウでシングルクリックでコピー/ペースト。グローバル設定も有効なら両方連動。
+When enabled, the Quick Paste window will automatically close after copying or pasting an item.: 有効時はコピー/ペースト後にクイックペーストウィンドウが自動で閉じます。

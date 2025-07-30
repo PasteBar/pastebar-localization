@@ -1,0 +1,42 @@
+All History Settings: すべての履歴設定
+All done! History's been cleared.: 完了！履歴がクリアされました。
+Auto Update on Capture: キャプチャ時に自動更新
+Auto-Clear Settings: 自動クリア設定
+Capture History: 履歴をキャプチャ
+Clear: クリア
+Clear All: すべてクリア
+Clear All History: 履歴をすべてクリア
+Clear History: 履歴をクリア
+Confirm Clear All History: 履歴をすべてクリアしてもよろしいですか？
+Do you really want to remove ALL clipboard history items?: すべてのクリップボード履歴を本当に削除しますか？
+Do you want to remove all recent clipboard history older than {{olderThen}} {{durationType}}: {{olderThen}}{{durationType}}より古い最近のクリップボード履歴を削除しますか？
+Do you want to remove clipboard history items older than {{olderThen}} {{durationType}}: {{olderThen}}{{durationType}}より古いクリップボード履歴を削除しますか？
+Enable Capture History: 履歴キャプチャを有効化
+Enable Image Capture: 画像キャプチャを有効化
+Filters:
+  App Filters: アプリフィルター
+  Audio: オーディオ
+  Clear Filters: フィルターをクリア
+  Code: コード
+  Emoji: 絵文字
+  Image: 画像
+  Language Filters: 言語フィルター
+  Languages: 言語
+  Languages Filter: 言語フィルター
+  Languages Filters: 言語フィルター
+  Link: リンク
+  Pinned: ピン留め
+  Secret: シークレット
+  Select Filters: フィルターを選択
+  Source: ソース
+  Source Application: ソースアプリ
+  Source Filters: ソースフィルター
+  Starred: スター付き
+  Text: テキスト
+  Video: ビデオ
+Hide pinned history: ピン留め履歴を非表示
+History Settings: 履歴設定
+Paste Menu: ペーストメニュー
+Select Filters: フィルターを選択
+View pinned history: ピン留め履歴を表示
+'{{isAll}} Clipboard History': '{{isAll}}クリップボード履歴'
