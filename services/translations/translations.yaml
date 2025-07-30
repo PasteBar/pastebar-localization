@@ -96,3 +96,14 @@ tr:
   open_pastebar: PasteBar'ı Aç
   unlock_pastebar: PasteBar'ı Kilit Aç
   quit: Çıkış
+
+ja:
+  add_first_item_here: 最初のアイテムをここに追加
+  disable_history_capture: 履歴の監視を無効にする
+  enable_history_capture: 履歴の監視を有効にする
+  clipboard_image_size: クリップボードの画像サイズ
+  history_capture_is_disabled: クリップボードの履歴監視は無効になってます
+  recent_history: 最近の履歴
+  open_pastebar: PasteBar を開く
+  unlock_pastebar: PasteBar をアンロックする
+  quit: 終了する
