@@ -1,0 +1,82 @@
+App restart required: Reinicialização do aplicativo necessária
+Application Starts with Main Window Hidden: O Aplicativo Inicia com a Janela Principal Oculta
+Auto-close window after action: Fechar janela automaticamente após a ação
+Boards, saved clips and menu items panel visible: Painel de quadros, clipes salvos e itens de menu visível
+Both clipboard history and saved clips panels visible: Ambos os painéis de histórico da área de transferência e de clipes salvos visíveis
+Change: Mudar
+Click Set/Change button to start recording: Clique no botão Definir/Alterar para iniciar a gravação
+Clipboard history panel visible: Painel de histórico da área de transferência visível
+Configure how the system tray icon responds to mouse clicks: Configure como o ícone da bandeja do sistema responde aos cliques do mouse
+Configure the behavior of the Quick Paste window when selecting items: Configure o comportamento da janela de Colagem Rápida ao selecionar itens
+Configure which items to preserve when clearing clipboard history (both manual and auto-clear operations).: Configure quais itens preservar ao limpar o histórico da área de transferência (operações manuais e de limpeza automática).
+Control which panels are visible in the main window: Controle quais painéis estão visíveis na janela principal
+Copy items only (no auto-paste): Apenas copiar itens (sem colagem automática)
+Copy only from menu items: Copiar apenas de itens de menu
+Default Note Icon Type: Tipo de Ícone de Nota Padrão
+Disable left-click context menu: Desativar menu de contexto do clique esquerdo
+Display navbar items only when the mouse hovers over the navigation bar to minimize visible UI elements: Exibir itens da barra de navegação apenas quando o mouse passar sobre ela para minimizar os elementos visíveis da UI
+Display persistent icons on clips that have notes to improve visual organization and make notes easier to discover.: Exiba ícones persistentes em clipes que têm notas para melhorar a organização visual e facilitar a descoberta das notas.
+Double-click toggles app visibility: Clique duplo alterna a visibilidade do aplicativo
+Double-clicking the tray icon shows or hides the main application window: Clicar duas vezes no ícone da bandeja mostra ou oculta a janela principal do aplicativo
+Enable simplified, less boxy layout for a cleaner and more streamlined interface design: Ative um layout simplificado e menos quadrado para um design de interface mais limpo e otimizado
+Enable single-click to copy/paste clipboard history items and saved clips instead of requiring double-click.: Ative o clique único para copiar/colar itens do histórico da área de transferência e clipes salvos em vez de exigir um clique duplo.
+Enabling either left-click option will disable the context menu to ensure proper functionality.: A ativação de qualquer uma das opções de clique esquerdo desativará o menu de contexto para garantir a funcionalidade adequada.
+Global System OS Hotkeys: Teclas de Atalho Globais do Sistema Operacional
+Hide Collections Navbar: Ocultar Barra de Navegação das Coleções
+Hide collections menu dropdown on the navigation bar: Ocultar menu suspenso de coleções na barra de navegação
+Hide collections menu on the navbar: Ocultar menu de coleções na barra de navegação
+Hide the App Dock Icon: Ocultar o Ícone do Aplicativo na Dock
+History Item Preview Max Lines: Máximo de Linhas da Pré-visualização do Item de Histórico
+'How to set hotkeys:': 'Como definir teclas de atalho:'
+Keep Items on Clear: Manter Itens ao Limpar
+Keep Pinned Items: Manter Itens Fixados
+Keep Starred Items: Manter Itens com Estrela
+? Keep the main application window hidden when the app restarts. You can reopen it using the menu bar or taskbar menu, or using global hotkeys.: Mantenha a janela principal do aplicativo oculta quando o aplicativo reiniciar. Você pode reabri-la usando a barra de menus, o menu da barra de tarefas ou usando teclas de atalho globais.
+: Keep the main application window hidden when the app restarts. You can reopen it using the menu bar or taskbar menu, or using global hotkeys.: Mantenha a janela principal do aplicativo oculta quando o aplicativo reiniciar. Você pode reabri-la usando a barra de menus, o menu da barra de tarefas ou usando teclas de atalho globais.
+Left-click toggles app visibility: Clique esquerdo alterna a visibilidade do aplicativo
+Left-clicking the tray icon shows or hides the main application window: Clicar com o botão esquerdo no ícone da bandeja mostra ou oculta a janela principal do aplicativo
+No keys set: Nenhuma tecla definida
+'Note: At least one panel must remain visible in main window.': 'Nota: Pelo menos um painel deve permanecer visível na janela principal.'
+Panel Visibility: Visibilidade do Painel
+PasteBar Quick Paste: Colagem Rápida do PasteBar
+Preserve pinned items when clearing history: Preservar itens fixados ao limpar o histórico
+Preserve starred items when clearing history: Preservar itens com estrela ao limpar o histórico
+Press Backspace/Delete to clear the hotkey: Pressione Backspace/Delete para limpar a tecla de atalho
+Press Enter to confirm or Escape to cancel: Pressione Enter para confirmar ou Escape para cancelar
+Press keys: Pressione as teclas
+Press your desired key combination (e.g., Ctrl+Shift+V): Pressione a combinação de teclas desejada (ex: Ctrl+Shift+V)
+Press your key combination...: Pressione sua combinação de teclas...
+Prevents the context menu from appearing when left-clicking the tray icon: Impede que o menu de contexto apareça ao clicar com o botão esquerdo no ícone da bandeja
+Preview Max Lines: Máximo de Linhas da Pré-visualização
+Quick Paste Window: Janela de Colagem Rápida
+Quick Paste Window Options: Opções da Janela de Colagem Rápida
+Recording...: Gravando...
+? Remove PasteBar app icon from the macOS Dock while keeping the app running in the background. The app remains accessible via the menu bar icon. Requires an app restart to take effect.: Remova o ícone do aplicativo PasteBar da Dock do macOS, mantendo o aplicativo em execução em segundo plano. O aplicativo permanece acessível através do ícone da barra de menus. Requer a reinicialização do aplicativo para ter efeito.
+: Remove PasteBar app icon from the macOS Dock while keeping the app running in the background. The app remains accessible via the menu bar icon. Requires an app restart to take effect.: Remova o ícone do aplicativo PasteBar da Dock do macOS, mantendo o aplicativo em execução em segundo plano. O aplicativo permanece acessível através do ícone da barra de menus. Requer a reinicialização do aplicativo para ter efeito.
+Set: Definir
+Set system OS hotkeys to show/hide the main app window and quick paste window. Supports up to 3-key combinations.: Defina teclas de atalho do sistema operacional para mostrar/ocultar a janela principal do aplicativo e a janela de colagem rápida. Suporta combinações de até 3 teclas.
+Set the maximum number of lines to display in the preview of a history item: Defina o número máximo de linhas a serem exibidas na pré-visualização de um item do histórico
+Show Boards and Clips Panel Only: Mostrar Apenas o Painel de Quadros e Clipes
+Show Both Panels: Mostrar Ambos os Painéis
+Show History Panel Only: Mostrar Apenas o Painel de Histórico
+Show Navbar Items Hover: Mostrar Itens da Barra de Navegação ao Passar o Mouse
+Show Note Icons on Clips: Mostrar Ícones de Nota nos Clipes
+Show Simplified Layout: Mostrar Layout Simplificado
+Show collections menu on the navbar: Mostrar menu de coleções na barra de navegação
+Show navbar elements on hover only: Mostrar elementos da barra de navegação apenas ao passar o mouse
+Show/Hide Main App Window: Mostrar/Ocultar Janela Principal do Aplicativo
+Show/Hide Quick Paste Window: Mostrar/Ocultar Janela de Colagem Rápida
+Simplified Panel Layout: Layout de Painel Simplificado
+Single Click Copy/Paste: Copiar/Colar com Clique Único
+Single Click Copy/Paste action: Ação de Copiar/Colar com Clique Único
+Set keyboard focus with a single click. Disables single-click copy/paste if set.: Defina o foco do teclado com um único clique. Desativa a cópia/colagem com um único clique se estiver ativado.
+Single-Click Keyboard Focus: Foco do Teclado com Clique Único
+This sets the default icon type for new clips with notes. You can customize individual clips via the context menu.: Isso define o tipo de ícone padrão para novos clipes com notas. Você pode personalizar clipes individuais através do menu de contexto.
+Tray Icon Behavior on Windows: Comportamento do Ícone da Bandeja no Windows
+? When enabled, clicking menu items will only copy content to clipboard instead of auto-pasting. This gives you more control over when and where content is pasted.: Quando ativado, clicar em itens de menu apenas copiará o conteúdo para a área de transferência em vez de colar automaticamente. Isso lhe dá mais controle sobre quando e onde o conteúdo é colado.
+: When enabled, clicking menu items will only copy content to clipboard instead of auto-pasting. This gives you more control over when and where content is pasted.: Quando ativado, clicar em itens de menu apenas copiará o conteúdo para a área de transferência em vez de colar automaticamente. Isso lhe dá mais controle sobre quando e onde o conteúdo é colado.
+? When enabled, clicking or pressing Enter on items in Quick Paste window will only copy them to clipboard without automatically pasting.: Quando ativado, clicar ou pressionar Enter em itens na janela de Colagem Rápida apenas os copiará para a área de transferência sem colar automaticamente.
+: When enabled, clicking or pressing Enter on items in Quick Paste window will only copy them to clipboard without automatically pasting.: Quando ativado, clicar ou pressionar Enter em itens na janela de Colagem Rápida apenas os copiará para a área de transferência sem colar automaticamente.
+? When enabled, single click will copy/paste items in Quick Paste window. If global single click is also enabled, both settings work together.: Quando ativado, o clique único copiará/colará itens na janela de Colagem Rápida. Se o clique único global também estiver ativado, ambas as configurações funcionam juntas.
+: When enabled, single click will copy/paste items in Quick Paste window. If global single click is also enabled, both settings work together.: Quando ativado, o clique único copiará/colará itens na janela de Colagem Rápida. Se o clique único global também estiver ativado, ambas as configurações funcionam juntas.
+When enabled, the Quick Paste window will automatically close after copying or pasting an item.: Quando ativado, a janela de Colagem Rápida fechará automaticamente após copiar ou colar um item.

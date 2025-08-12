@@ -1,0 +1,42 @@
+All History Settings: Todas as Configurações de Histórico
+All done! History's been cleared.: Tudo pronto! O histórico foi limpo.
+Auto Update on Capture: Atualização Automática na Captura
+Auto-Clear Settings: Configurações de Limpeza Automática
+Capture History: Capturar Histórico
+Clear: Limpar
+Clear All: Limpar Tudo
+Clear All History: Limpar Todo o Histórico
+Clear History: Limpar Histórico
+Confirm Clear All History: Confirmar Limpeza de Todo o Histórico
+Do you really want to remove ALL clipboard history items?: Você realmente deseja remover TODOS os itens do histórico da área de transferência?
+Do you want to remove all recent clipboard history older than {{olderThen}} {{durationType}}: Deseja remover todo o histórico recente da área de transferência mais antigo que {{olderThen}} {{durationType}}
+Do you want to remove clipboard history items older than {{olderThen}} {{durationType}}: Deseja remover os itens do histórico da área de transferência mais antigos que {{olderThen}} {{durationType}}
+Enable Capture History: Ativar Captura de Histórico
+Enable Image Capture: Ativar Captura de Imagem
+Filters:
+  App Filters: Filtros de Aplicativos
+  Audio: Áudio
+  Clear Filters: Limpar Filtros
+  Code: Código
+  Emoji: Emoji
+  Image: Imagem
+  Language Filters: Filtros de Idioma
+  Languages: Idiomas
+  Languages Filter: Filtro de Idiomas
+  Languages Filters: Filtros de Idiomas
+  Link: Link
+  Pinned: Fixado
+  Secret: Segredo
+  Select Filters: Selecionar Filtros
+  Source: Fonte
+  Source Application: Aplicativo de Origem
+  Source Filters: Filtros de Fonte
+  Starred: Com Estrela
+  Text: Texto
+  Video: Vídeo
+Hide pinned history: Ocultar histórico fixado
+History Settings: Configurações de Histórico
+Paste Menu: Menu de Colagem
+Select Filters: Selecionar Filtros
+View pinned history: Ver histórico fixado
+'{{isAll}} Clipboard History': '{{isAll}} Histórico da Área de Transferência'

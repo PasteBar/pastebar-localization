@@ -1,0 +1,241 @@
+HISTORY_PANEL_TOUR:
+  - element: '#side-panel_tour'
+    popover:
+      title: Painel de Histórico da Área de Transferência
+      description: Este painel exibe o histórico do que você copiou para a área de transferência para acesso posterior. Role pelo seu histórico, pesquise por conteúdo ou filtre por tipo. Você pode redimensionar este painel para uma visualização personalizada.
+      prefferedSide: right
+  - element: '#history-find_tour'
+    popover:
+      title: Encontrar e Filtrar Histórico
+      description: Use a busca para encontrar rapidamente itens específicos no seu histórico. Filtre os resultados por tipo (texto, imagens ou links) para localizar facilmente o que precisa. Copie um item encontrado novamente ou salve-o no painel.
+      prefferedSide: bottom
+      alignment: center
+  - element: '#history-list_tour .history-item'
+    popover:
+      title: Item do Histórico da Área de Transferência
+      description: Cada item no seu Histórico representa conteúdo que você copiou anteriormente. <b>Clique duas vezes</b> em um item ou clique no ícone para copiá-lo de volta para a área de transferência. <b>Pressione e arraste</b> para criar um clipe salvo no painel de quadros. <b>Clique com o botão direito</b> em um item para mais opções no menu de contexto.
+      prefferedSide: right
+  - element: '#tabs-history_tour'
+    meta:
+      closeTourCssPosition: hidden
+    popover:
+      title: Abas de Navegação de Histórico/Menu
+      description: Alterne entre as visualizações de Histórico da Área de Transferência e Menu de Colagem para fácil gerenciamento e acesso ao seu conteúdo.
+      alignment: center
+      prefferedSide: top
+  - element: '#history-menu-button_tour'
+    meta:
+      closeTourCssPosition: hidden
+    popover:
+      title: Menu de Itens Selecionados do Histórico
+      description: Use este menu para gerenciar itens selecionados no seu Histórico da Área de Transferência. Você pode <b>selecionar múltiplos</b> itens, desmarcar todos, adicionar ao painel, excluir ou limpar o histórico para datas específicas.
+      alignment: end
+      prefferedSide: right
+  - element: .panel-resize_tour
+    popover:
+      title: Visualização de Painel Redimensionável
+      description: Personalize seu espaço de trabalho redimensionando a visualização do painel para se adequar às suas preferências. <b>Passe o mouse</b> sobre a borda do painel até que o cursor de redimensionamento apareça, depois <b>clique e arraste</b> para ajustar o tamanho do painel.
+      prefferedSide: right
+
+DASHBOARD_CLIPS_TOUR:
+  - element: .clips-dashboard-panel_tour
+    meta:
+      closeTourCssPosition: hidden
+    popover:
+      title: Painel de Controle
+      description: Este painel funciona como um centro para organizar e gerenciar seus clipes salvos. Crie abas e painéis personalizados para estruturar seu conteúdo. <b>Arraste e solte</b> itens do seu Histórico para criar novos clipes. Use as abas para alternar entre diferentes categorias de painéis.
+      prefferedSide: left
+  - element: '#dashboard-tabs_tour'
+    popover:
+      title: Abas do Painel de Controle
+      description: Crie abas personalizadas e use-as para navegar por diferentes seções do seu Painel de Controle. Alterne entre categorias para gerenciar e acessar seus clipes e conteúdo rapidamente.
+      alignment: center
+      prefferedSide: bottom
+  - element: '#dashboard-tabs-create-button_tour'
+    popover:
+      title: Criar Itens do Painel de Controle
+      description: Crie novos itens para o seu Painel de Controle. Adicione clipes, painéis ou abas personalizadas para organizar seu conteúdo.
+      alignment: end
+      prefferedSide: bottom
+  - element: '#dashboard-tabs-context-menu_tour'
+    popover:
+      title: Menu de Abas e Layout
+      description: <b>Clique com o botão direito</b> nas abas ou <b>clique no ícone de menu</b> para organizar seu layout e gerenciar suas abas. Você pode editar abas existentes ou alterar o layout do painel de controle para adequar ao seu fluxo de trabalho.
+      alignment: end
+      prefferedSide: bottom
+  - element: .board-panel_tour
+    popover:
+      title: Painel de Quadros
+      description: Este painel de quadros permite que você organize seus clipes salvos para acesso rápido e fácil. <b>Arraste e solte</b> itens do seu Histórico da Área de Transferência. Use os quadros para categorizar и gerenciar seu conteúdo eficientemente.
+      alignment: center
+      prefferedSide: right
+  - element: .board-panel-header_tour
+    popover:
+      title: Cabeçalho do Painel de Quadros
+      description: <b>Clique duas vezes</b> no cabeçalho para expandir rapidamente o painel de quadros ou <b>clique com o botão direito</b> para ver outras opções para personalizar e gerenciar o quadro.
+      alignment: start
+      prefferedSide: right
+  - element: .clip_tour
+    popover:
+      title: Item de Clipe Salvo
+      description: Acesse o conteúdo de clipes salvos rapidamente. <b>Clique duas vezes</b> ou <b>clique no ícone da área de transferência</b> para copiá-lo. <b>Pressione e segure</b> para reorganizar os itens, ou <b>clique com o botão direito</b> para mais opções para personalizar e organizar seu clipe.
+      alignment: start
+      prefferedSide: right
+  - element: .panel-resize_tour
+    popover:
+      title: Visualização de Painel Redimensionável
+      description: Personalize seu espaço de trabalho redimensionando a visualização do painel para se adequar às suas preferências. <b>Passe o mouse</b> sobre a borda do painel até que o cursor de redimensionamento apareça, depois <b>clique e arraste</b> para ajustar o tamanho do painel.
+      prefferedSide: right
+
+MENU_TOUR:
+  - element: '#side-panel_tour'
+    popover:
+      title: Painel do Menu de Colagem
+      description: Este painel permite que você gerencie o menu de colagem nativo da barra de tarefas ou da barra de menus do seu sistema. <b>Segure e arraste</b> itens para reorganizá-los, <b>clique duas vezes</b> para renomear. <b>Pressione</b> a tecla ALT ou Command e clique em qualquer item para selecionar múltiplos.
+      prefferedSide: right
+  - element: '#menu-find_tour'
+    popover:
+      title: Encontrar Itens de Menu
+      description: Use a barra de busca para encontrar rapidamente itens de menu específicos. Digite palavras-chave para filtrar e localizar os itens que você precisa.
+      prefferedSide: bottom
+      alignment: center
+  - element: div[role=treeitem]
+    popover:
+      title: Árvore de Itens de Menu
+      description: Cada item na árvore de menus pode ser reorganizado individualmente ou em grupo. <b>Clique duas vezes</b> para renomear, <b>segure e arraste</b> para reorganizá-lo. <b>Pressione</b> a tecla ALT ou Command e clique para selecionar múltiplos.
+      prefferedSide: right
+  - element: '#tabs-menu_tour'
+    meta:
+      closeTourCssPosition: hidden
+    popover:
+      title: Abas de Navegação de Histórico/Menu
+      description: Alterne entre as visualizações de Histórico da Área de Transferência e Menu de Colagem para fácil gerenciamento e acesso ao seu conteúdo.
+      alignment: center
+      prefferedSide: top
+  - element: '#menu-icon-menu-button_tour'
+    meta:
+      closeTourCssPosition: hidden
+    popover:
+      title: Menu de Colagem de Itens Selecionados
+      description: Use este menu para gerenciar múltiplos itens de menu selecionados. Selecione múltiplos, desmarque todos, reconstrua o menu nativo ou exclua itens para organizar rapidamente seu menu de colagem.
+      alignment: end
+      prefferedSide: right
+  - element: '#menu-main-list_tour'
+    meta:
+      closeTourCssPosition: hidden
+    popover:
+      title: Gerenciar Painel do Menu de Colagem
+      description: Este painel permite que você gerencie todos os itens de menu ativos. Adicione, edite ou remova itens para personalizar seu menu de colagem. Crie novos itens ou vincule clipes existentes. <b>Clique duas vezes</b> para copiar o conteúdo para a área de transferência e <b>clique com o botão direito</b> para mais opções.
+      alignment: start
+      prefferedSide: left
+  - element: .menu-item_tour
+    popover:
+      title: Item de Menu
+      description: Aqui você pode gerenciar cada item de menu individualmente. <b>Clique</b> no ícone de expandir para ver o conteúdo do menu. <b>Clique duas vezes</b> para copiar o conteúdo para a área de transferência e <b>clique com o botão direito</b> para ver mais opções.
+      alignment: center
+      prefferedSide: bottom
+  - element: '#add-menu-item__tour'
+    popover:
+      title: Adicionar Item de Menu
+      description: Clique no ícone de mais e escolha o local onde deseja adicionar o novo item, antes ou depois do item de menu existente. Você pode criar um novo menu, submenus, separadores, itens de menu desativados, itens de menu do histórico recente ou um link para um clipe salvo.
+      alignment: end
+      prefferedSide: bottom
+  - element: '#toggle-inactive-menu-items_tour'
+    popover:
+      title: Alternar Itens de Menu Inativos
+      description: Clique neste ícone para mostrar ou ocultar itens de menu inativos. Isso ajuda a gerenciar e organizar seu menu, focando nos itens ativos quando necessário. Otimize seu menu e organize seu espaço de trabalho para maior eficiência.
+      alignment: start
+      prefferedSide: bottom
+  - element: .panel-resize_tour
+    popover:
+      title: Visualização de Painel Redimensionável
+      description: Personalize seu espaço de trabalho redimensionando a visualização do painel para se adequar às suas preferências. <b>Passe o mouse</b> sobre a borda do painel até que o cursor de redimensionamento apareça, depois <b>clique e arraste</b> para ajustar o tamanho do painel.
+      prefferedSide: right
+
+NAVBAR_TOUR:
+  - element: '#navbar-panel_tour'
+    popover:
+      title: Barra de Navegação
+      description: A barra de navegação oferece acesso rápido aos recursos e configurações do PasteBar. Use-a para alternar entre as visualizações de Histórico e Menus de Colagem, acessar suas coleções, realizar uma pesquisa global, alternar a visibilidade do painel de fixados, ajustar configurações e obter ajuda quando necessário.
+      alignment: center
+      prefferedSide: bottom
+  - element: '#navbar-pastebar_tour'
+    popover:
+      title: Menu do PasteBar
+      description: O menu do PasteBar oferece acesso rápido a funções e informações essenciais. Aqui você pode verificar atualizações, acessar configurações, bloquear a tela do aplicativo, fechar a janela principal ou sair do aplicativo.
+      alignment: start
+      prefferedSide: bottom
+  - element: '#navbar-view_tour'
+    popover:
+      title: Menu de Visualização
+      description: Use o menu Visualizar para navegar pelo seu histórico da área de transferência e menu de colagem, ajustar opções, alterar o tema de cores, modificar o tamanho da fonte da UI e mudar o idioma. Acesse configurações adicionais para uma experiência personalizada.
+      alignment: start
+      prefferedSide: bottom
+  - element: '#navbar-collections_tour'
+    popover:
+      title: Menu de Coleções
+      description: O Menu de Coleções permite que você alterne entre diferentes coleções de clipes, painéis e abas. Crie e personalize cada coleção para atender às suas necessidades específicas, como organizar conteúdo por projeto ou categoria.
+      alignment: center
+      prefferedSide: bottom
+  - element: '#navbar-toggle-history-split'
+    popover:
+      title: Alternar Janela de Histórico
+      description: Clique neste ícone para abrir ou fechar o histórico da área de transferência em uma janela separada. Use este recurso para gerenciar seu histórico da área de transferência independentemente da janela principal.
+      alignment: center
+      preferredSide: bottom
+  - element: '#navbar-search_tour'
+    popover:
+      title: Pesquisa Global
+      description: Use a pesquisa global para encontrar rapidamente clipes, painéis e itens de menu em toda a coleção ativa. Digite palavras-chave para filtrar os resultados e localizar o conteúdo que você precisa eficientemente. <b>Clique duas vezes</b> em um clipe para copiá-lo diretamente dos resultados da pesquisa.
+      alignment: center
+      prefferedSide: bottom
+  - element: '#navbar-pinned_tour'
+    popover:
+      title: Alternar Painel de Fixados
+      description: Clique neste ícone para mostrar ou ocultar o painel de fixados. Use este recurso para manter seu espaço de trabalho organizado e focar no conteúdo mais relevante.
+      alignment: end
+      prefferedSide: bottom
+  - element: '#navbar-help_tour'
+    popover:
+      title: Menu de Ajuda
+      description: Acesse rapidamente tours guiados e vitrines de recursos da UI a partir do menu Ajuda. Ele fornece orientação passo a passo e demonstrações para ajudá-lo a navegar e entender os recursos e a interface do usuário do PasteBar de forma eficaz.
+      alignment: end
+      prefferedSide: bottom
+  - element: '#navbar-close-window_tour'
+    popover:
+      title: Fechar Janela Principal
+      description: Clique no ícone de fechar para fechar a janela principal do PasteBar, mantendo sua funcionalidade disponível a partir do ícone na barra de tarefas ou na barra de menus. Você sempre pode reabrir a janela principal do aplicativo a partir do menu principal.
+      alignment: end
+      prefferedSide: bottom
+
+SETTINGS_TOUR:
+  - element: '#app-settings-history_tour'
+    popover:
+      title: Configurações do Histórico da Área de Transferência
+      description: Ajuste as configurações do seu histórico da área de transferência para personalizar como o PasteBar captura e gerencia o conteúdo copiado. Ative ou desative recursos como atualização automática, estrela automática, pré-visualização de link, lista de palavras de parada e detecção automática de linguagem de programação para uma experiência personalizada.
+      alignment: start
+      prefferedSide: right
+  - element: '#app-settings-collections_tour'
+    popover:
+      title: Gerenciar Configurações de Coleções
+      description: Use Gerenciar Coleções para organizar e personalizar suas coleções. Adicione novas coleções, edite as existentes e alterne entre elas para se adequar ao seu fluxo de trabalho. Gerencie seu conteúdo eficientemente agrupando clipes, painéis e abas relacionados.
+      alignment: start
+      prefferedSide: right
+  - element: '#app-settings-preferences_tour'
+    popover:
+      title: Preferências do Usuário
+      description: Ajuste o tamanho da fonte, troque os temas de cores, altere o idioma da interface e configure as opções de início automático. Troque os layouts dos painéis, mostre os nomes das coleções na barra de navegação e gerencie os pop-ups de notas dos clipes.
+      alignment: start
+      prefferedSide: right
+  - element: '#app-settings-security_tour'
+    popover:
+      title: Configurações de Segurança
+      description: Configure suas definições de segurança para proteger seus dados. Defina uma senha numérica para a tela de bloqueio e uma senha de recuperação. Controle a captura do histórico da área de transferência a partir da tela de bloqueio e ative o bloqueio automático por inatividade. Ajuste estas configurações para aumentar a segurança do seu aplicativo PasteBar.
+      alignment: start
+      prefferedSide: right
+  - element: '#app-settings-back_tour'
+    popover:
+      title: Retornar à Tela Principal
+      description: Clique para retornar das configurações para a visualização principal do aplicativo.
+      alignment: start
+      prefferedSide: right
