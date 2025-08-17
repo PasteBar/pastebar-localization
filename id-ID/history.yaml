@@ -1,42 +1,42 @@
-All History Settings: All History Settings
-All done! History's been cleared.: All done! History's been cleared.
-Auto Update on Capture: Auto Update on Capture
-Auto-Clear Settings: Auto-Clear Settings
-Capture History: Capture History
-Clear: Clear
-Clear All: Clear All
-Clear All History: Clear All History
-Clear History: Clear History
-Confirm Clear All History: Confirm Clear All History
-Do you really want to remove ALL clipboard history items?: Do you really want to remove ALL clipboard history items?
-Do you want to remove all recent clipboard history older than {{olderThen}} {{durationType}}: Do you want to remove all recent clipboard history older than {{olderThen}} {{durationType}}
-Do you want to remove clipboard history items older than {{olderThen}} {{durationType}}: Do you want to remove clipboard history items older than {{olderThen}} {{durationType}}
-Enable Capture History: Enable Capture History
-Enable Image Capture: Enable Image Capture
+All History Settings: Semua Pengaturan Riwayat
+All done! History's been cleared.: Semua selesai! Riwayat telah dibersihkan.
+Auto Update on Capture: Perbarui Otomatis saat Pengambilan
+Auto-Clear Settings: Pengaturan Hapus Otomatis
+Capture History: Ambil Riwayat
+Clear: Hapus
+Clear All: Hapus Semua
+Clear All History: Hapus Semua Riwayat
+Clear History: Hapus Riwayat
+Confirm Clear All History: Konfirmasi Hapus Semua Riwayat
+Do you really want to remove ALL clipboard history items?: Apakah Anda benar-benar ingin menghapus SEMUA item riwayat papan klip?
+Do you want to remove all recent clipboard history older than {{olderThen}} {{durationType}}: Apakah Anda ingin menghapus semua riwayat papan klip terbaru yang lebih lama dari {{olderThen}} {{durationType}}
+Do you want to remove clipboard history items older than {{olderThen}} {{durationType}}: Apakah Anda ingin menghapus item riwayat papan klip yang lebih lama dari {{olderThen}} {{durationType}}
+Enable Capture History: Aktifkan Pengambilan Riwayat
+Enable Image Capture: Aktifkan Pengambilan Gambar
 Filters:
-  App Filters: App Filters
+  App Filters: Filter Aplikasi
   Audio: Audio
-  Clear Filters: Clear Filters
-  Code: Code
+  Clear Filters: Hapus Filter
+  Code: Kode
   Emoji: Emoji
-  Image: Image
-  Language Filters: Language Filters
-  Languages: Languages
-  Languages Filter: Languages Filter
-  Languages Filters: Languages Filters
-  Link: Link
-  Pinned: Pinned
-  Secret: Secret
-  Select Filters: Select Filters
-  Source: Source
-  Source Application: Source Application
-  Source Filters: Source Filters
-  Starred: Starred
-  Text: Text
+  Image: Gambar
+  Language Filters: Filter Bahasa
+  Languages: Bahasa
+  Languages Filter: Filter Bahasa
+  Languages Filters: Filter Bahasa
+  Link: Tautan
+  Pinned: Disematkan
+  Secret: Rahasia
+  Select Filters: Pilih Filter
+  Source: Sumber
+  Source Application: Aplikasi Sumber
+  Source Filters: Filter Sumber
+  Starred: Berbintang
+  Text: Teks
   Video: Video
-Hide pinned history: Hide pinned history
-History Settings: History Settings
-Paste Menu: Paste Menu
-Select Filters: Select Filters
-View pinned history: View pinned history
-'{{isAll}} Clipboard History': '{{isAll}} Clipboard History'
+Hide pinned history: Sembunyikan riwayat yang disematkan
+History Settings: Pengaturan Riwayat
+Paste Menu: Menu Tempel
+Select Filters: Pilih Filter
+View pinned history: Lihat riwayat yang disematkan
+'{{isAll}} Clipboard History': '{{isAll}} Riwayat Papan Klip'
