@@ -1,0 +1,269 @@
+API Key: Kunci API
+Add: Tambah
+Add Auth: Tambah Otentikasi
+Add Clipboard Value: Tambah Nilai Papan Klip
+Add Custom: Tambah Kustom
+Add Custom Field: Tambah Bidang Kustom
+Add Delay Time: Tambah Waktu Tunda
+Add First Board: Tambah Papan Pertama
+Add Form Field: Tambah Bidang Formulir
+Add Header: Tambah Header
+Add Key Press: Tambah Tekanan Tombol
+Add Key Press After Paste: Tambah Tekanan Tombol Setelah Tempel
+Add Link Card: Tambah Kartu Tautan
+Add Open URL: Tambah Buka URL
+Add Output Template: Tambah Templat Output
+Add Regex Match Group Filter: Tambah Filter Grup Pencocokan Regex
+Add Request Header: Tambah Header Permintaan
+Add Response Filter: Tambah Filter Respons
+Add Scraping Rule: Tambah Aturan Pengikisan
+Add Section: Tambah Bagian
+Add Tab: Tambah Tab
+Add Template Field: Tambah Bidang Templat
+Add a Tab: Tambah Tab
+Add field {{name}} into the template: Tambahkan bidang {{name}} ke dalam templat
+Add image: Tambah gambar
+Add note: Tambah catatan
+Add to Board: Tambahkan ke Papan
+Add {{type}}: Tambah {{type}}
+All field labels must be unique to ensure they are correctly used within the template.: Semua label bidang harus unik untuk memastikan semuanya digunakan dengan benar di dalam templat.
+Are you sure you want to delete <strong>{{boardName}}</strong> board?: Apakah Anda yakin ingin menghapus papan <strong>{{boardName}}</strong>?
+Are you sure you want to delete <strong>{{tabName}}</strong> tab?: Apakah Anda yakin ingin menghapus tab <strong>{{tabName}}</strong>?
+Are you sure you want to delete?: Apakah Anda yakin ingin menghapus?
+Are you sure you want to remove image from the clip?: Apakah Anda yakin ingin menghapus gambar dari klip?
+Auth: Otentikasi
+Auto update is Off: Pembaruan otomatis Nonaktif
+Basic Auth: Otentikasi Dasar
+Basic Password: Kata Sandi Dasar
+Basic Username: Nama Pengguna Dasar
+Bearer Token: Token Pembawa
+Board Layout Height: Tinggi Tata Letak Papan
+Board Layout Split: Pembagian Tata Letak Papan
+Board Menu: Menu Papan
+Board is Not Empty: Papan Tidak Kosong
+Boards: Papan
+Border Width: Lebar Batas
+CSS Selector: Pemilih CSS
+Cancel: Batal
+Change Layout: Ubah Tata Letak
+Change color: Ubah warna
+Clear: Hapus
+Clear All Fields: Hapus Semua Bidang
+Click To Add: Klik untuk Menambahkan
+Clip Menu: Menu Klip
+Clip Options: Opsi Klip
+Clipboard: Papan klip
+Clips:
+  App: Aplikasi
+  Clip Menu: Menu Klip
+  Clips: Klip
+  Link: Tautan
+Close Edit: Tutup Edit
+Command:
+  error: kesalahan
+  output: output
+Command error: Kesalahan perintah
+Common Fields: Bidang Umum
+Confirm Clear All Fields: Konfirmasi Hapus Semua Bidang
+Confirm to remove Auth: Konfirmasi untuk menghapus Otentikasi
+Confirm to remove filters: Konfirmasi untuk menghapus filter
+Confirm to remove headers: Konfirmasi untuk menghapus header
+Copy Clip: Salin Klip
+Create Board: Buat Papan
+Create Tab: Buat Tab
+Create tab: Buat tab
+Dashboard: Dasbor
+Delay: Tunda
+Delete Board: Hapus Papan
+Delete Clip: Hapus Klip
+Delete Tab: Hapus Tab
+Delete board: Hapus papan
+Delete field: Hapus bidang
+Delete tab: Hapus tab
+Detect Template Fields: Deteksi Bidang Templat
+Detect for Template Fields: Deteksi untuk Bidang Templat
+Disabled field {{name}} has been found in the template: Bidang yang dinonaktifkan {{name}} telah ditemukan di templat
+Done Create Clip: Selesai Membuat Klip
+Done Edit: Selesai Mengedit
+Done Edit Tabs: Selesai Mengedit Tab
+Done Organize: Selesai Mengatur
+Drag & Drop Path: Seret & Lepas Jalur
+Drop To Add: Lepaskan untuk Menambahkan
+Drop image file here, or use a separate window for drag and drop.: Lepaskan file gambar di sini, atau gunakan jendela terpisah untuk seret dan lepas.
+Drop to Pin: Lepaskan untuk Menyematkan
+Edit Note: Edit Catatan
+Edit Template: Edit Templat
+Edit subtitle: Edit subtitel
+Edit tab name: Edit nama tab
+Enable / Disable: Aktifkan / Nonaktifkan
+Enable / Disable URL Open: Aktifkan / Nonaktifkan Buka URL
+Enter Label: Masukkan Label
+Enter URL: Masukkan URL
+Enter board subtitle or description: Masukkan subtitel atau deskripsi papan
+Enter board title: Masukkan judul papan
+Enter clip name: Masukkan nama klip
+Enter clip note: Masukkan catatan klip
+Enter code: Masukkan kode
+Enter credit card number: Masukkan nomor kartu kredit
+Enter default value: Masukkan nilai default
+Enter field value: Masukkan nilai bidang
+Enter full path to file, folder or application: Masukkan jalur lengkap ke file, folder, atau aplikasi
+Enter regex for output filer: Masukkan regex untuk filter output
+Enter request url: Masukkan url permintaan
+Enter secret value: Masukkan nilai rahasia
+Enter section label: Masukkan label bagian
+Enter select option: Masukkan opsi pilihan
+Enter tab name: Masukkan nama tab
+Enter template or drag from history: Masukkan templat atau seret dari riwayat
+Enter template value: Masukkan nilai templat
+Enter value or drag from history: Masukkan nilai atau seret dari riwayat
+Enter web link or email: Masukkan tautan web atau email
+Errors:
+  No fields found in the template.: Tidak ada bidang yang ditemukan di templat.
+  Please fix output template or confirm to save as is.: Harap perbaiki templat output atau konfirmasi untuk menyimpan apa adanya.
+  Please fix template fields or confirm to save as is.: Harap perbaiki bidang templat atau konfirmasi untuk menyimpan apa adanya.
+  Please fix the problem or confirm to save as is.: Harap perbaiki masalahnya atau konfirmasi untuk menyimpan apa adanya.
+  Please verify your link for any errors, or confirm to save as is.: Harap verifikasi tautan Anda untuk setiap kesalahan, atau konfirmasi untuk menyimpan apa adanya.
+  Please verify your path for any errors, or confirm to save as is.: Harap verifikasi jalur Anda untuk setiap kesalahan, atau konfirmasi untuk menyimpan apa adanya.
+  Your command runs with errors, confirm you want to save as is.: Perintah Anda berjalan dengan kesalahan, konfirmasikan Anda ingin menyimpan apa adanya.
+  Your request runs with errors, confirm you want to save as is.: Permintaan Anda berjalan dengan kesalahan, konfirmasikan Anda ingin menyimpan apa adanya.
+FILTERED_TYPES:
+  Dot Path: Jalur Titik
+  JSON Path: Jalur JSON
+  RegEx: RegEx
+  RegEx Replace: Ganti RegEx
+  Remove Quotes: Hapus Tanda Kutip
+Field: Bidang
+Field Options: Opsi Bidang
+Field {{name}} has been found in the template: Bidang {{name}} telah ditemukan di templat
+Fields Value: Nilai Bidang
+File, folder or app path does not exist: Jalur file, folder, atau aplikasi tidak ada
+File, folder or app path is valid: Jalur file, folder, atau aplikasi valid
+File, folder or app path might not be valid: Jalur file, folder, atau aplikasi mungkin tidak valid
+Fill Template: Isi Templat
+Filter Type: Jenis Filter
+Filter's Value: Nilai Filter
+Find in Clip: Cari di Klip
+Find in clip: Cari di klip
+Find in history: Cari di riwayat
+Flex Layout: Tata Letak Fleksibel
+Form Fields: Bidang Formulir
+General Fields: Bidang Umum
+Grid Layout: Tata Letak Kisi
+HTML: HTML
+Headers: Header
+Hide Label: Sembunyikan Label
+History capture is off: Pengambilan riwayat nonaktif
+Key Press: Tekanan Tombol
+Key Press After: Tekanan Tombol Setelah
+Key Press After Paste: Tekanan Tombol Setelah Tempel
+'Key Press After Paste: {{keyPress}}': 'Tekanan Tombol Setelah Tempel: {{keyPress}}'
+Label Left: Label Kiri
+Label Top: Label Atas
+Label on Left: Label di Kiri
+Labels: Label
+Last run: Terakhir dijalankan
+Last update: Pembaruan terakhir
+Layout Max Width: Lebar Maks Tata Letak
+Mask to hide clipboard value in preview: Samarkan untuk menyembunyikan nilai papan klip di pratinjau
+Move Clip: Pindahkan Klip
+Moved Clips Panel: Panel Klip yang Dipindahkan
+Name: Nama
+New Board: Papan Baru
+New Clip: Klip Baru
+No Boards: Tidak Ada Papan
+No Clipboard History: Tidak Ada Riwayat Papan Klip
+No Tabs or Boards: Tidak Ada Tab atau Papan
+Number of columns: Jumlah kolom
+Open: Buka
+Open URL Disable / Enable: Nonaktifkan / Aktifkan Buka URL
+Output Template: Templat Output
+Panel for moved or copied items from other tabs: Panel untuk item yang dipindahkan atau disalin dari tab lain
+Please confirm to save as is.: Harap konfirmasi untuk menyimpan apa adanya.
+Press: Tekan
+RETURN_POSITION_TYPES:
+  First Only: Hanya Pertama
+  Last Only: Hanya Terakhir
+RULES_TYPES:
+  CSS Selector: Pemilih CSS
+  RegEx Find: Temukan RegEx
+  RegEx Group Match: Pencocokan Grup RegEx
+  RegEx Match: Pencocokan RegEx
+  RegEx Replace: Ganti RegEx
+RegEx Find: Temukan RegEx
+RegEx Match: Pencocokan RegEx
+RegEx Match Group: Grup Pencocokan RegEx
+RegEx Replace: Ganti RegEx
+Regex Match Group Filter: Filter Grup Pencocokan Regex
+Remove Open URL: Hapus Buka URL
+Remove headers: Hapus header
+Remove image: Hapus gambar
+Rename: Ganti Nama
+Reset to Defaults: Atur Ulang ke Default
+Response Filters: Filter Respons
+Result: Hasil
+SEPARATOR_TYPES:
+  Comma (,): Koma (,)
+  New Line (\n): Baris Baru (\n)
+  Pipe (|): Pipa (|)
+  Semicolon (;): Titik Koma (;)
+  Space (' '): Spasi (' ')
+  Tab (\t): Tab (\t)
+Save as Defaults: Simpan sebagai Default
+Scan for Template Fields: Pindai Bidang Templat
+Select Color: Pilih Warna
+Select Default Option: Pilih Opsi Default
+Select Option: Pilih Opsi
+Select Options: Pilih Opsi
+Show Label: Tampilkan Label
+Special Field: Bidang Khusus
+Subtitle: Subtitel
+Tab: Tab
+Tab is Not Empty: Tab Tidak Kosong
+Tabs Menu: Menu Tab
+Template: Templat
+Template Edit: Edit Templat
+Template Fields: Bidang Templat
+Template should have⠀<b>{{output}}</b>⠀placeholder.: Templat harus memiliki placeholder ⠀<b>{{output}}</b>⠀.
+Test Request: Uji Permintaan
+Test Run: Uji Coba
+Text: Teks
+This action cannot be undone.: Tindakan ini tidak dapat dibatalkan.
+This field allows to insert text from clipboard: Bidang ini memungkinkan untuk menyisipkan teks dari papan klip
+Too long: Terlalu panjang
+Too short: Terlalu pendek
+Turn On auto update: Aktifkan pembaruan otomatis
+Turn on history capture: Aktifkan pengambilan riwayat
+Type:
+  Command: Perintah
+  Request: Permintaan
+  Scraper: Pengikis
+URL: URL
+Unsaved name: Nama yang belum disimpan
+Unsaved note: Catatan yang belum disimpan
+Unsaved subtitle: Subtitel yang belum disimpan
+Unsaved title: Judul yang belum disimpan
+Update Link Card: Perbarui Kartu Tautan
+Use double curly brackets for {{field name}}. Use {{clipboard}} to add current clipboard value.: Gunakan kurung kurawal ganda untuk {{nama bidang}}. Gunakan {{clipboard}} untuk menambahkan nilai papan klip saat ini.
+Value: Nilai
+Values: Nilai
+Vertical Split: Pembagian Vertikal
+We need to open a new window where you can drag & drop file, path or application.: Kita perlu membuka jendela baru tempat Anda dapat menyeret & melepas file, jalur, atau aplikasi.
+Web Link or Email might not be valid: Tautan Web atau Email mungkin tidak valid
+Web or Email link is valid: Tautan Web atau Email valid
+Website URL: URL Situs Web
+Website URL is valid: URL Situs Web valid
+Website URL might not be valid: URL Situs Web mungkin tidak valid
+Wrap output using {{output}} placeholder: Bungkus output menggunakan placeholder {{output}}
+You have no rules added: Anda belum menambahkan aturan
+You'll need to clear this board of all clips and subboards before it can be deleted.: Anda harus membersihkan papan ini dari semua klip dan subpapan sebelum dapat dihapus.
+You'll need to clear this tab of all boards before it can be deleted.: Anda harus membersihkan tab ini dari semua papan sebelum dapat dihapus.
+filled template: templat terisi
+new clips: klip baru
+template: templat
+'{{count}} fields found in template but missing from fields definition._one': '{{count}} bidang ditemukan di templat tetapi tidak ada dalam definisi bidang.'
+'{{count}} fields found in template but missing from fields definition._other': '{{count}} bidang ditemukan di templat tetapi tidak ada dalam definisi bidang.'
+'{{count}} fields not found in the template._one': '{{count}} bidang tidak ditemukan di templat.'
+'{{count}} fields not found in the template._other': '{{count}} bidang tidak ditemukan di templat.'
+'{{type}} Field': 'Bidang {{type}}'
+'{{type}} field': 'bidang {{type}}'

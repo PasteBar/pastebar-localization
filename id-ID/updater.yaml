@@ -1,0 +1,30 @@
+Check for Update: Periksa Pembaruan Aplikasi
+Checking for Update...: Memeriksa Pembaruan...
+Confirm Restart: Konfirmasi Mulai Ulang
+Confirm Update: Konfirmasi Pembaruan
+Download Completed: Unduhan Selesai
+Download Completed Quit and Manually Install: File pembaruan yang diunduh akan terbuka secara otomatis. Untuk menyelesaikan pembaruan, pertama-tama keluar dari aplikasi PasteBar lalu selesaikan instalasi versi terbaru secara manual. Setelah instalasi selesai, mulai PasteBar menggunakan versi yang diperbarui.
+Download Update: Unduh Pembaruan
+Downloading...: Mengunduh...
+General Update Error: Terjadi kesalahan selama proses pembaruan. Silakan coba perbarui lagi nanti. Jika masalah berlanjut, Anda harus mengunduh dan menginstal pembaruan secara manual.
+Install Update: Instal Pembaruan
+Installing Update: Menginstal Pembaruan
+No Update Available: Tidak Ada Pembaruan yang Tersedia
+Permission Denied Message: Proses pembaruan tidak dapat mengganti file aplikasi lama karena hak istimewa yang tidak mencukupi. Anda harus mengunduh dan memperbarui file aplikasi secara manual menggunakan akun pengguna dengan hak administrator.
+Quit PasteBar: Keluar dari PasteBar
+Release date {{date}}: Tanggal rilis {{date}}
+Remind Me Later: Ingatkan Saya Nanti
+Restart: Mulai Ulang
+Restart Required: Diperlukan Mulai Ulang
+Restart to Finish: Mulai Ulang untuk Menyelesaikan
+Restart to Update: Mulai Ulang untuk Memperbarui
+Skip Download: Lewati Unduhan
+Skip This Version: Lewati Versi Ini
+Try Install Again: Coba Instal Lagi
+Update Available: Pembaruan Tersedia
+Update Error: Kesalahan Pembaruan
+Update Install Error: Kesalahan Instalasi Pembaruan
+'Update: Permission Denied': 'Pembaruan: Izin Ditolak'
+Upgrade removes Pro features: Peningkatan menghapus fitur Pro
+Version {{newVersion}} is available: Versi {{newVersion}} tersedia
+View Changes: Lihat Perubahan

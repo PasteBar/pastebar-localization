@@ -1,0 +1,241 @@
+HISTORY_PANEL_TOUR:
+  - element: '#side-panel_tour'
+    popover:
+      title: Panel Riwayat Papan Klip
+      description: Panel ini menampilkan riwayat papan klip yang Anda salin untuk akses mudah nanti. Gulir riwayat Anda, cari konten, atau filter berdasarkan jenis. Anda dapat mengubah ukuran panel ini untuk tampilan yang disesuaikan.
+      prefferedSide: right
+  - element: '#history-find_tour'
+    popover:
+      title: Temukan dan Filter Riwayat
+      description: Gunakan pencarian untuk menemukan item tertentu dengan cepat di riwayat papan klip Anda. Filter hasil berdasarkan jenis (teks, gambar, atau tautan) untuk menemukan apa yang Anda butuhkan dengan mudah. Salin item yang ditemukan lagi atau simpan ke papan.
+      prefferedSide: bottom
+      alignment: center
+  - element: '#history-list_tour .history-item'
+    popover:
+      title: Item Riwayat Papan Klip
+      description: Setiap item di Riwayat Papan Klip Anda mewakili konten yang telah Anda salin sebelumnya. <b>Klik dua kali</b> item atau klik ikon untuk menyalinnya kembali ke papan klip. <b>Tekan dan seret</b> untuk membuat klip yang disimpan di panel papan. <b>Klik kanan</b> item untuk opsi lainnya di menu konteks.
+      prefferedSide: right
+  - element: '#tabs-history_tour'
+    meta:
+      closeTourCssPosition: hidden
+    popover:
+      title: Tab Navigasi Riwayat/Menu
+      description: Beralih antara tampilan Riwayat Papan Klip dan Menu Tempel untuk pengelolaan dan akses konten Anda yang mudah.
+      alignment: center
+      prefferedSide: top
+  - element: '#history-menu-button_tour'
+    meta:
+      closeTourCssPosition: hidden
+    popover:
+      title: Menu Item Terpilih Riwayat
+      description: Gunakan menu ini untuk mengelola item yang dipilih di Riwayat Papan Klip Anda. Anda dapat <b>memilih banyak</b> item, membatalkan pilihan semua, menambahkan ke papan, menghapus, atau membersihkan riwayat untuk tanggal tertentu.
+      alignment: end
+      prefferedSide: right
+  - element: .panel-resize_tour
+    popover:
+      title: Tampilan Panel yang Dapat Diubah Ukurannya
+      description: Sesuaikan ruang kerja Anda dengan mengubah ukuran tampilan panel agar sesuai dengan preferensi Anda. <b>Arahkan mouse Anda</b> ke tepi panel hingga kursor ubah ukuran muncul, lalu <b>klik dan seret</b> untuk menyesuaikan ukuran panel.
+      prefferedSide: right
+
+DASHBOARD_CLIPS_TOUR:
+  - element: .clips-dashboard-panel_tour
+    meta:
+      closeTourCssPosition: hidden
+    popover:
+      title: Panel Dasbor
+      description: Panel ini menyediakan hub pusat untuk mengatur dan mengelola klip yang Anda simpan. Buat tab dan papan khusus untuk menyusun konten Anda. <b>Seret dan lepas</b> item dari Riwayat Papan Klip Anda untuk membuat klip baru. Gunakan tab untuk beralih di antara kategori papan yang berbeda.
+      prefferedSide: left
+  - element: '#dashboard-tabs_tour'
+    popover:
+      title: Tab Dasbor
+      description: Buat tab khusus dan gunakan untuk menavigasi melalui berbagai bagian Dasbor Anda. Beralih di antara kategori untuk mengelola dan mengakses klip dan konten Anda dengan cepat.
+      alignment: center
+      prefferedSide: bottom
+  - element: '#dashboard-tabs-create-button_tour'
+    popover:
+      title: Buat Item Dasbor
+      description: Buat item baru untuk Dasbor Anda. Tambahkan klip, papan, atau tab khusus untuk mengatur konten Anda.
+      alignment: end
+      prefferedSide: bottom
+  - element: '#dashboard-tabs-context-menu_tour'
+    popover:
+      title: Menu Tab dan Tata Letak
+      description: <b>Klik kanan</b> pada tab atau <b>klik ikon menu</b> untuk mengatur tata letak dan mengelola tab Anda. Anda dapat mengedit tab yang ada atau mengubah tata letak dasbor agar sesuai dengan preferensi alur kerja Anda.
+      alignment: end
+      prefferedSide: bottom
+  - element: .board-panel_tour
+    popover:
+      title: Panel Papan
+      description: Panel papan ini memungkinkan Anda untuk mengatur klip yang disimpan untuk akses cepat dan mudah. <b>Seret dan lepas</b> item dari Riwayat Papan Klip Anda. Gunakan papan untuk mengkategorikan dan mengelola konten Anda secara efisien.
+      alignment: center
+      prefferedSide: right
+  - element: .board-panel-header_tour
+    popover:
+      title: Header Panel Papan
+      description: <b>Klik dua kali</b> header untuk memperluas panel papan dengan cepat atau <b>klik kanan</b> untuk melihat opsi lain untuk menyesuaikan dan mengelola papan.
+      alignment: start
+      prefferedSide: right
+  - element: .clip_tour
+    popover:
+      title: Item Klip yang Disimpan
+      description: Akses konten klip yang disimpan dengan cepat. <b>Klik dua kali</b> atau <b>klik ikon papan klip</b> untuk menyalinnya. <b>Tekan lama</b> untuk mengatur ulang item, atau <b>klik kanan</b> untuk opsi lainnya untuk menyesuaikan dan mengatur klip Anda.
+      alignment: start
+      prefferedSide: right
+  - element: .panel-resize_tour
+    popover:
+      title: Tampilan Panel yang Dapat Diubah Ukurannya
+      description: Sesuaikan ruang kerja Anda dengan mengubah ukuran tampilan panel agar sesuai dengan preferensi Anda. <b>Arahkan mouse Anda</b> ke tepi panel hingga kursor ubah ukuran muncul, lalu <b>klik dan seret</b> untuk menyesuaikan ukuran panel.
+      prefferedSide: right
+
+MENU_TOUR:
+  - element: '#side-panel_tour'
+    popover:
+      title: Panel Menu Tempel
+      description: Panel ini memungkinkan Anda mengelola menu tempel asli bilah tugas atau bilah menu sistem Anda. <b>Tahan dan seret</b> item untuk mengaturnya kembali, <b>klik dua kali</b> untuk mengganti nama. <b>Tekan</b> tombol ALT atau Command dan klik item apa pun untuk memilih banyak.
+      prefferedSide: right
+  - element: '#menu-find_tour'
+    popover:
+      title: Temukan Item Menu
+      description: Gunakan bilah pencarian untuk menemukan item menu tertentu dengan cepat. Ketik kata kunci untuk memfilter dan menemukan item yang Anda butuhkan.
+      prefferedSide: bottom
+      alignment: center
+  - element: div[role=treeitem]
+    popover:
+      title: Pohon Item Menu
+      description: Setiap item di pohon menu dapat diatur ulang secara individual atau dalam grup. <b>Klik dua kali</b> untuk mengganti nama, <b>tahan dan seret</b> untuk mengaturnya kembali. <b>Tekan</b> tombol ALT atau Command dan klik untuk memilih banyak.
+      prefferedSide: right
+  - element: '#tabs-menu_tour'
+    meta:
+      closeTourCssPosition: hidden
+    popover:
+      title: Tab Navigasi Riwayat/Menu
+      description: Beralih antara tampilan Riwayat Papan Klip dan Menu Tempel untuk pengelolaan dan akses konten Anda yang mudah.
+      alignment: center
+      prefferedSide: top
+  - element: '#menu-icon-menu-button_tour'
+    meta:
+      closeTourCssPosition: hidden
+    popover:
+      title: Menu Tempel Item Terpilih
+      description: Gunakan menu ini untuk mengelola beberapa item menu yang dipilih. Pilih banyak, batalkan pilihan semua, bangun kembali menu asli, atau hapus item untuk mengatur menu tempel Anda dengan cepat.
+      alignment: end
+      prefferedSide: right
+  - element: '#menu-main-list_tour'
+    meta:
+      closeTourCssPosition: hidden
+    popover:
+      title: Kelola Panel Menu Tempel
+      description: Panel ini memungkinkan Anda mengelola semua item menu aktif. Tambah, edit, atau hapus item untuk menyesuaikan menu tempel Anda. Buat item baru atau tautkan klip yang ada. <b>Klik dua kali</b> untuk menyalin konten ke papan klip dan <b>klik kanan</b> untuk opsi lainnya.
+      alignment: start
+      prefferedSide: left
+  - element: .menu-item_tour
+    popover:
+      title: Item Menu
+      description: Di sini Anda dapat mengelola setiap item menu secara individual. <b>Klik</b> ikon perluas untuk melihat konten menu. <b>Klik dua kali</b> untuk menyalin konten ke papan klip dan <b>klik kanan</b> untuk melihat opsi lainnya.
+      alignment: center
+      prefferedSide: bottom
+  - element: '#add-menu-item__tour'
+    popover:
+      title: Tambah Item Menu
+      description: Klik ikon plus dan pilih lokasi di mana Anda ingin menambahkan item baru, sebelum atau sesudah item menu yang ada. Anda dapat membuat menu baru, submenu, pemisah, item menu yang dinonaktifkan, item menu dari riwayat terbaru, atau tautan ke klip yang disimpan.
+      alignment: end
+      prefferedSide: bottom
+  - element: '#toggle-inactive-menu-items_tour'
+    popover:
+      title: Alihkan Item Menu Tidak Aktif
+      description: Klik ikon ini untuk menampilkan atau menyembunyikan item menu yang tidak aktif. Ini membantu mengelola dan mengatur menu Anda dengan berfokus pada item aktif saat dibutuhkan. Rampingkan menu Anda dan rapikan ruang kerja Anda untuk meningkatkan efisiensi.
+      alignment: start
+      prefferedSide: bottom
+  - element: .panel-resize_tour
+    popover:
+      title: Tampilan Panel yang Dapat Diubah Ukurannya
+      description: Sesuaikan ruang kerja Anda dengan mengubah ukuran tampilan panel agar sesuai dengan preferensi Anda. <b>Arahkan mouse Anda</b> ke tepi panel hingga kursor ubah ukuran muncul, lalu <b>klik dan seret</b> untuk menyesuaikan ukuran panel.
+      prefferedSide: right
+
+NAVBAR_TOUR:
+  - element: '#navbar-panel_tour'
+    popover:
+      title: Bilah Navigasi
+      description: Bilah navigasi menyediakan akses cepat ke fitur dan pengaturan PasteBar. Gunakan untuk beralih antara tampilan Riwayat Papan Klip dan Menu Tempel, mengakses koleksi Anda, melakukan pencarian global, mengalihkan visibilitas papan yang disematkan, menyesuaikan pengaturan, dan mendapatkan bantuan saat dibutuhkan.
+      alignment: center
+      prefferedSide: bottom
+  - element: '#navbar-pastebar_tour'
+    popover:
+      title: Menu PasteBar
+      description: Menu PasteBar menyediakan akses cepat ke fungsi dan informasi penting. Di sini Anda dapat memeriksa pembaruan, mengakses pengaturan, mengunci layar aplikasi, menutup jendela utama, atau keluar dari aplikasi.
+      alignment: start
+      prefferedSide: bottom
+  - element: '#navbar-view_tour'
+    popover:
+      title: Menu Tampilan
+      description: Gunakan menu Tampilan untuk menavigasi riwayat papan klip dan menu tempel Anda, menyesuaikan opsi, mengubah tema warna, mengubah ukuran font UI, dan mengubah bahasa. Akses pengaturan tambahan untuk pengalaman yang dipersonalisasi.
+      alignment: start
+      prefferedSide: bottom
+  - element: '#navbar-collections_tour'
+    popover:
+      title: Menu Koleksi
+      description: Menu Koleksi memungkinkan Anda beralih di antara berbagai koleksi klip, papan, dan tab. Buat dan sesuaikan setiap koleksi agar sesuai dengan kebutuhan spesifik Anda, seperti mengatur konten berdasarkan proyek atau kategori.
+      alignment: center
+      prefferedSide: bottom
+  - element: '#navbar-toggle-history-split'
+    popover:
+      title: Alihkan Jendela Riwayat
+      description: Klik ikon ini untuk membuka atau menutup riwayat papan klip di jendela terpisah. Gunakan fitur ini untuk mengelola riwayat papan klip Anda secara independen dari jendela utama.
+      alignment: center
+      preferredSide: bottom
+  - element: '#navbar-search_tour'
+    popover:
+      title: Pencarian Global
+      description: Gunakan pencarian global untuk menemukan klip, papan, dan item menu dengan cepat di seluruh koleksi aktif. Ketik kata kunci untuk memfilter hasil dan menemukan konten yang Anda butuhkan secara efisien. <b>Klik dua kali</b> klip untuk menyalinnya langsung dari hasil pencarian.
+      alignment: center
+      prefferedSide: bottom
+  - element: '#navbar-pinned_tour'
+    popover:
+      title: Alihkan Papan yang Disematkan
+      description: Klik ikon ini untuk menampilkan atau menyembunyikan papan yang disematkan. Gunakan fitur ini untuk menjaga ruang kerja Anda tetap teratur dan fokus pada konten yang paling relevan.
+      alignment: end
+      prefferedSide: bottom
+  - element: '#navbar-help_tour'
+    popover:
+      title: Menu Bantuan
+      description: Akses cepat tur terpandu dan pameran fitur UI dari menu Bantuan. Ini memberikan panduan langkah demi langkah dan demonstrasi untuk membantu Anda menavigasi dan memahami fitur dan antarmuka pengguna PasteBar secara efektif.
+      alignment: end
+      prefferedSide: bottom
+  - element: '#navbar-close-window_tour'
+    popover:
+      title: Tutup Jendela Utama
+      description: Klik ikon tutup untuk menutup jendela utama PasteBar sambil menjaga fungsionalitasnya tetap tersedia dari ikon bilah tugas atau bilah menu. Anda selalu dapat membuka kembali jendela aplikasi utama dari menu utama.
+      alignment: end
+      prefferedSide: bottom
+
+SETTINGS_TOUR:
+  - element: '#app-settings-history_tour'
+    popover:
+      title: Pengaturan Riwayat Papan Klip
+      description: Sesuaikan pengaturan riwayat papan klip Anda untuk menyesuaikan cara PasteBar menangkap dan mengelola konten yang Anda salin. Aktifkan atau nonaktifkan fitur seperti pembaruan otomatis, bintang otomatis, pratinjau tautan, daftar kata henti, dan deteksi otomatis bahasa pemrograman untuk pengalaman yang dipersonalisasi.
+      alignment: start
+      prefferedSide: right
+  - element: '#app-settings-collections_tour'
+    popover:
+      title: Kelola Pengaturan Koleksi
+      description: Gunakan Kelola Koleksi untuk mengatur dan menyesuaikan koleksi Anda. Tambahkan koleksi baru, edit yang sudah ada, dan beralih di antara mereka agar sesuai dengan alur kerja Anda. Kelola konten Anda secara efisien dengan mengelompokkan klip, papan, dan tab terkait.
+      alignment: start
+      prefferedSide: right
+  - element: '#app-settings-preferences_tour'
+    popover:
+      title: Preferensi Pengguna
+      description: Sesuaikan ukuran font, ganti tema warna, ubah bahasa antarmuka, dan konfigurasikan opsi mulai otomatis. Tukar tata letak panel, tampilkan nama koleksi di bilah navigasi, dan kelola popup catatan klip.
+      alignment: start
+      prefferedSide: right
+  - element: '#app-settings-security_tour'
+    popover:
+      title: Pengaturan Keamanan
+      description: Konfigurasikan pengaturan keamanan Anda untuk melindungi data Anda. Atur kode sandi layar kunci dan kata sandi pemulihan. Kontrol pengambilan riwayat papan klip dari layar kunci dan aktifkan kunci otomatis saat tidak aktif. Sesuaikan pengaturan ini untuk meningkatkan keamanan aplikasi PasteBar Anda.
+      alignment: start
+      prefferedSide: right
+  - element: '#app-settings-back_tour'
+    popover:
+      title: Kembali ke Layar Utama
+      description: Klik untuk kembali dari pengaturan ke tampilan aplikasi utama.
+      alignment: start
+      prefferedSide: right

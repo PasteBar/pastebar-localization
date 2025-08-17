@@ -1,0 +1,74 @@
+Add Current Date/Time: Tambah Tanggal/Waktu Saat Ini
+Add Line Numbers: Tambah Nomor Baris
+Add One Line Feed: Tambah Satu Baris Baru
+Add Two Line Feeds: Tambah Dua Baris Baru
+Base64 Decode: Dekode Base64
+Base64 Encode: Enkode Base64
+CSV: CSV
+CSV to JSON: CSV ke JSON
+CSV to Markdown Table: CSV ke Tabel Markdown
+Capitalize Case: Kapitalisasi Huruf
+Code Formatting: Pemformatan Kode
+Count Characters: Hitung Karakter
+Count Lines: Hitung Baris
+Count Sentences: Hitung Kalimat
+Count Words: Hitung Kata
+Data Conversion: Konversi Data
+Drag and drop category to prioritize its order in the special copy/paste menu.: Seret dan lepas kategori untuk memprioritaskan urutannya di menu salin/tempel khusus.
+Enable All: Aktifkan Semua
+Enable special text transformation options for clipboard history items: Aktifkan opsi transformasi teks khusus untuk item riwayat papan klip
+Enabled Operations: Operasi yang Diaktifkan
+Encode/Decode: Enkode/Dekode
+Format Converter: Konverter Format
+HTML: HTML
+HTML Decode: Dekode HTML
+HTML Encode: Enkode HTML
+HTML to Markdown: HTML ke Markdown
+HTML to Plain Text: HTML ke Teks Biasa
+HTML to React Component: HTML ke Komponen React
+HTML to React JSX: HTML ke React JSX
+HTML to Text: HTML ke Teks
+JSON: JSON
+JSON Stringify: Stringify JSON
+JSON to CSV: JSON ke CSV
+JSON to Markdown Table: JSON ke Tabel Markdown
+JSON to TOML: JSON ke TOML
+JSON to XML: JSON ke XML
+JSON to YAML: JSON ke YAML
+Markdown: Markdown
+Markdown to HTML: Markdown ke HTML
+Markdown to Text: Markdown ke Teks
+Operations: Operasi
+PascalCase: PascalCase
+Prioritize Category Order: Prioritaskan Urutan Kategori
+PrioritizeCategoryOrderNote: PrioritaskanCatatanUrutanKategori
+Remove Duplicate Lines: Hapus Baris Duplikat
+Remove Extra Spaces: Hapus Spasi Ekstra
+Remove Line Feeds: Hapus Baris Baru
+Reverse Text: Balikkan Teks
+Select Operations: Pilih Operasi
+Sentence case: Huruf kalimat
+Sort Lines Alphabetically: Urutkan Baris Secara Alfabetis
+Special Copy: Salin Khusus
+Special Copy/Paste Operations: Operasi Salin/Tempel Khusus
+Special Paste: Tempel Khusus
+Special Settings: Pengaturan Khusus
+TOML: TOML
+TOML to JSON: TOML ke JSON
+Text Case: Kasus Teks
+Text Tools: Alat Teks
+Title Case: Huruf Judul
+Trim White Space: Pangkas Spasi Putih
+UPPER CASE: HURUF BESAR
+URL Decode: Dekode URL
+URL Encode: Enkode URL
+Whitespace & Lines: Spasi & Baris
+XML: XML
+XML to JSON: XML ke JSON
+YAML: YAML
+YAML to JSON: YAML ke JSON
+camelCase: camelCase
+iNVERT cASE: bALIKKASUS
+kebab-case: kebab-case
+lower case: huruf kecil
+snake_case: snake_case

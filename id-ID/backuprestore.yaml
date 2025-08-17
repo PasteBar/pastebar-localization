@@ -1,0 +1,45 @@
+Auto Backup on Restore: Cadangkan Otomatis saat Pemulihan
+Available Backups: Cadangan Tersedia
+Backup Files: File Cadangan
+Backup Now: Cadangkan Sekarang
+Backup and Restore: Cadangkan dan Pulihkan
+Backup created successfully: Cadangan berhasil dibuat
+Backup deleted successfully: Cadangan berhasil dihapus
+Backup on Restore: Cadangkan saat Pemulihan
+Browse: Jelajahi
+Create Backup: Buat Cadangan
+Create a backup of your data?: Buat cadangan data Anda?
+Created: Dibuat
+Creating backup...: Membuat cadangan...
+Delete: Hapus
+Delete this backup? This action cannot be undone.: Hapus cadangan ini? Tindakan ini tidak dapat dibatalkan.
+Failed to create backup: Gagal membuat cadangan
+Failed to delete backup: Gagal menghapus cadangan
+Failed to load backup list: Gagal memuat daftar cadangan
+Failed to open backup folder: Gagal membuka folder cadangan
+Failed to restore backup: Gagal memulihkan cadangan
+Failed to select backup file: Gagal memilih file cadangan
+Include images in backup: Sertakan gambar dalam cadangan
+Invalid backup file: File cadangan tidak valid
+Loading backups...: Memuat cadangan...
+Move to another location?: Pindahkan ke lokasi lain?
+No backups found: Tidak ada cadangan yang ditemukan
+Restore: Pulihkan
+Restore Data: Pulihkan Data
+Restore completed. The application will restart.: Pemulihan selesai. Aplikasi akan dimulai ulang.
+Restore from "{{filename}}"? This will replace all current data.: Pulihkan dari "{{filename}}"? Ini akan menggantikan semua data saat ini.
+Restore from File...: Pulihkan dari File...
+Restored from {{filename}}: Dipulihkan dari {{filename}}
+Restoring a backup will automatically restart the application.: Memulihkan cadangan akan secara otomatis memulai ulang aplikasi.
+Restoring backup...: Memulihkan cadangan...
+Restoring...: Memulihkan...
+Select backup file: Pilih file cadangan
+Size: Ukuran
+The selected file is not a valid PasteBar backup: File yang dipilih bukan cadangan PasteBar yang valid
+This action cannot be undone. All current data will be replaced with the backup data.: Tindakan ini tidak dapat dibatalkan. Semua data saat ini akan diganti dengan data cadangan.
+This will create a backup file containing your database: Ini akan membuat file cadangan yang berisi basis data Anda
+This will replace all current data. Are you sure?: Ini akan menggantikan semua data saat ini. Apakah Anda yakin?
+Total backup space {{size}}: 'Total ruang cadangan: {{size}}'
+and images: dan gambar
+selected file: file yang dipilih
+will be permanently deleted.: akan dihapus secara permanen.
