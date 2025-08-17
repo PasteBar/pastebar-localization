@@ -1,24 +1,24 @@
-Create New Template: Create New Template
-Create Template: Create Template
-Enter template content...: Enter template content...
-Enter template name (e.g., "signature", "email"): Enter template name (e.g., "signature", "email")
+Create New Template: Buat Templat Baru
+Create Template: Buat Templat
+Enter template content...: Masukkan konten templat...
+Enter template name (e.g., "signature", "email"): Masukkan nama templat (misalnya, "tanda tangan", "email")
 Global: Global
-Global Template: Global Template
-Global Templates: Global Templates
-Preview usage: Preview usage
-Template Usage: Template Usage
-Template name already exists: Template name already exists. Please choose a different name.
-Template name cannot be changed after creation. Delete and recreate to change name.: Template name cannot be changed after creation. Delete and recreate to change name.
-Use Global Template: Use Global Template
-addTemplateButton: Add Template
-confirmDeleteTemplateMessage: Are you sure you want to delete the global template '{{name}}'?
-confirmDeleteTemplateTitle: Confirm Delete
-deleteTemplateButtonTooltip: Delete Template
-enableGlobalTemplatesLabel: Enable Global Templates
-globalTemplatesDescription: Manage reusable text snippets that can be inserted into any clip using {{template_name}}.
-globalTemplatesTitle: Global Templates
-localTemplateConflictWarning: A global template named '{{label}}' also exists. The local template will take precedence within this clip's form.
-noGlobalTemplatesYet: No global templates defined yet. Click 'Add Template' to create one.
-templateEnabledLabel: Enabled
-templateNameLabel: Name
-templateValueLabel: Value
+Global Template: Templat Global
+Global Templates: Templat Global
+Preview usage: Pratinjau penggunaan
+Template Usage: Penggunaan Templat
+Template name already exists: Nama templat sudah ada. Silakan pilih nama yang berbeda.
+Template name cannot be changed after creation. Delete and recreate to change name.: Nama templat tidak dapat diubah setelah pembuatan. Hapus dan buat ulang untuk mengubah nama.
+Use Global Template: Gunakan Templat Global
+addTemplateButton: Tambah Templat
+confirmDeleteTemplateMessage: Apakah Anda yakin ingin menghapus templat global '{{name}}'?
+confirmDeleteTemplateTitle: Konfirmasi Hapus
+deleteTemplateButtonTooltip: Hapus Templat
+enableGlobalTemplatesLabel: Aktifkan Templat Global
+globalTemplatesDescription: Kelola cuplikan teks yang dapat digunakan kembali yang dapat disisipkan ke dalam klip apa pun menggunakan {{template_name}}.
+globalTemplatesTitle: Templat Global
+localTemplateConflictWarning: Templat global bernama '{{label}}' juga ada. Templat lokal akan lebih diutamakan dalam formulir klip ini.
+noGlobalTemplatesYet: Belum ada templat global yang ditentukan. Klik 'Tambah Templat' untuk membuatnya.
+templateEnabledLabel: Diaktifkan
+templateNameLabel: Nama
+templateValueLabel: Nilai
