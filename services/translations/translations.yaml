@@ -51,7 +51,7 @@ it:
   recent_history: Cronologia Recente
   open_pastebar: Apri PasteBar
   unlock_pastebar: Sblocca PasteBar
-  quit: Esci  
+  quit: Esci
 
 uk:
   add_first_item_here: Додати сюди меню
@@ -107,3 +107,14 @@ ja:
   open_pastebar: PasteBar を開く
   unlock_pastebar: PasteBar をアンロックする
   quit: 終了する
+
+id:
+  add_first_item_here: Tambahkan item pertama di sini
+  disable_history_capture: Nonaktifkan perekaman riwayat
+  enable_history_capture: Aktifkan perekaman riwayat
+  clipboard_image_size: Ukuran gambar di clipboard
+  history_capture_is_disabled: Perekaman riwayat clipboard dinonaktifkan
+  recent_history: Riwayat terbaru
+  open_pastebar: Buka PasteBar
+  unlock_pastebar: Buka kunci PasteBar
+  quit: Keluar
