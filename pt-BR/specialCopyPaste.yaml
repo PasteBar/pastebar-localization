@@ -1,0 +1,74 @@
+Add Current Date/Time: Adicionar Data/Hora Atual
+Add Line Numbers: Adicionar Números de Linha
+Add One Line Feed: Adicionar Uma Quebra de Linha
+Add Two Line Feeds: Adicionar Duas Quebras de Linha
+Base64 Decode: Decodificar Base64
+Base64 Encode: Codificar Base64
+CSV: CSV
+CSV to JSON: CSV para JSON
+CSV to Markdown Table: CSV para Tabela Markdown
+Capitalize Case: Capitalizar Palavras
+Code Formatting: Formatação de Código
+Count Characters: Contar Caracteres
+Count Lines: Contar Linhas
+Count Sentences: Contar Sentenças
+Count Words: Contar Palavras
+Data Conversion: Conversão de Dados
+Drag and drop category to prioritize its order in the special copy/paste menu.: Arraste e solte a categoria para priorizar sua ordem no menu especial de copiar/colar.
+Enable All: Ativar Tudo
+Enable special text transformation options for clipboard history items: Ativar opções especiais de transformação de texto para itens do histórico da área de transferência
+Enabled Operations: Operações Ativadas
+Encode/Decode: Codificar/Decodificar
+Format Converter: Conversor de Formato
+HTML: HTML
+HTML Decode: Decodificar HTML
+HTML Encode: Codificar HTML
+HTML to Markdown: HTML para Markdown
+HTML to Plain Text: HTML para Texto Simples
+HTML to React Component: HTML para Componente React
+HTML to React JSX: HTML para React JSX
+HTML to Text: HTML para Texto
+JSON: JSON
+JSON Stringify: Transformar em String JSON
+JSON to CSV: JSON para CSV
+JSON to Markdown Table: JSON para Tabela Markdown
+JSON to TOML: JSON para TOML
+JSON to XML: JSON para XML
+JSON to YAML: JSON para YAML
+Markdown: Markdown
+Markdown to HTML: Markdown para HTML
+Markdown to Text: Markdown para Texto
+Operations: Operações
+PascalCase: PascalCase
+Prioritize Category Order: Priorizar Ordem das Categorias
+PrioritizeCategoryOrderNote: Nota de Priorização de Ordem de Categoria
+Remove Duplicate Lines: Remover Linhas Duplicadas
+Remove Extra Spaces: Remover Espaços Extras
+Remove Line Feeds: Remover Quebras de Linha
+Reverse Text: Inverter Texto
+Select Operations: Selecionar Operações
+Sentence case: Caixa de sentença
+Sort Lines Alphabetically: Ordenar Linhas Alfabeticamente
+Special Copy: Cópia Especial
+Special Copy/Paste Operations: Operações Especiais de Copiar/Colar
+Special Paste: Colagem Especial
+Special Settings: Configurações Especiais
+TOML: TOML
+TOML to JSON: TOML para JSON
+Text Case: Caixa do Texto
+Text Tools: Ferramentas de Texto
+Title Case: Caixa de Título
+Trim White Space: Aparar Espaços em Branco
+UPPER CASE: MAIÚSCULAS
+URL Decode: Decodificar URL
+URL Encode: Codificar URL
+Whitespace & Lines: Espaços em Branco e Linhas
+XML: XML
+XML to JSON: XML para JSON
+YAML: YAML
+YAML to JSON: YAML para JSON
+camelCase: camelCase
+iNVERT cASE: iNVERTER cAIXA
+kebab-case: kebab-case
+lower case: minúsculas
+snake_case: snake_case

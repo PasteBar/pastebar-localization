@@ -1,0 +1,24 @@
+Create New Template: Criar Novo Modelo
+Create Template: Criar Modelo
+Enter template content...: Digite o conteúdo do modelo...
+Enter template name (e.g., "signature", "email"): Digite o nome do modelo (ex: "assinatura", "email")
+Global: Global
+Global Template: Modelo Global
+Global Templates: Modelos Globais
+Preview usage: Pré-visualizar uso
+Template Usage: Uso do Modelo
+Template name already exists: O nome do modelo já existe. Por favor, escolha um nome diferente.
+Template name cannot be changed after creation. Delete and recreate to change name.: O nome do modelo não pode ser alterado após a criação. Exclua e crie novamente para alterar o nome.
+Use Global Template: Usar Modelo Global
+addTemplateButton: Adicionar Modelo
+confirmDeleteTemplateMessage: Tem certeza de que deseja excluir o modelo global '{{name}}'?
+confirmDeleteTemplateTitle: Confirmar Exclusão
+deleteTemplateButtonTooltip: Excluir Modelo
+enableGlobalTemplatesLabel: Ativar Modelos Globais
+globalTemplatesDescription: Gerencie trechos de texto reutilizáveis que podem ser inseridos em qualquer clipe usando {{template_name}}.
+globalTemplatesTitle: Modelos Globais
+localTemplateConflictWarning: Um modelo global chamado '{{label}}' também existe. O modelo local terá precedência no formulário deste clipe.
+noGlobalTemplatesYet: Nenhum modelo global definido ainda. Clique em 'Adicionar Modelo' para criar um.
+templateEnabledLabel: Ativado
+templateNameLabel: Nome
+templateValueLabel: Valor

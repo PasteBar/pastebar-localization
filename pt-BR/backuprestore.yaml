@@ -1,0 +1,46 @@
+Auto Backup on Restore: Backup Automático ao Restaurar
+Available Backups: Backups Disponíveis
+Backup Files: Arquivos de Backup
+Backup Now: Fazer Backup Agora
+Backup and Restore: Backup e Restauração
+Backup created successfully: Backup criado com sucesso
+Backup deleted successfully: Backup excluído com sucesso
+Backup on Restore: Fazer Backup ao Restaurar
+Browse: Procurar...
+Create Backup: Criar Backup
+Create a backup of your data?: Criar um backup dos seus dados?
+Created: Criado
+Creating backup...: Criando backup...
+Delete: Excluir
+Delete this backup? This action cannot be undone.: Excluir este backup? Esta ação não pode ser desfeita.
+Failed to create backup: Falha ao criar o backup
+Failed to delete backup: Falha ao excluir o backup
+Failed to load backup list: Falha ao carregar a lista de backups
+Failed to open backup folder: Falha ao abrir a pasta de backup
+Failed to restore backup: Falha ao restaurar o backup
+Failed to select backup file: Falha ao selecionar o arquivo de backup
+Include images in backup: Incluir imagens no backup
+Invalid backup file: Arquivo de backup inválido
+Loading backups...: Carregando backups...
+Move to another location?: Mover para outro local?
+No backups found: Nenhum backup encontrado
+Restore: Restaurar
+Restore Data: Restaurar Dados
+Restore completed. The application will restart.: Restauração concluída. O aplicativo será reiniciado.
+Restore from "{{filename}}"? This will replace all current data.: Restaurar de {{filename}}? Isso substituirá todos os dados atuais.
+Restore from File...: Restaurar de um Arquivo...
+Restore from {{filename}}? This will replace all current data.: Restaurar de {{filename}}? Isso substituirá todos os dados atuais.
+Restored from {{filename}}: Restaurado de {{filename}}
+Restoring a backup will automatically restart the application.: Restaurar um backup reiniciará o aplicativo automaticamente.
+Restoring backup...: Restaurando backup...
+Restoring...: Restaurando...
+Select backup file: Selecionar arquivo de backup
+Size: Tamanho
+The selected file is not a valid PasteBar backup: O arquivo selecionado não é um backup válido do PasteBar.
+This action cannot be undone. All current data will be replaced with the backup data.: Esta ação não pode ser desfeita. Todos os dados atuais serão substituídos pelos dados do backup.
+This will create a backup file containing your database: Isto criará um arquivo de backup contendo seu banco de dados.
+This will replace all current data. Are you sure?: Isto substituirá todos os dados atuais. Você tem certeza?
+Total backup space {{size}}: Espaço total de backup: {{size}}
+and images: e imagens
+selected file: arquivo selecionado
+will be permanently deleted.: será excluído permanentemente.

@@ -1,0 +1,220 @@
+<strong>{{screenLockPassCodeLength}}</strong> digits passcode is set.: Senha numérica de <strong>{{screenLockPassCodeLength}}</strong> dígitos foi definida.
+Activation Success: Ativação com Sucesso
+Add a star to the copied text when you copy it twice within 1 second. This allows you to quickly add copied text or links to your favorites and easily find it in the clipboard history.: Adicione uma estrela ao texto copiado ao copiá-lo duas vezes em 1 segundo. Isso permite que você adicione rapidamente textos ou links copiados aos seus favoritos e os encontre facilmente no histórico da área de transferência.
+Add an unlimited number of tabs within each collection for better organization and easy access.: Adicione um número ilimitado de abas em cada coleção para melhor organização e fácil acesso.
+'Add an unlimited number of tabs within each collection for better organization and easy access.                                        ': 'Adicione um número ilimitado de abas em cada coleção para melhor organização e fácil acesso.                                        '
+Advanced settings: Configurações avançadas
+Already Active: Já Ativo
+Application Auto Start: Início Automático do Aplicativo
+Application Color Theme: Tema de Cores do Aplicativo
+Application UI Color Theme: Tema de Cores da Interface do Aplicativo
+Application UI Fonts Scale: Escala da Fonte da Interface do Aplicativo
+Application UI Language: Idioma da Interface do Aplicativo
+Applications listed below will not have their copy to clipboard action captured in clipboard history. Case insensitive.: Os aplicativos listados abaixo não terão sua ação de copiar para a área de transferência capturada no histórico. Não diferencia maiúsculas de minúsculas.
+Apply and Restart: Aplicar e Reiniciar
+Are you sure you want to go back to the default data folder? This will remove the custom location setting.: Tem certeza de que deseja voltar para a pasta de dados padrão? Isso removerá a configuração de local personalizado.
+Are you sure you want to revert to the default database location? The application will restart.: Tem certeza de que deseja reverter para o local padrão do banco de dados? O aplicativo será reiniciado.
+Are you sure you want to set "{{path}}" as the new data folder? The application will restart.: Tem certeza de que deseja definir "{{path}}" como a nova pasta de dados? O aplicativo será reiniciado.
+Are you sure you want to {{operation}} the database to "{{path}}"? The application will restart.: Tem certeza de que deseja {{operation}} o banco de dados para "{{path}}"? O aplicativo será reiniciado.
+Auto Disable History Capture when Screen Unlocked: Desativar Captura de Histórico Automaticamente ao Desbloquear a Tela
+Auto Lock Application Screen on User Inactivity: Bloquear Tela do Aplicativo Automaticamente por Inatividade do Usuário
+Auto Lock Screen on User Inactivity: Bloqueio de Tela Automático por Inatividade do Usuário
+Auto Lock the Screen on User Inactivity: Bloquear a Tela Automaticamente por Inatividade do Usuário
+Auto Masking Words List: Lista de Palavras para Mascaramento Automático
+Auto update on capture: Atualização automática na captura
+Auto-Clear Settings: Configurações de Limpeza Automática
+Auto-Generate Link Card Preview: Gerar Pré-visualização de Cartão de Link Automaticamente
+Auto-Preview Link on Hover: Pré-visualizar Link Automaticamente ao Passar o Mouse
+Auto-Star on Double Copy: Marcar com Estrela Automaticamente na Cópia Dupla
+Auto-Trim Spaces on Capture: Aparar Espaços Automaticamente na Captura
+Auto-Update on Capture: Atualização Automática na Captura
+Auto-delete clipboard history after: Autoexcluir histórico da área de transferência após
+Automatically create link card preview in the clipboard history. This allows to quickly view website details without opening or pasting the link.: Crie automaticamente uma pré-visualização de cartão de link no histórico da área de transferência. Isso permite visualizar rapidamente os detalhes do site sem abrir ou colar o link.
+Back: Voltar
+Capture History: Capturar Histórico
+Capture History Text Length Limits: Limites de Comprimento do Texto do Histórico de Captura
+Change Custom Data Folder...: Mudar Pasta de Dados Personalizada...
+Change Directory...: Mudar Diretório...
+Change Selected Folder...: Mudar Pasta Selecionada...
+Change the application UI font size scale: Mudar a escala do tamanho da fonte da interface do aplicativo
+Change the application UI language: Mudar o idioma da interface do aplicativo
+Change the application user interface color theme: Mudar o tema de cores da interface do aplicativo
+Change the application user interface font size scale: Mudar a escala do tamanho da fonte da interface do aplicativo
+Change the application user interface language: Mudar o idioma da interface do aplicativo
+Changing the database location requires an application restart to take effect.: A mudança do local do banco de dados requer que o aplicativo seja reiniciado para ter efeito.
+Clip Notes Popup Maximum Dimensions: Dimensões Máximas do Pop-up de Notas do Clipe
+Clipboard History Settings: Configurações do Histórico da Área de Transferência
+'Complete details:': 'Detalhes completos:'
+Configure settings to automatically delete clipboard history items after a specified duration.: Configure as definições para excluir automaticamente os itens do histórico da área de transferência após uma duração especificada.
+ConfirmRevertToDefaultDbPathMessage: Tem certeza de que deseja reverter para o local de dados padrão? Os dados do seu aplicativo serão movidos para o caminho padrão.
+Copy data: Copiar dados
+Copy database file: Copiar arquivo do banco de dados
+Create a preview card on link hover in the clipboard history. This allows you to preview the link before opening or pasting it.: Crie um cartão de pré-visualização ao passar o mouse sobre um link no histórico da área de transferência. Isso permite que você pré-visualize o link antes de abri-lo ou colá-lo.
+Create an unlimited number of collections to organize your clips and menus.: Crie um número ilimitado de coleções para organizar seus clipes e menus.
+Current data folder: Pasta de dados atual
+Current data location: Local dos dados atual
+Current database location: Local do banco de dados atual
+Custom: Personalizado
+Custom Application Data Location: Local Personalizado dos Dados do Aplicativo
+Custom Database Location: Local Personalizado do Banco de Dados
+Custom data location is active. You can change it or revert to the default location. Changes require an application restart.: O local de dados personalizado está ativo. Você pode alterá-lo ou reverter para o local padrão. As alterações exigem que o aplicativo seja reiniciado.
+Custom themes: Temas personalizados
+Decrease UI Font Size: Diminuir Tamanho da Fonte da UI
+Default: Padrão
+Disable Image Capture: Desativar Captura de Imagem
+Disable capturing and storing images from clipboard: Desativar a captura e armazenamento de imagens da área de transferência
+Display clipboard history capture toggle on the locked application screen. This allows you to control history capture settings directly from the lock screen.: Exiba o controle de captura do histórico da área de transferência na tela de bloqueio do aplicativo. Isso permite que você controle as configurações de captura de histórico diretamente da tela de bloqueio.
+Display disabled collections name on the navigation bar collections menu: Exibir nome de coleções desativadas no menu de coleções da barra de navegação
+Display disabled collections name on the navigation bar under collections menu: Exibir nome de coleções desativadas na barra de navegação sob o menu de coleções
+Display full name of selected collection on the navigation bar: Exibir o nome completo da coleção selecionada na barra de navegação
+Do you want to attempt to move the database file from "{{customPath}}" back to the default location?: Deseja tentar mover o arquivo do banco de dados de "{{customPath}}" de volta para o local padrão?
+Drag and drop to prioritize languages for detection. The higher a language is in the list, the higher its detection priority.: Arraste e solte para priorizar os idiomas para detecção. Quanto mais alto um idioma estiver na lista, maior será sua prioridade de detecção.
+Email: E-mail
+Email is not valid: O e-mail não é válido
+'Email:': 'E-mail:'
+Emails do not match: Os e-mails не correspondem
+Enable Auto Start: Ativar Início Automático
+Enable Clip Title Hover Show with Delay: Ativar Exibição do Título do Clipe ao Passar o Mouse com Atraso
+Enable application auto start on system boot: Ativar início automático do aplicativo na inicialização do sistema
+Enable auto lock the application screen after a certain period of inactivity, to prevent unauthorized access to your data.: Ative o bloqueio automático da tela do aplicativo após um certo período de inatividade, para impedir o acesso não autorizado aos seus dados.
+Enable auto lock the application screen when user not active: Ativar bloqueio automático da tela do aplicativo quando o usuário estiver inativo
+Enable auto trim spaces on history capture: Ativar aparo automático de espaços na captura do histórico
+Enable auto update on capture: Ativar atualização automática na captura
+Enable custom data location to store application data in a directory of your choice instead of the default location.: Ative o local de dados personalizado para armazenar os dados do aplicativo em um diretório de sua escolha, em vez do local padrão.
+Enable history capture: Ativar captura de histórico
+Enable programming language detection: Ativar detecção de linguagem de programação
+Enable screen unlock requirement on app launch for enhanced security, safeguarding data from unauthorized access.: Ative a exigência de desbloqueio de tela na inicialização do aplicativo para maior segurança, protegendo os dados contra acesso não autorizado.
+Enter Passcode length: Digite o comprimento da Senha Numérica
+Enter new directory path or leave empty for default on next revert: Digite o novo caminho do diretório ou deixe em branco para o padrão na próxima reversão
+Enter recovery password to reset passcode.: Digite a senha de recuperação para redefinir a senha numérica.
+Enter your <strong>{{screenLockPassCodeLength}} digits</strong> passcode: Digite sua senha numérica de <strong>{{screenLockPassCodeLength}} dígitos</strong>
+Entered Passcode is invalid: A Senha Numérica digitada é inválida
+Excluded Apps List: Lista de Aplicativos Excluídos
+Execute Web Requests: Executar Requisições Web
+Execute terminal or shell commands directly from PasteBar clip and copy the results to the clipboard.: Execute comandos de terminal ou shell diretamente do clipe do PasteBar e copie os resultados para a área de transferência.
+'Expires:': 'Expira:'
+Failed to revert to default database location.: Falha ao reverter para o local padrão do banco de dados.
+Failed to select directory: Falha ao selecionar o diretório
+Forgot Passcode ? Enter your recovery password to reset the passcode.: Esqueceu a Senha Numérica? Digite sua senha de recuperação para redefinir a senha numérica.
+Forgot passcode ?: Esqueceu a senha numérica?
+Forgot?: Esqueceu?
+Forgot? Reset using Password: Esqueceu? Redefinir usando a Senha
+Get priority email support from us to resolve any issues or questions you may have about PasteBar.: Obtenha suporte prioritário por e-mail para resolver quaisquer problemas ou dúvidas que você tenha sobre o PasteBar.
+'Hint: {{screenLockRecoveryPasswordMasked}}': 'Dica: {{screenLockRecoveryPasswordMasked}}'
+If a database file already exists at the default location, do you want to overwrite it? Choosing "Cancel" will skip moving the file if an existing file is found.: Se um arquivo de banco de dados já existir no local padrão, você deseja substituí-lo? Escolher "Cancelar" pulará a movimentação do arquivo se um arquivo existente for encontrado.
+Incorrect passcode.: Senha numérica incorreta.
+Increase UI Font Size: Aumentar Tamanho da Fonte da UI
+Issued: Emitido
+Large: Grande
+List each application name or window identifier on a new line.: Liste cada nome de aplicativo ou identificador de janela em uma nova linha.
+List each word or sentence on a new line.: Liste cada palavra ou frase em uma nova linha.
+Lock Screen Clipboard History Capture Control: Controle de Captura do Histórico da Área de Transferência na Tela de Bloqueio
+Lock Screen PassCode: Senha Numérica da Tela de Bloqueio
+Lock Screen Passcode: Senha Numérica da Tela de Bloqueio
+Manage Collections: Gerenciar Coleções
+Maximum 10 digits: Máximo de 10 dígitos
+Maximum devices: Máximo de dispositivos
+Medium: Médio
+Minimal 4 digits: Mínimo de 4 dígitos
+Minimize Window: Minimizar Janela
+Minimum number of lines to trigger detection: Número mínimo de linhas para acionar a detecção
+Move data: Mover dados
+Move database file: Mover arquivo do banco de dados
+Name: Nome
+New Data Directory Path: Novo Caminho do Diretório de Dados
+New Database Directory Path: Novo Caminho do Diretório do Banco de Dados
+Open Security Settings: Abrir Configurações de Segurança
+Operation when applying new path: Operação ao aplicar novo caminho
+Passcode digits remaining: Dígitos restantes da senha numérica
+Passcode is locked.: A senha numérica está bloqueada.
+Passcode is not set: A senha numérica não está definida
+Passcode is not valid: A senha numérica não é válida
+Passcode length: Comprimento da senha numérica
+Passcode mismatch: Senhas numéricas não correspondem
+Passcode reset is locked.: A redefinição de senha numérica está bloqueada.
+Passcode successfully verified: Senha numérica verificada com sucesso
+Passcode verification error: Erro na verificação da senha numérica
+Passcode verification is locked.: A verificação de senha numérica está bloqueada.
+Password is incorrect.: A senha está incorreta.
+Password is incorrect. <br/>{{screenLockRecoveryPasswordMasked}}: A senha está incorreta. <br/>{{screenLockRecoveryPasswordMasked}}
+'Password is incorrect. Hint: {{screenLockRecoveryPasswordMasked}}': 'Senha incorreta. Dica: {{screenLockRecoveryPasswordMasked}}'
+'Password is incorrect. Masked password is: {{screenLockRecoveryPasswordMasked}}': 'A senha está incorreta. A senha mascarada é: {{screenLockRecoveryPasswordMasked}}'
+Password is incorrect. {{screenLockRecoveryPasswordMasked}}: A senha está incorreta. {{screenLockRecoveryPasswordMasked}}
+Passwords do not match: As senhas não correspondem
+PasteBar Settings: Configurações do PasteBar
+Pin Window: Fixar Janela
+Pin on Top Window: Fixar Janela no Topo
+Please set up a Passcode and recovery password in Security Settings to enable Screen Lock and ensure better security.: Por favor, configure uma Senha Numérica e uma senha de recuperação nas Configurações de Segurança para ativar o Bloqueio de Tela e garantir maior segurança.
+Please try again: Por favor, tente novamente
+Preview current popup size on hover.: Pré-visualize o tamanho atual do pop-up ao passar o mouse.
+Prioritize Language Detection: Priorizar Detecção de Idioma
+Priority support: Suporte prioritário
+Programming Language Detection: Detecção de Linguagem de Programação
+Programming Language Selection: Seleção de Linguagem de Programação
+Protect your data by requiring screen unlock authentication whenever the application starts.: Proteja seus dados exigindo autenticação de desbloqueio de tela sempre que o aplicativo for iniciado.
+Recovery Password for Lock Screen Passcode: Senha de Recuperação para a Senha Numérica da Tela de Bloqueio
+Recovery password is set.: A senha de recuperação está definida.
+Refresh Application UI: Atualizar UI do Aplicativo
+Refresh UI: Atualizar UI
+Require Screen Unlock at Application Start: Exigir Desbloqueio de Tela na Inicialização do Aplicativo
+Require screen unlock at application launch to enhance security. This setting ensures that only authorized users can access the application, protecting your data from unauthorized access right from the start.: Exija o desbloqueio de tela na inicialização do aplicativo para aumentar a segurança. Essa configuração garante que apenas usuários autorizados possam acessar o aplicativo, protegendo seus dados contra acesso não autorizado desde o início.
+Reset Font Size: Redefinir Tamanho da Fonte
+Revert to Default: Reverter para o Padrão
+Revert to Default and Restart: Reverter para o Padrão e Reiniciar
+Run Terminal or Shell Commands: Executar Comandos de Terminal ou Shell
+Scrape and parse websites or API responses using built-in web scraping tools and copy the extracted data to the clipboard.: Faça scraping e análise de sites ou respostas de API usando as ferramentas de web scraping integradas e copie os dados extraídos para a área de transferência.
+'Scrape and parse websites or API responses using built-in web scraping tools and copy the extracted data to the clipboard.                                        ': 'Faça scraping e análise de sites ou respostas de API usando as ferramentas de web scraping integradas e copie os dados extraídos para a área de transferência.                                        '
+Security: Segurança
+Security Settings: Configurações de Segurança
+Select Custom Data Folder...: Selecionar Pasta de Dados Personalizada...
+Select Data Folder: Selecionar Pasta de Dados
+Select Data Folder...: Selecionar Pasta de Dados...
+Select a custom location to store your application data instead of the default location.: Selecione um local personalizado para armazenar os dados do seu aplicativo em vez do local padrão.
+Selected data folder: Pasta de dados selecionada
+Selected new data folder: Nova pasta de dados selecionada
+Selected new data folder for change: Nova pasta de dados selecionada para alteração
+Send HTTP requests to web APIs or services and copy the response data to the clipboard.: Envie requisições HTTP para APIs ou serviços web e copie os dados da resposta para a área de transferência.
+Sensitive words or sentences listed below will automatically be masked if found in the copied text. Case insensitive.: Palavras ou frases sensíveis listadas abaixo serão automaticamente mascaradas se encontradas no texto copiado. Não diferencia maiúsculas de minúsculas.
+Set a passcode to unlock the locked screen and protect your data from unauthorized access.: Defina uma senha numérica para desbloquear a tela e proteger seus dados contra acesso não autorizado.
+Set a recovery password to easily reset your lock screen passcode if forgotten. Your password will be securely stored in your device's OS storage.: Defina uma senha de recuperação para redefinir facilmente sua senha numérica da tela de bloqueio, caso a esqueça. Sua senha será armazenada com segurança no armazenamento do sistema operacional do seu dispositivo.
+Setting a custom database location requires an application restart to take effect.: A definição de um local personalizado para o banco de dados requer que o aplicativo seja reiniciado para ter efeito.
+Settings: Configurações
+Show Clipboard History Capture Control on Lock Screen: Mostrar Controle de Captura do Histórico da Área de Transferência na Tela de Bloqueio
+Show Disable History Capture When Screen Locked: Mostrar Desativação da Captura de Histórico Quando a Tela Estiver Bloqueada
+Show Disabled Collections: Mostrar Coleções Desativadas
+Show clipboard history capture toggle when the application screen is locked. This allow you to control capturing history settings from the application locked screen.: Mostre o controle de captura do histórico da área de transferência quando a tela do aplicativo estiver bloqueada. Isso permite que você controle as configurações de captura de histórico a partir da tela de bloqueio do aplicativo.
+Show collection name on the navbar: Mostrar nome da coleção na barra de navegação
+Show disabled collections on the navbar list: Mostrar coleções desativadas na lista da barra de navegação
+Skip auto start prompt on app launch: Pular aviso de início automático na inicialização do aplicativo
+Small: Pequeno
+Stop Words List: Lista de Palavras de Parada
+Swap Panels Layout: Trocar Layout dos Painéis
+Switch the layout position of panels in Clipboard History and Paste Menu views: Alterne a posição do layout dos painéis nas visualizações do Histórico da Área de Transferência e do Menu de Colagem
+Thank you again for using PasteBar.: Obrigado novamente por usar o PasteBar.
+Thank you for testing! 🙌: Obrigado por testar! 🙌
+The selected folder is not empty and does not contain PasteBar data files. Do you want to create a "pastebar-data" subfolder to store the data?: A pasta selecionada não está vazia e não contém arquivos de dados do PasteBar. Deseja criar uma subpasta "pastebar-data" para armazenar os dados?
+The selected folder is not empty. Do you want to create a "pastebar-data" subfolder to store the data?: A pasta selecionada não está vazia. Deseja criar uma subpasta "pastebar-data" para armazenar os dados?
+This folder already contains PasteBar data. The application will use this existing data after restart.: Esta pasta já contém dados do PasteBar. O aplicativo usará esses dados existentes após a reinicialização.
+This option lets you control the display and timing of hover notes on clips. You can choose to show notes instantly or with a delay to prevent unintended popups.: Esta opção permite controlar a exibição e o tempo das notas flutuantes nos clipes. Você pode optar por mostrar as notas instantaneamente ou com um atraso para evitar pop-ups indesejados.
+This option lets you customize the maximum width and height of the popup that displays clip notes, ensuring it fits comfortably within your desired size.: Esta opção permite personalizar a largura e a altura máximas do pop-up que exibe as notas do clipe, garantindo que ele se ajuste confortavelmente ao tamanho desejado.
+This option lets you customize the minimum and maximum length of text that can be captured in the clipboard history. Setting either value to 0 makes that limit unlimited.: Esta opção permite personalizar o comprimento mínimo e máximo do texto que pode ser capturado no histórico da área de transferência. Definir qualquer valor como 0 torna esse limite ilimitado.
+To downgrade your current version, please visit: Para fazer o downgrade da sua versão atual, por favor visite
+'To downgrade, please visit: ': 'Para fazer o downgrade, por favor visite: '
+To ensure the best detection accuracy, please select up to 7 languages. Limiting choices improves precision.: Para garantir a melhor precisão na detecção, selecione até 7 idiomas. Limitar as escolhas melhora a precisão.
+Today: Hoje
+Tomorrow: Amanhã
+Try after <strong>{{resetPassCodeNextDelay}}</strong> seconds: Tente novamente após <strong>{{resetPassCodeNextDelay}}</strong> segundos
+Try again after <strong>{{resetPassCodeNextDelay}}</strong> seconds: Tente novamente após <strong>{{resetPassCodeNextDelay}}</strong> segundos
+UI Language: Idioma da UI
+UnPin Window: Desafixar Janela
+Unlimited Collections: Coleções Ilimitadas
+Unlimited Tabs per Collection: Abas Ilimitadas por Coleção
+Unlimited paste history: Histórico de colagem ilimitado
+Use Password: Usar Senha
+Use new location: Usar novo local
+User Preferences: Preferências do Usuário
+Web Scraping and Parsing: Web Scraping e Análise
+Words or sentences listed below will not be captured in clipboard history if found in the copied text. Case insensitive.: Palavras ou frases listadas abaixo não serão capturadas no histórico da área de transferência se encontradas no texto copiado. Não diferencia maiúsculas de minúsculas.
+none: nenhum
+passcode reset: redefinição de senha numérica
+password reset: redefinição de senha

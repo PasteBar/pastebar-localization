@@ -1,0 +1,269 @@
+API Key: Chave de API
+Add: Adicionar
+Add Auth: Adicionar Autenticação
+Add Clipboard Value: Adicionar Valor da Área de Transferência
+Add Custom: Adicionar Personalizado
+Add Custom Field: Adicionar Campo Personalizado
+Add Delay Time: Adicionar Tempo de Atraso
+Add First Board: Adicionar Primeiro Painel
+Add Form Field: Adicionar Campo de Formulário
+Add Header: Adicionar Cabeçalho
+Add Key Press: Adicionar Pressionamento de Tecla
+Add Key Press After Paste: Adicionar Pressionamento de Tecla Após Colar
+Add Link Card: Adicionar Cartão de Link
+Add Open URL: Adicionar Abertura de URL
+Add Output Template: Adicionar Modelo de Saída
+Add Regex Match Group Filter: Adicionar Filtro de Grupo de Correspondência Regex
+Add Request Header: Adicionar Cabeçalho de Requisição
+Add Response Filter: Adicionar Filtro de Resposta
+Add Scraping Rule: Adicionar Regra de Scraping
+Add Section: Adicionar Seção
+Add Tab: Adicionar Aba
+Add Template Field: Adicionar Campo de Modelo
+Add a Tab: Adicione uma Aba
+Add field {{name}} into the template: Adicionar campo {{name}} ao modelo
+Add image: Adicionar imagem
+Add note: Adicionar nota
+Add to Board: Adicionar ao Painel
+Add {{type}}: Adicionar {{type}}
+All field labels must be unique to ensure they are correctly used within the template.: Todos os rótulos de campo devem ser únicos para garantir que sejam usados corretamente no modelo.
+Are you sure you want to delete <strong>{{boardName}}</strong> board?: Tem certeza de que deseja excluir o painel <strong>{{boardName}}</strong>?
+Are you sure you want to delete <strong>{{tabName}}</strong> tab?: Tem certeza de que deseja excluir a aba <strong>{{tabName}}</strong>?
+Are you sure you want to delete?: Tem certeza que deseja excluir?
+Are you sure you want to remove image from the clip?: Tem certeza de que deseja remover a imagem do clipe?
+Auth: Autenticação
+Auto update is Off: A atualização automática está Desligada
+Basic Auth: Autenticação Básica
+Basic Password: Senha Básica
+Basic Username: Nome de Usuário Básico
+Bearer Token: Token Bearer
+Board Layout Height: Altura do Layout do Painel
+Board Layout Split: Divisão do Layout do Painel
+Board Menu: Menu do Painel
+Board is Not Empty: O Painel não está vazio
+Boards: Painéis
+Border Width: Largura da Borda
+CSS Selector: Seletor CSS
+Cancel: Cancelar
+Change Layout: Mudar Layout
+Change color: Mudar cor
+Clear: Limpar
+Clear All Fields: Limpar Todos os Campos
+Click To Add: Clique para Adicionar
+Clip Menu: Menu do Clipe
+Clip Options: Opções do Clipe
+Clipboard: Área de Transferência
+Clips:
+  App: Aplicativo
+  Clip Menu: Menu do Clipe
+  Clips: Clipes
+  Link: Link
+Close Edit: Fechar Edição
+Command:
+  error: erro
+  output: saída
+Command error: Erro de comando
+Common Fields: Campos Comuns
+Confirm Clear All Fields: Confirmar Limpeza de Todos os Campos
+Confirm to remove Auth: Confirmar remoção de Autenticação
+Confirm to remove filters: Confirmar remoção de filtros
+Confirm to remove headers: Confirmar remoção de cabeçalhos
+Copy Clip: Copiar Clipe
+Create Board: Criar Painel
+Create Tab: Criar Aba
+Create tab: Criar aba
+Dashboard: Painel de Controle
+Delay: Atraso
+Delete Board: Excluir Painel
+Delete Clip: Excluir Clipe
+Delete Tab: Excluir Aba
+Delete board: Excluir painel
+Delete field: Excluir campo
+Delete tab: Excluir aba
+Detect Template Fields: Detectar Campos de Modelo
+Detect for Template Fields: Detectar por Campos de Modelo
+Disabled field {{name}} has been found in the template: O campo desativado {{name}} foi encontrado no modelo
+Done Create Clip: Criação de Clipe Concluída
+Done Edit: Edição Concluída
+Done Edit Tabs: Edição de Abas Concluída
+Done Organize: Organização Concluída
+Drag & Drop Path: Caminho para Arrastar e Soltar
+Drop To Add: Soltar para Adicionar
+Drop image file here, or use a separate window for drag and drop.: Solte o arquivo de imagem aqui, ou use uma janela separada para arrastar e soltar.
+Drop to Pin: Soltar para Fixar
+Edit Note: Editar Nota
+Edit Template: Editar Modelo
+Edit subtitle: Editar subtítulo
+Edit tab name: Editar nome da aba
+Enable / Disable: Ativar / Desativar
+Enable / Disable URL Open: Ativar / Desativar Abertura de URL
+Enter Label: Digite o Rótulo
+Enter URL: Digite a URL
+Enter board subtitle or description: Digite o subtítulo ou descrição do painel
+Enter board title: Digite o título do painel
+Enter clip name: Digite o nome do clipe
+Enter clip note: Digite a nota do clipe
+Enter code: Digite o código
+Enter credit card number: Digite o número do cartão de crédito
+Enter default value: Digite o valor padrão
+Enter field value: Digite o valor do campo
+Enter full path to file, folder or application: Digite o caminho completo para o arquivo, pasta ou aplicativo
+Enter regex for output filer: Digite a regex para o filtro de saída
+Enter request url: Digite a url da requisição
+Enter secret value: Digite o valor secreto
+Enter section label: Digite o rótulo da seção
+Enter select option: Digite a opção de seleção
+Enter tab name: Digite o nome da aba
+Enter template or drag from history: Digite o modelo ou arraste do histórico
+Enter template value: Digite o valor do modelo
+Enter value or drag from history: Digite o valor ou arraste do histórico
+Enter web link or email: Digite o link da web ou e-mail
+Errors:
+  No fields found in the template.: Nenhum campo encontrado no modelo.
+  Please fix output template or confirm to save as is.: Por favor, corrija o modelo de saída ou confirme para salvar como está.
+  Please fix template fields or confirm to save as is.: Por favor, corrija os campos do modelo ou confirme para salvar como está.
+  Please fix the problem or confirm to save as is.: Por favor, corrija o problema ou confirme para salvar como está.
+  Please verify your link for any errors, or confirm to save as is.: Por favor, verifique seu link por erros, ou confirme para salvar como está.
+  Please verify your path for any errors, or confirm to save as is.: Por favor, verifique seu caminho por erros, ou confirme para salvar como está.
+  Your command runs with errors, confirm you want to save as is.: Seu comando é executado com erros, confirme que deseja salvar como está.
+  Your request runs with errors, confirm you want to save as is.: Sua requisição é executada com erros, confirme que deseja salvar como está.
+FILTERED_TYPES:
+  Dot Path: Caminho com Ponto
+  JSON Path: Caminho JSON
+  RegEx: RegEx
+  RegEx Replace: Substituição RegEx
+  Remove Quotes: Remover Aspas
+Field: Campo
+Field Options: Opções do Campo
+Field {{name}} has been found in the template: O campo {{name}} foi encontrado no modelo
+Fields Value: Valor dos Campos
+File, folder or app path does not exist: O caminho do arquivo, pasta ou aplicativo não existe
+File, folder or app path is valid: O caminho do arquivo, pasta ou aplicativo é válido
+File, folder or app path might not be valid: O caminho do arquivo, pasta ou aplicativo pode não ser válido
+Fill Template: Preencher Modelo
+Filter Type: Tipo de Filtro
+Filter's Value: Valor do Filtro
+Find in Clip: Encontrar no Clipe
+Find in clip: Encontrar no clipe
+Find in history: Encontrar no histórico
+Flex Layout: Layout Flexível
+Form Fields: Campos de Formulário
+General Fields: Campos Gerais
+Grid Layout: Layout em Grade
+HTML: HTML
+Headers: Cabeçalhos
+Hide Label: Ocultar Rótulo
+History capture is off: A captura de histórico está desligada
+Key Press: Pressionamento de Tecla
+Key Press After: Pressionamento de Tecla Depois
+Key Press After Paste: Pressionamento de Tecla Após Colar
+'Key Press After Paste: {{keyPress}}': 'Pressionamento de Tecla Após Colar: {{keyPress}}'
+Label Left: Rótulo à Esquerda
+Label Top: Rótulo Acima
+Label on Left: Rótulo à Esquerda
+Labels: Rótulos
+Last run: Última execução
+Last update: Última atualização
+Layout Max Width: Largura Máxima do Layout
+Mask to hide clipboard value in preview: Mascarar para ocultar o valor da área de transferência na pré-visualização
+Move Clip: Mover Clipe
+Moved Clips Panel: Painel de Clipes Movidos
+Name: Nome
+New Board: Novo Painel
+New Clip: Novo Clipe
+No Boards: Nenhum Painel
+No Clipboard History: Nenhum Histórico da Área de Transferência
+No Tabs or Boards: Nenhuma Aba ou Painel
+Number of columns: Número de colunas
+Open: Abrir
+Open URL Disable / Enable: Desativar / Ativar Abertura de URL
+Output Template: Modelo de Saída
+Panel for moved or copied items from other tabs: Painel para itens movidos ou copiados de outras abas
+Please confirm to save as is.: Por favor, confirme para salvar como está.
+Press: Pressionar
+RETURN_POSITION_TYPES:
+  First Only: Apenas o Primeiro
+  Last Only: Apenas o Último
+RULES_TYPES:
+  CSS Selector: Seletor CSS
+  RegEx Find: Encontrar com RegEx
+  RegEx Group Match: Correspondência de Grupo com RegEx
+  RegEx Match: Correspondência com RegEx
+  RegEx Replace: Substituir com RegEx
+RegEx Find: Encontrar com RegEx
+RegEx Match: Correspondência com RegEx
+RegEx Match Group: Grupo de Correspondência com RegEx
+RegEx Replace: Substituir com RegEx
+Regex Match Group Filter: Filtro de Grupo de Correspondência Regex
+Remove Open URL: Remover Abertura de URL
+Remove headers: Remover cabeçalhos
+Remove image: Remover imagem
+Rename: Renomear
+Reset to Defaults: Redefinir para Padrões
+Response Filters: Filtros de Resposta
+Result: Resultado
+SEPARATOR_TYPES:
+  Comma (,): Vírgula (,)
+  New Line (\n): Nova Linha (\n)
+  Pipe (|): Pipe (|)
+  Semicolon (;): Ponto e vírgula (;)
+  Space (' '): Espaço (' ')
+  Tab (\t): Tabulação (\t)
+Save as Defaults: Salvar como Padrão
+Scan for Template Fields: Escanear por Campos de Modelo
+Select Color: Selecionar Cor
+Select Default Option: Selecionar Opção Padrão
+Select Option: Selecionar Opção
+Select Options: Selecionar Opções
+Show Label: Mostrar Rótulo
+Special Field: Campo Especial
+Subtitle: Subtítulo
+Tab: Aba
+Tab is Not Empty: A Aba não está vazia
+Tabs Menu: Menu de Abas
+Template: Modelo
+Template Edit: Edição de Modelo
+Template Fields: Campos de Modelo
+Template should have⠀<b>{{output}}</b>⠀placeholder.: O modelo deve ter o placeholder ⠀<b>{{output}}</b>⠀.
+Test Request: Testar Requisição
+Test Run: Testar Execução
+Text: Texto
+This action cannot be undone.: Esta ação não pode ser desfeita.
+This field allows to insert text from clipboard: Este campo permite inserir texto da área de transferência
+Too long: Muito longo
+Too short: Muito curto
+Turn On auto update: Ligar atualização automática
+Turn on history capture: Ligar captura de histórico
+Type:
+  Command: Comando
+  Request: Requisição
+  Scraper: Scraper
+URL: URL
+Unsaved name: Nome não salvo
+Unsaved note: Nota não salva
+Unsaved subtitle: Subtítulo não salvo
+Unsaved title: Título não salvo
+Update Link Card: Atualizar Cartão de Link
+Use double curly brackets for {{field name}}. Use {{clipboard}} to add current clipboard value.: Use chaves duplas para {{nome do campo}}. Use {{clipboard}} para adicionar o valor atual da área de transferência.
+Value: Valor
+Values: Valores
+Vertical Split: Divisão Vertical
+We need to open a new window where you can drag & drop file, path or application.: Precisamos abrir uma nova janela onde você pode arrastar e soltar o arquivo, caminho ou aplicativo.
+Web Link or Email might not be valid: O Link da Web ou E-mail pode não ser válido
+Web or Email link is valid: O link da Web ou E-mail é válido
+Website URL: URL do Site
+Website URL is valid: A URL do site é válida
+Website URL might not be valid: A URL do site pode não ser válida
+Wrap output using {{output}} placeholder: Envolva a saída usando o placeholder {{output}}
+You have no rules added: Você não tem regras adicionadas
+You'll need to clear this board of all clips and subboards before it can be deleted.: Você precisará limpar este painel de todos os clipes e sub-painéis antes que ele possa ser excluído.
+You'll need to clear this tab of all boards before it can be deleted.: Você precisará limpar esta aba de todos os painéis antes que ela possa ser excluída.
+filled template: modelo preenchido
+new clips: novos clipes
+template: modelo
+'{{count}} fields found in template but missing from fields definition._one': '{{count}} campos encontrados no modelo mas ausentes na definição de campos.'
+'{{count}} fields found in template but missing from fields definition._other': '{{count}} campos encontrados no pelo mas ausentes na definição de campos.'
+'{{count}} fields not found in the template._one': '{{count}} campos não encontrados no modelo.'
+'{{count}} fields not found in the template._other': '{{count}} campos não encontrados no modelo.'
+'{{type}} Field': 'Campo {{type}}'
+'{{type}} field': 'campo {{type}}'
