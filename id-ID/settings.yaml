@@ -1,220 +1,220 @@
-<strong>{{screenLockPassCodeLength}}</strong> digits passcode is set.: <strong>{{screenLockPassCodeLength}}</strong> digits passcode is set.
-Activation Success: Activation Success
-Add a star to the copied text when you copy it twice within 1 second. This allows you to quickly add copied text or links to your favorites and easily find it in the clipboard history.: Add a star to the copied text when you copy it twice within 1 second. This allows you to quickly add copied text or links to your favorites and easily find it in the clipboard history.
-Add an unlimited number of tabs within each collection for better organization and easy access.: Add an unlimited number of tabs within each collection for better organization and easy access.
-'Add an unlimited number of tabs within each collection for better organization and easy access.                                ': 'Add an unlimited number of tabs within each collection for better organization and easy access.                                '
-Advanced settings: Advanced settings
-Already Active: Already Active
-Application Auto Start: Application Auto Start
-Application Color Theme: Application Color Theme
-Application UI Color Theme: Application UI Color Theme
-Application UI Fonts Scale: Application UI Fonts Scale
-Application UI Language: Application UI Language
-Applications listed below will not have their copy to clipboard action captured in clipboard history. Case insensitive.: Applications listed below will not have their copy to clipboard action captured in clipboard history. Case insensitive.
-Apply and Restart: Apply and Restart
-Are you sure you want to go back to the default data folder? This will remove the custom location setting.: Are you sure you want to go back to the default data folder? This will remove the custom location setting.
-Are you sure you want to revert to the default database location? The application will restart.: Are you sure you want to revert to the default database location? The application will restart.
-Are you sure you want to set "{{path}}" as the new data folder? The application will restart.: Are you sure you want to set "{{path}}" as the new data folder? The application will restart.
-Are you sure you want to {{operation}} the database to "{{path}}"? The application will restart.: Are you sure you want to {{operation}} the database to "{{path}}"? The application will restart.
-Auto Disable History Capture when Screen Unlocked: Auto Disable History Capture when Screen Unlocked
-Auto Lock Application Screen on User Inactivity: Auto Lock Application Screen on User Inactivity
-Auto Lock Screen on User Inactivity: Auto Lock Screen on User Inactivity
-Auto Lock the Screen on User Inactivity: Auto Lock the Screen on User Inactivity
-Auto Masking Words List: Auto Masking Words List
-Auto update on capture: Auto update on capture
-Auto-Clear Settings: Auto-Clear Settings
-Auto-Generate Link Card Preview: Auto-Generate Link Card Preview
-Auto-Preview Link on Hover: Auto-Preview Link on Hover
-Auto-Star on Double Copy: Auto-Star on Double Copy
-Auto-Trim Spaces on Capture: Auto-Trim Spaces on Capture
-Auto-Update on Capture: Auto-Update on Capture
-Auto-delete clipboard history after: Auto-delete clipboard history after
-Automatically create link card preview in the clipboard history. This allows to quickly view website details without opening or pasting the link.: Automatically create link card preview in the clipboard history. This allows to quickly view website details without opening or pasting the link.
-Back: Back
-Capture History: Capture History
-Capture History Text Length Limits: Capture History Text Length Limits
-Change Custom Data Folder...: Change Custom Data Folder...
-Change Directory...: Change Directory...
-Change Selected Folder...: Change Selected Folder...
-Change the application UI font size scale: Change the application UI font size scale
-Change the application UI language: Change the application UI language
-Change the application user interface color theme: Change the application user interface color theme
-Change the application user interface font size scale: Change the application user interface font size scale
-Change the application user interface language: Change the application user interface language
-Changing the database location requires an application restart to take effect.: Changing the database location requires an application restart to take effect.
-Clip Notes Popup Maximum Dimensions: Clip Notes Popup Maximum Dimensions
-Clipboard History Settings: Clipboard History Settings
-'Complete details:': 'Complete details:'
-Configure settings to automatically delete clipboard history items after a specified duration.: Configure settings to automatically delete clipboard history items after a specified duration.
-ConfirmRevertToDefaultDbPathMessage: Are you sure you want to revert to the default data location? Your application data will be moved to the default path.
-Copy data: Copy data
-Copy database file: Copy database file
-Create a preview card on link hover in the clipboard history. This allows you to preview the link before opening or pasting it.: Create a preview card on link hover in the clipboard history. This allows you to preview the link before opening or pasting it.
-Create an unlimited number of collections to organize your clips and menus.: Create an unlimited number of collections to organize your clips and menus.
-Current data folder: Current data folder
-Current data location: Current data location
-Current database location: Current database location
-Custom: Custom
-Custom Application Data Location: Custom Application Data Location
-Custom Database Location: Custom Database Location
-Custom data location is active. You can change it or revert to the default location. Changes require an application restart.: Custom data location is active. You can change it or revert to the default location. Changes require an application restart.
-Custom themes: Custom themes
-Decrease UI Font Size: Decrease UI Font Size
+<strong>{{screenLockPassCodeLength}}</strong> digit kode sandi telah diatur.: <strong>{{screenLockPassCodeLength}}</strong> digit kode sandi telah diatur.
+Activation Success: Aktivasi Berhasil
+Add a star to the copied text when you copy it twice within 1 second. This allows you to quickly add copied text or links to your favorites and easily find it in the clipboard history.: Tambahkan bintang ke teks yang disalin saat Anda menyalinnya dua kali dalam 1 detik. Ini memungkinkan Anda untuk dengan cepat menambahkan teks atau tautan yang disalin ke favorit Anda dan dengan mudah menemukannya di riwayat papan klip.
+Add an unlimited number of tabs within each collection for better organization and easy access.: Tambahkan jumlah tab tak terbatas dalam setiap koleksi untuk organisasi yang lebih baik dan akses mudah.
+'Add an unlimited number of tabs within each collection for better organization and easy access.                                ': 'Tambahkan jumlah tab tak terbatas dalam setiap koleksi untuk organisasi yang lebih baik dan akses mudah.                                '
+Advanced settings: Pengaturan lanjutan
+Already Active: Sudah Aktif
+Application Auto Start: Mulai Otomatis Aplikasi
+Application Color Theme: Tema Warna Aplikasi
+Application UI Color Theme: Tema Warna UI Aplikasi
+Application UI Fonts Scale: Skala Font UI Aplikasi
+Application UI Language: Bahasa UI Aplikasi
+Applications listed below will not have their copy to clipboard action captured in clipboard history. Case insensitive.: Aplikasi yang tercantum di bawah ini tidak akan memiliki tindakan salin ke papan klip yang ditangkap dalam riwayat papan klip. Tidak peka huruf besar/kecil.
+Apply and Restart: Terapkan dan Mulai Ulang
+Are you sure you want to go back to the default data folder? This will remove the custom location setting.: Apakah Anda yakin ingin kembali ke folder data default? Ini akan menghapus pengaturan lokasi kustom.
+Are you sure you want to revert to the default database location? The application will restart.: Apakah Anda yakin ingin kembali ke lokasi basis data default? Aplikasi akan dimulai ulang.
+Are you sure you want to set "{{path}}" as the new data folder? The application will restart.: Apakah Anda yakin ingin mengatur "{{path}}" sebagai folder data baru? Aplikasi akan dimulai ulang.
+Are you sure you want to {{operation}} the database to "{{path}}"? The application will restart.: Apakah Anda yakin ingin {{operation}} basis data ke "{{path}}"? Aplikasi akan dimulai ulang.
+Auto Disable History Capture when Screen Unlocked: Nonaktifkan Otomatis Pengambilan Riwayat saat Layar Tidak Terkunci
+Auto Lock Application Screen on User Inactivity: Kunci Otomatis Layar Aplikasi saat Pengguna Tidak Aktif
+Auto Lock Screen on User Inactivity: Kunci Otomatis Layar saat Pengguna Tidak Aktif
+Auto Lock the Screen on User Inactivity: Kunci Otomatis Layar saat Pengguna Tidak Aktif
+Auto Masking Words List: Daftar Kata Penyamaran Otomatis
+Auto update on capture: Perbarui otomatis saat pengambilan
+Auto-Clear Settings: Pengaturan Hapus Otomatis
+Auto-Generate Link Card Preview: Buat Pratinjau Kartu Tautan Otomatis
+Auto-Preview Link on Hover: Pratinjau Otomatis Tautan saat Melayang
+Auto-Star on Double Copy: Bintangi Otomatis saat Salin Ganda
+Auto-Trim Spaces on Capture: Pangkas Spasi Otomatis saat Pengambilan
+Auto-Update on Capture: Perbarui Otomatis saat Pengambilan
+Auto-delete clipboard history after: Hapus otomatis riwayat papan klip setelah
+Automatically create link card preview in the clipboard history. This allows to quickly view website details without opening or pasting the link.: Secara otomatis membuat pratinjau kartu tautan di riwayat papan klip. Ini memungkinkan untuk melihat detail situs web dengan cepat tanpa membuka atau menempelkan tautan.
+Back: Kembali
+Capture History: Ambil Riwayat
+Capture History Text Length Limits: Batas Panjang Teks Riwayat Pengambilan
+Change Custom Data Folder...: Ubah Folder Data Kustom...
+Change Directory...: Ubah Direktori...
+Change Selected Folder...: Ubah Folder yang Dipilih...
+Change the application UI font size scale: Ubah skala ukuran font UI aplikasi
+Change the application UI language: Ubah bahasa UI aplikasi
+Change the application user interface color theme: Ubah tema warna antarmuka pengguna aplikasi
+Change the application user interface font size scale: Ubah skala ukuran font antarmuka pengguna aplikasi
+Change the application user interface language: Ubah bahasa antarmuka pengguna aplikasi
+Changing the database location requires an application restart to take effect.: Mengubah lokasi basis data memerlukan restart aplikasi agar berlaku.
+Clip Notes Popup Maximum Dimensions: Dimensi Maksimum Popup Catatan Klip
+Clipboard History Settings: Pengaturan Riwayat Papan Klip
+'Complete details:': 'Detail lengkap:'
+Configure settings to automatically delete clipboard history items after a specified duration.: Konfigurasikan pengaturan untuk secara otomatis menghapus item riwayat papan klip setelah durasi yang ditentukan.
+ConfirmRevertToDefaultDbPathMessage: Apakah Anda yakin ingin kembali ke lokasi data default? Data aplikasi Anda akan dipindahkan ke jalur default.
+Copy data: Salin data
+Copy database file: Salin file basis data
+Create a preview card on link hover in the clipboard history. This allows you to preview the link before opening or pasting it.: Buat kartu pratinjau pada tautan yang melayang di riwayat papan klip. Ini memungkinkan Anda untuk mempratinjau tautan sebelum membuka atau menempelkannya.
+Create an unlimited number of collections to organize your clips and menus.: Buat jumlah koleksi tak terbatas untuk mengatur klip dan menu Anda.
+Current data folder: Folder data saat ini
+Current data location: Lokasi data saat ini
+Current database location: Lokasi basis data saat ini
+Custom: Kustom
+Custom Application Data Location: Lokasi Data Aplikasi Kustom
+Custom Database Location: Lokasi Basis Data Kustom
+Custom data location is active. You can change it or revert to the default location. Changes require an application restart.: Lokasi data kustom aktif. Anda dapat mengubahnya atau kembali ke lokasi default. Perubahan memerlukan restart aplikasi.
+Custom themes: Tema kustom
+Decrease UI Font Size: Kurangi Ukuran Font UI
 Default: Default
-Disable Image Capture: Disable Image Capture
-Disable capturing and storing images from clipboard: Disable capturing and storing images from clipboard
-Display clipboard history capture toggle on the locked application screen. This allows you to control history capture settings directly from the lock screen.: Display clipboard history capture toggle on the locked application screen. This allows you to control history capture settings directly from the lock screen.
-Display disabled collections name on the navigation bar collections menu: Display disabled collections name on the navigation bar collections menu
-Display disabled collections name on the navigation bar under collections menu: Display disabled collections name on the navigation bar under collections menu
-Display full name of selected collection on the navigation bar: Display full name of selected collection on the navigation bar
-Do you want to attempt to move the database file from "{{customPath}}" back to the default location?: Do you want to attempt to move the database file from "{{customPath}}" back to the default location?
-Drag and drop to prioritize languages for detection. The higher a language is in the list, the higher its detection priority.: Drag and drop to prioritize languages for detection. The higher a language is in the list, the higher its detection priority.
+Disable Image Capture: Nonaktifkan Pengambilan Gambar
+Disable capturing and storing images from clipboard: Nonaktifkan pengambilan dan penyimpanan gambar dari papan klip
+Display clipboard history capture toggle on the locked application screen. This allows you to control history capture settings directly from the lock screen.: Tampilkan sakelar pengambilan riwayat papan klip di layar aplikasi yang terkunci. Ini memungkinkan Anda untuk mengontrol pengaturan pengambilan riwayat langsung dari layar kunci.
+Display disabled collections name on the navigation bar collections menu: Tampilkan nama koleksi yang dinonaktifkan di menu koleksi bilah navigasi
+Display disabled collections name on the navigation bar under collections menu: Tampilkan nama koleksi yang dinonaktifkan di bilah navigasi di bawah menu koleksi
+Display full name of selected collection on the navigation bar: Tampilkan nama lengkap koleksi yang dipilih di bilah navigasi
+Do you want to attempt to move the database file from "{{customPath}}" back to the default location?: Apakah Anda ingin mencoba memindahkan file basis data dari "{{customPath}}" kembali ke lokasi default?
+Drag and drop to prioritize languages for detection. The higher a language is in the list, the higher its detection priority.: Seret dan lepas untuk memprioritaskan bahasa untuk deteksi. Semakin tinggi bahasa dalam daftar, semakin tinggi prioritas deteksinya.
 Email: Email
-Email is not valid: Email is not valid
+Email is not valid: Email tidak valid
 'Email:': 'Email:'
-Emails do not match: Emails do not match
-Enable Auto Start: Enable Auto Start
-Enable Clip Title Hover Show with Delay: Enable Clip Title Hover Show with Delay
-Enable application auto start on system boot: Enable application auto start on system boot
-Enable auto lock the application screen after a certain period of inactivity, to prevent unauthorized access to your data.: Enable auto lock the application screen after a certain period of inactivity, to prevent unauthorized access to your data.
-Enable auto lock the application screen when user not active: Enable auto lock the application screen when user not active
-Enable auto trim spaces on history capture: Enable auto trim spaces on history capture
-Enable auto update on capture: Enable auto update on capture
-Enable custom data location to store application data in a directory of your choice instead of the default location.: Enable custom data location to store application data in a directory of your choice instead of the default location.
-Enable history capture: Enable history capture
-Enable programming language detection: Enable programming language detection
-Enable screen unlock requirement on app launch for enhanced security, safeguarding data from unauthorized access.: Enable screen unlock requirement on app launch for enhanced security, safeguarding data from unauthorized access.
-Enter Passcode length: Enter Passcode length
-Enter new directory path or leave empty for default on next revert: Enter new directory path or leave empty for default on next revert
-Enter recovery password to reset passcode.: Enter recovery password to reset passcode.
-Enter your <strong>{{screenLockPassCodeLength}} digits</strong> passcode: Enter your <strong>{{screenLockPassCodeLength}} digits</strong> passcode
-Entered Passcode is invalid: Entered Passcode is invalid
-Excluded Apps List: Excluded Apps List
-Execute Web Requests: Execute Web Requests
-Execute terminal or shell commands directly from PasteBar clip and copy the results to the clipboard.: Execute terminal or shell commands directly from PasteBar clip and copy the results to the clipboard.
-'Expires:': 'Expires:'
-Failed to revert to default database location.: Failed to revert to default database location.
-Failed to select directory: Failed to select directory
-Forgot Passcode ? Enter your recovery password to reset the passcode.: Forgot Passcode ? Enter your recovery password to reset the passcode.
-Forgot passcode ?: Forgot passcode ?
-Forgot?: Forgot?
-Forgot? Reset using Password: Forgot? Reset using Password
-Get priority email support from us to resolve any issues or questions you may have about PasteBar.: Get priority email support from us to resolve any issues or questions you may have about PasteBar.
-'Hint: {{screenLockRecoveryPasswordMasked}}': 'Hint: {{screenLockRecoveryPasswordMasked}}'
-If a database file already exists at the default location, do you want to overwrite it? Choosing "Cancel" will skip moving the file if an existing file is found.: If a database file already exists at the default location, do you want to overwrite it? Choosing "Cancel" will skip moving the file if an existing file is found.
-Incorrect passcode.: Incorrect passcode.
-Increase UI Font Size: Increase UI Font Size
-Issued: Issued
-Large: Large
-List each application name or window identifier on a new line.: List each application name or window identifier on a new line.
-List each word or sentence on a new line.: List each word or sentence on a new line.
-Lock Screen Clipboard History Capture Control: Lock Screen Clipboard History Capture Control
-Lock Screen PassCode: Lock Screen PassCode
-Lock Screen Passcode: Lock Screen Passcode
-Manage Collections: Manage Collections
-Maximum 10 digits: Maximum 10 digits
-Maximum devices: Maximum devices
-Medium: Medium
-Minimal 4 digits: Minimal 4 digits
-Minimize Window: Minimize Window
-Minimum number of lines to trigger detection: Minimum number of lines to trigger detection
-Move data: Move data
-Move database file: Move database file
-Name: Name
-New Data Directory Path: New Data Directory Path
-New Database Directory Path: New Database Directory Path
-Open Security Settings: Open Security Settings
-Operation when applying new path: Operation when applying new path
-Passcode digits remaining: Passcode digits remaining
-Passcode is locked.: Passcode is locked.
-Passcode is not set: Passcode is not set
-Passcode is not valid: Passcode is not valid
-Passcode length: Passcode length
-Passcode mismatch: Passcode mismatch
-Passcode reset is locked.: Passcode reset is locked.
-Passcode successfully verified: Passcode successfully verified
-Passcode verification error: Passcode verification error
-Passcode verification is locked.: Passcode verification is locked.
-Password is incorrect.: Password is incorrect.
-Password is incorrect. <br/>{{screenLockRecoveryPasswordMasked}}: Password is incorrect. <br/>{{screenLockRecoveryPasswordMasked}}
-'Password is incorrect. Hint: {{screenLockRecoveryPasswordMasked}}': 'Password is incorrect. Hint: {{screenLockRecoveryPasswordMasked}}'
-'Password is incorrect. Masked password is: {{screenLockRecoveryPasswordMasked}}': 'Password is incorrect. Masked password is: {{screenLockRecoveryPasswordMasked}}'
-Password is incorrect. {{screenLockRecoveryPasswordMasked}}: Password is incorrect. {{screenLockRecoveryPasswordMasked}}
-Passwords do not match: Passwords do not match
-PasteBar Settings: PasteBar Settings
-Pin Window: Pin Window
-Pin on Top Window: Pin on Top Window
-Please set up a Passcode and recovery password in Security Settings to enable Screen Lock and ensure better security.: Please set up a Passcode and recovery password in Security Settings to enable Screen Lock and ensure better security.
-Please try again: Please try again
-Preview current popup size on hover.: Preview current popup size on hover.
-Prioritize Language Detection: Prioritize Language Detection
-Priority support: Priority support
-Programming Language Detection: Programming Language Detection
-Programming Language Selection: Programming Language Selection
-Protect your data by requiring screen unlock authentication whenever the application starts.: Protect your data by requiring screen unlock authentication whenever the application starts.
-Recovery Password for Lock Screen Passcode: Recovery Password for Lock Screen Passcode
-Recovery password is set.: Recovery password is set.
-Refresh Application UI: Refresh Application UI
-Refresh UI: Refresh UI
-Require Screen Unlock at Application Start: Require Screen Unlock at Application Start
-Require screen unlock at application launch to enhance security. This setting ensures that only authorized users can access the application, protecting your data from unauthorized access right from the start.: Require screen unlock at application launch to enhance security. This setting ensures that only authorized users can access the application, protecting your data from unauthorized access right from the start.
-Reset Font Size: Reset Font Size
-Revert to Default: Revert to Default
-Revert to Default and Restart: Revert to Default and Restart
-Run Terminal or Shell Commands: Run Terminal or Shell Commands
-Scrape and parse websites or API responses using built-in web scraping tools and copy the extracted data to the clipboard.: Scrape and parse websites or API responses using built-in web scraping tools and copy the extracted data to the clipboard.
-'Scrape and parse websites or API responses using built-in web scraping tools and copy the extracted data to the clipboard.                                ': 'Scrape and parse websites or API responses using built-in web scraping tools and copy the extracted data to the clipboard.                                '
-Security: Security
-Security Settings: Security Settings
-Select Custom Data Folder...: Select Custom Data Folder...
-Select Data Folder: Select Data Folder
-Select Data Folder...: Select Data Folder...
-Select a custom location to store your application data instead of the default location.: Select a custom location to store your application data instead of the default location.
-Selected data folder: Selected data folder
-Selected new data folder: Selected new data folder
-Selected new data folder for change: Selected new data folder for change
-Send HTTP requests to web APIs or services and copy the response data to the clipboard.: Send HTTP requests to web APIs or services and copy the response data to the clipboard.
-Sensitive words or sentences listed below will automatically be masked if found in the copied text. Case insensitive.: Sensitive words or sentences listed below will automatically be masked if found in the copied text. Case insensitive.
-Set a passcode to unlock the locked screen and protect your data from unauthorized access.: Set a passcode to unlock the locked screen and protect your data from unauthorized access.
-Set a recovery password to easily reset your lock screen passcode if forgotten. Your password will be securely stored in your device's OS storage.: Set a recovery password to easily reset your lock screen passcode if forgotten. Your password will be securely stored in your device's OS storage.
-Setting a custom database location requires an application restart to take effect.: Setting a custom database location requires an application restart to take effect.
-Settings: Settings
-Show Clipboard History Capture Control on Lock Screen: Show Clipboard History Capture Control on Lock Screen
-Show Disable History Capture When Screen Locked: Show Disable History Capture When Screen Locked
-Show Disabled Collections: Show Disabled Collections
-Show clipboard history capture toggle when the application screen is locked. This allow you to control capturing history settings from the application locked screen.: Show clipboard history capture toggle when the application screen is locked. This allow you to control capturing history settings from the application locked screen.
-Show collection name on the navbar: Show collection name on the navbar
-Show disabled collections on the navbar list: Show disabled collections on the navbar list
-Skip auto start prompt on app launch: Skip auto start prompt on app launch
-Small: Small
-Stop Words List: Stop Words List
-Swap Panels Layout: Swap Panels Layout
-Switch the layout position of panels in Clipboard History and Paste Menu views: Switch the layout position of panels in Clipboard History and Paste Menu views
-Thank you again for using PasteBar.: Thank you again for using PasteBar.
-Thank you for testing! 🙌: Thank you for testing! 🙌
-The selected folder is not empty and does not contain PasteBar data files. Do you want to create a "pastebar-data" subfolder to store the data?: The selected folder is not empty and does not contain PasteBar data files. Do you want to create a "pastebar-data" subfolder to store the data?
-The selected folder is not empty. Do you want to create a "pastebar-data" subfolder to store the data?: The selected folder is not empty. Do you want to create a "pastebar-data" subfolder to store the data?
-This folder already contains PasteBar data. The application will use this existing data after restart.: This folder already contains PasteBar data. The application will use this existing data after restart.
-This option lets you control the display and timing of hover notes on clips. You can choose to show notes instantly or with a delay to prevent unintended popups.: This option lets you control the display and timing of hover notes on clips. You can choose to show notes instantly or with a delay to prevent unintended popups.
-This option lets you customize the maximum width and height of the popup that displays clip notes, ensuring it fits comfortably within your desired size.: This option lets you customize the maximum width and height of the popup that displays clip notes, ensuring it fits comfortably within your desired size.
-This option lets you customize the minimum and maximum length of text that can be captured in the clipboard history. Setting either value to 0 makes that limit unlimited.: This option lets you customize the minimum and maximum length of text that can be captured in the clipboard history. Setting either value to 0 makes that limit unlimited.
-To downgrade your current version, please visit: To downgrade your current version, please visit
-'To downgrade, please visit: ': 'To downgrade, please visit: '
-To ensure the best detection accuracy, please select up to 7 languages. Limiting choices improves precision.: To ensure the best detection accuracy, please select up to 7 languages. Limiting choices improves precision.
-Today: Today
-Tomorrow: Tomorrow
-Try after <strong>{{resetPassCodeNextDelay}}</strong> seconds: Try after <strong>{{resetPassCodeNextDelay}}</strong> seconds
-Try again after <strong>{{resetPassCodeNextDelay}}</strong> seconds: Try again after <strong>{{resetPassCodeNextDelay}}</strong> seconds
-UI Language: UI Language
-UnPin Window: UnPin Window
-Unlimited Collections: Unlimited Collections
-Unlimited Tabs per Collection: Unlimited Tabs per Collection
-Unlimited paste history: Unlimited paste history
-Use Password: Use Password
-Use new location: Use new location
-User Preferences: User Preferences
-Web Scraping and Parsing: Web Scraping and Parsing
-Words or sentences listed below will not be captured in clipboard history if found in the copied text. Case insensitive.: Words or sentences listed below will not be captured in clipboard history if found in the copied text. Case insensitive.
-none: none
-passcode reset: passcode reset
-password reset: password reset
+Emails do not match: Email tidak cocok
+Enable Auto Start: Aktifkan Mulai Otomatis
+Enable Clip Title Hover Show with Delay: Aktifkan Tampilan Judul Klip Melayang dengan Tunda
+Enable application auto start on system boot: Aktifkan mulai otomatis aplikasi saat boot sistem
+Enable auto lock the application screen after a certain period of inactivity, to prevent unauthorized access to your data.: Aktifkan kunci otomatis layar aplikasi setelah periode tidak aktif tertentu, untuk mencegah akses tidak sah ke data Anda.
+Enable auto lock the application screen when user not active: Aktifkan kunci otomatis layar aplikasi saat pengguna tidak aktif
+Enable auto trim spaces on history capture: Aktifkan pangkas spasi otomatis saat pengambilan riwayat
+Enable auto update on capture: Aktifkan perbarui otomatis saat pengambilan
+Enable custom data location to store application data in a directory of your choice instead of the default location.: Aktifkan lokasi data kustom untuk menyimpan data aplikasi di direktori pilihan Anda alih-alih lokasi default.
+Enable history capture: Aktifkan pengambilan riwayat
+Enable programming language detection: Aktifkan deteksi bahasa pemrograman
+Enable screen unlock requirement on app launch for enhanced security, safeguarding data from unauthorized access.: Aktifkan persyaratan buka kunci layar saat peluncuran aplikasi untuk keamanan yang ditingkatkan, melindungi data dari akses tidak sah.
+Enter Passcode length: Masukkan panjang Kode Sandi
+Enter new directory path or leave empty for default on next revert: Masukkan jalur direktori baru atau biarkan kosong untuk default pada pengembalian berikutnya
+Enter recovery password to reset passcode.: Masukkan kata sandi pemulihan untuk mengatur ulang kode sandi.
+Enter your <strong>{{screenLockPassCodeLength}} digits</strong> passcode: Masukkan kode sandi <strong>{{screenLockPassCodeLength}} digit</strong> Anda
+Entered Passcode is invalid: Kode Sandi yang Dimasukkan tidak valid
+Excluded Apps List: Daftar Aplikasi yang Dikecualikan
+Execute Web Requests: Jalankan Permintaan Web
+Execute terminal or shell commands directly from PasteBar clip and copy the results to the clipboard.: Jalankan perintah terminal atau shell langsung dari klip PasteBar dan salin hasilnya ke papan klip.
+'Expires:': 'Kedaluwarsa:'
+Failed to revert to default database location.: Gagal kembali ke lokasi basis data default.
+Failed to select directory: Gagal memilih direktori
+Forgot Passcode ? Enter your recovery password to reset the passcode.: Lupa Kode Sandi? Masukkan kata sandi pemulihan Anda untuk mengatur ulang kode sandi.
+Forgot passcode ?: Lupa kode sandi?
+Forgot?: Lupa?
+Forgot? Reset using Password: Lupa? Atur ulang menggunakan Kata Sandi
+Get priority email support from us to resolve any issues or questions you may have about PasteBar.: Dapatkan dukungan email prioritas dari kami untuk menyelesaikan masalah atau pertanyaan apa pun yang mungkin Anda miliki tentang PasteBar.
+'Hint: {{screenLockRecoveryPasswordMasked}}': 'Petunjuk: {{screenLockRecoveryPasswordMasked}}'
+If a database file already exists at the default location, do you want to overwrite it? Choosing "Cancel" will skip moving the file if an existing file is found.: Jika file basis data sudah ada di lokasi default, apakah Anda ingin menimpanya? Memilih "Batal" akan melewati pemindahan file jika file yang ada ditemukan.
+Incorrect passcode.: Kode sandi salah.
+Increase UI Font Size: Tingkatkan Ukuran Font UI
+Issued: Diterbitkan
+Large: Besar
+List each application name or window identifier on a new line.: Cantumkan setiap nama aplikasi atau pengidentifikasi jendela di baris baru.
+List each word or sentence on a new line.: Cantumkan setiap kata atau kalimat di baris baru.
+Lock Screen Clipboard History Capture Control: Kontrol Pengambilan Riwayat Papan Klip Layar Kunci
+Lock Screen PassCode: Kode Sandi Layar Kunci
+Lock Screen Passcode: Kode Sandi Layar Kunci
+Manage Collections: Kelola Koleksi
+Maximum 10 digits: Maksimum 10 digit
+Maximum devices: Perangkat maksimum
+Medium: Sedang
+Minimal 4 digits: Minimal 4 digit
+Minimize Window: Minimalkan Jendela
+Minimum number of lines to trigger detection: Jumlah baris minimum untuk memicu deteksi
+Move data: Pindahkan data
+Move database file: Pindahkan file basis data
+Name: Nama
+New Data Directory Path: Jalur Direktori Data Baru
+New Database Directory Path: Jalur Direktori Basis Data Baru
+Open Security Settings: Buka Pengaturan Keamanan
+Operation when applying new path: Operasi saat menerapkan jalur baru
+Passcode digits remaining: Sisa digit kode sandi
+Passcode is locked.: Kode sandi terkunci.
+Passcode is not set: Kode sandi tidak diatur
+Passcode is not valid: Kode sandi tidak valid
+Passcode length: Panjang kode sandi
+Passcode mismatch: Kode sandi tidak cocok
+Passcode reset is locked.: Reset kode sandi terkunci.
+Passcode successfully verified: Kode sandi berhasil diverifikasi
+Passcode verification error: Kesalahan verifikasi kode sandi
+Passcode verification is locked.: Verifikasi kode sandi terkunci.
+Password is incorrect.: Kata sandi salah.
+Password is incorrect. <br/>{{screenLockRecoveryPasswordMasked}}: Kata sandi salah. <br/>{{screenLockRecoveryPasswordMasked}}
+'Password is incorrect. Hint: {{screenLockRecoveryPasswordMasked}}': 'Kata sandi salah. Petunjuk: {{screenLockRecoveryPasswordMasked}}'
+'Password is incorrect. Masked password is: {{screenLockRecoveryPasswordMasked}}': 'Kata sandi salah. Kata sandi tersamar adalah: {{screenLockRecoveryPasswordMasked}}'
+Password is incorrect. {{screenLockRecoveryPasswordMasked}}: Kata sandi salah. {{screenLockRecoveryPasswordMasked}}
+Passwords do not match: Kata sandi tidak cocok
+PasteBar Settings: Pengaturan PasteBar
+Pin Window: Sematkan Jendela
+Pin on Top Window: Sematkan di Jendela Atas
+Please set up a Passcode and recovery password in Security Settings to enable Screen Lock and ensure better security.: Harap atur Kode Sandi dan kata sandi pemulihan di Pengaturan Keamanan untuk mengaktifkan Kunci Layar dan memastikan keamanan yang lebih baik.
+Please try again: Silakan coba lagi
+Preview current popup size on hover.: Pratinjau ukuran popup saat ini saat melayang.
+Prioritize Language Detection: Prioritaskan Deteksi Bahasa
+Priority support: Dukungan prioritas
+Programming Language Detection: Deteksi Bahasa Pemrograman
+Programming Language Selection: Pemilihan Bahasa Pemrograman
+Protect your data by requiring screen unlock authentication whenever the application starts.: Lindungi data Anda dengan mewajibkan otentikasi buka kunci layar setiap kali aplikasi dimulai.
+Recovery Password for Lock Screen Passcode: Kata Sandi Pemulihan untuk Kode Sandi Layar Kunci
+Recovery password is set.: Kata sandi pemulihan diatur.
+Refresh Application UI: Segarkan UI Aplikasi
+Refresh UI: Segarkan UI
+Require Screen Unlock at Application Start: Wajibkan Buka Kunci Layar saat Mulai Aplikasi
+Require screen unlock at application launch to enhance security. This setting ensures that only authorized users can access the application, protecting your data from unauthorized access right from the start.: Wajibkan buka kunci layar saat peluncuran aplikasi untuk meningkatkan keamanan. Pengaturan ini memastikan bahwa hanya pengguna yang berwenang yang dapat mengakses aplikasi, melindungi data Anda dari akses tidak sah sejak awal.
+Reset Font Size: Atur Ulang Ukuran Font
+Revert to Default: Kembali ke Default
+Revert to Default and Restart: Kembali ke Default dan Mulai Ulang
+Run Terminal or Shell Commands: Jalankan Perintah Terminal atau Shell
+Scrape and parse websites or API responses using built-in web scraping tools and copy the extracted data to the clipboard.: Kikis danurai situs web atau respons API menggunakan alat pengikis web bawaan dan salin data yang diekstraksi ke papan klip.
+'Scrape and parse websites or API responses using built-in web scraping tools and copy the extracted data to the clipboard.                                ': 'Kikis danurai situs web atau respons API menggunakan alat pengikis web bawaan dan salin data yang diekstraksi ke papan klip.                                '
+Security: Keamanan
+Security Settings: Pengaturan Keamanan
+Select Custom Data Folder...: Pilih Folder Data Kustom...
+Select Data Folder: Pilih Folder Data
+Select Data Folder...: Pilih Folder Data...
+Select a custom location to store your application data instead of the default location.: Pilih lokasi kustom untuk menyimpan data aplikasi Anda alih-alih lokasi default.
+Selected data folder: Folder data yang dipilih
+Selected new data folder: Folder data baru yang dipilih
+Selected new data folder for change: Folder data baru yang dipilih untuk diubah
+Send HTTP requests to web APIs or services and copy the response data to the clipboard.: Kirim permintaan HTTP ke API atau layanan web dan salin data respons ke papan klip.
+Sensitive words or sentences listed below will automatically be masked if found in the copied text. Case insensitive.: Kata atau kalimat sensitif yang tercantum di bawah ini akan secara otomatis disamarkan jika ditemukan dalam teks yang disalin. Tidak peka huruf besar/kecil.
+Set a passcode to unlock the locked screen and protect your data from unauthorized access.: Atur kode sandi untuk membuka kunci layar yang terkunci dan melindungi data Anda dari akses tidak sah.
+Set a recovery password to easily reset your lock screen passcode if forgotten. Your password will be securely stored in your device's OS storage.: Atur kata sandi pemulihan untuk dengan mudah mengatur ulang kode sandi layar kunci Anda jika terlupa. Kata sandi Anda akan disimpan dengan aman di penyimpanan OS perangkat Anda.
+Setting a custom database location requires an application restart to take effect.: Mengatur lokasi basis data kustom memerlukan restart aplikasi agar berlaku.
+Settings: Pengaturan
+Show Clipboard History Capture Control on Lock Screen: Tampilkan Kontrol Pengambilan Riwayat Papan Klip di Layar Kunci
+Show Disable History Capture When Screen Locked: Tampilkan Nonaktifkan Pengambilan Riwayat Saat Layar Terkunci
+Show Disabled Collections: Tampilkan Koleksi yang Dinonaktifkan
+Show clipboard history capture toggle when the application screen is locked. This allow you to control capturing history settings from the application locked screen.: Tampilkan sakelar pengambilan riwayat papan klip saat layar aplikasi terkunci. Ini memungkinkan Anda untuk mengontrol pengaturan pengambilan riwayat dari layar aplikasi yang terkunci.
+Show collection name on the navbar: Tampilkan nama koleksi di bilah navigasi
+Show disabled collections on the navbar list: Tampilkan koleksi yang dinonaktifkan di daftar bilah navigasi
+Skip auto start prompt on app launch: Lewati prompt mulai otomatis saat peluncuran aplikasi
+Small: Kecil
+Stop Words List: Daftar Kata Henti
+Swap Panels Layout: Tukar Tata Letak Panel
+Switch the layout position of panels in Clipboard History and Paste Menu views: Alihkan posisi tata letak panel di tampilan Riwayat Papan Klip dan Menu Tempel
+Thank you again for using PasteBar.: Terima kasih lagi telah menggunakan PasteBar.
+Thank you for testing! 🙌: Terima kasih telah menguji! 🙌
+The selected folder is not empty and does not contain PasteBar data files. Do you want to create a "pastebar-data" subfolder to store the data?: Folder yang dipilih tidak kosong dan tidak berisi file data PasteBar. Apakah Anda ingin membuat subfolder "pastebar-data" untuk menyimpan data?
+The selected folder is not empty. Do you want to create a "pastebar-data" subfolder to store the data?: Folder yang dipilih tidak kosong. Apakah Anda ingin membuat subfolder "pastebar-data" untuk menyimpan data?
+This folder already contains PasteBar data. The application will use this existing data after restart.: Folder ini sudah berisi data PasteBar. Aplikasi akan menggunakan data yang ada ini setelah restart.
+This option lets you control the display and timing of hover notes on clips. You can choose to show notes instantly or with a delay to prevent unintended popups.: Opsi ini memungkinkan Anda mengontrol tampilan dan waktu catatan melayang pada klip. Anda dapat memilih untuk menampilkan catatan secara instan atau dengan penundaan untuk mencegah popup yang tidak diinginkan.
+This option lets you customize the maximum width and height of the popup that displays clip notes, ensuring it fits comfortably within your desired size.: Opsi ini memungkinkan Anda menyesuaikan lebar dan tinggi maksimum popup yang menampilkan catatan klip, memastikannya pas dengan nyaman dalam ukuran yang Anda inginkan.
+This option lets you customize the minimum and maximum length of text that can be captured in the clipboard history. Setting either value to 0 makes that limit unlimited.: Opsi ini memungkinkan Anda menyesuaikan panjang minimum dan maksimum teks yang dapat ditangkap dalam riwayat papan klip. Mengatur salah satu nilai ke 0 membuat batas itu tidak terbatas.
+To downgrade your current version, please visit: Untuk menurunkan versi Anda saat ini, silakan kunjungi
+'To downgrade, please visit: ': 'Untuk menurunkan versi, silakan kunjungi: '
+To ensure the best detection accuracy, please select up to 7 languages. Limiting choices improves precision.: Untuk memastikan akurasi deteksi terbaik, silakan pilih hingga 7 bahasa. Membatasi pilihan meningkatkan presisi.
+Today: Hari ini
+Tomorrow: Besok
+Try after <strong>{{resetPassCodeNextDelay}}</strong> seconds: Coba setelah <strong>{{resetPassCodeNextDelay}}</strong> detik
+Try again after <strong>{{resetPassCodeNextDelay}}</strong> seconds: Coba lagi setelah <strong>{{resetPassCodeNextDelay}}</strong> detik
+UI Language: Bahasa UI
+UnPin Window: Lepas Sematan Jendela
+Unlimited Collections: Koleksi Tak Terbatas
+Unlimited Tabs per Collection: Tab Tak Terbatas per Koleksi
+Unlimited paste history: Riwayat tempel tak terbatas
+Use Password: Gunakan Kata Sandi
+Use new location: Gunakan lokasi baru
+User Preferences: Preferensi Pengguna
+Web Scraping and Parsing: Pengikisan dan Penguraian Web
+Words or sentences listed below will not be captured in clipboard history if found in the copied text. Case insensitive.: Kata atau kalimat yang tercantum di bawah ini tidak akan ditangkap dalam riwayat papan klip jika ditemukan dalam teks yang disalin. Tidak peka huruf besar/kecil.
+none: tidak ada
+passcode reset: reset kode sandi
+password reset: reset kata sandi

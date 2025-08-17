@@ -1,82 +1,82 @@
-App restart required: Restart required
-Application Starts with Main Window Hidden: Application Starts with Main Window Hidden
-Auto-close window after action: Auto-close window after action
-Boards, saved clips and menu items panel visible: Boards, saved clips and menu items panel visible
-Both clipboard history and saved clips panels visible: Both clipboard history and saved clips panels visible
-Change: Change
-Click Set/Change button to start recording: Click Set/Change button to start recording
-Clipboard history panel visible: Clipboard history panel visible
-Configure how the system tray icon responds to mouse clicks: Configure how the system tray icon responds to mouse clicks
-Configure the behavior of the Quick Paste window when selecting items: Configure the behavior of the Quick Paste window when selecting items
-Configure which items to preserve when clearing clipboard history (both manual and auto-clear operations).: Configure which items to preserve when clearing clipboard history (both manual and auto-clear operations).
-Control which panels are visible in the main window: Control which panels are visible in the main window
-Copy items only (no auto-paste): Copy items only (no auto-paste)
-Copy only from menu items: Copy only from menu items
-Default Note Icon Type: Default Note Icon Type
-Disable left-click context menu: Disable left-click context menu
-Display navbar items only when the mouse hovers over the navigation bar to minimize visible UI elements: Display navbar items only when the mouse hovers over the navigation bar to minimize visible UI elements
-Display persistent icons on clips that have notes to improve visual organization and make notes easier to discover.: Display persistent icons on clips that have notes to improve visual organization and make notes easier to discover.
-Double-click toggles app visibility: Double-click toggles app visibility
-Double-clicking the tray icon shows or hides the main application window: Double-clicking the tray icon shows or hides the main application window
-Enable simplified, less boxy layout for a cleaner and more streamlined interface design: Enable simplified, less boxy layout for a cleaner and more streamlined interface design
-Enable single-click to copy/paste clipboard history items and saved clips instead of requiring double-click.: Enable single-click to copy/paste clipboard history items and saved clips instead of requiring double-click.
-Enabling either left-click option will disable the context menu to ensure proper functionality.: Enabling either left-click option will disable the context menu to ensure proper functionality.
-Global System OS Hotkeys: Global System OS Hotkeys
-Hide Collections Navbar: Hide Collections Navbar
-Hide collections menu dropdown on the navigation bar: Hide collections menu dropdown on the navigation bar
-Hide collections menu on the navbar: Hide collections menu on the navbar
-Hide the App Dock Icon: Hide the App Dock Icon
-History Item Preview Max Lines: History Item Preview Max Lines
-'How to set hotkeys:': 'How to set hotkeys:'
-Keep Items on Clear: Keep Items on Clear
-Keep Pinned Items: Keep Pinned Items
-Keep Starred Items: Keep Starred Items
+App restart required: Diperlukan restart aplikasi
+Application Starts with Main Window Hidden: Aplikasi Dimulai dengan Jendela Utama Tersembunyi
+Auto-close window after action: Tutup otomatis jendela setelah tindakan
+Boards, saved clips and menu items panel visible: Papan, klip yang disimpan, dan panel item menu terlihat
+Both clipboard history and saved clips panels visible: Panel riwayat papan klip dan klip yang disimpan terlihat
+Change: Ubah
+Click Set/Change button to start recording: Klik tombol Atur/Ubah untuk mulai merekam
+Clipboard history panel visible: Panel riwayat papan klip terlihat
+Configure how the system tray icon responds to mouse clicks: Konfigurasikan bagaimana ikon baki sistem merespons klik mouse
+Configure the behavior of the Quick Paste window when selecting items: Konfigurasikan perilaku jendela Tempel Cepat saat memilih item
+Configure which items to preserve when clearing clipboard history (both manual and auto-clear operations).: Konfigurasikan item mana yang akan dipertahankan saat membersihkan riwayat papan klip (operasi manual dan hapus otomatis).
+Control which panels are visible in the main window: Kontrol panel mana yang terlihat di jendela utama
+Copy items only (no auto-paste): Salin item saja (tanpa tempel otomatis)
+Copy only from menu items: Salin hanya dari item menu
+Default Note Icon Type: Jenis Ikon Catatan Default
+Disable left-click context menu: Nonaktifkan menu konteks klik kiri
+Display navbar items only when the mouse hovers over the navigation bar to minimize visible UI elements: Tampilkan item bilah navigasi hanya saat mouse melayang di atas bilah navigasi untuk meminimalkan elemen UI yang terlihat
+Display persistent icons on clips that have notes to improve visual organization and make notes easier to discover.: Tampilkan ikon persisten pada klip yang memiliki catatan untuk meningkatkan organisasi visual dan membuat catatan lebih mudah ditemukan.
+Double-click toggles app visibility: Klik dua kali mengalihkan visibilitas aplikasi
+Double-clicking the tray icon shows or hides the main application window: Mengklik dua kali ikon baki menampilkan atau menyembunyikan jendela aplikasi utama
+Enable simplified, less boxy layout for a cleaner and more streamlined interface design: Aktifkan tata letak yang disederhanakan dan tidak terlalu kotak untuk desain antarmuka yang lebih bersih dan lebih ramping
+Enable single-click to copy/paste clipboard history items and saved clips instead of requiring double-click.: Aktifkan klik tunggal untuk menyalin/menempel item riwayat papan klip dan klip yang disimpan alih-alih memerlukan klik dua kali.
+Enabling either left-click option will disable the context menu to ensure proper functionality.: Mengaktifkan salah satu opsi klik kiri akan menonaktifkan menu konteks untuk memastikan fungsionalitas yang tepat.
+Global System OS Hotkeys: Tombol Cepat OS Sistem Global
+Hide Collections Navbar: Sembunyikan Bilah Navigasi Koleksi
+Hide collections menu dropdown on the navigation bar: Sembunyikan menu tarik-turun koleksi di bilah navigasi
+Hide collections menu on the navbar: Sembunyikan menu koleksi di bilah navigasi
+Hide the App Dock Icon: Sembunyikan Ikon Dok Aplikasi
+History Item Preview Max Lines: Baris Maks Pratinjau Item Riwayat
+'How to set hotkeys:': 'Cara mengatur tombol cepat:'
+Keep Items on Clear: Simpan Item saat Dihapus
+Keep Pinned Items: Simpan Item yang Disematkan
+Keep Starred Items: Simpan Item Berbintang
 ? Keep the main application window hidden when the app restarts. You can reopen it using the menu bar or taskbar menu, or using global hotkeys.
-: Keep the main application window hidden when the app restarts. You can reopen it using the menu bar or taskbar menu, or using global hotkeys.
-Left-click toggles app visibility: Left-click toggles app visibility
-Left-clicking the tray icon shows or hides the main application window: Left-clicking the tray icon shows or hides the main application window
-No keys set: No keys set
-'Note: At least one panel must remain visible in main window.': 'Note: At least one panel must remain visible in main window.'
-Panel Visibility: Panel Visibility
-PasteBar Quick Paste: PasteBar Quick Paste
-Preserve pinned items when clearing history: Preserve pinned items when clearing history
-Preserve starred items when clearing history: Preserve starred items when clearing history
-Press Backspace/Delete to clear the hotkey: Press Backspace/Delete to clear the hotkey
-Press Enter to confirm or Escape to cancel: Press Enter to confirm or Escape to cancel
-Press keys: Press keys
-Press your desired key combination (e.g., Ctrl+Shift+V): Press your desired key combination (e.g., Ctrl+Shift+V)
-Press your key combination...: Press your key combination...
-Prevents the context menu from appearing when left-clicking the tray icon: Prevents the context menu from appearing when left-clicking the tray icon
-Preview Max Lines: Preview Max Lines
-Quick Paste Window: Quick Paste Window
-Quick Paste Window Options: Quick Paste Window Options
-Recording...: Recording...
+: Biarkan jendela aplikasi utama tersembunyi saat aplikasi dimulai ulang. Anda dapat membukanya kembali menggunakan bilah menu atau menu bilah tugas, atau menggunakan tombol cepat global.
+Left-click toggles app visibility: Klik kiri mengalihkan visibilitas aplikasi
+Left-clicking the tray icon shows or hides the main application window: Mengklik kiri ikon baki menampilkan atau menyembunyikan jendela aplikasi utama
+No keys set: Tidak ada tombol yang diatur
+'Note: At least one panel must remain visible in main window.': 'Catatan: Setidaknya satu panel harus tetap terlihat di jendela utama.'
+Panel Visibility: Visibilitas Panel
+PasteBar Quick Paste: Tempel Cepat PasteBar
+Preserve pinned items when clearing history: Pertahankan item yang disematkan saat membersihkan riwayat
+Preserve starred items when clearing history: Pertahankan item berbintang saat membersihkan riwayat
+Press Backspace/Delete to clear the hotkey: Tekan Backspace/Delete untuk menghapus tombol cepat
+Press Enter to confirm or Escape to cancel: Tekan Enter untuk mengonfirmasi atau Escape untuk membatalkan
+Press keys: Tekan tombol
+Press your desired key combination (e.g., Ctrl+Shift+V): Tekan kombinasi tombol yang Anda inginkan (mis., Ctrl+Shift+V)
+Press your key combination...: Tekan kombinasi tombol Anda...
+Prevents the context menu from appearing when left-clicking the tray icon: Mencegah menu konteks muncul saat mengklik kiri ikon baki
+Preview Max Lines: Baris Maks Pratinjau
+Quick Paste Window: Jendela Tempel Cepat
+Quick Paste Window Options: Opsi Jendela Tempel Cepat
+Recording...: Merekam...
 ? Remove PasteBar app icon from the macOS Dock while keeping the app running in the background. The app remains accessible via the menu bar icon. Requires an app restart to take effect.
-: Remove PasteBar app icon from the macOS Dock while keeping the app running in the background. The app remains accessible via the menu bar icon. Requires an app restart to take effect.
-Set: Set
-Set system OS hotkeys to show/hide the main app window and quick paste window. Supports up to 3-key combinations.: Set system OS hotkeys to show/hide the main app window and quick paste window. Supports up to 3-key combinations.
-Set the maximum number of lines to display in the preview of a history item: Set the maximum number of lines to display in the preview of a history item
-Show Boards and Clips Panel Only: Show Boards and Clips Panel Only
-Show Both Panels: Show Both Panels
-Show History Panel Only: Show History Panel Only
-Show Navbar Items Hover: Show Navbar Items Hover
-Show Note Icons on Clips: Show Note Icons on Clips
-Show Simplified Layout: Show Simplified Layout
-Show collections menu on the navbar: Show collections menu on the navbar
-Show navbar elements on hover only: Show navbar elements on hover only
-Show/Hide Main App Window: Show/Hide Main App Window
-Show/Hide Quick Paste Window: Show/Hide Quick Paste Window
-Simplified Panel Layout: Simplified Panel Layout
-Single Click Copy/Paste: Single Click Copy/Paste
-Single Click Copy/Paste action: Single Click Copy/Paste action
-Set keyboard focus with a single click. Disables single-click copy/paste if set.: Set keyboard focus with a single click. Disables single-click copy/paste if set.
-Single-Click Keyboard Focus: Single-Click Keyboard Focus
-This sets the default icon type for new clips with notes. You can customize individual clips via the context menu.: This sets the default icon type for new clips with notes. You can customize individual clips via the context menu.
-Tray Icon Behavior on Windows: Tray Icon Behavior on Windows
+: Hapus ikon aplikasi PasteBar dari Dok macOS sambil menjaga aplikasi tetap berjalan di latar belakang. Aplikasi tetap dapat diakses melalui ikon bilah menu. Memerlukan restart aplikasi agar berlaku.
+Set: Atur
+Set system OS hotkeys to show/hide the main app window and quick paste window. Supports up to 3-key combinations.: Atur tombol cepat OS sistem untuk menampilkan/menyembunyikan jendela aplikasi utama dan jendela tempel cepat. Mendukung hingga 3 kombinasi tombol.
+Set the maximum number of lines to display in the preview of a history item: Atur jumlah baris maksimum untuk ditampilkan dalam pratinjau item riwayat
+Show Boards and Clips Panel Only: Tampilkan Panel Papan dan Klip Saja
+Show Both Panels: Tampilkan Kedua Panel
+Show History Panel Only: Tampilkan Panel Riwayat Saja
+Show Navbar Items Hover: Tampilkan Item Bilah Navigasi Melayang
+Show Note Icons on Clips: Tampilkan Ikon Catatan pada Klip
+Show Simplified Layout: Tampilkan Tata Letak yang Disederhanakan
+Show collections menu on the navbar: Tampilkan menu koleksi di bilah navigasi
+Show navbar elements on hover only: Tampilkan elemen bilah navigasi hanya saat melayang
+Show/Hide Main App Window: Tampilkan/Sembunyikan Jendela Aplikasi Utama
+Show/Hide Quick Paste Window: Tampilkan/Sembunyikan Jendela Tempel Cepat
+Simplified Panel Layout: Tata Letak Panel yang Disederhanakan
+Single Click Copy/Paste: Salin/Tempel Sekali Klik
+Single Click Copy/Paste action: Tindakan Salin/Tempel Sekali Klik
+Set keyboard focus with a single click. Disables single-click copy/paste if set.: Atur fokus keyboard dengan sekali klik. Menonaktifkan salin/tempel sekali klik jika diatur.
+Single-Click Keyboard Focus: Fokus Keyboard Sekali Klik
+This sets the default icon type for new clips with notes. You can customize individual clips via the context menu.: Ini mengatur jenis ikon default untuk klip baru dengan catatan. Anda dapat menyesuaikan klip individual melalui menu konteks.
+Tray Icon Behavior on Windows: Perilaku Ikon Baki di Windows
 ? When enabled, clicking menu items will only copy content to clipboard instead of auto-pasting. This gives you more control over when and where content is pasted.
-: When enabled, clicking menu items will only copy content to clipboard instead of auto-pasting. This gives you more control over when and where content is pasted.
+: Saat diaktifkan, mengklik item menu hanya akan menyalin konten ke papan klip alih-alih menempel otomatis. Ini memberi Anda lebih banyak kontrol atas kapan dan di mana konten ditempel.
 ? When enabled, clicking or pressing Enter on items in Quick Paste window will only copy them to clipboard without automatically pasting.
-: When enabled, clicking or pressing Enter on items in Quick Paste window will only copy them to clipboard without automatically pasting.
+: Saat diaktifkan, mengklik atau menekan Enter pada item di jendela Tempel Cepat hanya akan menyalinnya ke papan klip tanpa menempel secara otomatis.
 ? When enabled, single click will copy/paste items in Quick Paste window. If global single click is also enabled, both settings work together.
-: When enabled, single click will copy/paste items in Quick Paste window. If global single click is also enabled, both settings work together.
-When enabled, the Quick Paste window will automatically close after copying or pasting an item.: When enabled, the Quick Paste window will automatically close after copying or pasting an item.
+: Saat diaktifkan, sekali klik akan menyalin/menempel item di jendela Tempel Cepat. Jika klik tunggal global juga diaktifkan, kedua pengaturan bekerja bersama.
+When enabled, the Quick Paste window will automatically close after copying or pasting an item.: Saat diaktifkan, jendela Tempel Cepat akan otomatis tertutup setelah menyalin atau menempel item.
