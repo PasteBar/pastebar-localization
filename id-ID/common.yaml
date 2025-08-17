@@ -1,359 +1,359 @@
-' No': ' No'
-' This permission ensures PasteBar can access the clipboard and perform copy and paste operations across applications.': ' This permission ensures PasteBar can access the clipboard and perform copy and paste operations across applications.'
-About PasteBar: About PasteBar
-Action Menu: Action Menu
+' No': ' Tidak'
+' This permission ensures PasteBar can access the clipboard and perform copy and paste operations across applications.': ' Izin ini memastikan PasteBar dapat mengakses papan klip dan melakukan operasi salin dan tempel di seluruh aplikasi.'
+About PasteBar: Tentang PasteBar
+Action Menu: Menu Aksi
 ? Add <b>{{Clipboard}}</b> field to template. This allows you to copy text to the clipboard, and it will be inserted into the template
-: Add <b>{{Clipboard}}</b> field to template. This allows you to copy text to the clipboard, and it will be inserted into the template
-Add Clip: Add Clip
-Add First Option: Add First Option
-Add Link Card: Add Link Card
-Add Menu: Add Menu
-Add Option: Add Option
-Add PasteBar to Accessibility: Add PasteBar to Accessibility
-Add To Player: Add To Player
-Add to: Add to
-Add to Clips: Add to Clip
-Add to Clips or Menu: Add to Clips or Menu
-Add to Menu: Add to Menu
-Add to clip or menu: Add to clip or menu
-Add to template fields: Add to template fields
-Added: Added
-Adding this file to the player is not recommended unless you trust the source.: Adding this file to the player is not recommended unless you trust the source.
-Allow PasteBar to Copy and Paste from Clipboard: Allow PasteBar to Copy and Paste from Clipboard
-Are you sure you want to delete?: Are you sure you want to delete?
-Are you sure?: Are you sure?
-Attach History Window: Attach History Window
-Back: Back
-Build on {{buildDate}}: Build on {{buildDate}}
-Cancel: Cancel
-Cancel Reset: Cancel Reset
-Check: Check
-Check / Done: Check / Done
-Check and Close: Check and Close
-Check and Done: Check and Done
-Clear History: Clear History
-Clear Tracks: Clear Tracks
-Clear found results and filters: Clear found results and filters
-Click to Confirm: Click to Confirm
-Clip: Clip
-Clip Boards: Clip Boards
-Clipboard: Clipboard
-Clipboard History: Clipboard History
-Clipboard History Only: Clipboard History Only
-Clipboard History Settings: Clipboard History Settings
-Close: Close
-Close Edit: Close Edit
-Close Expand Edit: Close Expand Edit
-Close Find: Close Find
-Close History Window: Close History Window
-Close modal and continue in browser: Close modal and continue in browser
-Confirm: Confirm
-Confirm  action: Confirm  action
-Confirm Delete: Confirm Delete
-Confirm Email: Confirm Email
-Confirm Passcode: Confirm Passcode
-Confirm Password: Confirm Password
-Confirm Remove: Confirm Remove
-Confirm Your Passcode: Confirm Your Passcode
-Confirm Passcode Reset: Confirm Passcode Reset
-Confirm Password Reset: Confirm Password Reset
-Confirm Add To Protected Collections: Confirm add to protected collections
-Confirm Disable PIN Protection: Confirm disable PIN protection
-Confirm Remove From Protected Collections: Confirm remove from protected collections
-Confirm Enable PIN Protection: Confirm enable PIN protection
-Contact Form: Contact Form
-Copied: Copied
-Copy: Copy
-Copy & Paste: Copy & Paste
-Copy and Paste: Copy and Paste
-'Copy of ': 'Copy of '
-Copy to Clipboard: Copy to Clipboard
-Create: Create
-Created: Created
-Delay Next: Delay Next
-Delete: Delete
-Deselect All: Deselect All
-Deselect pinned: Deselect pinned
-Digits Only Passcode: Digits Only Passcode
-Disabled: Disabled
-Done: Done
-Done Adding: Done Adding
-Done Edit: Done Edit
-Done Reorder: Done Reorder
-Download mp3: Download mp3
-Drag: Drag
-Drag to Move: Drag to Move
-Drop To Add: Drop To Add
-Drop Zone: Drop Zone
+: Tambahkan bidang <b>{{Clipboard}}</b> ke templat. Ini memungkinkan Anda menyalin teks ke papan klip, dan itu akan dimasukkan ke dalam templat
+Add Clip: Tambah Klip
+Add First Option: Tambah Opsi Pertama
+Add Link Card: Tambah Kartu Tautan
+Add Menu: Tambah Menu
+Add Option: Tambah Opsi
+Add PasteBar to Accessibility: Tambahkan PasteBar ke Aksesibilitas
+Add To Player: Tambahkan ke Pemutar
+Add to: Tambahkan ke
+Add to Clips: Tambahkan ke Klip
+Add to Clips or Menu: Tambahkan ke Klip atau Menu
+Add to Menu: Tambahkan ke Menu
+Add to clip or menu: Tambahkan ke klip atau menu
+Add to template fields: Tambahkan ke bidang templat
+Added: Ditambahkan
+Adding this file to the player is not recommended unless you trust the source.: Menambahkan file ini ke pemutar tidak disarankan kecuali Anda mempercayai sumbernya.
+Allow PasteBar to Copy and Paste from Clipboard: Izinkan PasteBar untuk Menyalin dan Menempel dari Papan Klip
+Are you sure you want to delete?: Apakah Anda yakin ingin menghapus?
+Are you sure?: Apakah Anda yakin?
+Attach History Window: Lampirkan Jendela Riwayat
+Back: Kembali
+Build on {{buildDate}}: Dibuat pada {{buildDate}}
+Cancel: Batal
+Cancel Reset: Batalkan Reset
+Check: Periksa
+Check / Done: Periksa / Selesai
+Check and Close: Periksa dan Tutup
+Check and Done: Periksa dan Selesai
+Clear History: Hapus Riwayat
+Clear Tracks: Hapus Trek
+Clear found results and filters: Hapus hasil dan filter yang ditemukan
+Click to Confirm: Klik untuk Konfirmasi
+Clip: Klip
+Clip Boards: Papan Klip
+Clipboard: Papan klip
+Clipboard History: Riwayat Papan Klip
+Clipboard History Only: Hanya Riwayat Papan Klip
+Clipboard History Settings: Pengaturan Riwayat Papan Klip
+Close: Tutup
+Close Edit: Tutup Edit
+Close Expand Edit: Tutup Edit yang Diperluas
+Close Find: Tutup Pencarian
+Close History Window: Tutup Jendela Riwayat
+Close modal and continue in browser: Tutup modal dan lanjutkan di browser
+Confirm: Konfirmasi
+Confirm  action: Konfirmasi tindakan
+Confirm Delete: Konfirmasi Hapus
+Confirm Email: Konfirmasi Email
+Confirm Passcode: Konfirmasi Kode Sandi
+Confirm Password: Konfirmasi Kata Sandi
+Confirm Remove: Konfirmasi Hapus
+Confirm Your Passcode: Konfirmasi Kode Sandi Anda
+Confirm Passcode Reset: Konfirmasi Reset Kode Sandi
+Confirm Password Reset: Konfirmasi Reset Kata Sandi
+Confirm Add To Protected Collections: Konfirmasi penambahan ke koleksi yang dilindungi
+Confirm Disable PIN Protection: Konfirmasi penonaktifan perlindungan PIN
+Confirm Remove From Protected Collections: Konfirmasi penghapusan dari koleksi yang dilindungi
+Confirm Enable PIN Protection: Konfirmasi pengaktifan perlindungan PIN
+Contact Form: Formulir Kontak
+Copied: Disalin
+Copy: Salin
+Copy & Paste: Salin & Tempel
+Copy and Paste: Salin dan Tempel
+'Copy of ': 'Salinan dari '
+Copy to Clipboard: Salin ke Papan Klip
+Create: Buat
+Created: Dibuat
+Delay Next: Tunda Berikutnya
+Delete: Hapus
+Deselect All: Batalkan Pilihan Semua
+Deselect pinned: Batalkan pilihan yang disematkan
+Digits Only Passcode: Kode Sandi Hanya Angka
+Disabled: Dinonaktifkan
+Done: Selesai
+Done Adding: Selesai Menambahkan
+Done Edit: Selesai Mengedit
+Done Reorder: Selesai Mengurutkan Ulang
+Download mp3: Unduh mp3
+Drag: Seret
+Drag to Move: Seret untuk Memindahkan
+Drop To Add: Lepaskan untuk Menambahkan
+Drop Zone: Zona Lepas
 Edit: Edit
 Edit Label: Edit Label
 'Email: {{email}}': 'Email: {{email}}'
 Emoji: Emoji
-Empty: Empty
-Empty Select: Empty Select
-Enable / Disable: Enable / Disable
-Enable PasteBar in Accessibility Settings: Enable PasteBar in Accessibility Settings
-Enabled: Enabled
-Enter Current Passcode: Enter Current Passcode
-Enter Digits Only Passcode: Enter Digits Only Passcode
-Enter Email: Enter Email
-Enter PIN to Access Protected Collection: Enter PIN to Access Protected Collection
-Enter Passcode: Enter Passcode
-Enter Password: Enter Password
-Enter Recovery Password: Enter Recovery Password
-Enter passcode or password to unlock: Enter passcode or password to unlock
-Error: Error
+Empty: Kosong
+Empty Select: Pilihan Kosong
+Enable / Disable: Aktifkan / Nonaktifkan
+Enable PasteBar in Accessibility Settings: Aktifkan PasteBar di Pengaturan Aksesibilitas
+Enabled: Diaktifkan
+Enter Current Passcode: Masukkan Kode Sandi Saat Ini
+Enter Digits Only Passcode: Masukkan Kode Sandi Hanya Angka
+Enter Email: Masukkan Email
+Enter PIN to Access Protected Collection: Masukkan PIN untuk Mengakses Koleksi yang Dilindungi
+Enter Passcode: Masukkan Kode Sandi
+Enter Password: Masukkan Kata Sandi
+Enter Recovery Password: Masukkan Kata Sandi Pemulihan
+Enter passcode or password to unlock: Masukkan kode sandi atau kata sandi untuk membuka kunci
+Error: Kesalahan
 Errors:
-  Error loading link: Error loading link
-  Cant save to file: Cant save to file
-  Something went wrong! {{err}} Please try again.: Something went wrong! {{err}} Please try again.
-Expand Edit: Expand Edit
-Expires on {{proExpiresOn}}: Expires on {{proExpiresOn}}
+  Error loading link: Kesalahan memuat tautan
+  Cant save to file: Tidak dapat menyimpan ke file
+  Something went wrong! {{err}} Please try again.: Terjadi kesalahan! {{err}} Silakan coba lagi.
+Expand Edit: Perluas Edit
+Expires on {{proExpiresOn}}: Kedaluwarsa pada {{proExpiresOn}}
 ? Field <b>{{Clipboard}}</b> has been found in the template. This allows you to copy text to the clipboard, and it will be inserted into the template
-: Field <b>{{Clipboard}}</b> has been found in the template. This allows you to copy text to the clipboard, and it will be inserted into the template
-Field is not found in the template: Field is not found in the template
-Find Clip: Find Clip
-Find History: Find History
-Found in template but missing from fields definition: Found in template but missing from fields definition
-Got it: Got it
-Hide Muli Select: Hide Muli Select
-Hide Pinned Board: Hide Pinned Board
-History: History
-Image: Image
-Image Scale {{ImageScale}}x: Image Scale {{ImageScale}}x
-Image size: Image size
-Image size in pixels: Image size in pixels
-In View: In View
-In View Edit: In View Edit
-Inactive: Inactive
-Large View: Large View
-Large View Edit: Large View Edit
-Later: Later
-Light: Light
-Lines Wrap: Lines Wrap
-Make Active: Make Active
-Make Disabled: Make Disabled
-Make Enabled: Make Enabled
-Make Inactive: Make Inactive
-Manage: Manage
-Maximum height: Maximum height
-Maximum length: Maximum
-Maximum width: Maximum width
+: Bidang <b>{{Clipboard}}</b> telah ditemukan di templat. Ini memungkinkan Anda menyalin teks ke papan klip, dan itu akan dimasukkan ke dalam templat
+Field is not found in the template: Bidang tidak ditemukan di templat
+Find Clip: Cari Klip
+Find History: Cari Riwayat
+Found in template but missing from fields definition: Ditemukan di templat tetapi tidak ada dalam definisi bidang
+Got it: Mengerti
+Hide Muli Select: Sembunyikan Pilihan Ganda
+Hide Pinned Board: Sembunyikan Papan yang Disematkan
+History: Riwayat
+Image: Gambar
+Image Scale {{ImageScale}}x: Skala Gambar {{ImageScale}}x
+Image size: Ukuran gambar
+Image size in pixels: Ukuran gambar dalam piksel
+In View: Dalam Tampilan
+In View Edit: Edit Dalam Tampilan
+Inactive: Tidak Aktif
+Large View: Tampilan Besar
+Large View Edit: Edit Tampilan Besar
+Later: Nanti
+Light: Terang
+Lines Wrap: Baris Terbungkus
+Make Active: Jadikan Aktif
+Make Disabled: Jadikan Nonaktif
+Make Enabled: Jadikan Aktif
+Make Inactive: Jadikan Tidak Aktif
+Manage: Kelola
+Maximum height: Tinggi maksimum
+Maximum length: Panjang maksimum
+Maximum width: Lebar maksimum
 Menu: Menu
-Minimum length: Minimum
-Move Down: Move Down
-Move Up: Move Up
-Multi Select: Multi Select
-'Name: {{name}}': 'Name: {{name}}'
-Next Delay: Next Delay
-Next Track: Next Track
-No: No
-No Key Press: No Key Press
-No Wrap: No Wrap
-Not Now: Not Now
-Not found in the template: Not found in the template
-Nothing found: Nothing found
-Number of lines: Number of lines
-Ok, but later: Ok, but later
-Open: Open
-Open Accessibility: Open Accessibility
-Open History Window: Open History Window
-Open Window: Open Window
-Open contact form in browser: Open contact form in browser
-Open payment in browser: Open payment in browser
-Options: Options
-Password: Password
-Paste Delay: Paste Delay
-Paste Menu: Paste Menu
-Paste in {{pastingCountDown}}...: Paste in {{pastingCountDown}}...
+Minimum length: Panjang minimum
+Move Down: Pindah ke Bawah
+Move Up: Pindah ke Atas
+Multi Select: Pilihan Ganda
+'Name: {{name}}': 'Nama: {{name}}'
+Next Delay: Tunda Berikutnya
+Next Track: Trek Berikutnya
+No: Tidak
+No Key Press: Tidak Ada Tekanan Tombol
+No Wrap: Tidak Ada Pembungkusan
+Not Now: Tidak Sekarang
+Not found in the template: Tidak ditemukan di templat
+Nothing found: Tidak ada yang ditemukan
+Number of lines: Jumlah baris
+Ok, but later: Oke, tapi nanti
+Open: Buka
+Open Accessibility: Buka Aksesibilitas
+Open History Window: Buka Jendela Riwayat
+Open Window: Buka Jendela
+Open contact form in browser: Buka formulir kontak di browser
+Open payment in browser: Buka pembayaran di browser
+Options: Opsi
+Password: Kata Sandi
+Paste Delay: Tunda Tempel
+Paste Menu: Menu Tempel
+Paste in {{pastingCountDown}}...: Tempel dalam {{pastingCountDown}}...
 PasteBar: PasteBar
-PasteBar Application Error: PasteBar Application Error
-PasteBar History: PasteBar History
-PasteBar application now can access the clipboard and perform copy and paste operations across applications.: PasteBar application now can access the clipboard and perform copy and paste operations across applications.
-PasteBar was successfuly added to Accessibility settings: PasteBar was successfuly added to Accessibility settings
-Pasted: Pasted
-Path: Path
-Pause: Pause
-Pause Playing: Pause Playing
+PasteBar Application Error: Kesalahan Aplikasi PasteBar
+PasteBar History: Riwayat PasteBar
+PasteBar application now can access the clipboard and perform copy and paste operations across applications.: Aplikasi PasteBar sekarang dapat mengakses papan klip dan melakukan operasi salin dan tempel di seluruh aplikasi.
+PasteBar was successfuly added to Accessibility settings: PasteBar berhasil ditambahkan ke pengaturan Aksesibilitas
+Pasted: Ditempel
+Path: Jalur
+Pause: Jeda
+Pause Playing: Jeda Pemutaran
 ? 'Permission Check Failed: PasteBar has not been successfully added to Accessibility settings. Please grant the required permissions and click Done again.'
-: 'Permission Check Failed: PasteBar has not been successfully added to Accessibility settings. Please grant the required permissions and click Done again.'
-Pin Selected: Pin Selected
-Pinned: Pinned
-Play: Play
-Please add PasteBar to the list of apps in: Please add PasteBar to the list of apps in
-Please confirm your action!: Please confirm your action!
-Press: Press
-Press ESC key to close: Press ESC key to close
-Previous Track: Previous Track
+: 'Pemeriksaan Izin Gagal: PasteBar belum berhasil ditambahkan ke pengaturan Aksesibilitas. Harap berikan izin yang diperlukan dan klik Selesai lagi.'
+Pin Selected: Sematkan yang Dipilih
+Pinned: Disematkan
+Play: Putar
+Please add PasteBar to the list of apps in: Harap tambahkan PasteBar ke daftar aplikasi di
+Please confirm your action!: Harap konfirmasi tindakan Anda!
+Press: Tekan
+Press ESC key to close: Tekan tombol ESC untuk menutup
+Previous Track: Trek Sebelumnya
 Pro: Pro
-Quit: Quit
-Rebuild Menu: Rebuild Menu
-Recent History: Recent History
-Recovery Password: Recovery Password
-Remove: Remove
-Remove Link Card: Remove Link Card
-Remove Selected Star: Remove Selected Star
-Remove all fields from template: Remove all fields from template
-Remove all tracks: Remove all tracks
-Remove current track: Remove current track
-Remove from Player: Remove from Player
-Remove from template: Remove from template
-Rename: Rename
-Renew: Renew
-Reorder pinned: Reorder pinned
-Repeat 1: Repeat 1
-Repeat all: Repeat all
-Repeat off: Repeat off
-Report and Try Again: Report and Try Again
-Reset: Reset
-Reset Passcode: Reset Passcode
-Reset Password: Reset Password
-Reset with Passcode: Reset with Passcode
-Restart: Restart
-Reverse Order: Reverse Order
-Run and Copy Response: Run and Copy Response
-Run and Paste Response: Run and Paste Response
-Running: Running
-Save: Save
-Save It!: Save It!
-Saved: Saved
-Scroll to Top: Scroll to Top
-Second: Second
-Seconds: Seconds
-'Security Alert: MP3 Verification Failed': 'Security Alert: MP3 Verification Failed'
-Select: Select
-Select Default Option: Select Default Option
-Select Language: Select Language
-Select default: Select default
-Select is empty: Select is empty
-Select option: Select option
-Select pinned: Select pinned
-Separate History Window: Separate History Window
-Sequence Copy: Sequence Copy
-Sequence Copy Paste: Sequence Copy Paste
-Sequence Delay Next: Sequence Delay Next
-Sequence Next Delay: Sequence Next Delay
-Sequence Paste: Sequence Paste
-Sequence Reverse Order: Sequence Reverse Order
-Set: Set
-Set Password: Set Password
-Show Large View: Show Large View
-Show all: Show all
-Size: Size
-Source: Source
-Star: Star
-Star Selected: Star Selected
-Stay here: Stay here
-Stay in touch: Stay in touch
-Success!: Success!
-Swap Panels Layout: Swap Panels Layout
-System Settings -> Privacy & Security -> Accessibility: System Settings -> Privacy & Security -> Accessibility
-Thank you for reporting the error.: Thank you for reporting the error.
-Thank you for using Pro: Thank you for using Pro
-Thank you!: Thank you!
-This permission ensures PasteBar can access the clipboard and perform copy and paste operations across applications.: This permission ensures PasteBar can access the clipboard and perform copy and paste operations across applications.
-Too long: Too long
-Too short: Too short
+Quit: Keluar
+Rebuild Menu: Bangun Ulang Menu
+Recent History: Riwayat Terbaru
+Recovery Password: Kata Sandi Pemulihan
+Remove: Hapus
+Remove Link Card: Hapus Kartu Tautan
+Remove Selected Star: Hapus Bintang yang Dipilih
+Remove all fields from template: Hapus semua bidang dari templat
+Remove all tracks: Hapus semua trek
+Remove current track: Hapus trek saat ini
+Remove from Player: Hapus dari Pemutar
+Remove from template: Hapus dari templat
+Rename: Ganti Nama
+Renew: Perbarui
+Reorder pinned: Urutkan ulang yang disematkan
+Repeat 1: Ulangi 1
+Repeat all: Ulangi semua
+Repeat off: Matikan pengulangan
+Report and Try Again: Laporkan dan Coba Lagi
+Reset: Atur Ulang
+Reset Passcode: Atur Ulang Kode Sandi
+Reset Password: Atur Ulang Kata Sandi
+Reset with Passcode: Atur Ulang dengan Kode Sandi
+Restart: Mulai Ulang
+Reverse Order: Urutan Terbalik
+Run and Copy Response: Jalankan dan Salin Respons
+Run and Paste Response: Jalankan dan Tempel Respons
+Running: Berjalan
+Save: Simpan
+Save It!: Simpan!
+Saved: Disimpan
+Scroll to Top: Gulir ke Atas
+Second: Detik
+Seconds: Detik
+'Security Alert: MP3 Verification Failed': 'Peringatan Keamanan: Verifikasi MP3 Gagal'
+Select: Pilih
+Select Default Option: Pilih Opsi Default
+Select Language: Pilih Bahasa
+Select default: Pilih default
+Select is empty: Pilihan kosong
+Select option: Pilih opsi
+Select pinned: Pilih yang disematkan
+Separate History Window: Pisahkan Jendela Riwayat
+Sequence Copy: Salin Urutan
+Sequence Copy Paste: Salin Tempel Urutan
+Sequence Delay Next: Tunda Urutan Berikutnya
+Sequence Next Delay: Tunda Berikutnya Urutan
+Sequence Paste: Tempel Urutan
+Sequence Reverse Order: Urutan Terbalik Urutan
+Set: Atur
+Set Password: Atur Kata Sandi
+Show Large View: Tampilkan Tampilan Besar
+Show all: Tampilkan semua
+Size: Ukuran
+Source: Sumber
+Star: Bintang
+Star Selected: Bintang yang Dipilih
+Stay here: Tetap di sini
+Stay in touch: Tetap terhubung
+Success!: Sukses!
+Swap Panels Layout: Tukar Tata Letak Panel
+System Settings -> Privacy & Security -> Accessibility: Pengaturan Sistem -> Privasi & Keamanan -> Aksesibilitas
+Thank you for reporting the error.: Terima kasih telah melaporkan kesalahan.
+Thank you for using Pro: Terima kasih telah menggunakan Pro
+Thank you!: Terima kasih!
+This permission ensures PasteBar can access the clipboard and perform copy and paste operations across applications.: Izin ini memastikan PasteBar dapat mengakses papan klip dan melakukan operasi salin dan tempel di seluruh aplikasi.
+Too long: Terlalu panjang
+Too short: Terlalu pendek
 Toolbar:
-  Blank Text Formatting: Blank Text Formatting
-  Bold Formatting: Bold Formatting
-  Bold Text Formatting: Bold Text Formatting
-  Copy and Paste Formatting: Copy and Paste Formatting
-  Header Formatting: Header Formatting
-  Hightlight Text Formatting: Hightlight Text Formatting
-  Italic Formatting: Italic Formatting
-  Masked Text Formatting: Masked Text Formatting
-  Remove Text Formatting: Remove Text Formatting
-Trust and Play: Trust and Play
+  Blank Text Formatting: Pemformatan Teks Kosong
+  Bold Formatting: Pemformatan Tebal
+  Bold Text Formatting: Pemformatan Teks Tebal
+  Copy and Paste Formatting: Pemformatan Salin dan Tempel
+  Header Formatting: Pemformatan Header
+  Hightlight Text Formatting: Pemformatan Teks Sorot
+  Italic Formatting: Pemformatan Miring
+  Masked Text Formatting: Pemformatan Teks Tersamar
+  Remove Text Formatting: Hapus Pemformatan Teks
+Trust and Play: Percayai dan Putar
 Type:
-  App: App
-  Auto Fill: Auto Fill
-  AutoFill: AutoFill
-  Clip: Clip
-  Code: Code
-  Code Snippet: Code Snippet
-  Command: Command
+  App: Aplikasi
+  Auto Fill: Isi Otomatis
+  AutoFill: IsiOtomatis
+  Clip: Klip
+  Code: Kode
+  Code Snippet: Cuplikan Kode
+  Command: Perintah
   Email: Email
   Emoji: Emoji
-  Empty: Empty
-  Error: Error
+  Empty: Kosong
+  Error: Kesalahan
   File: File
-  File, Path or App: File, Path or App
-  Form Auto Fill: Form Auto Fill
-  Image: Image
+  File, Path or App: File, Jalur atau Aplikasi
+  Form Auto Fill: Isi Otomatis Formulir
+  Image: Gambar
   Label: Label
-  Link: Link
-  Link or Email: Link or Email
+  Link: Tautan
+  Link or Email: Tautan atau Email
   Menu: Menu
   Mp3: mp3
-  Path: Path
-  Plain Text: Plain Text
-  Request: Request
-  Run Auto Fill: Run Auto Fill
-  Scraper: Scraper
-  Secret: Secret
-  Trim: Trim Spaces
-  Shell Command: Shell Command
+  Path: Jalur
+  Plain Text: Teks Biasa
+  Request: Permintaan
+  Run Auto Fill: Jalankan Isi Otomatis
+  Scraper: Pengikis
+  Secret: Rahasia
+  Trim: Pangkas Spasi
+  Shell Command: Perintah Shell
   Submenu: Submenu
-  Template: Template
-  Template Fill: Template Fill
-  Text: Text
+  Template: Templat
+  Template Fill: Isi Templat
+  Text: Teks
   Video: Video
-  Web Request (HTTP): Web Request (HTTP)
-  Web Scraper / Parser: Web Scraper / Parser
+  Web Request (HTTP): Permintaan Web (HTTP)
+  Web Scraper / Parser: Pengikis / Parser Web
 TypeMenu:
-  Clip Type: Clip Type
-  Code Snippet: Code Snippet
-  File, Path or App: File, Path or App
-  Form Auto Fill: Form Auto Fill
-  Image: Image
-  Link or Email: Link or Email
-  Link or File, Path or App: Link or File, Path or App
-  Plain Text: Plain Text
-  Run, Execute: Run, Execute
-  Select Language: Select Language
-  Shell Command: Shell Command
-  Template: Template
-  Template Fill: Template Fill
-  Text Template: Text Template
-  Web Request (HTTP): Web Request (HTTP)
-  Web Scraper / Parser: Web Scraper / Parser
-UnPin All: UnPin All
-UnPin Selected: UnPin Selected
-Unlock Application Screen: Unlock Application Screen
-Unlock Pro features: Unlock Pro features
-Unlock Screen: Unlock Screen
-Unlock all features: Unlock all features
-Unsaved label: Unsaved label
-Update Error: Update Error
-Update history list: Update history list
-Updated: Updated
-Upgrade to Pro: Upgrade to Pro
-Use Passcode: Use Passcode
-Use Password: Use Password
-Using <b>{{Clipboard}}</b> field, allows you to copy text to the clipboard, and it will be inserted into the template: Using <b>{{Clipboard}}</b> field, allows you to copy text to the clipboard, and it will be inserted into the template
-Verify: Verify
-Verify Current Password: Verify Current Password
-Verify Recovery Password: Verify Recovery Password
-Version: Version
-View: View
-View Edit: View Edit
+  Clip Type: Jenis Klip
+  Code Snippet: Cuplikan Kode
+  File, Path or App: File, Jalur atau Aplikasi
+  Form Auto Fill: Isi Otomatis Formulir
+  Image: Gambar
+  Link or Email: Tautan atau Email
+  Link or File, Path or App: Tautan atau File, Jalur atau Aplikasi
+  Plain Text: Teks Biasa
+  Run, Execute: Jalankan, Eksekusi
+  Select Language: Pilih Bahasa
+  Shell Command: Perintah Shell
+  Template: Templat
+  Template Fill: Isi Templat
+  Text Template: Templat Teks
+  Web Request (HTTP): Permintaan Web (HTTP)
+  Web Scraper / Parser: Pengikis / Parser Web
+UnPin All: Lepas Semua Sematan
+UnPin Selected: Lepas Sematan yang Dipilih
+Unlock Application Screen: Buka Kunci Layar Aplikasi
+Unlock Pro features: Buka kunci fitur Pro
+Unlock Screen: Buka Kunci Layar
+Unlock all features: Buka kunci semua fitur
+Unsaved label: Label yang belum disimpan
+Update Error: Kesalahan Pembaruan
+Update history list: Perbarui daftar riwayat
+Updated: Diperbarui
+Upgrade to Pro: Tingkatkan ke Pro
+Use Passcode: Gunakan Kode Sandi
+Use Password: Gunakan Kata Sandi
+Using <b>{{Clipboard}}</b> field, allows you to copy text to the clipboard, and it will be inserted into the template: Menggunakan bidang <b>{{Clipboard}}</b>, memungkinkan Anda menyalin teks ke papan klip, dan itu akan dimasukkan ke dalam templat
+Verify: Verifikasi
+Verify Current Password: Verifikasi Kata Sandi Saat Ini
+Verify Recovery Password: Verifikasi Kata Sandi Pemulihan
+Version: Versi
+View: Tampilan
+View Edit: Edit Tampilan
 Views:
-  Paste Menu: Paste Menu
-We apologize but you found a bug. Please report this issue to us and try again: We apologize but you found a bug. Please report this issue to us and try again
+  Paste Menu: Menu Tempel
+We apologize but you found a bug. Please report this issue to us and try again: Kami mohon maaf tetapi Anda menemukan bug. Harap laporkan masalah ini kepada kami dan coba lagi
 ? We couldn't confirm this file's safety. Failed ID3 tag verification and integrity check. MP3 files can potentially contain malware. Please be cautious.
-: We couldn't confirm this file's safety. Failed ID3 tag verification and integrity check. MP3 files can potentially contain malware. Please be cautious.
-Yes: Yes
-Yes, activate: Yes, activate
-chars: chars
-contact us.: contact us.
-found: found
-if this error persists, try to restart the application or: if this error persists, try to restart the application or
-lines: lines
-menu items in: menu items in
-minutes: minutes
-only: only
-second: second
-seconds: seconds
-show less: show less
+: Kami tidak dapat mengonfirmasi keamanan file ini. Verifikasi tag ID3 dan pemeriksaan integritas gagal. File MP3 berpotensi mengandung malware. Harap berhati-hati.
+Yes: Ya
+Yes, activate: Ya, aktifkan
+chars: karakter
+contact us.: hubungi kami.
+found: ditemukan
+if this error persists, try to restart the application or: jika kesalahan ini terus berlanjut, coba mulai ulang aplikasi atau
+lines: baris
+menu items in: item menu di
+minutes: menit
+only: hanya
+second: detik
+seconds: detik
+show less: tampilkan lebih sedikit
 www.site: www.pastebar.app
