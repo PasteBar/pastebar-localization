@@ -140,3 +140,13 @@ nl-NL:
   open_pastebar: PasteBar openen
   unlock_pastebar: PasteBar ontgrendelen
   quit: Afsluiten
+zhTW:
+  add_first_item_here: 在此新增第一個項目
+  disable_history_capture: 停用歷史記錄擷取
+  enable_history_capture: 啟用歷史記錄擷取
+  clipboard_image_size: 剪貼簿圖片大小
+  history_capture_is_disabled: 剪貼簿歷史記錄擷取已停用
+  recent_history: 最近的歷史記錄
+  open_pastebar: 開啟 PasteBar
+  unlock_pastebar: 解鎖 PasteBar
+  quit: 結束
